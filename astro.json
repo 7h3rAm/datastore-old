@@ -1,4 +1,16 @@
 {
+  "apod": {
+    "date": "2021-05-29",
+    "explanation": "Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, the history of constant micrometeorite bombardment has blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of \"duct tape\".",
+    "hdurl": "https://apod.nasa.gov/apod/image/2105/AS17-137-20979.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Lunar Dust and Duct Tape",
+    "url": "https://apod.nasa.gov/apod/image/2105/AS17-137-20979_1024.jpg",
+    "todayurl": "https://apod.nasa.gov/apod/astropix.html",
+    "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
+    "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg"
+  },
   "dscovr_epic": {
     "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 2021-05-26 00:13:03.",
     "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/05/26/jpg/epic_1b_20210526001752.jpg",
