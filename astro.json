@@ -1,5 +1,5 @@
 {
-  "last_update": "29/Nov/2021 @ 09:35:24 UTC",
+  "last_update": "29/Nov/2021 @ 09:36:24 UTC",
   "neo": {
     "todayurl": "https://api.nasa.gov/neo/rest/v1/feed/today?detailed=true&api_key=DEMO_KEY",
     "statsurl": "https://api.nasa.gov/neo/rest/v1/stats?api_key=DEMO_KEY",
@@ -672,6 +672,10 @@
   "meteosat415_naturalcolor": {
     "source": "https://eumetview.eumetsat.int/static-images/latestImages/EUMETSAT_MSGIODC_RGBNatColourEnhncd_LowResolution.jpg",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/EUMETSAT_MSGIODC_RGBNatColourEnhncd_LowResolution.jpg"
+  },
+  "elektrol": {
+    "source": "view-source:http://electro.ntsomz.ru/i/splash/20210529-2330.jpg",
+    "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg"
   },
   "insat_fd_ir": {
     "source": "https://mausam.imd.gov.in/Satellite/3Dglobe_ir1.jpg",
