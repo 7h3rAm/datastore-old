@@ -2,7 +2,7 @@
   "dscovr_epic": {
     "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 2021-05-26 00:13:03.",
     "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/05/26/jpg/epic_1b_20210526001752.jpg",
-    "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg"
+    "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscover_epic.jpg"
   },
   "himawari8_naturalcolor": {
     "source": "http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/full_disk_ahi_natural_color.jpg",
