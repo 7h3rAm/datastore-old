@@ -1,5 +1,294 @@
 {
   "last_update": "29/Nov/2021 @ 09:36:24 UTC",
+  "eonet": {
+    "title": "EONET Events",
+    "description": "Natural events from EONET.",
+    "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
+    "events": [
+      {
+        "id": "EONET_5356",
+        "title": "Tropical Storm Choi-wan",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5356",
+        "closed": null,
+        "categories": [
+          {
+            "id": "severeStorms",
+            "title": "Severe Storms"
+          }
+        ],
+        "sources": [
+          {
+            "id": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000785&amp;eventtype=TC"
+          },
+          {
+            "id": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/wp0421.tcw"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": 35,
+            "magnitudeUnit": "kts",
+            "date": "2021-05-30T12:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              131.9,
+              6.9
+            ]
+          },
+          {
+            "magnitudeValue": 45,
+            "magnitudeUnit": "kts",
+            "date": "2021-05-30T18:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              131.4,
+              7.5
+            ]
+          },
+          {
+            "magnitudeValue": 50,
+            "magnitudeUnit": "kts",
+            "date": "2021-05-31T00:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              130.6,
+              8.3
+            ]
+          },
+          {
+            "magnitudeValue": 50,
+            "magnitudeUnit": "kts",
+            "date": "2021-05-31T06:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              129.7,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5353",
+        "title": "Wildfires - Yavapai County (Spur Fire), Arizona, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5353",
+        "closed": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=124878"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": null,
+            "magnitudeUnit": null,
+            "date": "2021-05-28T14:22:00Z",
+            "type": "Point",
+            "coordinates": [
+              -113.17565,
+              34.57677
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5357",
+        "title": "Iceberg A76A",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5357",
+        "closed": null,
+        "categories": [
+          {
+            "id": "seaLakeIce",
+            "title": "Sea and Lake Ice"
+          }
+        ],
+        "sources": [
+          {
+            "id": "NATICE",
+            "url": "https://usicecenter.gov/Products/AntarcIcebergs"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": 1022,
+            "magnitudeUnit": "NM^2",
+            "date": "2021-05-28T00:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              -59.43,
+              -75.1
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5358",
+        "title": "Iceberg A76B",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5358",
+        "closed": null,
+        "categories": [
+          {
+            "id": "seaLakeIce",
+            "title": "Sea and Lake Ice"
+          }
+        ],
+        "sources": [
+          {
+            "id": "NATICE",
+            "url": "https://usicecenter.gov/Products/AntarcIcebergs"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": 140,
+            "magnitudeUnit": "NM^2",
+            "date": "2021-05-28T00:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              -57.49,
+              -75.09
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5359",
+        "title": "Iceberg A76C",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5359",
+        "closed": null,
+        "categories": [
+          {
+            "id": "seaLakeIce",
+            "title": "Sea and Lake Ice"
+          }
+        ],
+        "sources": [
+          {
+            "id": "NATICE",
+            "url": "https://usicecenter.gov/Products/AntarcIcebergs"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": 112,
+            "magnitudeUnit": "NM^2",
+            "date": "2021-05-28T00:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              -57.04,
+              -75.57
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5350",
+        "title": "Wildfire - Riverside County (Lake Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5350",
+        "closed": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=124814"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": null,
+            "magnitudeUnit": null,
+            "date": "2021-05-25T16:49:00Z",
+            "type": "Point",
+            "coordinates": [
+              -117.47477,
+              33.96168
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5354",
+        "title": "Warren Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5354",
+        "closed": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7503/"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": null,
+            "magnitudeUnit": null,
+            "date": "2021-05-25T04:00:00Z",
+            "type": "Point",
+            "coordinates": [
+              -109.169,
+              31.795
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EONET_5352",
+        "title": "McDonald Tank Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5352",
+        "closed": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7501/"
+          }
+        ],
+        "geometry": [
+          {
+            "magnitudeValue": null,
+            "magnitudeUnit": null,
+            "date": "2021-05-23T13:50:00Z",
+            "type": "Point",
+            "coordinates": [
+              -109.571,
+              33.623
+            ]
+          }
+        ]
+      },
+    ]
+  },
   "neo": {
     "todayurl": "https://api.nasa.gov/neo/rest/v1/feed/today?detailed=true&api_key=DEMO_KEY",
     "statsurl": "https://api.nasa.gov/neo/rest/v1/stats?api_key=DEMO_KEY",
