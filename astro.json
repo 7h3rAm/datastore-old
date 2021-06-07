@@ -1028,7 +1028,7 @@
     "last_update": "06/Jun/2021 @ 23:12:19 PDT",
     "title": "55 events (06/Jun/2021)"
   },
-  "last_update": "06/Jun/2021 @ 23:38:59 PDT",
+  "last_update": "06/Jun/2021 @ 23:54:15 PDT",
   "neo": {
     "date": "07/Jun/2021 PDT",
     "last_update": "06/Jun/2021 @ 23:12:17 PDT",
@@ -1122,7 +1122,8 @@
     "fullday": {
       "datastore_hstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-hstack.gif",
       "datastore_vstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-vstack.gif",
-      "title": "Earth Full Day: 2021/JUN/05",
+      "title_hstack": "Earth Full Day: 2021/JUN/05 (Horizontally Stacked)",
+      "title_vstack": "Earth Full Day: 2021/JUN/05 (Vertically Stacked)",
       "url": "https://twitter.com/7h3rAm/status/1401555983373987842"
     },
     "goes16_geocolor": {
