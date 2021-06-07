@@ -1028,7 +1028,7 @@
     "last_update": "06/Jun/2021 @ 23:12:19 PDT",
     "title": "55 events (06/Jun/2021)"
   },
-  "last_update": "06/Jun/2021 @ 23:12:23 PDT",
+  "last_update": "06/Jun/2021 @ 23:38:59 PDT",
   "neo": {
     "date": "07/Jun/2021 PDT",
     "last_update": "06/Jun/2021 @ 23:12:17 PDT",
@@ -1109,6 +1109,7 @@
     "title": "8 objects making close approach (07/Jun/2021 PDT)"
   },
   "satview": {
+    "date": "06/Jun/2021",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 2021-05-26 00:13:03.",
@@ -1117,6 +1118,12 @@
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
       "source": "view-source:http://electro.ntsomz.ru/i/splash/20210529-2330.jpg"
+    },
+    "fullday": {
+      "datastore_hstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-hstack.gif",
+      "datastore_vstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-vstack.gif",
+      "title": "Earth Full Day: 2021/JUN/05",
+      "url": "https://twitter.com/7h3rAm/status/1401555983373987842"
     },
     "goes16_geocolor": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/goes16-1808x1808.jpg",
