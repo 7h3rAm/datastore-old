@@ -992,7 +992,7 @@
     "last_update": "07/Jun/2021 @ 19:46:24 PDT",
     "title": "53 events (07/Jun/2021)"
   },
-  "last_update": "07/Jun/2021 @ 19:55:16 PDT",
+  "last_update": "07/Jun/2021 @ 20:30:29 PDT",
   "neo": {
     "date": "08/Jun/2021 PDT",
     "last_update": "07/Jun/2021 @ 19:46:23 PDT",
@@ -1148,36 +1148,39 @@
       "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg"
     }
   },
-  "spaceppl": [
-    {
-      "name": "Mark Vande Hei",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Oleg Novitskiy",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Pyotr Dubrov",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Thomas Pesquet",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Megan McArthur",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Shane Kimbrough",
-      "spacecraft": "ISS"
-    },
-    {
-      "name": "Akihiko Hoshide",
-      "spacecraft": "ISS"
-    }
-  ],
+  "spaceppl": {
+    "people": [
+      {
+        "name": "Mark Vande Hei",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Oleg Novitskiy",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Pyotr Dubrov",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Thomas Pesquet",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Megan McArthur",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Shane Kimbrough",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Akihiko Hoshide",
+        "spacecraft": "ISS"
+      }
+    ],
+    "title": "7 people in space (07/Jun/2021)"
+  },
   "spacex": {
     "capsules": [
       {
