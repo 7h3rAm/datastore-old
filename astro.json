@@ -992,7 +992,7 @@
     "last_update": "07/Jun/2021 @ 19:46:24 PDT",
     "title": "53 events (07/Jun/2021)"
   },
-  "last_update": "07/Jun/2021 @ 20:30:29 PDT",
+  "last_update": "07/Jun/2021 @ 21:18:55 PDT",
   "neo": {
     "date": "08/Jun/2021 PDT",
     "last_update": "07/Jun/2021 @ 19:46:23 PDT",
@@ -1149,9 +1149,18 @@
     }
   },
   "spaceppl": {
+    "last_update": "07/Jun/2021 @ 21:18:55 PDT",
     "people": [
       {
+        "name": "Akihiko Hoshide",
+        "spacecraft": "ISS"
+      },
+      {
         "name": "Mark Vande Hei",
+        "spacecraft": "ISS"
+      },
+      {
+        "name": "Megan McArthur",
         "spacecraft": "ISS"
       },
       {
@@ -1163,19 +1172,11 @@
         "spacecraft": "ISS"
       },
       {
-        "name": "Thomas Pesquet",
-        "spacecraft": "ISS"
-      },
-      {
-        "name": "Megan McArthur",
-        "spacecraft": "ISS"
-      },
-      {
         "name": "Shane Kimbrough",
         "spacecraft": "ISS"
       },
       {
-        "name": "Akihiko Hoshide",
+        "name": "Thomas Pesquet",
         "spacecraft": "ISS"
       }
     ],
