@@ -1028,7 +1028,7 @@
     "last_update": "06/Jun/2021 @ 23:12:19 PDT",
     "title": "55 events (06/Jun/2021)"
   },
-  "last_update": "06/Jun/2021 @ 23:57:22 PDT",
+  "last_update": "07/Jun/2021 @ 19:43:31 PDT",
   "neo": {
     "date": "07/Jun/2021 PDT",
     "last_update": "06/Jun/2021 @ 23:12:17 PDT",
@@ -1109,77 +1109,69 @@
     "title": "8 objects making close approach (07/Jun/2021 PDT)"
   },
   "satview": {
-    "date": "06/Jun/2021",
+    "date": "07/Jun/2021",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 2021-05-26 00:13:03.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/05/26/jpg/epic_1b_20210526001752.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 03/Jun/2021 @ 15:58:21 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/06/03/jpg/epic_1b_20210603230309.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
-      "source": "view-source:http://electro.ntsomz.ru/i/splash/20210529-2330.jpg"
+      "source": "http://electro.ntsomz.ru/i/splash/20210529-2330.jpg"
     },
     "fullday": {
-      "datastore_hstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-hstack.gif",
-      "datastore_vstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview-vstack.gif",
+      "datastore_hstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview_hstack.gif",
+      "datastore_vstack": "https://raw.githubusercontent.com/7h3rAm/datastore/master/earthview_vstack.gif",
       "title_hstack": "Earth Full Day: 05/JUN/2021 (Horizontally Stacked)",
       "title_vstack": "Earth Full Day: 05/JUN/2021 (Vertically Stacked)",
       "url": "https://twitter.com/7h3rAm/status/1401555983373987842"
     },
     "goes16_geocolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/goes16-1808x1808.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/goes16.jpg",
       "source": "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg"
     },
     "goes17_geocolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/goes17-1808x1808.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/goes17.jpg",
       "source": "https://cdn.star.nesdis.noaa.gov/GOES17/ABI/FD/GEOCOLOR/1808x1808.jpg"
     },
     "himawari8_naturalcolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/himwari8-full_disk_ahi_natural_color.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/himwari8_naturalcolor.jpg",
       "source": "http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/full_disk_ahi_natural_color.jpg"
     },
     "himawari8_truecolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/himwari8-full_disk_ahi_true_color.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/himwari8_truecolor.jpg",
       "source": "http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/full_disk_ahi_true_color.jpg"
     },
-    "insat_2d_ir": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat-IR1.gif",
-      "source": "https://mausam.imd.gov.in/Satellite/Converted/IR1.gif"
-    },
-    "insat_2d_vis": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat-VIS.gif",
-      "source": "https://mausam.imd.gov.in/Satellite/Converted/VIS.gif"
-    },
     "insat_fd_ir": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat-3Dglobe_ir1.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat_ir1.jpg",
       "source": "https://mausam.imd.gov.in/Satellite/3Dglobe_ir1.jpg"
     },
     "insat_fd_vis": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat-3Dglobe_vis.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/insat_vis.jpg",
       "source": "https://mausam.imd.gov.in/Satellite/3Dglobe_vis.jpg"
     },
     "meteosat0_naturalcolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/EUMETSAT_MSG_RGBNatColourEnhncd_LowResolution.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/meteosat0.jpg",
       "source": "https://eumetview.eumetsat.int/static-images/latestImages/EUMETSAT_MSG_RGBNatColourEnhncd_LowResolution.jpg"
     },
     "meteosat415_naturalcolor": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/EUMETSAT_MSGIODC_RGBNatColourEnhncd_LowResolution.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/meteosat415.jpg",
       "source": "https://eumetview.eumetsat.int/static-images/latestImages/EUMETSAT_MSGIODC_RGBNatColourEnhncd_LowResolution.jpg"
     },
     "sdo_0171": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/latest_1024_0171.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/sdo_0171.jpg",
       "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0171.jpg"
     },
     "sdo_0304": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/latest_1024_0304.jpg",
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/sdo_0304.jpg",
       "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0304.jpg"
     },
-    "sdo_HMID": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/latest_1024_HMID.jpg",
+    "sdo_hmid": {
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/sdo_hmid.jpg",
       "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMID.jpg"
     },
-    "sdo_HMIIC": {
-      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/latest_1024_HMIIC.jpg",
+    "sdo_hmiic": {
+      "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/sdo_hmiic.jpg",
       "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg"
     }
   },
