@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Jun/2021 @ 06:00:15 PDT",
+    "last_update": "12/Jun/2021 @ 07:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/JunSE_DSC_7477b_1024.jpg",
     "title": "Eclipse on the Water (12/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -941,7 +941,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "12/Jun/2021 @ 06:00:16 PDT",
+    "last_update": "12/Jun/2021 @ 07:00:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2282,10 +2282,10 @@
     },
     "title": "51 events (12/Jun/2021 PDT)"
   },
-  "last_update": "12/Jun/2021 @ 06:01:19 PDT",
+  "last_update": "12/Jun/2021 @ 07:01:16 PDT",
   "neo": {
     "date": "12/Jun/2021 PDT",
-    "last_update": "12/Jun/2021 @ 06:00:17 PDT",
+    "last_update": "12/Jun/2021 @ 07:00:16 PDT",
     "objects": [
       {
         "cat": "12/Jun/2021 @ 21:36:00 ",
@@ -2326,11 +2326,11 @@
       {
         "cat": "12/Jun/2021 @ 03:39:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "244,104.48 miles",
+        "distance": "244,105.55 miles",
         "hazardous": false,
         "name": "Asteroid (2021 LC4)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54158072",
-        "velocity": "33,550.80 mph"
+        "velocity": "33,550.36 mph"
       }
     ],
     "title": "5 objects making close approach (12/Jun/2021 PDT)"
@@ -2403,7 +2403,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Jun/2021 @ 06:00:17 PDT",
+    "last_update": "12/Jun/2021 @ 07:00:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3605,6 +3605,14 @@
         "url": "https://en.wikipedia.org/wiki/K._Megan_McArthur"
       },
       {
+        "agency": "NASA",
+        "launches": 0,
+        "name": "Kayla Barron",
+        "status": "active",
+        "status_emoji": "🟢",
+        "url": "https://en.wikipedia.org/wiki/Kayla_Barron"
+      },
+      {
         "agency": "ESA",
         "launches": 0,
         "name": "Matthias Maurer",
@@ -3920,7 +3928,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Jun/2021 @ 06:00:22 PDT",
+    "last_update": "12/Jun/2021 @ 07:00:21 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
@@ -14963,15 +14971,6 @@
         "type_emoji": "🛰️"
       },
       {
-        "customer": "USSF",
-        "manufacturer": "USSF",
-        "name": "USSF-52",
-        "nationality": "United States",
-        "orbit": "GTO",
-        "type": "Satellite",
-        "type_emoji": "🛰️"
-      },
-      {
         "customer": "Digital Globe, Maxar Technologies",
         "manufacturer": "Maxar Technologies",
         "name": "WorldView Legion 1-2",
@@ -15002,12 +15001,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "52,953,470.05 miles",
+      "earth_distance": "54,926,072.06 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "198,946,497.26 miles",
+      "mars_distance": "200,600,830.38 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,787.54 mph",
+      "speed": "4,827.35 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
