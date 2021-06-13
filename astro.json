@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Jun/2021 @ 07:00:16 PDT",
+    "last_update": "13/Jun/2021 @ 08:00:15 PDT",
     "source": "https://player.vimeo.com/video/67995158?title=0&portrait=0",
     "title": "A Supercell Thunderstorm Over Texas (13/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -435,6 +435,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5349"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5382",
+        "location": "https://www.google.com/maps/dir/38.433,-109.343/@38.433,-109.343,3z",
+        "name": "Pack Creek Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7529/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5382"
       },
       {
         "category": [
@@ -977,7 +995,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "13/Jun/2021 @ 07:00:17 PDT",
+    "last_update": "13/Jun/2021 @ 08:00:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2260,6 +2278,11 @@
           -110.755
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=38.433,-109.343\"><b>Pack Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7529/\">InciWeb</a>",
+          38.433,
+          -109.343
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=39.095961223,-121.324366725\"><b>Wildfire - E of Yuba City, California - United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125079\">PDC</a>",
           39.095961223,
           -121.324366725
@@ -2411,12 +2434,12 @@
         ]
       ]
     },
-    "title": "53 events (13/Jun/2021 PDT)"
+    "title": "54 events (13/Jun/2021 PDT)"
   },
-  "last_update": "13/Jun/2021 @ 07:01:24 PDT",
+  "last_update": "13/Jun/2021 @ 08:01:25 PDT",
   "neo": {
     "date": "13/Jun/2021 PDT",
-    "last_update": "13/Jun/2021 @ 07:00:18 PDT",
+    "last_update": "13/Jun/2021 @ 08:00:17 PDT",
     "objects": [
       {
         "cat": "13/Jun/2021 @ 23:24:00 ",
@@ -2624,7 +2647,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Jun/2021 @ 07:00:18 PDT",
+    "last_update": "13/Jun/2021 @ 08:00:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4149,7 +4172,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Jun/2021 @ 07:00:24 PDT",
+    "last_update": "13/Jun/2021 @ 08:00:22 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
