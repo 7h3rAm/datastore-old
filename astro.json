@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Jun/2021 @ 16:00:15 PDT",
+    "last_update": "12/Jun/2021 @ 17:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/JunSE_DSC_7477b_1024.jpg",
     "title": "Eclipse on the Water (12/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1013,7 +1013,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "12/Jun/2021 @ 16:00:17 PDT",
+    "last_update": "12/Jun/2021 @ 17:00:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2484,58 +2484,148 @@
     },
     "title": "55 events (12/Jun/2021 PDT)"
   },
-  "last_update": "12/Jun/2021 @ 16:01:21 PDT",
+  "last_update": "12/Jun/2021 @ 17:01:19 PDT",
   "neo": {
-    "date": "12/Jun/2021 PDT",
-    "last_update": "12/Jun/2021 @ 16:00:17 PDT",
+    "date": "13/Jun/2021 PDT",
+    "last_update": "12/Jun/2021 @ 17:00:17 PDT",
     "objects": [
       {
-        "cat": "12/Jun/2021 @ 21:36:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "21,719,206.18 miles",
+        "cat": "13/Jun/2021 @ 23:24:00 ",
+        "diameter": "0.09-0.19 miles",
+        "distance": "25,871,208.06 miles",
         "hazardous": false,
-        "name": "Asteroid (2016 GL222)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3752035",
-        "velocity": "8,108.40 mph"
+        "name": "Asteroid (2011 VH5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3585731",
+        "velocity": "42,264.68 mph"
       },
       {
-        "cat": "12/Jun/2021 @ 11:25:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "9,229,881.60 miles",
+        "cat": "13/Jun/2021 @ 08:22:00 ",
+        "diameter": "0.24-0.53 miles",
+        "distance": "28,864,374.29 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 LN4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3825179",
-        "velocity": "36,029.72 mph"
+        "name": "Asteroid (2013 YY13)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3655448",
+        "velocity": "60,219.05 mph"
       },
       {
-        "cat": "12/Jun/2021 @ 13:05:00 ",
-        "diameter": "0.05-0.10 miles",
-        "distance": "37,617,930.64 miles",
+        "cat": "13/Jun/2021 @ 11:22:00 ",
+        "diameter": "0.13-0.29 miles",
+        "distance": "12,521,891.61 miles",
         "hazardous": false,
-        "name": "Asteroid (2019 TK6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3879137",
-        "velocity": "54,721.46 mph"
+        "name": "Asteroid (2014 YJ42)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3703253",
+        "velocity": "40,595.42 mph"
       },
       {
-        "cat": "12/Jun/2021 @ 20:11:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "2,626,453.70 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 JM6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54145463",
-        "velocity": "18,653.92 mph"
-      },
-      {
-        "cat": "12/Jun/2021 @ 03:39:00 ",
+        "cat": "13/Jun/2021 @ 03:29:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "244,105.55 miles",
+        "distance": "7,686,335.40 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 LC4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54158072",
-        "velocity": "33,550.36 mph"
+        "name": "Asteroid (2015 MA)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3721223",
+        "velocity": "40,248.29 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 19:46:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "24,363,311.96 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 AF2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3739154",
+        "velocity": "15,370.55 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 15:04:00 ",
+        "diameter": "0.03-0.07 miles",
+        "distance": "38,394,768.83 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 YF7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3795124",
+        "velocity": "14,477.19 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 08:16:00 ",
+        "diameter": "0.14-0.31 miles",
+        "distance": "8,250,774.91 miles",
+        "hazardous": true,
+        "name": "Asteroid (2018 NC)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3825515",
+        "velocity": "29,984.70 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 19:26:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "17,899,779.01 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 GJ)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3840765",
+        "velocity": "9,400.41 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 08:08:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "43,433,375.76 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 HY)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016576",
+        "velocity": "29,406.10 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 20:31:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "26,319,784.65 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 CP2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54110691",
+        "velocity": "18,441.53 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 23:17:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "12,957,993.68 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 JJ9)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54145783",
+        "velocity": "10,595.33 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 21:49:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "6,489,532.10 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LG2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54156748",
+        "velocity": "26,008.83 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 16:47:00 ",
+        "diameter": "0.11-0.24 miles",
+        "distance": "8,280,210.10 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LN3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54157827",
+        "velocity": "41,190.07 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 16:16:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "137,849.02 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LO2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54157347",
+        "velocity": "19,418.57 mph"
+      },
+      {
+        "cat": "13/Jun/2021 @ 14:27:00 ",
+        "diameter": "0.26-0.57 miles",
+        "distance": "35,311,698.43 miles",
+        "hazardous": false,
+        "name": "Asteroid 373579 (2002 AW11)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2373579",
+        "velocity": "42,289.37 mph"
       }
     ],
-    "title": "5 objects making close approach (12/Jun/2021 PDT)"
+    "title": "15 objects making close approach (13/Jun/2021 PDT)"
   },
   "satview": {
     "date": "12/Jun/2021 PDT",
@@ -2605,7 +2695,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Jun/2021 @ 16:00:18 PDT",
+    "last_update": "12/Jun/2021 @ 17:00:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4130,7 +4220,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Jun/2021 @ 16:00:23 PDT",
+    "last_update": "12/Jun/2021 @ 17:00:22 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
