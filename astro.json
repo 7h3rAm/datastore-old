@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Jun/2021 @ 23:00:17 PDT",
+    "last_update": "13/Jun/2021 @ 00:00:17 PDT",
     "source": "https://player.vimeo.com/video/67995158?title=0&portrait=0",
     "title": "A Supercell Thunderstorm Over Texas (13/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "eonet": {
-    "date": "12/Jun/2021 PDT",
+    "date": "13/Jun/2021 PDT",
     "events": [
       {
         "category": [
@@ -995,7 +995,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "12/Jun/2021 @ 23:00:18 PDT",
+    "last_update": "13/Jun/2021 @ 00:00:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2434,12 +2434,12 @@
         ]
       ]
     },
-    "title": "54 events (12/Jun/2021 PDT)"
+    "title": "54 events (13/Jun/2021 PDT)"
   },
-  "last_update": "12/Jun/2021 @ 23:01:24 PDT",
+  "last_update": "13/Jun/2021 @ 00:01:23 PDT",
   "neo": {
     "date": "13/Jun/2021 PDT",
-    "last_update": "12/Jun/2021 @ 23:00:20 PDT",
+    "last_update": "13/Jun/2021 @ 00:00:19 PDT",
     "objects": [
       {
         "cat": "13/Jun/2021 @ 23:24:00 ",
@@ -2580,7 +2580,7 @@
     "title": "15 objects making close approach (13/Jun/2021 PDT)"
   },
   "satview": {
-    "date": "12/Jun/2021 PDT",
+    "date": "13/Jun/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 11/Jun/2021 @ 15:11:34 PDT.",
@@ -2647,7 +2647,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Jun/2021 @ 23:00:20 PDT",
+    "last_update": "13/Jun/2021 @ 00:00:20 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -2685,7 +2685,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "7 people in space (12/Jun/2021 PDT)"
+    "title": "7 people in space (13/Jun/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4172,7 +4172,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Jun/2021 @ 23:00:25 PDT",
+    "last_update": "13/Jun/2021 @ 00:00:25 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
