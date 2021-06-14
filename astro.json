@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jun/2021 @ 02:02:20 PDT",
+    "last_update": "14/Jun/2021 @ 03:00:17 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/Ganymede_JunoGill_960.jpg",
     "title": "Ganymede from Juno (14/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -995,7 +995,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "14/Jun/2021 @ 02:02:23 PDT",
+    "last_update": "14/Jun/2021 @ 03:00:19 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2436,10 +2436,10 @@
     },
     "title": "54 events (14/Jun/2021 PDT)"
   },
-  "last_update": "14/Jun/2021 @ 02:03:29 PDT",
+  "last_update": "14/Jun/2021 @ 03:01:19 PDT",
   "neo": {
     "date": "14/Jun/2021 PDT",
-    "last_update": "14/Jun/2021 @ 02:02:24 PDT",
+    "last_update": "14/Jun/2021 @ 03:00:19 PDT",
     "objects": [
       {
         "cat": "14/Jun/2021 @ 13:27:00 ",
@@ -2602,7 +2602,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jun/2021 @ 02:02:24 PDT",
+    "last_update": "14/Jun/2021 @ 03:00:20 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4127,7 +4127,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jun/2021 @ 02:02:32 PDT",
+    "last_update": "14/Jun/2021 @ 03:00:24 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
