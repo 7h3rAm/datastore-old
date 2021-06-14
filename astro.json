@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jun/2021 @ 08:00:32 PDT",
+    "last_update": "14/Jun/2021 @ 09:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/Ganymede_JunoGill_960.jpg",
     "title": "Ganymede from Juno (14/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -605,6 +605,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
         ],
+        "eid": "EONET_5386",
+        "location": "https://www.google.com/maps/dir/20,107.3/20.5,106.5/@20,107.3,3z",
+        "name": "Tropical Cyclone Koguma",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000787&amp;eventtype=TC"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5386"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
         "eid": "EONET_5383",
         "location": "https://www.google.com/maps/dir/11.9,-124.2/@11.9,-124.2,3z",
         "name": "Tropical Storm Carlos",
@@ -1057,7 +1075,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "14/Jun/2021 @ 08:00:34 PDT",
+    "last_update": "14/Jun/2021 @ 09:00:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2292,6 +2310,16 @@
           "<a href=\"http://maps.google.com/maps?q=11.9,-124.2\"><b>Tropical Storm Carlos</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000788&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0321.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CARLOS.shtml\">NOAA_NHC</a>",
           11.9,
           -124.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=20,107.3\"><b>Tropical Cyclone Koguma</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000787&amp;eventtype=TC\">GDACS</a>",
+          20,
+          107.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=20.5,106.5\"><b>Tropical Cyclone Koguma</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000787&amp;eventtype=TC\">GDACS</a>",
+          20.5,
+          106.5
         ]
       ],
       "Snow": [],
@@ -2512,12 +2540,12 @@
         ]
       ]
     },
-    "title": "57 events (14/Jun/2021 PDT)"
+    "title": "58 events (14/Jun/2021 PDT)"
   },
-  "last_update": "14/Jun/2021 @ 08:01:01 PDT",
+  "last_update": "14/Jun/2021 @ 09:00:44 PDT",
   "neo": {
     "date": "14/Jun/2021 PDT",
-    "last_update": "14/Jun/2021 @ 08:00:35 PDT",
+    "last_update": "14/Jun/2021 @ 09:00:16 PDT",
     "objects": [
       {
         "cat": "14/Jun/2021 @ 13:27:00 ",
@@ -2689,7 +2717,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jun/2021 @ 08:00:35 PDT",
+    "last_update": "14/Jun/2021 @ 09:00:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4214,7 +4242,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jun/2021 @ 08:00:41 PDT",
+    "last_update": "14/Jun/2021 @ 09:00:22 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
