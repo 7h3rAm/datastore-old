@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 10:00:05 PDT",
+    "last_update": "15/Jun/2021 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg",
     "title": "Zhurong: New Rover on Mars (15/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -2821,7 +2821,7 @@
     },
     "title": "68 events (15/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 10:00:05 PDT",
+  "last_update": "15/Jun/2021 @ 11:00:04 PDT",
   "neo": {
     "date": "15/Jun/2021 PDT",
     "last_update": "15/Jun/2021 @ 08:00:14 PDT",
