@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 05:00:05 PDT",
+    "last_update": "15/Jun/2021 @ 06:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg",
     "title": "Zhurong: New Rover on Mars (15/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -713,6 +713,28 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
         ],
+        "eid": "EONET_5392",
+        "location": "https://www.google.com/maps/dir/36.7,-69.8/@36.7,-69.8,3z",
+        "name": "Tropical Storm Bill",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000789&amp;eventtype=TC"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/BILL.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5392"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
         "eid": "EONET_5383",
         "location": "https://www.google.com/maps/dir/11.9,-124.2/11.9,-125/11.8,-125.7/11.7,-126.3/11.6,-126.9/11.5,-127.6/11.3,-128.6/11,-129.6/10.6,-130.4/10.2,-131.3/@11.9,-124.2,3z",
         "name": "Tropical Storm Carlos",
@@ -1147,7 +1169,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "15/Jun/2021 @ 05:00:06 PDT",
+    "last_update": "15/Jun/2021 @ 06:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2404,6 +2426,11 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=36.7,-69.8\"><b>Tropical Storm Bill</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000789&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/BILL.shtml\">NOAA_NHC</a>",
+          36.7,
+          -69.8
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=11.9,-124.2\"><b>Tropical Storm Carlos</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000788&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0321.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CARLOS.shtml\">NOAA_NHC</a>",
           11.9,
           -124.2
@@ -2677,12 +2704,12 @@
         ]
       ]
     },
-    "title": "62 events (15/Jun/2021 PDT)"
+    "title": "63 events (15/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 05:00:34 PDT",
+  "last_update": "15/Jun/2021 @ 06:00:35 PDT",
   "neo": {
     "date": "15/Jun/2021 PDT",
-    "last_update": "15/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "15/Jun/2021 @ 06:00:06 PDT",
     "objects": [
       {
         "cat": "15/Jun/2021 @ 15:30:00 ",
@@ -2863,7 +2890,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "15/Jun/2021 @ 06:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4388,7 +4415,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jun/2021 @ 05:00:13 PDT",
+    "last_update": "15/Jun/2021 @ 06:00:12 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
