@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 13:00:04 PDT",
+    "last_update": "15/Jun/2021 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg",
     "title": "Zhurong: New Rover on Mars (15/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -833,24 +833,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5333",
-        "location": "https://www.google.com/maps/dir/31.418,-111.283/@31.418,-111.283,3z",
-        "name": "Warsaw Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7489/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5333"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5384",
         "location": "https://www.google.com/maps/dir/34.722582825,-111.884258024/@34.722582825,-111.884258024,3z",
         "name": "Wildfire - E of Prescott, Arizona - United States",
@@ -1259,7 +1241,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "15/Jun/2021 @ 13:00:05 PDT",
+    "last_update": "15/Jun/2021 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2821,20 +2803,15 @@
           "<a href=\"http://maps.google.com/maps?q=49.9644,-95.9403\"><b>Wildfire MB-EA056, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
           49.9644,
           -95.9403
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.418,-111.283\"><b>Warsaw Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7489/\">InciWeb</a>",
-          31.418,
-          -111.283
         ]
       ]
     },
-    "title": "68 events (15/Jun/2021 PDT)"
+    "title": "67 events (15/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 13:00:40 PDT",
+  "last_update": "15/Jun/2021 @ 14:00:36 PDT",
   "neo": {
     "date": "15/Jun/2021 PDT",
-    "last_update": "15/Jun/2021 @ 13:00:06 PDT",
+    "last_update": "15/Jun/2021 @ 14:00:06 PDT",
     "objects": [
       {
         "cat": "15/Jun/2021 @ 15:30:00 ",
@@ -3024,7 +3001,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jun/2021 @ 13:00:06 PDT",
+    "last_update": "15/Jun/2021 @ 14:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4549,7 +4526,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jun/2021 @ 13:00:13 PDT",
+    "last_update": "15/Jun/2021 @ 14:00:12 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
