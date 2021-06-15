@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 00:00:08 PDT",
+    "last_update": "15/Jun/2021 @ 01:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg",
     "title": "Zhurong: New Rover on Mars (15/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1147,7 +1147,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "15/Jun/2021 @ 00:00:09 PDT",
+    "last_update": "15/Jun/2021 @ 01:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2634,10 +2634,10 @@
     },
     "title": "62 events (15/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 00:00:42 PDT",
+  "last_update": "15/Jun/2021 @ 01:00:36 PDT",
   "neo": {
     "date": "15/Jun/2021 PDT",
-    "last_update": "15/Jun/2021 @ 00:00:10 PDT",
+    "last_update": "15/Jun/2021 @ 01:00:10 PDT",
     "objects": [
       {
         "cat": "15/Jun/2021 @ 15:30:00 ",
@@ -2818,7 +2818,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jun/2021 @ 00:00:11 PDT",
+    "last_update": "15/Jun/2021 @ 01:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4343,7 +4343,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jun/2021 @ 00:00:18 PDT",
+    "last_update": "15/Jun/2021 @ 01:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
