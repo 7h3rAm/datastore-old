@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 20:00:06 PDT",
+    "last_update": "15/Jun/2021 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1080.jpg",
     "title": "Zhurong: New Rover on Mars (15/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -768,7 +768,7 @@
           }
         ],
         "eid": "EONET_5392",
-        "location": "https://www.google.com/maps/dir/36.7,-69.8/38.5,-67.2/40.5,-62.0/41.6,-59.6/@36.7,-69.8,3z",
+        "location": "https://www.google.com/maps/dir/36.7,-69.8/38.5,-67.2/40.5,-62.0/41.6,-59.6/43.5,-57.0/@36.7,-69.8,3z",
         "name": "Tropical Storm Bill",
         "source": [
           {
@@ -1085,24 +1085,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5340",
-        "location": "https://www.google.com/maps/dir/49.9644,-95.9403/@49.9644,-95.9403,3z",
-        "name": "Wildfire MB-EA056, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5340"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5341",
         "location": "https://www.google.com/maps/dir/49.8839,-95.3356/@49.8839,-95.3356,3z",
         "name": "Wildfire MB-EA059, Manitoba, Canada",
@@ -1241,7 +1223,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "15/Jun/2021 @ 20:00:07 PDT",
+    "last_update": "15/Jun/2021 @ 21:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2518,6 +2500,11 @@
           -59.6
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=43.5,-57.0\"><b>Tropical Storm Bill</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000789&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/BILL.shtml\">NOAA_NHC</a>",
+          43.5,
+          -57.0
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=11.9,-124.2\"><b>Tropical Storm Carlos</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000788&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0321.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CARLOS.shtml\">NOAA_NHC</a>",
           11.9,
           -124.2
@@ -2803,20 +2790,15 @@
           "<a href=\"http://maps.google.com/maps?q=34.08879,-118.57386\"><b>Wildfire - Los Angeles County (Palisades Fire), California, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=124539\">PDC</a>",
           34.08879,
           -118.57386
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.9644,-95.9403\"><b>Wildfire MB-EA056, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          49.9644,
-          -95.9403
         ]
       ]
     },
-    "title": "67 events (15/Jun/2021 PDT)"
+    "title": "66 events (15/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 20:00:42 PDT",
+  "last_update": "15/Jun/2021 @ 21:00:43 PDT",
   "neo": {
     "date": "16/Jun/2021 PDT",
-    "last_update": "15/Jun/2021 @ 20:00:08 PDT",
+    "last_update": "15/Jun/2021 @ 21:00:07 PDT",
     "objects": [
       {
         "cat": "16/Jun/2021 @ 00:37:00 ",
@@ -3024,7 +3006,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jun/2021 @ 20:00:08 PDT",
+    "last_update": "15/Jun/2021 @ 21:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4549,7 +4531,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jun/2021 @ 20:00:14 PDT",
+    "last_update": "15/Jun/2021 @ 21:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
