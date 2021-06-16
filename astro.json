@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jun/2021 @ 08:00:07 PDT",
+    "last_update": "16/Jun/2021 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ScorpiusEnhanced_Lenz_1080.jpg",
     "title": "Scorpius Enhanced (16/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -63,6 +63,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5385"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5399",
+        "location": "https://www.google.com/maps/dir/46.349,-111.165/@46.349,-111.165,3z",
+        "name": "Deep Creek Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7536/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5399"
       },
       {
         "category": [
@@ -615,6 +633,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5397"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5398",
+        "location": "https://www.google.com/maps/dir/45.015,-109.253/@45.015,-109.253,3z",
+        "name": "Robertson Draw Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7537/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5398"
       },
       {
         "category": [
@@ -1223,7 +1259,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "16/Jun/2021 @ 08:00:10 PDT",
+    "last_update": "16/Jun/2021 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2632,6 +2668,16 @@
           -111.884258024
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=46.349,-111.165\"><b>Deep Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7536/\">InciWeb</a>",
+          46.349,
+          -111.165
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=45.015,-109.253\"><b>Robertson Draw Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7537/\">InciWeb</a>",
+          45.015,
+          -109.253
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=34.714,-111.885\"><b>Cornville Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7532/\">InciWeb</a>",
           34.714,
           -111.885
@@ -2813,12 +2859,12 @@
         ]
       ]
     },
-    "title": "66 events (16/Jun/2021 PDT)"
+    "title": "68 events (16/Jun/2021 PDT)"
   },
-  "last_update": "16/Jun/2021 @ 08:00:43 PDT",
+  "last_update": "16/Jun/2021 @ 09:00:07 PDT",
   "neo": {
     "date": "16/Jun/2021 PDT",
-    "last_update": "16/Jun/2021 @ 08:00:12 PDT",
+    "last_update": "16/Jun/2021 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "16/Jun/2021 @ 00:37:00 ",
@@ -3026,7 +3072,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jun/2021 @ 08:00:12 PDT",
+    "last_update": "16/Jun/2021 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
