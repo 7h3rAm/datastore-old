@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jun/2021 @ 23:00:07 PDT",
+    "last_update": "16/Jun/2021 @ 00:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ScorpiusEnhanced_Lenz_1080.jpg",
     "title": "Scorpius Enhanced (16/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "eonet": {
-    "date": "15/Jun/2021 PDT",
+    "date": "16/Jun/2021 PDT",
     "events": [
       {
         "category": [
@@ -1223,7 +1223,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "15/Jun/2021 @ 23:00:09 PDT",
+    "last_update": "16/Jun/2021 @ 00:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2793,12 +2793,12 @@
         ]
       ]
     },
-    "title": "66 events (15/Jun/2021 PDT)"
+    "title": "66 events (16/Jun/2021 PDT)"
   },
-  "last_update": "15/Jun/2021 @ 23:00:43 PDT",
+  "last_update": "16/Jun/2021 @ 00:00:38 PDT",
   "neo": {
     "date": "16/Jun/2021 PDT",
-    "last_update": "15/Jun/2021 @ 23:00:10 PDT",
+    "last_update": "16/Jun/2021 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "16/Jun/2021 @ 00:37:00 ",
@@ -2939,7 +2939,7 @@
     "title": "15 objects making close approach (16/Jun/2021 PDT)"
   },
   "satview": {
-    "date": "15/Jun/2021 PDT",
+    "date": "16/Jun/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 13/Jun/2021 @ 15:48:57 PDT.",
@@ -3006,7 +3006,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jun/2021 @ 23:00:10 PDT",
+    "last_update": "16/Jun/2021 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3044,7 +3044,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "7 people in space (15/Jun/2021 PDT)"
+    "title": "7 people in space (16/Jun/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4531,7 +4531,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jun/2021 @ 23:00:18 PDT",
+    "last_update": "16/Jun/2021 @ 00:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
