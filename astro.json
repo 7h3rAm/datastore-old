@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jun/2021 @ 20:00:04 PDT",
+    "last_update": "16/Jun/2021 @ 21:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/ScorpiusEnhanced_Lenz_1080.jpg",
     "title": "Scorpius Enhanced (16/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1085,60 +1085,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5341",
-        "location": "https://www.google.com/maps/dir/49.8839,-95.3356/@49.8839,-95.3356,3z",
-        "name": "Wildfire MB-EA059, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5341"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5338",
-        "location": "https://www.google.com/maps/dir/51.5606,-100.3725/@51.5606,-100.3725,3z",
-        "name": "Wildfire MB-WE010, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5338"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5343",
-        "location": "https://www.google.com/maps/dir/52.6,-100.9339/@52.6,-100.9339,3z",
-        "name": "Wildfire MB-WE013, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5343"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5393",
         "location": "https://www.google.com/maps/dir/32.87801,-110.20497/@32.87801,-110.20497,3z",
         "name": "Wildfires - Graham County (Pinnacle Fire), Arizona, United States",
@@ -1223,7 +1169,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "16/Jun/2021 @ 20:00:05 PDT",
+    "last_update": "16/Jun/2021 @ 21:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2795,30 +2741,15 @@
           "<a href=\"http://maps.google.com/maps?q=53.27606,-105.57261\"><b>Wildfire - Prince Albert and RM of Buckland, Saskatchewan, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=124617\">PDC</a>",
           53.27606,
           -105.57261
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.5606,-100.3725\"><b>Wildfire MB-WE010, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          51.5606,
-          -100.3725
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.8839,-95.3356\"><b>Wildfire MB-EA059, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          49.8839,
-          -95.3356
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.6,-100.9339\"><b>Wildfire MB-WE013, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          52.6,
-          -100.9339
         ]
       ]
     },
-    "title": "66 events (16/Jun/2021 PDT)"
+    "title": "63 events (16/Jun/2021 PDT)"
   },
-  "last_update": "16/Jun/2021 @ 20:00:40 PDT",
+  "last_update": "16/Jun/2021 @ 21:00:39 PDT",
   "neo": {
     "date": "17/Jun/2021 PDT",
-    "last_update": "16/Jun/2021 @ 20:00:06 PDT",
+    "last_update": "16/Jun/2021 @ 21:00:08 PDT",
     "objects": [
       {
         "cat": "17/Jun/2021 @ 16:03:00 ",
@@ -3008,7 +2939,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jun/2021 @ 20:00:06 PDT",
+    "last_update": "16/Jun/2021 @ 21:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4533,7 +4464,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Jun/2021 @ 20:00:14 PDT",
+    "last_update": "16/Jun/2021 @ 21:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
