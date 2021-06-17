@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jun/2021 @ 07:02:16 PDT",
+    "last_update": "17/Jun/2021 @ 08:00:13 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/CrescentHOOcombinedFinalimage1024.jpg",
     "title": "NGC 6888: The Crescent Nebula (17/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -81,6 +81,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5385"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5407",
+        "location": "https://www.google.com/maps/dir/45.184,-108.42/@45.184,-108.42,3z",
+        "name": "Crooked Creek Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7542/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5407"
       },
       {
         "category": [
@@ -941,6 +959,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5406",
+        "location": "https://www.google.com/maps/dir/46.35749,-111.13311/@46.35749,-111.13311,3z",
+        "name": "Wildfire - E of Helena (Deep Creek Fire), Montana - United States",
+        "source": [
+          {
+            "sid": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=125324"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5406"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5384",
         "location": "https://www.google.com/maps/dir/34.722582825,-111.884258024/@34.722582825,-111.884258024,3z",
         "name": "Wildfire - E of Prescott, Arizona - United States",
@@ -1023,6 +1059,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5361"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5405",
+        "location": "https://www.google.com/maps/dir/45.05518,-109.23306/@45.05518,-109.23306,3z",
+        "name": "Wildfire - NW of Powell (Robertson Draw Fire), Wyoming - United States",
+        "source": [
+          {
+            "sid": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=125325"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5405"
       },
       {
         "category": [
@@ -1157,6 +1211,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5404",
+        "location": "https://www.google.com/maps/dir/45.18695,-108.37149/@45.18695,-108.37149,3z",
+        "name": "Wildfires - Carbon County (Crooked Creek Fire), Montana, United States",
+        "source": [
+          {
+            "sid": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=125337"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5404"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5393",
         "location": "https://www.google.com/maps/dir/32.87801,-110.20497/@32.87801,-110.20497,3z",
         "name": "Wildfires - Graham County (Pinnacle Fire), Arizona, United States",
@@ -1185,6 +1257,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5394"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5403",
+        "location": "https://www.google.com/maps/dir/39.81695,-111.21329/@39.81695,-111.21329,3z",
+        "name": "Wildfires - Utah County (Bennion Creek Fire), Utah, United States ",
+        "source": [
+          {
+            "sid": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=125338"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5403"
       },
       {
         "category": [
@@ -1241,7 +1331,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "17/Jun/2021 @ 07:02:17 PDT",
+    "last_update": "17/Jun/2021 @ 08:00:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2660,6 +2750,31 @@
       "Water Color": [],
       "Wildfires": [
         [
+          "<a href=\"http://maps.google.com/maps?q=39.81695,-111.21329\"><b>Wildfires - Utah County (Bennion Creek Fire), Utah, United States </b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125338\">PDC</a>",
+          39.81695,
+          -111.21329
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=45.18695,-108.37149\"><b>Wildfires - Carbon County (Crooked Creek Fire), Montana, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125337\">PDC</a>",
+          45.18695,
+          -108.37149
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=45.05518,-109.23306\"><b>Wildfire - NW of Powell (Robertson Draw Fire), Wyoming - United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125325\">PDC</a>",
+          45.05518,
+          -109.23306
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=46.35749,-111.13311\"><b>Wildfire - E of Helena (Deep Creek Fire), Montana - United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125324\">PDC</a>",
+          46.35749,
+          -111.13311
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=45.184,-108.42\"><b>Crooked Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7542/\">InciWeb</a>",
+          45.184,
+          -108.42
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=32.87801,-110.20497\"><b>Wildfires - Graham County (Pinnacle Fire), Arizona, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125278\">PDC</a>",
           32.87801,
           -110.20497
@@ -2841,12 +2956,12 @@
         ]
       ]
     },
-    "title": "67 events (17/Jun/2021 PDT)"
+    "title": "72 events (17/Jun/2021 PDT)"
   },
-  "last_update": "17/Jun/2021 @ 07:02:50 PDT",
+  "last_update": "17/Jun/2021 @ 08:00:43 PDT",
   "neo": {
     "date": "17/Jun/2021 PDT",
-    "last_update": "17/Jun/2021 @ 07:02:21 PDT",
+    "last_update": "17/Jun/2021 @ 08:00:18 PDT",
     "objects": [
       {
         "cat": "17/Jun/2021 @ 16:03:00 ",
@@ -3036,7 +3151,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jun/2021 @ 07:02:21 PDT",
+    "last_update": "17/Jun/2021 @ 08:00:18 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4576,7 +4691,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jun/2021 @ 07:02:28 PDT",
+    "last_update": "17/Jun/2021 @ 08:00:24 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
@@ -15649,12 +15764,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "54,926,072.06 miles",
+      "earth_distance": "58,661,107.00 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "200,600,830.38 miles",
+      "mars_distance": "203,504,156.68 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,827.35 mph",
+      "speed": "4,897.22 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
