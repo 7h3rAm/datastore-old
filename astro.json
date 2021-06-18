@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Jun/2021 @ 05:00:05 PDT",
+    "last_update": "18/Jun/2021 @ 06:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/IMG_3915_1024.jpg",
     "title": "Devil Horns from a Ring of Fire (18/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1313,7 +1313,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "18/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "18/Jun/2021 @ 06:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2935,10 +2935,10 @@
     },
     "title": "71 events (18/Jun/2021 PDT)"
   },
-  "last_update": "18/Jun/2021 @ 05:00:45 PDT",
+  "last_update": "18/Jun/2021 @ 06:00:36 PDT",
   "neo": {
     "date": "18/Jun/2021 PDT",
-    "last_update": "18/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "18/Jun/2021 @ 06:00:09 PDT",
     "objects": [
       {
         "cat": "18/Jun/2021 @ 02:07:00 ",
@@ -3028,8 +3028,8 @@
     "date": "18/Jun/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 16/Jun/2021 @ 07:24:00 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/06/16/jpg/epic_1b_20210616142849.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 17/Jun/2021 @ 14:52:55 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/06/17/jpg/epic_1b_20210617215743.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3092,7 +3092,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "18/Jun/2021 @ 06:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4632,7 +4632,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Jun/2021 @ 05:00:15 PDT",
+    "last_update": "18/Jun/2021 @ 06:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
