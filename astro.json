@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Jun/2021 @ 06:00:08 PDT",
+    "last_update": "19/Jun/2021 @ 07:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/IMG_1088_resize1024.jpg",
     "title": "Northern Summer Twilight (19/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -901,6 +901,54 @@
       {
         "category": [
           {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5411",
+        "location": "https://www.google.com/maps/dir/29.6,-90.7/@29.6,-90.7,3z",
+        "name": "Tropical Storm Claudette",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5411"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5412",
+        "location": "https://www.google.com/maps/dir/14.9,-101.6/15.3,-102.1/15.9,-102.6/16.6,-102.9/@14.9,-101.6,3z",
+        "name": "Tropical Storm Dolores",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC"
+          },
+          {
+            "sid": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/ep0421.tcw"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5412"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -1313,7 +1361,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "19/Jun/2021 @ 06:00:10 PDT",
+    "last_update": "19/Jun/2021 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2570,6 +2618,31 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=29.6,-90.7\"><b>Tropical Storm Claudette</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml\">NOAA_NHC</a>",
+          29.6,
+          -90.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.9,-101.6\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          14.9,
+          -101.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.3,-102.1\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          15.3,
+          -102.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.9,-102.6\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          15.9,
+          -102.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.6,-102.9\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          16.6,
+          -102.9
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=36.7,-69.8\"><b>Tropical Storm Bill</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000789&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/BILL.shtml\">NOAA_NHC</a>",
           36.7,
           -69.8
@@ -2933,17 +3006,17 @@
         ]
       ]
     },
-    "title": "71 events (19/Jun/2021 PDT)"
+    "title": "73 events (19/Jun/2021 PDT)"
   },
-  "last_update": "19/Jun/2021 @ 06:00:40 PDT",
+  "last_update": "19/Jun/2021 @ 07:00:36 PDT",
   "neo": {
     "date": "19/Jun/2021 PDT",
-    "last_update": "19/Jun/2021 @ 06:00:10 PDT",
+    "last_update": "19/Jun/2021 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "19/Jun/2021 @ 02:44:00 ",
         "diameter": "0.08-0.17 miles",
-        "distance": "7,458,468.10 miles",
+        "distance": "7,458,467.96 miles",
         "hazardous": false,
         "name": "Asteroid (2010 LB64)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3529601",
@@ -3056,7 +3129,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Jun/2021 @ 06:00:11 PDT",
+    "last_update": "19/Jun/2021 @ 07:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4596,7 +4669,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Jun/2021 @ 06:00:17 PDT",
+    "last_update": "19/Jun/2021 @ 07:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
