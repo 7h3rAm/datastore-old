@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Jun/2021 @ 20:00:06 PDT",
+    "last_update": "18/Jun/2021 @ 21:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/IMG_3915_1024.jpg",
     "title": "Devil Horns from a Ring of Fire (18/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -503,24 +503,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5391"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5344",
-        "location": "https://www.google.com/maps/dir/33.238,-108.473/@33.238,-108.473,3z",
-        "name": "Johnson Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7493/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5344"
       },
       {
         "category": [
@@ -1349,7 +1331,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "18/Jun/2021 @ 20:00:07 PDT",
+    "last_update": "18/Jun/2021 @ 21:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2971,20 +2953,15 @@
           "<a href=\"http://maps.google.com/maps?q=38.045301183,23.076900924\"><b>Wildfire - W of Piraivs, Attiki - Greece</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=124689\">PDC</a>",
           38.045301183,
           23.076900924
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.238,-108.473\"><b>Johnson Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7493/\">InciWeb</a>",
-          33.238,
-          -108.473
         ]
       ]
     },
-    "title": "73 events (18/Jun/2021 PDT)"
+    "title": "72 events (18/Jun/2021 PDT)"
   },
-  "last_update": "18/Jun/2021 @ 20:00:46 PDT",
+  "last_update": "18/Jun/2021 @ 21:00:40 PDT",
   "neo": {
     "date": "19/Jun/2021 PDT",
-    "last_update": "18/Jun/2021 @ 20:00:08 PDT",
+    "last_update": "18/Jun/2021 @ 21:00:09 PDT",
     "objects": [
       {
         "cat": "19/Jun/2021 @ 02:44:00 ",
@@ -3102,7 +3079,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Jun/2021 @ 20:00:09 PDT",
+    "last_update": "18/Jun/2021 @ 21:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4642,7 +4619,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Jun/2021 @ 20:00:15 PDT",
+    "last_update": "18/Jun/2021 @ 21:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
