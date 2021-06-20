@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jun/2021 @ 08:00:06 PDT",
+    "last_update": "20/Jun/2021 @ 09:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/StonehengeSun_alexander_960.jpg",
     "title": "Sunrise Solstice over Stonehenge (20/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -171,6 +171,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5415"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5416",
+        "location": "https://www.google.com/maps/dir/33.689,-109.276/@33.689,-109.276,3z",
+        "name": "Horton Complex Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7547/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5416"
       },
       {
         "category": [
@@ -673,6 +691,24 @@
       {
         "category": [
           {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5417",
+        "location": "https://www.google.com/maps/dir/35.343,-115.783/@35.343,-115.783,3z",
+        "name": "Mojave Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7555/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5417"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -946,7 +982,7 @@
           }
         ],
         "eid": "EONET_5411",
-        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/33.3,-85.8/@29.6,-90.7,3z",
+        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/33.3,-85.8/33.8,-84.2/@29.6,-90.7,3z",
         "name": "Tropical Storm Claudette",
         "source": [
           {
@@ -1419,7 +1455,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "20/Jun/2021 @ 08:00:08 PDT",
+    "last_update": "20/Jun/2021 @ 09:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2796,6 +2832,11 @@
           -85.8
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=33.8,-84.2\"><b>Tropical Storm Claudette</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml\">NOAA_NHC</a>",
+          33.8,
+          -84.2
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=14.9,-101.6\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
           14.9,
           -101.6
@@ -3018,6 +3059,11 @@
           -121.5628
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=35.343,-115.783\"><b>Mojave Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7555/\">InciWeb</a>",
+          35.343,
+          -115.783
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=34.344,-111.677\"><b>Backbone Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7545/\">InciWeb</a>",
           34.344,
           -111.677
@@ -3031,6 +3077,11 @@
           "<a href=\"http://maps.google.com/maps?q=45.18695,-108.37149\"><b>Wildfires - Carbon County (Crooked Creek Fire), Montana, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125337\">PDC</a>",
           45.18695,
           -108.37149
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.689,-109.276\"><b>Horton Complex Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7547/\">InciWeb</a>",
+          33.689,
+          -109.276
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=45.05518,-109.23306\"><b>Wildfire - NW of Powell (Robertson Draw Fire), Wyoming - United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125325\">PDC</a>",
@@ -3209,12 +3260,12 @@
         ]
       ]
     },
-    "title": "76 events (20/Jun/2021 PDT)"
+    "title": "78 events (20/Jun/2021 PDT)"
   },
-  "last_update": "20/Jun/2021 @ 08:00:46 PDT",
+  "last_update": "20/Jun/2021 @ 09:00:43 PDT",
   "neo": {
     "date": "20/Jun/2021 PDT",
-    "last_update": "20/Jun/2021 @ 08:00:09 PDT",
+    "last_update": "20/Jun/2021 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "20/Jun/2021 @ 16:43:00 ",
@@ -3341,7 +3392,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jun/2021 @ 08:00:10 PDT",
+    "last_update": "20/Jun/2021 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4881,7 +4932,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jun/2021 @ 08:00:19 PDT",
+    "last_update": "20/Jun/2021 @ 09:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
