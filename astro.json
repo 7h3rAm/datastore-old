@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jun/2021 @ 02:00:09 PDT",
+    "last_update": "20/Jun/2021 @ 03:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/StonehengeSun_alexander_960.jpg",
     "title": "Sunrise Solstice over Stonehenge (20/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -946,7 +946,7 @@
           }
         ],
         "eid": "EONET_5411",
-        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/@29.6,-90.7,3z",
+        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/33.3,-85.8/@29.6,-90.7,3z",
         "name": "Tropical Storm Claudette",
         "source": [
           {
@@ -968,7 +968,7 @@
           }
         ],
         "eid": "EONET_5412",
-        "location": "https://www.google.com/maps/dir/14.9,-101.6/15.3,-102.1/15.9,-102.6/16.6,-102.9/@14.9,-101.6,3z",
+        "location": "https://www.google.com/maps/dir/14.9,-101.6/15.3,-102.1/15.9,-102.6/16.6,-102.9/17.8,-103.5/19.6,-104/21.4,-104.2/23,-103.8/@14.9,-101.6,3z",
         "name": "Tropical Storm Dolores",
         "source": [
           {
@@ -1419,7 +1419,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "20/Jun/2021 @ 02:00:10 PDT",
+    "last_update": "20/Jun/2021 @ 03:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2791,6 +2791,11 @@
           -87.0
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=33.3,-85.8\"><b>Tropical Storm Claudette</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml\">NOAA_NHC</a>",
+          33.3,
+          -85.8
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=14.9,-101.6\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
           14.9,
           -101.6
@@ -2809,6 +2814,26 @@
           "<a href=\"http://maps.google.com/maps?q=16.6,-102.9\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
           16.6,
           -102.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=17.8,-103.5\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          17.8,
+          -103.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.6,-104\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          19.6,
+          -104
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=21.4,-104.2\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          21.4,
+          -104.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23,-103.8\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
+          23,
+          -103.8
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.7,-69.8\"><b>Tropical Storm Bill</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000789&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/BILL.shtml\">NOAA_NHC</a>",
@@ -3186,10 +3211,10 @@
     },
     "title": "76 events (20/Jun/2021 PDT)"
   },
-  "last_update": "20/Jun/2021 @ 02:00:41 PDT",
+  "last_update": "20/Jun/2021 @ 03:00:40 PDT",
   "neo": {
     "date": "20/Jun/2021 PDT",
-    "last_update": "20/Jun/2021 @ 02:00:11 PDT",
+    "last_update": "20/Jun/2021 @ 03:00:06 PDT",
     "objects": [
       {
         "cat": "20/Jun/2021 @ 16:43:00 ",
@@ -3316,7 +3341,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jun/2021 @ 02:00:11 PDT",
+    "last_update": "20/Jun/2021 @ 03:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4856,7 +4881,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jun/2021 @ 02:00:18 PDT",
+    "last_update": "20/Jun/2021 @ 03:00:12 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
