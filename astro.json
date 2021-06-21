@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Jun/2021 @ 02:00:09 PDT",
+    "last_update": "21/Jun/2021 @ 03:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/tadpole_HubbleBiju_960.jpg",
     "title": "The Tadpole Galaxy from Hubble (21/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -924,7 +924,7 @@
           }
         ],
         "eid": "EONET_5411",
-        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/33.3,-85.8/33.8,-84.2/34.2,-82.5/34.7,-80.4/@29.6,-90.7,3z",
+        "location": "https://www.google.com/maps/dir/29.6,-90.7/31.0,-89.7/32.2,-87.9/32.6,-87.0/33.3,-85.8/33.8,-84.2/34.2,-82.5/34.7,-80.4/35.6,-77.6/@29.6,-90.7,3z",
         "name": "Tropical Storm Claudette",
         "source": [
           {
@@ -1397,7 +1397,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "21/Jun/2021 @ 02:00:11 PDT",
+    "last_update": "21/Jun/2021 @ 03:00:10 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2789,6 +2789,11 @@
           -80.4
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=35.6,-77.6\"><b>Tropical Storm Claudette</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml\">NOAA_NHC</a>",
+          35.6,
+          -77.6
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=14.9,-101.6\"><b>Tropical Storm Dolores</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000791&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DOLORES.shtml\">NOAA_NHC</a>",
           14.9,
           -101.6
@@ -3174,10 +3179,10 @@
     },
     "title": "75 events (21/Jun/2021 PDT)"
   },
-  "last_update": "21/Jun/2021 @ 02:00:43 PDT",
+  "last_update": "21/Jun/2021 @ 03:00:38 PDT",
   "neo": {
     "date": "21/Jun/2021 PDT",
-    "last_update": "21/Jun/2021 @ 02:00:12 PDT",
+    "last_update": "21/Jun/2021 @ 03:00:10 PDT",
     "objects": [
       {
         "cat": "21/Jun/2021 @ 04:02:00 ",
@@ -3367,7 +3372,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Jun/2021 @ 02:00:12 PDT",
+    "last_update": "21/Jun/2021 @ 03:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4907,7 +4912,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Jun/2021 @ 02:00:18 PDT",
+    "last_update": "21/Jun/2021 @ 03:00:16 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
