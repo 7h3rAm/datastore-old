@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Jun/2021 @ 23:00:06 PDT",
+    "last_update": "22/Jun/2021 @ 00:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/HD163296_AlmaVlt_960.jpg",
     "title": "HD 163296: Jet from a Star in Formation (22/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "eonet": {
-    "date": "21/Jun/2021 PDT",
+    "date": "22/Jun/2021 PDT",
     "events": [
       {
         "category": [
@@ -1421,7 +1421,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "21/Jun/2021 @ 23:00:08 PDT",
+    "last_update": "22/Jun/2021 @ 00:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3131,12 +3131,12 @@
         ]
       ]
     },
-    "title": "77 events (21/Jun/2021 PDT)"
+    "title": "77 events (22/Jun/2021 PDT)"
   },
-  "last_update": "21/Jun/2021 @ 23:00:40 PDT",
+  "last_update": "22/Jun/2021 @ 00:00:40 PDT",
   "neo": {
     "date": "22/Jun/2021 PDT",
-    "last_update": "21/Jun/2021 @ 23:00:09 PDT",
+    "last_update": "22/Jun/2021 @ 00:00:08 PDT",
     "objects": [
       {
         "cat": "22/Jun/2021 @ 18:57:00 ",
@@ -3250,7 +3250,7 @@
     "title": "12 objects making close approach (22/Jun/2021 PDT)"
   },
   "satview": {
-    "date": "21/Jun/2021 PDT",
+    "date": "22/Jun/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 20/Jun/2021 @ 14:43:31 PDT.",
@@ -3317,7 +3317,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Jun/2021 @ 23:00:09 PDT",
+    "last_update": "22/Jun/2021 @ 00:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3370,7 +3370,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (21/Jun/2021 PDT)"
+    "title": "10 people in space (22/Jun/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4857,7 +4857,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Jun/2021 @ 23:00:16 PDT",
+    "last_update": "22/Jun/2021 @ 00:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
