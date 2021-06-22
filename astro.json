@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Jun/2021 @ 08:00:08 PDT",
+    "last_update": "22/Jun/2021 @ 09:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/HD163296_AlmaVlt_960.jpg",
     "title": "HD 163296: Jet from a Star in Formation (22/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -10,6 +10,24 @@
   "eonet": {
     "date": "22/Jun/2021 PDT",
     "events": [
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5429",
+        "location": "https://www.google.com/maps/dir/31.36,-111.149/@31.36,-111.149,3z",
+        "name": "Alamo Fire ",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7570/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5429"
+      },
       {
         "category": [
           {
@@ -587,6 +605,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5427",
+        "location": "https://www.google.com/maps/dir/36.583,-118.214/@36.583,-118.214,3z",
+        "name": "Inyo Creek Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7564/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5427"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5369",
         "location": "https://www.google.com/maps/dir/45.984,-117.069/@45.984,-117.069,3z",
         "name": "Joseph Canyon Fire",
@@ -875,6 +911,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5428",
+        "location": "https://www.google.com/maps/dir/39.503,-106.768/@39.503,-106.768,3z",
+        "name": "Sylvan Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7562/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5428"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5368",
         "location": "https://www.google.com/maps/dir/33.209,-111.092/@33.209,-111.092,3z",
         "name": "Telegraph Fire",
@@ -894,7 +948,7 @@
           }
         ],
         "eid": "EONET_5423",
-        "location": "https://www.google.com/maps/dir/13.9,142.5/@13.9,142.5,3z",
+        "location": "https://www.google.com/maps/dir/13.9,142.5/14.3,141.5/@13.9,142.5,3z",
         "name": "Tropical Storm 06W",
         "source": [
           {
@@ -973,6 +1027,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5401"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
+        "eid": "EONET_5430",
+        "location": "https://www.google.com/maps/dir/32.074,-110.093/@32.074,-110.093,3z",
+        "name": "Walnut Fire",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7563/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5430"
       },
       {
         "category": [
@@ -1461,7 +1533,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "22/Jun/2021 @ 08:00:11 PDT",
+    "last_update": "22/Jun/2021 @ 09:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2788,6 +2860,11 @@
           142.5
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=14.3,141.5\"><b>Tropical Storm 06W</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
+          14.3,
+          141.5
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=29.6,-90.7\"><b>Tropical Storm Claudette</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000790&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/CLAUDETTE.shtml\">NOAA_NHC</a>",
           29.6,
           -90.7
@@ -2945,6 +3022,21 @@
           -118.24439
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=39.503,-106.768\"><b>Sylvan Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7562/\">InciWeb</a>",
+          39.503,
+          -106.768
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=31.36,-111.149\"><b>Alamo Fire </b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7570/\">InciWeb</a>",
+          31.36,
+          -111.149
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=32.074,-110.093\"><b>Walnut Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7563/\">InciWeb</a>",
+          32.074,
+          -110.093
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=34.483,-110.669\"><b>Wyrick Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7558/\">InciWeb</a>",
           34.483,
           -110.669
@@ -2968,6 +3060,11 @@
           "<a href=\"http://maps.google.com/maps?q=37.636,-113.801\"><b>Flatt Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7551/\">InciWeb</a>",
           37.636,
           -113.801
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.583,-118.214\"><b>Inyo Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7564/\">InciWeb</a>",
+          36.583,
+          -118.214
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.207,-121.56\"><b>Willow Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7549/\">InciWeb</a>",
@@ -3181,12 +3278,12 @@
         ]
       ]
     },
-    "title": "79 events (22/Jun/2021 PDT)"
+    "title": "83 events (22/Jun/2021 PDT)"
   },
-  "last_update": "22/Jun/2021 @ 08:00:44 PDT",
+  "last_update": "22/Jun/2021 @ 09:00:44 PDT",
   "neo": {
     "date": "22/Jun/2021 PDT",
-    "last_update": "22/Jun/2021 @ 08:00:12 PDT",
+    "last_update": "22/Jun/2021 @ 09:00:09 PDT",
     "objects": [
       {
         "cat": "22/Jun/2021 @ 18:57:00 ",
@@ -3367,7 +3464,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Jun/2021 @ 08:00:13 PDT",
+    "last_update": "22/Jun/2021 @ 09:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4907,7 +5004,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Jun/2021 @ 08:00:22 PDT",
+    "last_update": "22/Jun/2021 @ 09:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
