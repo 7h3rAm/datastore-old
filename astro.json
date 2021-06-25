@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Jun/2021 @ 23:00:21 PDT",
+    "last_update": "25/Jun/2021 @ 00:00:16 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/AndromedaGalaxy-SingleShotMina-4688-net1200.jpg",
     "title": "Andromeda in a Single Shot (25/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "24/Jun/2021 PDT",
+    "date": "25/Jun/2021 PDT",
     "events": [
       {
         "category": [
@@ -787,7 +787,7 @@
         ],
         "eid": "us6000epaf",
         "location": "http://maps.google.com/maps?q=-17.9551,-178.4651",
-        "name": "M 4.4 - 235 km E of Levuka, Fiji",
+        "name": "M 4.4 - Fiji region",
         "source": [
           {
             "sid": "USGS",
@@ -875,6 +875,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000epee",
+        "location": "http://maps.google.com/maps?q=-6.5371,154.9713",
+        "name": "M 4.6 - 61 km WSW of Panguna, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000epee"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000epk3",
         "location": "http://maps.google.com/maps?q=-24.1439,-67.0518",
         "name": "M 4.6 - 74 km W of San Antonio de los Cobres, Argentina",
@@ -903,24 +921,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000epjs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000epee",
-        "location": "http://maps.google.com/maps?q=-6.5371,154.9713",
-        "name": "M 4.6 - Bougainville region, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000epee"
       },
       {
         "category": [
@@ -975,24 +975,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000epir"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000ep9i",
-        "location": "http://maps.google.com/maps?q=-18.1925,120.3028",
-        "name": "M 5.1 - 203 km W of Cable Beach, Australia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ep9i"
       },
       {
         "category": [
@@ -1983,7 +1965,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5366"
       }
     ],
-    "last_update": "24/Jun/2021 @ 23:00:23 PDT",
+    "last_update": "25/Jun/2021 @ 00:00:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2049,7 +2031,7 @@
           -91.5984
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.5371,154.9713\"><b>M 4.6 - Bougainville region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000epee\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-6.5371,154.9713\"><b>M 4.6 - 61 km WSW of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000epee\">USGS</a>",
           -6.5371,
           154.9713
         ],
@@ -2074,14 +2056,9 @@
           152.8855
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.9551,-178.4651\"><b>M 4.4 - 235 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000epaf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.9551,-178.4651\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000epaf\">USGS</a>",
           -17.9551,
           -178.4651
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1925,120.3028\"><b>M 5.1 - 203 km W of Cable Beach, Australia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ep9i\">USGS</a>",
-          -18.1925,
-          120.3028
         ]
       ],
       "Floods": [],
@@ -3889,12 +3866,12 @@
         ]
       ]
     },
-    "title": "108 events (24/Jun/2021 PDT)"
+    "title": "107 events (25/Jun/2021 PDT)"
   },
-  "last_update": "24/Jun/2021 @ 23:00:59 PDT",
+  "last_update": "25/Jun/2021 @ 00:00:51 PDT",
   "neo": {
     "date": "25/Jun/2021 PDT",
-    "last_update": "24/Jun/2021 @ 23:00:24 PDT",
+    "last_update": "25/Jun/2021 @ 00:00:19 PDT",
     "objects": [
       {
         "cat": "25/Jun/2021 @ 14:55:00 ",
@@ -4026,7 +4003,7 @@
     "title": "14 objects making close approach (25/Jun/2021 PDT)"
   },
   "satview": {
-    "date": "24/Jun/2021 PDT",
+    "date": "25/Jun/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 23/Jun/2021 @ 15:02:07 PDT.",
@@ -4093,7 +4070,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Jun/2021 @ 23:00:24 PDT",
+    "last_update": "25/Jun/2021 @ 00:00:19 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4146,7 +4123,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (24/Jun/2021 PDT)"
+    "title": "10 people in space (25/Jun/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5633,7 +5610,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Jun/2021 @ 23:00:31 PDT",
+    "last_update": "25/Jun/2021 @ 00:00:26 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
