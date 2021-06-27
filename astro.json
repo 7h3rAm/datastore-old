@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Jun/2021 @ 04:00:14 PDT",
+    "last_update": "27/Jun/2021 @ 05:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/neonsaturnaurora_cassini_1080.jpg",
     "title": "The Dancing Auroras of Saturn (27/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eq7g",
+        "location": "http://maps.google.com/maps?q=36.2824,71.139",
+        "name": "M 4.0 - 56 km SW of Ashkāsham, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq7g"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000eq5e",
         "location": "http://maps.google.com/maps?q=-21.4746,-66.7816",
         "name": "M 4.2 - 83 km SW of Atocha, Bolivia",
@@ -749,6 +767,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000eq87",
+        "location": "http://maps.google.com/maps?q=18.2405,-106.0902",
+        "name": "M 4.3 - 173 km SW of Emiliano Zapata, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq87"
       },
       {
         "category": [
@@ -839,24 +875,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq2y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000epzl",
-        "location": "http://maps.google.com/maps?q=6.9283,-82.502",
-        "name": "M 4.5 - 128 km SSE of Punta de Burica, Panama",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000epzl"
       },
       {
         "category": [
@@ -1853,11 +1871,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "27/Jun/2021 @ 04:00:16 PDT",
+    "last_update": "27/Jun/2021 @ 05:00:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.2405,-106.0902\"><b>M 4.3 - 173 km SW of Emiliano Zapata, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq87\">USGS</a>",
+          18.2405,
+          -106.0902
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.2824,71.139\"><b>M 4.0 - 56 km SW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq7g\">USGS</a>",
+          36.2824,
+          71.139
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=8.9834,126.3519\"><b>M 5.4 - 8 km NE of Bacolod, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq6g\">USGS</a>",
           8.9834,
@@ -1932,11 +1960,6 @@
           "<a href=\"http://maps.google.com/maps?q=8.5383,126.6154\"><b>M 4.4 - 36 km ENE of Hinatuan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq0m\">USGS</a>",
           8.5383,
           126.6154
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.9283,-82.502\"><b>M 4.5 - 128 km SSE of Punta de Burica, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000epzl\">USGS</a>",
-          6.9283,
-          -82.502
         ]
       ],
       "Floods": [],
@@ -3784,12 +3807,12 @@
         ]
       ]
     },
-    "title": "101 events (27/Jun/2021 PDT)"
+    "title": "102 events (27/Jun/2021 PDT)"
   },
-  "last_update": "27/Jun/2021 @ 04:00:47 PDT",
+  "last_update": "27/Jun/2021 @ 05:00:43 PDT",
   "neo": {
     "date": "27/Jun/2021 PDT",
-    "last_update": "27/Jun/2021 @ 04:00:18 PDT",
+    "last_update": "27/Jun/2021 @ 05:00:18 PDT",
     "objects": [
       {
         "cat": "27/Jun/2021 @ 12:50:00 ",
@@ -3961,7 +3984,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Jun/2021 @ 04:00:18 PDT",
+    "last_update": "27/Jun/2021 @ 05:00:18 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5501,7 +5524,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Jun/2021 @ 04:00:26 PDT",
+    "last_update": "27/Jun/2021 @ 05:00:23 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
