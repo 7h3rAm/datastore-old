@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Jun/2021 @ 15:00:08 PDT",
+    "last_update": "27/Jun/2021 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/neonsaturnaurora_cassini_1080.jpg",
     "title": "The Dancing Auroras of Saturn (27/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -883,6 +883,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqc4",
+        "location": "http://maps.google.com/maps?q=-22.2603,-70.0881",
+        "name": "M 4.4 - 21 km SSE of Tocopilla, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqc4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000eq5r",
         "location": "http://maps.google.com/maps?q=-6.8197,129.7628",
         "name": "M 4.4 - Banda Sea",
@@ -893,24 +911,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eq2y",
-        "location": "http://maps.google.com/maps?q=-22.9849,113.9166",
-        "name": "M 4.5 - 118 km S of Exmouth, Australia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq2y"
       },
       {
         "category": [
@@ -1045,6 +1045,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqc7",
+        "location": "http://maps.google.com/maps?q=-8.4652,110.5709",
+        "name": "M 4.9 - 61 km SSE of Pundong, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqc7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000eq40",
         "location": "http://maps.google.com/maps?q=-28.202,-176.5631",
         "name": "M 5.0 - Kermadec Islands region",
@@ -1055,24 +1073,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq40"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eq37",
-        "location": "http://maps.google.com/maps?q=-28.4352,-176.5448",
-        "name": "M 5.1 - Kermadec Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq37"
       },
       {
         "category": [
@@ -1943,11 +1943,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "27/Jun/2021 @ 15:00:10 PDT",
+    "last_update": "27/Jun/2021 @ 16:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.4652,110.5709\"><b>M 4.9 - 61 km SSE of Pundong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqc7\">USGS</a>",
+          -8.4652,
+          110.5709
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.2603,-70.0881\"><b>M 4.4 - 21 km SSE of Tocopilla, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqc4\">USGS</a>",
+          -22.2603,
+          -70.0881
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.0135,129.7218\"><b>M 4.7 - Kepulauan Babar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqbr\">USGS</a>",
           -7.0135,
@@ -2042,16 +2052,6 @@
           "<a href=\"http://maps.google.com/maps?q=-28.202,-176.5631\"><b>M 5.0 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq40\">USGS</a>",
           -28.202,
           -176.5631
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.4352,-176.5448\"><b>M 5.1 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq37\">USGS</a>",
-          -28.4352,
-          -176.5448
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.9849,113.9166\"><b>M 4.5 - 118 km S of Exmouth, Australia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq2y\">USGS</a>",
-          -22.9849,
-          113.9166
         ]
       ],
       "Floods": [],
@@ -3901,10 +3901,10 @@
     },
     "title": "106 events (27/Jun/2021 PDT)"
   },
-  "last_update": "27/Jun/2021 @ 15:00:42 PDT",
+  "last_update": "27/Jun/2021 @ 16:00:38 PDT",
   "neo": {
     "date": "27/Jun/2021 PDT",
-    "last_update": "27/Jun/2021 @ 15:00:13 PDT",
+    "last_update": "27/Jun/2021 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "27/Jun/2021 @ 12:50:00 ",
@@ -4076,7 +4076,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Jun/2021 @ 15:00:13 PDT",
+    "last_update": "27/Jun/2021 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5616,7 +5616,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Jun/2021 @ 15:00:20 PDT",
+    "last_update": "27/Jun/2021 @ 16:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
