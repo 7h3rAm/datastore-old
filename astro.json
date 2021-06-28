@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Jun/2021 @ 22:00:07 PDT",
+    "last_update": "27/Jun/2021 @ 23:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/PaperMoonSolarEclipse_Letian_960.jpg",
     "title": "A Paper Moon Solar Eclipse (28/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -721,24 +721,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eq5t",
-        "location": "http://maps.google.com/maps?q=50.991,173.995",
-        "name": "M 4.0 - 213 km SSE of Attu Station, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000eq7g",
         "location": "http://maps.google.com/maps?q=36.2824,71.139",
         "name": "M 4.0 - 56 km SW of Ashkāsham, Afghanistan",
@@ -893,24 +875,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqdn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eq5r",
-        "location": "http://maps.google.com/maps?q=-6.8197,129.7628",
-        "name": "M 4.4 - Banda Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5r"
       },
       {
         "category": [
@@ -1961,7 +1925,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "27/Jun/2021 @ 22:00:09 PDT",
+    "last_update": "27/Jun/2021 @ 23:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2065,16 +2029,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.7074,-177.9359\"><b>M 4.6 - 155 km S of Alo, Wallis and Futuna</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq69\">USGS</a>",
           -15.7074,
           -177.9359
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=50.991,173.995\"><b>M 4.0 - 213 km SSE of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5t\">USGS</a>",
-          50.991,
-          173.995
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.8197,129.7628\"><b>M 4.4 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eq5r\">USGS</a>",
-          -6.8197,
-          129.7628
         ]
       ],
       "Floods": [],
@@ -3922,12 +3876,12 @@
         ]
       ]
     },
-    "title": "107 events (27/Jun/2021 PDT)"
+    "title": "105 events (27/Jun/2021 PDT)"
   },
-  "last_update": "27/Jun/2021 @ 22:00:49 PDT",
+  "last_update": "27/Jun/2021 @ 23:00:44 PDT",
   "neo": {
     "date": "28/Jun/2021 PDT",
-    "last_update": "27/Jun/2021 @ 22:00:11 PDT",
+    "last_update": "27/Jun/2021 @ 23:00:10 PDT",
     "objects": [
       {
         "cat": "28/Jun/2021 @ 13:43:00 ",
@@ -4072,7 +4026,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Jun/2021 @ 22:00:12 PDT",
+    "last_update": "27/Jun/2021 @ 23:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5612,7 +5566,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Jun/2021 @ 22:00:19 PDT",
+    "last_update": "27/Jun/2021 @ 23:00:18 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
