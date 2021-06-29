@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Jun/2021 @ 10:00:04 PDT",
+    "last_update": "29/Jun/2021 @ 11:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/OrionNebula_HubbleSerrano_960.jpg",
     "title": "Orion Nebula: The Hubble View (29/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,6 +577,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqw3",
+        "location": "http://maps.google.com/maps?q=43.948,-128.9668",
+        "name": "M 4.0 - off the coast of Oregon",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqw3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "pr2021180012",
         "location": "http://maps.google.com/maps?q=19.5058,-64.112",
         "name": "M 4.1 - 148 km NNE of Cruz Bay, U.S. Virgin Islands",
@@ -685,6 +703,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqry",
+        "location": "http://maps.google.com/maps?q=-21.4149,-67.3665",
+        "name": "M 4.5 - 119 km SSW of Uyuni, Bolivia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000equq",
         "location": "http://maps.google.com/maps?q=12.403,-87.9649",
         "name": "M 4.5 - 67 km SW of Jiquilillo, Nicaragua",
@@ -703,16 +739,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eqry",
-        "location": "http://maps.google.com/maps?q=-21.4149,-67.3665",
-        "name": "M 4.5 - Potosi, Bolivia",
+        "eid": "us6000equ0",
+        "location": "http://maps.google.com/maps?q=2.4286,128.9186",
+        "name": "M 4.6 - 127 km NE of Tobelo, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ0"
       },
       {
         "category": [
@@ -811,24 +847,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000equ0",
-        "location": "http://maps.google.com/maps?q=2.4286,128.9186",
-        "name": "M 4.6 - Halmahera, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000equ8",
         "location": "http://maps.google.com/maps?q=-24.4199,-179.8266",
         "name": "M 4.6 - south of the Fiji Islands",
@@ -847,6 +865,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000equ7",
+        "location": "http://maps.google.com/maps?q=2.4729,128.866",
+        "name": "M 4.7 - 125 km NE of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000equg",
         "location": "http://maps.google.com/maps?q=22.7881,-82.9608",
         "name": "M 4.7 - 5 km N of Candelaria, Cuba",
@@ -857,24 +893,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000equ7",
-        "location": "http://maps.google.com/maps?q=2.4729,128.866",
-        "name": "M 4.7 - Halmahera, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7"
       },
       {
         "category": [
@@ -1417,24 +1435,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5408",
-        "location": "https://www.google.com/maps/dir/50.19033,-121.5628/@50.19033,-121.5628,3z",
-        "name": "Wildfires - British Columbia (East of Skuppah Fire), Canada",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=125361"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5408"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5404",
         "location": "https://www.google.com/maps/dir/45.18695,-108.37149/@45.18695,-108.37149,3z",
         "name": "Wildfires - Carbon County (Crooked Creek Fire), Montana, United States",
@@ -1479,42 +1479,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5413",
-        "location": "https://www.google.com/maps/dir/36.60832,-118.17767/@36.60832,-118.17767,3z",
-        "name": "Wildfires - Inyo County (Alabama Fire), California, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=125378"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5413"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5409",
-        "location": "https://www.google.com/maps/dir/42.5184,3.10857/@42.5184,3.10857,3z",
-        "name": "Wildfires - Port-Vendres Commune, France",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=125362"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5409"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5420",
         "location": "https://www.google.com/maps/dir/34.483,-110.669/@34.483,-110.669,3z",
         "name": "Wyrick Fire",
@@ -1527,11 +1491,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "29/Jun/2021 @ 10:00:06 PDT",
+    "last_update": "29/Jun/2021 @ 11:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=43.948,-128.9668\"><b>M 4.0 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqw3\">USGS</a>",
+          43.948,
+          -128.9668
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=12.403,-87.9649\"><b>M 4.5 - 67 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equq\">USGS</a>",
           12.403,
@@ -1558,12 +1527,12 @@
           -179.8266
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.4729,128.866\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.4729,128.866\"><b>M 4.7 - 125 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7\">USGS</a>",
           2.4729,
           128.866
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.4286,128.9186\"><b>M 4.6 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.4286,128.9186\"><b>M 4.6 - 127 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ0\">USGS</a>",
           2.4286,
           128.9186
         ],
@@ -1588,7 +1557,7 @@
           125.8444
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.4149,-67.3665\"><b>M 4.5 - Potosi, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.4149,-67.3665\"><b>M 4.5 - 119 km SSW of Uyuni, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry\">USGS</a>",
           -21.4149,
           -67.3665
         ],
@@ -3332,24 +3301,9 @@
           -121.476
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.60832,-118.17767\"><b>Wildfires - Inyo County (Alabama Fire), California, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125378\">PDC</a>",
-          36.60832,
-          -118.17767
-        ],
-        [
           "<a href=\"http://maps.google.com/maps?q=37.636,-113.801\"><b>Flatt Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7551/\">InciWeb</a>",
           37.636,
           -113.801
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.5184,3.10857\"><b>Wildfires - Port-Vendres Commune, France</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125362\">PDC</a>",
-          42.5184,
-          3.10857
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=50.19033,-121.5628\"><b>Wildfires - British Columbia (East of Skuppah Fire), Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125361\">PDC</a>",
-          50.19033,
-          -121.5628
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.343,-115.783\"><b>Mojave Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7555/\">InciWeb</a>",
@@ -3403,12 +3357,12 @@
         ]
       ]
     },
-    "title": "80 events (29/Jun/2021 PDT)"
+    "title": "78 events (29/Jun/2021 PDT)"
   },
-  "last_update": "29/Jun/2021 @ 10:00:40 PDT",
+  "last_update": "29/Jun/2021 @ 11:00:41 PDT",
   "neo": {
     "date": "29/Jun/2021 PDT",
-    "last_update": "29/Jun/2021 @ 10:00:08 PDT",
+    "last_update": "29/Jun/2021 @ 11:00:08 PDT",
     "objects": [
       {
         "cat": "29/Jun/2021 @ 20:46:00 ",
@@ -3562,7 +3516,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Jun/2021 @ 10:00:08 PDT",
+    "last_update": "29/Jun/2021 @ 11:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5102,7 +5056,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Jun/2021 @ 10:00:15 PDT",
+    "last_update": "29/Jun/2021 @ 11:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
@@ -6153,12 +6107,12 @@
         "url": "https://youtu.be/QJXxVtp3KqI"
       },
       {
-        "description": null,
+        "description": "Falcon 9 launches to sun-synchronous polar orbit from Florida as part of SpaceX's Rideshare program dedicated to smallsat customers. The mission lifts off from SLC-40, Cape Canaveral on a southward azimuth and performs a dogleg maneuver. The booster for this mission is expected to return to LZ-1 based on FCC communications filings. This rideshare takes approximately 90 satellites and hosted payloads into orbit on a variety of deployers including three free-flying spacecraft which dispense their customers' satellites after separation from the SpaceX stack.",
         "flight": 132,
         "launch": "29/Jun/2021 @ 11:56:00 PDT",
         "name": "Transporter-2",
         "upcoming": true,
-        "url": null
+        "url": "https://youtu.be/_qnD0bgjGOk"
       },
       {
         "description": null,
