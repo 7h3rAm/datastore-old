@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Jun/2021 @ 05:00:05 PDT",
+    "last_update": "29/Jun/2021 @ 06:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2106/OrionNebula_HubbleSerrano_960.jpg",
     "title": "Orion Nebula: The Hubble View (29/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -847,6 +847,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqsi",
+        "location": "http://maps.google.com/maps?q=9.1629,122.3388",
+        "name": "M 4.6 - 42 km SW of Colipapa, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqsi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000eqrb",
         "location": "http://maps.google.com/maps?q=24.5284,122.2546",
         "name": "M 4.6 - 56 km ESE of Yilan, Taiwan",
@@ -1193,6 +1211,10 @@
         "location": "https://www.google.com/maps/dir/32.3,-80.1/32.6,-81.5/33,-83/@32.3,-80.1,3z",
         "name": "Tropical Storm Danny",
         "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC"
+          },
           {
             "sid": "NOAA_NHC",
             "url": "https://www.nhc.noaa.gov/archive/2021/DANNY.shtml"
@@ -1835,11 +1857,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "29/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "29/Jun/2021 @ 06:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.1629,122.3388\"><b>M 4.6 - 42 km SW of Colipapa, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqsi\">USGS</a>",
+          9.1629,
+          122.3388
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=56.4038,-154.2822\"><b>M 4.3 - 60 km S of Akhiok, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak02189trnp7\">USGS</a>",
           56.4038,
@@ -3263,17 +3290,17 @@
       ],
       "Severe Storms": [
         [
-          "<a href=\"http://maps.google.com/maps?q=32.3,-80.1\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
+          "<a href=\"http://maps.google.com/maps?q=32.3,-80.1\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           32.3,
           -80.1
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=32.6,-81.5\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
+          "<a href=\"http://maps.google.com/maps?q=32.6,-81.5\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           32.6,
           -81.5
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33,-83\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
+          "<a href=\"http://maps.google.com/maps?q=33,-83\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           33,
           -83
         ],
@@ -3811,12 +3838,12 @@
         ]
       ]
     },
-    "title": "100 events (29/Jun/2021 PDT)"
+    "title": "101 events (29/Jun/2021 PDT)"
   },
-  "last_update": "29/Jun/2021 @ 05:00:38 PDT",
+  "last_update": "29/Jun/2021 @ 06:00:37 PDT",
   "neo": {
     "date": "29/Jun/2021 PDT",
-    "last_update": "29/Jun/2021 @ 05:00:07 PDT",
+    "last_update": "29/Jun/2021 @ 06:00:07 PDT",
     "objects": [
       {
         "cat": "29/Jun/2021 @ 20:46:00 ",
@@ -3970,7 +3997,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Jun/2021 @ 05:00:08 PDT",
+    "last_update": "29/Jun/2021 @ 06:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5510,7 +5537,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Jun/2021 @ 05:00:15 PDT",
+    "last_update": "29/Jun/2021 @ 06:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
