@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Jun/2021 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2106/PaperMoonSolarEclipse_Letian_960.jpg",
-    "title": "A Paper Moon Solar Eclipse (28/Jun/2021 PDT)",
+    "last_update": "28/Jun/2021 @ 22:00:05 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2106/OrionNebula_HubbleSerrano_960.jpg",
+    "title": "Orion Nebula: The Hubble View (29/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -740,7 +740,7 @@
           }
         ],
         "eid": "us6000eqqm",
-        "location": "http://maps.google.com/maps?q=38.4768,39.59",
+        "location": "http://maps.google.com/maps?q=38.4768,39.5898",
         "name": "M 4.1 - 24 km E of Sivrice, Turkey",
         "source": [
           {
@@ -883,9 +883,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eqqt",
+        "location": "http://maps.google.com/maps?q=-28.419,-67.5457",
+        "name": "M 4.6 - 39 km S of Tinogasta, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000eqhr",
         "location": "http://maps.google.com/maps?q=-15.4474,167.4662",
-        "name": "M 4.8 - Vanuatu",
+        "name": "M 4.8 - 33 km ENE of Luganville, Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -947,24 +965,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqgb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eqez",
-        "location": "http://maps.google.com/maps?q=-33.3138,-109.6296",
-        "name": "M 5.3 - southern East Pacific Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqez"
       },
       {
         "category": [
@@ -1853,15 +1853,20 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "28/Jun/2021 @ 21:00:06 PDT",
+    "last_update": "28/Jun/2021 @ 22:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=38.4768,39.59\"><b>M 4.1 - 24 km E of Sivrice, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-28.419,-67.5457\"><b>M 4.6 - 39 km S of Tinogasta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqt\">USGS</a>",
+          -28.419,
+          -67.5457
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.4768,39.5898\"><b>M 4.1 - 24 km E of Sivrice, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqm\">USGS</a>",
           38.4768,
-          39.59
+          39.5898
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-15.2356,167.4043\"><b>M 5.3 - 40 km NE of Luganville, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqa\">USGS</a>",
@@ -1879,7 +1884,7 @@
           -89.3157
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.4474,167.4662\"><b>M 4.8 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqhr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.4474,167.4662\"><b>M 4.8 - 33 km ENE of Luganville, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqhr\">USGS</a>",
           -15.4474,
           167.4662
         ],
@@ -1922,11 +1927,6 @@
           "<a href=\"http://maps.google.com/maps?q=11.7935,-44.1338\"><b>M 4.9 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqfa\">USGS</a>",
           11.7935,
           -44.1338
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.3138,-109.6296\"><b>M 5.3 - southern East Pacific Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqez\">USGS</a>",
-          -33.3138,
-          -109.6296
         ]
       ],
       "Floods": [],
@@ -3806,10 +3806,10 @@
     },
     "title": "101 events (28/Jun/2021 PDT)"
   },
-  "last_update": "28/Jun/2021 @ 21:00:40 PDT",
+  "last_update": "28/Jun/2021 @ 22:00:42 PDT",
   "neo": {
     "date": "29/Jun/2021 PDT",
-    "last_update": "28/Jun/2021 @ 21:00:08 PDT",
+    "last_update": "28/Jun/2021 @ 22:00:10 PDT",
     "objects": [
       {
         "cat": "29/Jun/2021 @ 20:46:00 ",
@@ -3963,7 +3963,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Jun/2021 @ 21:00:09 PDT",
+    "last_update": "28/Jun/2021 @ 22:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5503,7 +5503,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Jun/2021 @ 21:00:16 PDT",
+    "last_update": "28/Jun/2021 @ 22:00:16 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
