@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Jun/2021 @ 21:00:05 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2106/OrionNebula_HubbleSerrano_960.jpg",
-    "title": "Orion Nebula: The Hubble View (29/Jun/2021 PDT)",
+    "last_update": "29/Jun/2021 @ 22:00:04 PDT",
+    "source": "https://www.youtube.com/embed/q9ZCBR-onRw?rel=0",
+    "title": "Simulation: Formation of the First Stars (30/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -633,7 +633,7 @@
         ],
         "eid": "us6000er0a",
         "location": "http://maps.google.com/maps?q=18.0224,-101.7787",
-        "name": "M 4.2 - 5 km NE of La Unión, Mexico",
+        "name": "M 4.2 - Guerrero-Michoacan border region, Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -667,6 +667,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000er0c",
+        "location": "http://maps.google.com/maps?q=37.3197,141.2639",
+        "name": "M 4.4 - 29 km SE of Namie, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000er0c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000equk",
         "location": "http://maps.google.com/maps?q=15.9141,-92.1521",
         "name": "M 4.4 - 3 km NW of Sinaloa, Mexico",
@@ -685,42 +703,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eqry",
-        "location": "http://maps.google.com/maps?q=-21.4149,-67.3665",
-        "name": "M 4.5 - 119 km SSW of Uyuni, Bolivia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eqqt",
-        "location": "http://maps.google.com/maps?q=-28.4236,-67.4692",
-        "name": "M 4.5 - 41 km SSE of Tinogasta, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000equq",
         "location": "http://maps.google.com/maps?q=12.403,-87.9649",
         "name": "M 4.5 - 67 km SW of Jiquilillo, Nicaragua",
@@ -731,6 +713,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000eqry",
+        "location": "http://maps.google.com/maps?q=-21.4149,-67.3665",
+        "name": "M 4.5 - Potosi, Bolivia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry"
       },
       {
         "category": [
@@ -829,24 +829,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000equ7",
-        "location": "http://maps.google.com/maps?q=2.4729,128.866",
-        "name": "M 4.7 - 125 km NE of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000equg",
         "location": "http://maps.google.com/maps?q=22.7881,-82.9608",
         "name": "M 4.7 - 5 km N of Candelaria, Cuba",
@@ -857,6 +839,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equg"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000equ7",
+        "location": "http://maps.google.com/maps?q=2.4729,128.866",
+        "name": "M 4.7 - Halmahera, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7"
       },
       {
         "category": [
@@ -1455,13 +1455,18 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "29/Jun/2021 @ 21:00:07 PDT",
+    "last_update": "29/Jun/2021 @ 22:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=18.0224,-101.7787\"><b>M 4.2 - 5 km NE of La Unión, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000er0a\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.3197,141.2639\"><b>M 4.4 - 29 km SE of Namie, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000er0c\">USGS</a>",
+          37.3197,
+          141.2639
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.0224,-101.7787\"><b>M 4.2 - Guerrero-Michoacan border region, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000er0a\">USGS</a>",
           18.0224,
           -101.7787
         ],
@@ -1516,7 +1521,7 @@
           -179.8266
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.4729,128.866\"><b>M 4.7 - 125 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.4729,128.866\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000equ7\">USGS</a>",
           2.4729,
           128.866
         ],
@@ -1546,7 +1551,7 @@
           125.8444
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.4149,-67.3665\"><b>M 4.5 - 119 km SSW of Uyuni, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.4149,-67.3665\"><b>M 4.5 - Potosi, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqry\">USGS</a>",
           -21.4149,
           -67.3665
         ],
@@ -1559,11 +1564,6 @@
           "<a href=\"http://maps.google.com/maps?q=24.5284,122.2546\"><b>M 4.6 - 56 km ESE of Yilan, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqrb\">USGS</a>",
           24.5284,
           122.2546
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.4236,-67.4692\"><b>M 4.5 - 41 km SSE of Tinogasta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eqqt\">USGS</a>",
-          -28.4236,
-          -67.4692
         ]
       ],
       "Floods": [],
@@ -3313,10 +3313,10 @@
     },
     "title": "76 events (29/Jun/2021 PDT)"
   },
-  "last_update": "29/Jun/2021 @ 21:00:44 PDT",
+  "last_update": "29/Jun/2021 @ 22:00:45 PDT",
   "neo": {
     "date": "30/Jun/2021 PDT",
-    "last_update": "29/Jun/2021 @ 21:00:08 PDT",
+    "last_update": "29/Jun/2021 @ 22:00:07 PDT",
     "objects": [
       {
         "cat": "30/Jun/2021 @ 19:45:00 ",
@@ -3425,7 +3425,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Jun/2021 @ 21:00:09 PDT",
+    "last_update": "29/Jun/2021 @ 22:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4965,7 +4965,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Jun/2021 @ 21:00:16 PDT",
+    "last_update": "29/Jun/2021 @ 22:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
