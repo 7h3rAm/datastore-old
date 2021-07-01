@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Jun/2021 @ 18:00:08 PDT",
+    "last_update": "30/Jun/2021 @ 19:00:09 PDT",
     "source": "https://www.youtube.com/embed/q9ZCBR-onRw?rel=0",
     "title": "Simulation: Formation of the First Stars (30/Jun/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3310,7 +3310,7 @@
     },
     "title": "75 events (30/Jun/2021 PDT)"
   },
-  "last_update": "30/Jun/2021 @ 18:00:08 PDT",
+  "last_update": "30/Jun/2021 @ 19:00:09 PDT",
   "neo": {
     "date": "01/Jul/2021 PDT",
     "last_update": "30/Jun/2021 @ 17:00:20 PDT",
