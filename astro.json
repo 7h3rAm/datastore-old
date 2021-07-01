@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Jul/2021 @ 09:03:11 PDT",
+    "last_update": "01/Jul/2021 @ 10:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/PIA24542_fig2_1100c.jpg",
     "title": "Perseverance Selfie with Ingenuity (01/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -865,6 +865,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000ei0r",
+        "location": "http://maps.google.com/maps?q=-22.1702,170.1308",
+        "name": "M 4.9 - 242 km ESE of Tadine, New Caledonia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei0r"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ehtk",
         "location": "http://maps.google.com/maps?q=-28.4312,-113.333",
         "name": "M 5.0 - Easter Island region",
@@ -1589,11 +1607,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "01/Jul/2021 @ 09:03:12 PDT",
+    "last_update": "01/Jul/2021 @ 10:00:19 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.1702,170.1308\"><b>M 4.9 - 242 km ESE of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei0r\">USGS</a>",
+          -22.1702,
+          170.1308
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-13.5041,167.2972\"><b>M 4.7 - 49 km NNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei0g\">USGS</a>",
           -13.5041,
@@ -3505,12 +3528,12 @@
         ]
       ]
     },
-    "title": "83 events (01/Jul/2021 PDT)"
+    "title": "84 events (01/Jul/2021 PDT)"
   },
-  "last_update": "01/Jul/2021 @ 09:03:37 PDT",
+  "last_update": "01/Jul/2021 @ 10:01:55 PDT",
   "neo": {
     "date": "01/Jul/2021 PDT",
-    "last_update": "01/Jul/2021 @ 09:03:13 PDT",
+    "last_update": "01/Jul/2021 @ 10:00:22 PDT",
     "objects": [
       {
         "cat": "01/Jul/2021 @ 19:33:00 ",
@@ -3682,7 +3705,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Jul/2021 @ 09:03:13 PDT",
+    "last_update": "01/Jul/2021 @ 10:00:23 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5222,7 +5245,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Jul/2021 @ 09:03:19 PDT",
+    "last_update": "01/Jul/2021 @ 10:00:48 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
