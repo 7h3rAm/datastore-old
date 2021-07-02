@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jul/2021 @ 14:00:07 PDT",
+    "last_update": "02/Jul/2021 @ 15:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AR2835_20210701_W2x1024.jpg",
     "title": "AR2835: Islands in the Photosphere (02/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1176,7 +1176,7 @@
           }
         ],
         "eid": "EONET_5452",
-        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/@9.4,-48.8,3z",
+        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/14.2,-63.7/@9.4,-48.8,3z",
         "name": "Tropical Storm Elsa",
         "source": [
           {
@@ -1657,7 +1657,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "02/Jul/2021 @ 14:00:08 PDT",
+    "last_update": "02/Jul/2021 @ 15:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3130,6 +3130,11 @@
           -61.2
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=14.2,-63.7\"><b>Tropical Storm Elsa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000795&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ELSA.shtml\">NOAA_NHC</a>",
+          14.2,
+          -63.7
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=32.3,-80.1\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           32.3,
           -80.1
@@ -3515,10 +3520,10 @@
     },
     "title": "87 events (02/Jul/2021 PDT)"
   },
-  "last_update": "02/Jul/2021 @ 14:00:45 PDT",
+  "last_update": "02/Jul/2021 @ 15:00:38 PDT",
   "neo": {
     "date": "02/Jul/2021 PDT",
-    "last_update": "02/Jul/2021 @ 14:00:09 PDT",
+    "last_update": "02/Jul/2021 @ 15:00:09 PDT",
     "objects": [
       {
         "cat": "02/Jul/2021 @ 19:29:00 ",
@@ -3681,7 +3686,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jul/2021 @ 14:00:09 PDT",
+    "last_update": "02/Jul/2021 @ 15:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5221,7 +5226,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jul/2021 @ 14:00:16 PDT",
+    "last_update": "02/Jul/2021 @ 15:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
