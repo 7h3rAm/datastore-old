@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jul/2021 @ 02:00:11 PDT",
+    "last_update": "02/Jul/2021 @ 03:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AR2835_20210701_W2x1024.jpg",
     "title": "AR2835: Islands in the Photosphere (02/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -865,6 +865,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000ei72",
+        "location": "http://maps.google.com/maps?q=-37.7065,176.4541",
+        "name": "M 5.0 - 6 km N of Maketu, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei72"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ei0h",
         "location": "http://maps.google.com/maps?q=-0.8254,80.6534",
         "name": "M 5.2 - South Indian Ocean",
@@ -1068,7 +1086,7 @@
           }
         ],
         "eid": "EONET_5452",
-        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/@9.4,-48.8,3z",
+        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/@9.4,-48.8,3z",
         "name": "Tropical Storm Elsa",
         "source": [
           {
@@ -1099,28 +1117,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5401"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🌀",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
-          }
-        ],
-        "eid": "EONET_5423",
-        "location": "https://www.google.com/maps/dir/13.9,142.5/14.3,141.5/14.6,140.8/15.6,140.5/17.1,140.5/17.7,140.3/18.1,140.1/18.6,140.1/19.3,140/19.8,139.7/20.5,139.5/21.2,139.3/22.1,139.2/23,139.5/23.7,139.7/24.8,139.7/26,140/27,140.3/28.2,140.8/29.9,141.4/31.9,142.5/@13.9,142.5,3z",
-        "name": "Typhoon Champi",
-        "source": [
-          {
-            "sid": "GDACS",
-            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC"
-          },
-          {
-            "sid": "JTWC",
-            "url": "https://www.metoc.navy.mil/jtwc/products/wp0621.tcw"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5423"
       },
       {
         "category": [
@@ -1553,11 +1549,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "02/Jul/2021 @ 02:00:16 PDT",
+    "last_update": "02/Jul/2021 @ 03:00:10 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-37.7065,176.4541\"><b>M 5.0 - 6 km N of Maketu, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei72\">USGS</a>",
+          -37.7065,
+          176.4541
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.4427,151.6927\"><b>M 4.9 - 58 km WSW of Rabaul, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5u\">USGS</a>",
           -4.4427,
@@ -3011,6 +3012,11 @@
           -55.9
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=12.7,-58.6\"><b>Tropical Storm Elsa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000795&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ELSA.shtml\">NOAA_NHC</a>",
+          12.7,
+          -58.6
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=32.3,-80.1\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           32.3,
           -80.1
@@ -3129,111 +3135,6 @@
           "<a href=\"http://maps.google.com/maps?q=24,-109.4\"><b>Hurricane Enrique</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000793&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0521.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ENRIQUE.shtml\">NOAA_NHC</a>",
           24,
           -109.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.9,142.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          13.9,
-          142.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.3,141.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          14.3,
-          141.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.6,140.8\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          14.6,
-          140.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=15.6,140.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          15.6,
-          140.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.1,140.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          17.1,
-          140.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.7,140.3\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          17.7,
-          140.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.1,140.1\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          18.1,
-          140.1
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.6,140.1\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          18.6,
-          140.1
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.3,140\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          19.3,
-          140
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.8,139.7\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          19.8,
-          139.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.5,139.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          20.5,
-          139.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=21.2,139.3\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          21.2,
-          139.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=22.1,139.2\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          22.1,
-          139.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23,139.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          23,
-          139.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23.7,139.7\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          23.7,
-          139.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=24.8,139.7\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          24.8,
-          139.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=26,140\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          26,
-          140
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27,140.3\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          27,
-          140.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.2,140.8\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          28.2,
-          140.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.9,141.4\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          29.9,
-          141.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.9,142.5\"><b>Typhoon Champi</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000792&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0621.tcw\">JTWC</a>",
-          31.9,
-          142.5
         ]
       ],
       "Snow": [],
@@ -3471,10 +3372,10 @@
     },
     "title": "81 events (02/Jul/2021 PDT)"
   },
-  "last_update": "02/Jul/2021 @ 02:01:40 PDT",
+  "last_update": "02/Jul/2021 @ 03:00:38 PDT",
   "neo": {
     "date": "02/Jul/2021 PDT",
-    "last_update": "02/Jul/2021 @ 02:00:18 PDT",
+    "last_update": "02/Jul/2021 @ 03:00:11 PDT",
     "objects": [
       {
         "cat": "02/Jul/2021 @ 19:29:00 ",
@@ -3637,7 +3538,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jul/2021 @ 02:00:18 PDT",
+    "last_update": "02/Jul/2021 @ 03:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5177,7 +5078,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jul/2021 @ 02:00:45 PDT",
+    "last_update": "02/Jul/2021 @ 03:00:16 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
