@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Jul/2021 @ 03:00:07 PDT",
+    "last_update": "03/Jul/2021 @ 04:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/Walk_Milkyway_1024.jpg",
     "title": "Along the Milky Way (03/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -767,6 +767,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eify",
+        "location": "http://maps.google.com/maps?q=24.1412,125.0754",
+        "name": "M 4.6 - 76 km SSW of Hirara, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eify"
       },
       {
         "category": [
@@ -1567,11 +1585,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "03/Jul/2021 @ 03:00:08 PDT",
+    "last_update": "03/Jul/2021 @ 04:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=24.1412,125.0754\"><b>M 4.6 - 76 km SSW of Hirara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eify\">USGS</a>",
+          24.1412,
+          125.0754
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.5807,-94.6479\"><b>M 4.1 - 12 km NE of Vicente Guerrero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eifn\">USGS</a>",
           17.5807,
@@ -3413,12 +3436,12 @@
         ]
       ]
     },
-    "title": "82 events (03/Jul/2021 PDT)"
+    "title": "83 events (03/Jul/2021 PDT)"
   },
-  "last_update": "03/Jul/2021 @ 03:00:40 PDT",
+  "last_update": "03/Jul/2021 @ 04:00:38 PDT",
   "neo": {
     "date": "03/Jul/2021 PDT",
-    "last_update": "03/Jul/2021 @ 03:00:09 PDT",
+    "last_update": "03/Jul/2021 @ 04:00:08 PDT",
     "objects": [
       {
         "cat": "03/Jul/2021 @ 19:03:00 ",
@@ -3536,7 +3559,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Jul/2021 @ 03:00:09 PDT",
+    "last_update": "03/Jul/2021 @ 04:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5076,7 +5099,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Jul/2021 @ 03:00:16 PDT",
+    "last_update": "03/Jul/2021 @ 04:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
