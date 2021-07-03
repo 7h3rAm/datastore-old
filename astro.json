@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jul/2021 @ 18:00:06 PDT",
+    "last_update": "02/Jul/2021 @ 19:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AR2835_20210701_W2x1024.jpg",
     "title": "AR2835: Islands in the Photosphere (02/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -649,6 +649,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000eidc",
+        "location": "http://maps.google.com/maps?q=-21.3762,-68.7333",
+        "name": "M 4.0 - 121 km N of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eibh",
+        "location": "http://maps.google.com/maps?q=-20.9181,-68.9103",
+        "name": "M 4.0 - 151 km ESE of Iquique, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ei5t",
         "location": "http://maps.google.com/maps?q=-30.1469,-72.0061",
         "name": "M 4.1 - 67 km WSW of Coquimbo, Chile",
@@ -667,6 +703,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000eic7",
+        "location": "http://maps.google.com/maps?q=35.1376,25.2291",
+        "name": "M 4.2 - 3 km WSW of Arkalochóri, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eic7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eie5",
+        "location": "http://maps.google.com/maps?q=-20.498,-178.4297",
+        "name": "M 4.2 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ei5p",
         "location": "http://maps.google.com/maps?q=-18.1502,-71.9952",
         "name": "M 4.3 - 88 km SW of Pacocha, Peru",
@@ -677,24 +749,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ei41",
-        "location": "http://maps.google.com/maps?q=-24.275,-67.3822",
-        "name": "M 4.4 - 108 km W of San Antonio de los Cobres, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei41"
       },
       {
         "category": [
@@ -731,24 +785,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ei42",
-        "location": "http://maps.google.com/maps?q=43.1906,81.6341",
-        "name": "M 4.7 - 81 km SSE of Qapqal, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei42"
       },
       {
         "category": [
@@ -839,6 +875,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiba"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eicj",
+        "location": "http://maps.google.com/maps?q=-21.8295,-179.3622",
+        "name": "M 6.1 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eicj"
       },
       {
         "category": [
@@ -1585,11 +1639,36 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "02/Jul/2021 @ 18:00:07 PDT",
+    "last_update": "02/Jul/2021 @ 19:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.498,-178.4297\"><b>M 4.2 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5\">USGS</a>",
+          -20.498,
+          -178.4297
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.3762,-68.7333\"><b>M 4.0 - 121 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc\">USGS</a>",
+          -21.3762,
+          -68.7333
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.8295,-179.3622\"><b>M 6.1 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eicj\">USGS</a>",
+          -21.8295,
+          -179.3622
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.1376,25.2291\"><b>M 4.2 - 3 km WSW of Arkalochóri, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eic7\">USGS</a>",
+          35.1376,
+          25.2291
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.9181,-68.9103\"><b>M 4.0 - 151 km ESE of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibh\">USGS</a>",
+          -20.9181,
+          -68.9103
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.0971,-67.0572\"><b>M 4.4 - 76 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibc\">USGS</a>",
           -24.0971,
@@ -1634,16 +1713,6 @@
           "<a href=\"http://maps.google.com/maps?q=46.7868,153.7749\"><b>M 4.9 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei4x\">USGS</a>",
           46.7868,
           153.7749
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=43.1906,81.6341\"><b>M 4.7 - 81 km SSE of Qapqal, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei42\">USGS</a>",
-          43.1906,
-          81.6341
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.275,-67.3822\"><b>M 4.4 - 108 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei41\">USGS</a>",
-          -24.275,
-          -67.3822
         ]
       ],
       "Floods": [],
@@ -3426,12 +3495,12 @@
         ]
       ]
     },
-    "title": "83 events (02/Jul/2021 PDT)"
+    "title": "86 events (02/Jul/2021 PDT)"
   },
-  "last_update": "02/Jul/2021 @ 18:00:39 PDT",
+  "last_update": "02/Jul/2021 @ 19:00:36 PDT",
   "neo": {
     "date": "03/Jul/2021 PDT",
-    "last_update": "02/Jul/2021 @ 18:00:08 PDT",
+    "last_update": "02/Jul/2021 @ 19:00:08 PDT",
     "objects": [
       {
         "cat": "03/Jul/2021 @ 19:03:00 ",
@@ -3549,7 +3618,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jul/2021 @ 18:00:09 PDT",
+    "last_update": "02/Jul/2021 @ 19:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5089,7 +5158,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jul/2021 @ 18:00:15 PDT",
+    "last_update": "02/Jul/2021 @ 19:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
