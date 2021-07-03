@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Jul/2021 @ 08:00:09 PDT",
+    "last_update": "03/Jul/2021 @ 09:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/Walk_Milkyway_1024.jpg",
     "title": "Along the Milky Way (03/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,24 +667,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eidc",
-        "location": "http://maps.google.com/maps?q=-21.3762,-68.7333",
-        "name": "M 4.0 - 121 km N of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000eibh",
         "location": "http://maps.google.com/maps?q=-20.9181,-68.9103",
         "name": "M 4.0 - 151 km ESE of Iquique, Chile",
@@ -695,42 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eiev",
-        "location": "http://maps.google.com/maps?q=16.7566,-99.5916",
-        "name": "M 4.0 - 4 km ESE of Cerro de Piedra, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiev"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eifn",
-        "location": "http://maps.google.com/maps?q=17.5807,-94.6479",
-        "name": "M 4.1 - 12 km NE of Vicente Guerrero, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eifn"
       },
       {
         "category": [
@@ -757,42 +703,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eie5",
-        "location": "http://maps.google.com/maps?q=-20.498,-178.4297",
-        "name": "M 4.2 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eifi",
-        "location": "http://maps.google.com/maps?q=-20.178,-69.1829",
-        "name": "M 4.3 - 101 km E of Iquique, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eifi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000eibc",
         "location": "http://maps.google.com/maps?q=-24.0971,-67.0572",
         "name": "M 4.4 - 76 km W of San Antonio de los Cobres, Argentina",
@@ -811,60 +721,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eify",
-        "location": "http://maps.google.com/maps?q=24.1412,125.0754",
-        "name": "M 4.6 - 76 km SSW of Hirara, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eify"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eigv",
-        "location": "http://maps.google.com/maps?q=53.1639,-166.9092",
-        "name": "M 4.6 - 82 km SSW of Unalaska, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eigl",
-        "location": "http://maps.google.com/maps?q=-4.2715,102.3411",
-        "name": "M 5.2 - 52 km S of Bengkulu, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000eiba",
         "location": "http://maps.google.com/maps?q=46.4237,154.4233",
         "name": "M 5.3 - east of the Kuril Islands",
@@ -875,24 +731,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiba"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eigf",
-        "location": "http://maps.google.com/maps?q=-43.4232,92.0614",
-        "name": "M 5.7 - southeast Indian Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigf"
       },
       {
         "category": [
@@ -1194,7 +1032,7 @@
           }
         ],
         "eid": "EONET_5452",
-        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/14.2,-63.7/14.8,-66.3/16.2,-69.0/@9.4,-48.8,3z",
+        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/14.2,-63.7/14.8,-66.3/16.2,-69.0/17.0,-71.6/@9.4,-48.8,3z",
         "name": "Tropical Storm Elsa",
         "source": [
           {
@@ -1783,56 +1621,11 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "03/Jul/2021 @ 08:00:12 PDT",
+    "last_update": "03/Jul/2021 @ 09:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.1639,-166.9092\"><b>M 4.6 - 82 km SSW of Unalaska, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigv\">USGS</a>",
-          53.1639,
-          -166.9092
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.2715,102.3411\"><b>M 5.2 - 52 km S of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigl\">USGS</a>",
-          -4.2715,
-          102.3411
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-43.4232,92.0614\"><b>M 5.7 - southeast Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eigf\">USGS</a>",
-          -43.4232,
-          92.0614
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=24.1412,125.0754\"><b>M 4.6 - 76 km SSW of Hirara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eify\">USGS</a>",
-          24.1412,
-          125.0754
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.5807,-94.6479\"><b>M 4.1 - 12 km NE of Vicente Guerrero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eifn\">USGS</a>",
-          17.5807,
-          -94.6479
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.178,-69.1829\"><b>M 4.3 - 101 km E of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eifi\">USGS</a>",
-          -20.178,
-          -69.1829
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.7566,-99.5916\"><b>M 4.0 - 4 km ESE of Cerro de Piedra, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiev\">USGS</a>",
-          16.7566,
-          -99.5916
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.498,-178.4297\"><b>M 4.2 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5\">USGS</a>",
-          -20.498,
-          -178.4297
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.3762,-68.7333\"><b>M 4.0 - 121 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc\">USGS</a>",
-          -21.3762,
-          -68.7333
-        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.8295,-179.3622\"><b>M 6.1 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eicj\">USGS</a>",
           -21.8295,
@@ -3331,6 +3124,11 @@
           -69.0
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=17.0,-71.6\"><b>Tropical Storm Elsa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000795&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ELSA.shtml\">NOAA_NHC</a>",
+          17.0,
+          -71.6
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=32.3,-80.1\"><b>Tropical Storm Danny</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000794&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/DANNY.shtml\">NOAA_NHC</a>",
           32.3,
           -80.1
@@ -3749,12 +3547,12 @@
         ]
       ]
     },
-    "title": "94 events (03/Jul/2021 PDT)"
+    "title": "85 events (03/Jul/2021 PDT)"
   },
-  "last_update": "03/Jul/2021 @ 08:00:41 PDT",
+  "last_update": "03/Jul/2021 @ 09:00:38 PDT",
   "neo": {
     "date": "03/Jul/2021 PDT",
-    "last_update": "03/Jul/2021 @ 08:00:13 PDT",
+    "last_update": "03/Jul/2021 @ 09:00:08 PDT",
     "objects": [
       {
         "cat": "03/Jul/2021 @ 19:03:00 ",
@@ -3881,7 +3679,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Jul/2021 @ 08:00:13 PDT",
+    "last_update": "03/Jul/2021 @ 09:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5421,7 +5219,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Jul/2021 @ 08:00:20 PDT",
+    "last_update": "03/Jul/2021 @ 09:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
