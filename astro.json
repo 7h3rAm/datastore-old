@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jul/2021 @ 23:00:06 PDT",
+    "last_update": "03/Jul/2021 @ 00:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/Walk_Milkyway_1024.jpg",
     "title": "Along the Milky Way (03/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "02/Jul/2021 PDT",
+    "date": "03/Jul/2021 PDT",
     "events": [
       {
         "category": [
@@ -631,24 +631,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eidc",
-        "location": "http://maps.google.com/maps?q=-21.3762,-68.7333",
-        "name": "M 4.0 - 121 km N of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000eibh",
         "location": "http://maps.google.com/maps?q=-20.9181,-68.9103",
         "name": "M 4.0 - 151 km ESE of Iquique, Chile",
@@ -677,60 +659,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eic7",
-        "location": "http://maps.google.com/maps?q=35.1376,25.2291",
-        "name": "M 4.2 - 3 km WSW of Arkalochóri, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eic7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eie5",
-        "location": "http://maps.google.com/maps?q=-20.498,-178.4297",
-        "name": "M 4.2 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ei5p",
-        "location": "http://maps.google.com/maps?q=-18.1502,-71.9952",
-        "name": "M 4.3 - 88 km SW of Pacocha, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5p"
       },
       {
         "category": [
@@ -839,24 +767,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiba"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eicj",
-        "location": "http://maps.google.com/maps?q=-21.8295,-179.3622",
-        "name": "M 6.1 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eicj"
       },
       {
         "category": [
@@ -1603,31 +1513,11 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "02/Jul/2021 @ 23:00:08 PDT",
+    "last_update": "03/Jul/2021 @ 00:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.498,-178.4297\"><b>M 4.2 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eie5\">USGS</a>",
-          -20.498,
-          -178.4297
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.3762,-68.7333\"><b>M 4.0 - 121 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eidc\">USGS</a>",
-          -21.3762,
-          -68.7333
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.8295,-179.3622\"><b>M 6.1 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eicj\">USGS</a>",
-          -21.8295,
-          -179.3622
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.1376,25.2291\"><b>M 4.2 - 3 km WSW of Arkalochóri, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eic7\">USGS</a>",
-          35.1376,
-          25.2291
-        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.9181,-68.9103\"><b>M 4.0 - 151 km ESE of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eibh\">USGS</a>",
           -20.9181,
@@ -1667,11 +1557,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.4427,151.6927\"><b>M 4.9 - 58 km WSW of Rabaul, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5u\">USGS</a>",
           -4.4427,
           151.6927
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1502,-71.9952\"><b>M 4.3 - 88 km SW of Pacocha, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ei5p\">USGS</a>",
-          -18.1502,
-          -71.9952
         ]
       ],
       "Floods": [],
@@ -3454,12 +3339,12 @@
         ]
       ]
     },
-    "title": "84 events (02/Jul/2021 PDT)"
+    "title": "79 events (03/Jul/2021 PDT)"
   },
-  "last_update": "02/Jul/2021 @ 23:00:42 PDT",
+  "last_update": "03/Jul/2021 @ 00:00:38 PDT",
   "neo": {
     "date": "03/Jul/2021 PDT",
-    "last_update": "02/Jul/2021 @ 23:00:08 PDT",
+    "last_update": "03/Jul/2021 @ 00:00:08 PDT",
     "objects": [
       {
         "cat": "03/Jul/2021 @ 19:03:00 ",
@@ -3510,7 +3395,7 @@
     "title": "5 objects making close approach (03/Jul/2021 PDT)"
   },
   "satview": {
-    "date": "02/Jul/2021 PDT",
+    "date": "03/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 01/Jul/2021 @ 14:52:49 PDT.",
@@ -3577,7 +3462,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jul/2021 @ 23:00:09 PDT",
+    "last_update": "03/Jul/2021 @ 00:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3630,7 +3515,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (02/Jul/2021 PDT)"
+    "title": "10 people in space (03/Jul/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5117,7 +5002,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jul/2021 @ 23:00:15 PDT",
+    "last_update": "03/Jul/2021 @ 00:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
