@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Jul/2021 @ 11:00:06 PDT",
+    "last_update": "04/Jul/2021 @ 12:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/MartianFace_Viking_960.jpg",
     "title": "The Face on Mars (04/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -915,6 +915,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000eipd",
+        "location": "http://maps.google.com/maps?q=-55.8186,-27.5905",
+        "name": "M 5.2 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eipd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000eik4",
         "location": "http://maps.google.com/maps?q=21.1764,-106.0853",
         "name": "M 5.6 - 74 km NW of Corral del Risco (Punta de Mita), Mexico",
@@ -1811,11 +1829,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "04/Jul/2021 @ 11:00:08 PDT",
+    "last_update": "04/Jul/2021 @ 12:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-55.8186,-27.5905\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eipd\">USGS</a>",
+          -55.8186,
+          -27.5905
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.8885,127.9585\"><b>M 5.1 - 92 km NNW of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000einr\">USGS</a>",
           -2.8885,
@@ -3737,12 +3760,12 @@
         ]
       ]
     },
-    "title": "96 events (04/Jul/2021 PDT)"
+    "title": "97 events (04/Jul/2021 PDT)"
   },
-  "last_update": "04/Jul/2021 @ 11:00:38 PDT",
+  "last_update": "04/Jul/2021 @ 12:00:39 PDT",
   "neo": {
     "date": "04/Jul/2021 PDT",
-    "last_update": "04/Jul/2021 @ 11:00:11 PDT",
+    "last_update": "04/Jul/2021 @ 12:00:10 PDT",
     "objects": [
       {
         "cat": "04/Jul/2021 @ 17:57:00 ",
@@ -3905,7 +3928,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Jul/2021 @ 11:00:12 PDT",
+    "last_update": "04/Jul/2021 @ 12:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5445,7 +5468,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Jul/2021 @ 11:00:18 PDT",
+    "last_update": "04/Jul/2021 @ 12:00:16 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
