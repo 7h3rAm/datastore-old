@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jul/2021 @ 13:00:07 PDT",
+    "last_update": "05/Jul/2021 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/ic4592_block_960.jpg",
     "title": "IC 4592: The Blue Horsehead Reflection Nebula (05/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -889,16 +889,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eir5",
-        "location": "http://maps.google.com/maps?q=-18.1547,167.4845",
-        "name": "M 4.9 - 99 km WSW of Port-Vila, Vanuatu",
+        "eid": "us7000eix2",
+        "location": "http://maps.google.com/maps?q=28.0519,128.1604",
+        "name": "M 4.7 - 134 km WSW of Naze, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eir5"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eix2"
       },
       {
         "category": [
@@ -909,7 +909,7 @@
         ],
         "eid": "us7000eirt",
         "location": "http://maps.google.com/maps?q=-15.5211,167.7463",
-        "name": "M 4.9 - Vanuatu",
+        "name": "M 4.9 - 62 km E of Luganville, Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -917,6 +917,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eirt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eir5",
+        "location": "http://maps.google.com/maps?q=-18.1547,167.4845",
+        "name": "M 4.9 - 99 km WSW of Port-Vila, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eir5"
       },
       {
         "category": [
@@ -1821,11 +1839,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "05/Jul/2021 @ 13:00:09 PDT",
+    "last_update": "05/Jul/2021 @ 14:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=28.0519,128.1604\"><b>M 4.7 - 134 km WSW of Naze, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eix2\">USGS</a>",
+          28.0519,
+          128.1604
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.1248,178.8358\"><b>M 4.9 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiwy\">USGS</a>",
           -24.1248,
@@ -1872,7 +1895,7 @@
           -71.6669
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.5211,167.7463\"><b>M 4.9 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eirt\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.5211,167.7463\"><b>M 4.9 - 62 km E of Luganville, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eirt\">USGS</a>",
           -15.5211,
           167.7463
         ],
@@ -3672,12 +3695,12 @@
         ]
       ]
     },
-    "title": "97 events (05/Jul/2021 PDT)"
+    "title": "98 events (05/Jul/2021 PDT)"
   },
-  "last_update": "05/Jul/2021 @ 13:00:38 PDT",
+  "last_update": "05/Jul/2021 @ 14:00:42 PDT",
   "neo": {
     "date": "05/Jul/2021 PDT",
-    "last_update": "05/Jul/2021 @ 13:00:09 PDT",
+    "last_update": "05/Jul/2021 @ 14:00:07 PDT",
     "objects": [
       {
         "cat": "05/Jul/2021 @ 14:48:00 ",
@@ -3912,7 +3935,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Jul/2021 @ 13:00:10 PDT",
+    "last_update": "05/Jul/2021 @ 14:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5452,7 +5475,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Jul/2021 @ 13:00:17 PDT",
+    "last_update": "05/Jul/2021 @ 14:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
