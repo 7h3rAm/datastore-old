@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jul/2021 @ 09:00:05 PDT",
+    "last_update": "06/Jul/2021 @ 10:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/SaturnAndMoons_Ranjbaran_960.jpg",
     "title": "Saturn and Six Moons (06/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -629,6 +629,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5461"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000ej4x",
+        "location": "http://maps.google.com/maps?q=28.0626,139.1783",
+        "name": "M 4.0 - Bonin Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej4x"
       },
       {
         "category": [
@@ -1749,11 +1767,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "06/Jul/2021 @ 09:00:07 PDT",
+    "last_update": "06/Jul/2021 @ 10:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=28.0626,139.1783\"><b>M 4.0 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej4x\">USGS</a>",
+          28.0626,
+          139.1783
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.3416,72.2758\"><b>M 4.4 - 43 km N of Khandūd, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej4h\">USGS</a>",
           37.3416,
@@ -3600,12 +3623,12 @@
         ]
       ]
     },
-    "title": "93 events (06/Jul/2021 PDT)"
+    "title": "94 events (06/Jul/2021 PDT)"
   },
-  "last_update": "06/Jul/2021 @ 09:00:37 PDT",
+  "last_update": "06/Jul/2021 @ 10:00:32 PDT",
   "neo": {
     "date": "06/Jul/2021 PDT",
-    "last_update": "06/Jul/2021 @ 09:00:07 PDT",
+    "last_update": "06/Jul/2021 @ 10:00:07 PDT",
     "objects": [
       {
         "cat": "06/Jul/2021 @ 00:05:00 ",
@@ -3686,8 +3709,8 @@
     "date": "06/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Jul/2021 @ 14:43:29 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/04/jpg/epic_1b_20210704214819.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 05/Jul/2021 @ 14:34:10 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/05/jpg/epic_1b_20210705213859.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3750,7 +3773,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jul/2021 @ 09:00:07 PDT",
+    "last_update": "06/Jul/2021 @ 10:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5290,7 +5313,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jul/2021 @ 09:00:15 PDT",
+    "last_update": "06/Jul/2021 @ 10:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
