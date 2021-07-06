@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jul/2021 @ 01:00:05 PDT",
+    "last_update": "06/Jul/2021 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/SaturnAndMoons_Ranjbaran_960.jpg",
     "title": "Saturn and Six Moons (06/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -675,7 +675,7 @@
         ],
         "eid": "us7000eiuu",
         "location": "http://maps.google.com/maps?q=-28.6995,-71.881",
-        "name": "M 4.0 - Near the coast of Atacama, Chile",
+        "name": "M 4.0 - 110 km W of Vallenar, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -683,24 +683,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiuu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eitg",
-        "location": "http://maps.google.com/maps?q=-28.7439,-71.8235",
-        "name": "M 4.2 - 105 km W of Vallenar, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eitg"
       },
       {
         "category": [
@@ -783,7 +765,7 @@
         ],
         "eid": "us7000eitr",
         "location": "http://maps.google.com/maps?q=-28.7871,-71.6679",
-        "name": "M 4.4 - Near the coast of Atacama, Chile",
+        "name": "M 4.4 - 91 km WSW of Vallenar, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -837,7 +819,7 @@
         ],
         "eid": "us7000ej1c",
         "location": "http://maps.google.com/maps?q=44.7262,141.8765",
-        "name": "M 4.5 - 62 km NW of Nayoro, Japan",
+        "name": "M 4.5 - Hokkaido, Japan region",
         "source": [
           {
             "sid": "USGS",
@@ -1785,13 +1767,13 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "06/Jul/2021 @ 01:00:07 PDT",
+    "last_update": "06/Jul/2021 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=44.7262,141.8765\"><b>M 4.5 - 62 km NW of Nayoro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej1c\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=44.7262,141.8765\"><b>M 4.5 - Hokkaido, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej1c\">USGS</a>",
           44.7262,
           141.8765
         ],
@@ -1836,7 +1818,7 @@
           121.5338
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-28.6995,-71.881\"><b>M 4.0 - Near the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiuu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-28.6995,-71.881\"><b>M 4.0 - 110 km W of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiuu\">USGS</a>",
           -28.6995,
           -71.881
         ],
@@ -1846,7 +1828,7 @@
           -71.7576
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-28.7871,-71.6679\"><b>M 4.4 - Near the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eitr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-28.7871,-71.6679\"><b>M 4.4 - 91 km WSW of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eitr\">USGS</a>",
           -28.7871,
           -71.6679
         ],
@@ -1854,11 +1836,6 @@
           "<a href=\"http://maps.google.com/maps?q=-28.7697,-71.7949\"><b>M 4.5 - 103 km WSW of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eitn\">USGS</a>",
           -28.7697,
           -71.7949
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.7439,-71.8235\"><b>M 4.2 - 105 km W of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eitg\">USGS</a>",
-          -28.7439,
-          -71.8235
         ]
       ],
       "Floods": [],
@@ -3636,12 +3613,12 @@
         ]
       ]
     },
-    "title": "95 events (06/Jul/2021 PDT)"
+    "title": "94 events (06/Jul/2021 PDT)"
   },
-  "last_update": "06/Jul/2021 @ 01:00:40 PDT",
+  "last_update": "06/Jul/2021 @ 02:00:37 PDT",
   "neo": {
     "date": "06/Jul/2021 PDT",
-    "last_update": "06/Jul/2021 @ 01:00:08 PDT",
+    "last_update": "06/Jul/2021 @ 02:00:07 PDT",
     "objects": [
       {
         "cat": "06/Jul/2021 @ 00:05:00 ",
@@ -3786,7 +3763,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jul/2021 @ 01:00:08 PDT",
+    "last_update": "06/Jul/2021 @ 02:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5326,7 +5303,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jul/2021 @ 01:00:16 PDT",
+    "last_update": "06/Jul/2021 @ 02:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
