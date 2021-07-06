@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jul/2021 @ 04:00:06 PDT",
+    "last_update": "06/Jul/2021 @ 05:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/SaturnAndMoons_Ranjbaran_960.jpg",
     "title": "Saturn and Six Moons (06/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -791,24 +791,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej1c"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eiua",
-        "location": "http://maps.google.com/maps?q=-28.7679,-71.7576",
-        "name": "M 4.6 - 99 km WSW of Vallenar, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiua"
       },
       {
         "category": [
@@ -1731,7 +1713,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "06/Jul/2021 @ 04:00:08 PDT",
+    "last_update": "06/Jul/2021 @ 05:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1785,11 +1767,6 @@
           "<a href=\"http://maps.google.com/maps?q=-28.6995,-71.881\"><b>M 4.0 - Near the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiuu\">USGS</a>",
           -28.6995,
           -71.881
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.7679,-71.7576\"><b>M 4.6 - 99 km WSW of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eiua\">USGS</a>",
-          -28.7679,
-          -71.7576
         ]
       ],
       "Floods": [],
@@ -3572,12 +3549,12 @@
         ]
       ]
     },
-    "title": "92 events (06/Jul/2021 PDT)"
+    "title": "91 events (06/Jul/2021 PDT)"
   },
-  "last_update": "06/Jul/2021 @ 04:00:38 PDT",
+  "last_update": "06/Jul/2021 @ 05:00:40 PDT",
   "neo": {
     "date": "06/Jul/2021 PDT",
-    "last_update": "06/Jul/2021 @ 04:00:09 PDT",
+    "last_update": "06/Jul/2021 @ 05:00:08 PDT",
     "objects": [
       {
         "cat": "06/Jul/2021 @ 00:05:00 ",
@@ -3722,7 +3699,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jul/2021 @ 04:00:09 PDT",
+    "last_update": "06/Jul/2021 @ 05:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5262,7 +5239,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jul/2021 @ 04:00:16 PDT",
+    "last_update": "06/Jul/2021 @ 05:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
