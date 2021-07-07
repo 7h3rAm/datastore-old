@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jul/2021 @ 23:00:20 PDT",
+    "last_update": "07/Jul/2021 @ 00:00:07 PDT",
     "source": "https://www.youtube.com/embed/ix1lzur2QLQ?rel=0",
     "title": "Flight Through the Orion Nebula in Infrared Light (07/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "06/Jul/2021 PDT",
+    "date": "07/Jul/2021 PDT",
     "events": [
       {
         "category": [
@@ -709,24 +709,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ej19",
-        "location": "http://maps.google.com/maps?q=13.6819,-91.1432",
-        "name": "M 4.2 - 44 km SW of Puerto San José, Guatemala",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej19"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000ej7n",
         "location": "http://maps.google.com/maps?q=-17.7274,-69.9168",
         "name": "M 4.2 - 7 km NE of Palca, Peru",
@@ -827,24 +809,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ej1c",
-        "location": "http://maps.google.com/maps?q=44.7262,141.8765",
-        "name": "M 4.5 - Hokkaido, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej1c"
       },
       {
         "category": [
@@ -989,6 +953,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej9c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eja2",
+        "location": "http://maps.google.com/maps?q=-23.1971,179.6395",
+        "name": "M 5.7 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja2"
       },
       {
         "category": [
@@ -1857,11 +1839,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "06/Jul/2021 @ 23:00:22 PDT",
+    "last_update": "07/Jul/2021 @ 00:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.1971,179.6395\"><b>M 5.7 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja2\">USGS</a>",
+          -23.1971,
+          179.6395
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=25.9599,90.3142\"><b>M 5.3 - 7 km S of Lakhipur, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej9c\">USGS</a>",
           25.9599,
@@ -1951,16 +1938,6 @@
           "<a href=\"http://maps.google.com/maps?q=23.841,121.5319\"><b>M 4.7 - 16 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2n\">USGS</a>",
           23.841,
           121.5319
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.7262,141.8765\"><b>M 4.5 - Hokkaido, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej1c\">USGS</a>",
-          44.7262,
-          141.8765
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.6819,-91.1432\"><b>M 4.2 - 44 km SW of Puerto San José, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej19\">USGS</a>",
-          13.6819,
-          -91.1432
         ]
       ],
       "Floods": [],
@@ -3748,12 +3725,12 @@
         ]
       ]
     },
-    "title": "99 events (06/Jul/2021 PDT)"
+    "title": "98 events (07/Jul/2021 PDT)"
   },
-  "last_update": "06/Jul/2021 @ 23:00:48 PDT",
+  "last_update": "07/Jul/2021 @ 00:00:35 PDT",
   "neo": {
     "date": "07/Jul/2021 PDT",
-    "last_update": "06/Jul/2021 @ 23:00:22 PDT",
+    "last_update": "07/Jul/2021 @ 00:00:10 PDT",
     "objects": [
       {
         "cat": "07/Jul/2021 @ 00:45:00 ",
@@ -3867,7 +3844,7 @@
     "title": "12 objects making close approach (07/Jul/2021 PDT)"
   },
   "satview": {
-    "date": "06/Jul/2021 PDT",
+    "date": "07/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 05/Jul/2021 @ 14:34:10 PDT.",
@@ -3934,7 +3911,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jul/2021 @ 23:00:23 PDT",
+    "last_update": "07/Jul/2021 @ 00:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3987,7 +3964,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (06/Jul/2021 PDT)"
+    "title": "10 people in space (07/Jul/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5474,7 +5451,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jul/2021 @ 23:00:28 PDT",
+    "last_update": "07/Jul/2021 @ 00:00:16 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
