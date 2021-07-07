@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jul/2021 @ 03:00:04 PDT",
+    "last_update": "07/Jul/2021 @ 04:00:06 PDT",
     "source": "https://www.youtube.com/embed/ix1lzur2QLQ?rel=0",
     "title": "Flight Through the Orion Nebula in Infrared Light (07/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -827,24 +827,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ej2n",
-        "location": "http://maps.google.com/maps?q=23.841,121.5319",
-        "name": "M 4.7 - 16 km SSW of Hualien City, Taiwan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2n"
       },
       {
         "category": [
@@ -1875,7 +1857,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "07/Jul/2021 @ 03:00:06 PDT",
+    "last_update": "07/Jul/2021 @ 04:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1979,11 +1961,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.838,-73.0353\"><b>M 4.5 - 11 km NW of Cepitá, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2x\">USGS</a>",
           6.838,
           -73.0353
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23.841,121.5319\"><b>M 4.7 - 16 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2n\">USGS</a>",
-          23.841,
-          121.5319
         ]
       ],
       "Floods": [],
@@ -3776,12 +3753,12 @@
         ]
       ]
     },
-    "title": "100 events (07/Jul/2021 PDT)"
+    "title": "99 events (07/Jul/2021 PDT)"
   },
-  "last_update": "07/Jul/2021 @ 03:00:36 PDT",
+  "last_update": "07/Jul/2021 @ 04:00:35 PDT",
   "neo": {
     "date": "07/Jul/2021 PDT",
-    "last_update": "07/Jul/2021 @ 03:00:06 PDT",
+    "last_update": "07/Jul/2021 @ 04:00:09 PDT",
     "objects": [
       {
         "cat": "07/Jul/2021 @ 00:45:00 ",
@@ -3962,7 +3939,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jul/2021 @ 03:00:07 PDT",
+    "last_update": "07/Jul/2021 @ 04:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5502,7 +5479,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Jul/2021 @ 03:00:13 PDT",
+    "last_update": "07/Jul/2021 @ 04:00:15 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
