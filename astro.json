@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jul/2021 @ 06:00:07 PDT",
+    "last_update": "07/Jul/2021 @ 07:00:05 PDT",
     "source": "https://www.youtube.com/embed/ix1lzur2QLQ?rel=0",
     "title": "Flight Through the Orion Nebula in Infrared Light (07/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -765,7 +765,7 @@
         ],
         "eid": "us7000ej7r",
         "location": "http://maps.google.com/maps?q=1.9937,127.6658",
-        "name": "M 4.5 - 48 km NW of Tobelo, Indonesia",
+        "name": "M 4.5 - Halmahera, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -1839,7 +1839,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "07/Jul/2021 @ 06:00:09 PDT",
+    "last_update": "07/Jul/2021 @ 07:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1915,7 +1915,7 @@
           -69.9168
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - 48 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
           1.9937,
           127.6658
         ],
@@ -3732,10 +3732,10 @@
     },
     "title": "98 events (07/Jul/2021 PDT)"
   },
-  "last_update": "07/Jul/2021 @ 06:00:35 PDT",
+  "last_update": "07/Jul/2021 @ 07:00:31 PDT",
   "neo": {
     "date": "07/Jul/2021 PDT",
-    "last_update": "07/Jul/2021 @ 06:00:10 PDT",
+    "last_update": "07/Jul/2021 @ 07:00:08 PDT",
     "objects": [
       {
         "cat": "07/Jul/2021 @ 00:45:00 ",
@@ -3829,8 +3829,8 @@
       },
       {
         "cat": "07/Jul/2021 @ 06:45:00 ",
-        "diameter": "0.10-0.21 miles",
-        "distance": "20,573,535.58 miles",
+        "diameter": "0.10-0.22 miles",
+        "distance": "20,573,560.88 miles",
         "hazardous": false,
         "name": "Asteroid (2021 KD1)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54147128",
@@ -3916,7 +3916,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jul/2021 @ 06:00:10 PDT",
+    "last_update": "07/Jul/2021 @ 07:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5456,7 +5456,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Jul/2021 @ 06:00:16 PDT",
+    "last_update": "07/Jul/2021 @ 07:00:13 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
