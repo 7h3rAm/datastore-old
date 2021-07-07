@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jul/2021 @ 04:00:06 PDT",
+    "last_update": "07/Jul/2021 @ 05:00:06 PDT",
     "source": "https://www.youtube.com/embed/ix1lzur2QLQ?rel=0",
     "title": "Flight Through the Orion Nebula in Infrared Light (07/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -673,24 +673,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ej2y",
-        "location": "http://maps.google.com/maps?q=46.3617,-107.749",
-        "name": "M 4.1 - Eastern Montana",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000ej8h",
         "location": "http://maps.google.com/maps?q=-22.5927,-68.7975",
         "name": "M 4.2 - 19 km SE of Calama, Chile",
@@ -781,16 +763,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ej2x",
-        "location": "http://maps.google.com/maps?q=6.838,-73.0353",
-        "name": "M 4.5 - 11 km NW of Cepitá, Colombia",
+        "eid": "us7000ej7r",
+        "location": "http://maps.google.com/maps?q=1.9937,127.6658",
+        "name": "M 4.5 - 48 km NW of Tobelo, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2x"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r"
       },
       {
         "category": [
@@ -799,16 +781,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ej7r",
-        "location": "http://maps.google.com/maps?q=1.9937,127.6658",
-        "name": "M 4.5 - Halmahera, Indonesia",
+        "eid": "us7000ejax",
+        "location": "http://maps.google.com/maps?q=34.5376,98.8837",
+        "name": "M 4.5 - Southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ejax"
       },
       {
         "category": [
@@ -827,24 +809,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ej30",
-        "location": "http://maps.google.com/maps?q=27.8229,53.2285",
-        "name": "M 4.7 - 45 km NE of Mohr, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej30"
       },
       {
         "category": [
@@ -953,6 +917,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej8u"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000ejb6",
+        "location": "http://maps.google.com/maps?q=23.863,121.6648",
+        "name": "M 5.3 - 14 km SSE of Hualien City, Taiwan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ejb6"
       },
       {
         "category": [
@@ -1857,11 +1839,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "07/Jul/2021 @ 04:00:08 PDT",
+    "last_update": "07/Jul/2021 @ 05:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.863,121.6648\"><b>M 5.3 - 14 km SSE of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ejb6\">USGS</a>",
+          23.863,
+          121.6648
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=34.5376,98.8837\"><b>M 4.5 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ejax\">USGS</a>",
+          34.5376,
+          98.8837
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.4732,98.9306\"><b>M 4.6 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja7\">USGS</a>",
           34.4732,
@@ -1918,7 +1910,7 @@
           -69.9168
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - 48 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
           1.9937,
           127.6658
         ],
@@ -1946,21 +1938,6 @@
           "<a href=\"http://maps.google.com/maps?q=26.8969,59.4231\"><b>M 4.9 - 41 km NNW of Fannūj, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej38\">USGS</a>",
           26.8969,
           59.4231
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=46.3617,-107.749\"><b>M 4.1 - Eastern Montana</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2y\">USGS</a>",
-          46.3617,
-          -107.749
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.8229,53.2285\"><b>M 4.7 - 45 km NE of Mohr, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej30\">USGS</a>",
-          27.8229,
-          53.2285
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.838,-73.0353\"><b>M 4.5 - 11 km NW of Cepitá, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej2x\">USGS</a>",
-          6.838,
-          -73.0353
         ]
       ],
       "Floods": [],
@@ -3753,12 +3730,12 @@
         ]
       ]
     },
-    "title": "99 events (07/Jul/2021 PDT)"
+    "title": "98 events (07/Jul/2021 PDT)"
   },
-  "last_update": "07/Jul/2021 @ 04:00:35 PDT",
+  "last_update": "07/Jul/2021 @ 05:00:33 PDT",
   "neo": {
     "date": "07/Jul/2021 PDT",
-    "last_update": "07/Jul/2021 @ 04:00:09 PDT",
+    "last_update": "07/Jul/2021 @ 05:00:09 PDT",
     "objects": [
       {
         "cat": "07/Jul/2021 @ 00:45:00 ",
@@ -3939,7 +3916,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jul/2021 @ 04:00:09 PDT",
+    "last_update": "07/Jul/2021 @ 05:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5479,7 +5456,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Jul/2021 @ 04:00:15 PDT",
+    "last_update": "07/Jul/2021 @ 05:00:14 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
@@ -6580,16 +6557,16 @@
       {
         "description": null,
         "flight": 139,
-        "launch": "31/Aug/2021 @ 17:00:00 PDT",
-        "name": "WorldView Legion 1-2",
+        "launch": "30/Oct/2021 @ 17:00:00 PDT",
+        "name": "Crew-3",
         "upcoming": true,
         "url": null
       },
       {
         "description": null,
         "flight": 140,
-        "launch": "30/Oct/2021 @ 17:00:00 PDT",
-        "name": "Crew-3",
+        "launch": "30/Sep/2021 @ 17:00:00 PDT",
+        "name": "USSF-44",
         "upcoming": true,
         "url": null
       },
@@ -6605,23 +6582,23 @@
         "description": null,
         "flight": 141,
         "launch": "30/Sep/2021 @ 17:00:00 PDT",
-        "name": "USSF-44",
-        "upcoming": true,
-        "url": null
-      },
-      {
-        "description": null,
-        "flight": 142,
-        "launch": "30/Sep/2021 @ 17:00:00 PDT",
         "name": "SARah 1",
         "upcoming": true,
         "url": null
       },
       {
         "description": null,
-        "flight": 144,
+        "flight": 143,
         "launch": "23/Nov/2021 @ 16:00:00 PST",
         "name": "DART",
+        "upcoming": true,
+        "url": null
+      },
+      {
+        "description": null,
+        "flight": 146,
+        "launch": "30/Sep/2021 @ 17:00:00 PDT",
+        "name": "WorldView Legion 1-2",
         "upcoming": true,
         "url": null
       },
