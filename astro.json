@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jul/2021 @ 11:00:20 PDT",
+    "last_update": "07/Jul/2021 @ 12:00:03 PDT",
     "source": "https://www.youtube.com/embed/ix1lzur2QLQ?rel=0",
     "title": "Flight Through the Orion Nebula in Infrared Light (07/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -727,6 +727,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "hv72569232",
+        "location": "http://maps.google.com/maps?q=19.8731666666667,-156.664166666667",
+        "name": "M 4.2 - 73 km WNW of Kalaoa, Hawaii",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72569232"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000esy8",
+        "location": "http://maps.google.com/maps?q=19.8919,-156.674",
+        "name": "M 4.2 - 74 km WNW of Kalaoa, Hawaii",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000esy8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ej8s",
         "location": "http://maps.google.com/maps?q=13.668,145.0517",
         "name": "M 4.3 - 22 km NE of Yigo Village, Guam",
@@ -765,7 +801,7 @@
         ],
         "eid": "us7000ej7r",
         "location": "http://maps.google.com/maps?q=1.9937,127.6658",
-        "name": "M 4.5 - 48 km NW of Tobelo, Indonesia",
+        "name": "M 4.5 - Halmahera, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -809,6 +845,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eja7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000esy6",
+        "location": "http://maps.google.com/maps?q=-21.1475,-68.7161",
+        "name": "M 4.7 - 146 km N of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000esy6"
       },
       {
         "category": [
@@ -917,6 +971,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej8u"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000esyn",
+        "location": "http://maps.google.com/maps?q=-55.8785,-26.4294",
+        "name": "M 5.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000esyn"
       },
       {
         "category": [
@@ -2019,11 +2091,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "07/Jul/2021 @ 11:00:22 PDT",
+    "last_update": "07/Jul/2021 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-55.8785,-26.4294\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000esyn\">USGS</a>",
+          -55.8785,
+          -26.4294
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.8731666666667,-156.664166666667\"><b>M 4.2 - 73 km WNW of Kalaoa, Hawaii</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/hv72569232\">USGS</a>",
+          19.8731666666667,
+          -156.664166666667
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.8919,-156.674\"><b>M 4.2 - 74 km WNW of Kalaoa, Hawaii</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000esy8\">USGS</a>",
+          19.8919,
+          -156.674
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.1475,-68.7161\"><b>M 4.7 - 146 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000esy6\">USGS</a>",
+          -21.1475,
+          -68.7161
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.986,139.5815\"><b>M 5.1 - 124 km WSW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ejba\">USGS</a>",
           -2.986,
@@ -2095,7 +2187,7 @@
           -69.9168
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - 48 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=1.9937,127.6658\"><b>M 4.5 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ej7r\">USGS</a>",
           1.9937,
           127.6658
         ],
@@ -3965,12 +4057,12 @@
         ]
       ]
     },
-    "title": "108 events (07/Jul/2021 PDT)"
+    "title": "112 events (07/Jul/2021 PDT)"
   },
-  "last_update": "07/Jul/2021 @ 11:00:48 PDT",
+  "last_update": "07/Jul/2021 @ 12:00:30 PDT",
   "neo": {
     "date": "07/Jul/2021 PDT",
-    "last_update": "07/Jul/2021 @ 11:00:22 PDT",
+    "last_update": "07/Jul/2021 @ 12:00:06 PDT",
     "objects": [
       {
         "cat": "07/Jul/2021 @ 00:45:00 ",
@@ -4151,7 +4243,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jul/2021 @ 11:00:23 PDT",
+    "last_update": "07/Jul/2021 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5691,7 +5783,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Jul/2021 @ 11:00:29 PDT",
+    "last_update": "07/Jul/2021 @ 12:00:12 PDT",
     "launches": [
       {
         "description": "Engine failure at 33 seconds and loss of vehicle",
