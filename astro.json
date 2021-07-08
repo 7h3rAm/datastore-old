@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jul/2021 @ 14:00:21 PDT",
+    "last_update": "08/Jul/2021 @ 15:00:21 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg",
     "title": "Perihelion to Aphelion (08/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1394,7 +1394,7 @@
           }
         ],
         "eid": "EONET_5452",
-        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/14.2,-63.7/14.8,-66.3/16.2,-69.0/17.0,-71.6/17.5,-73.9/17.9,-75.3/18.1,-75.5/18.7,-76.8/19.8,-77.9/20.6,-79.2/21.0,-79.9/21.5,-81.2/22.7,-81.9/23.5,-82.3/24.1,-82.4/24.9,-82.8/25.8,-83.0/27.3,-83.2/28.5,-83.5/29.9,-83.6/30.8,-83.4/32.1,-82.3/33.4,-81.3/35.0,-79.7/@9.4,-48.8,3z",
+        "location": "https://www.google.com/maps/dir/9.4,-48.8/10.1,-51.4/11.2,-53.8/11.8,-55.9/12.7,-58.6/13.4,-61.2/14.2,-63.7/14.8,-66.3/16.2,-69.0/17.0,-71.6/17.5,-73.9/17.9,-75.3/18.1,-75.5/18.7,-76.8/19.8,-77.9/20.6,-79.2/21.0,-79.9/21.5,-81.2/22.7,-81.9/23.5,-82.3/24.1,-82.4/24.9,-82.8/25.8,-83.0/27.3,-83.2/28.5,-83.5/29.9,-83.6/30.8,-83.4/32.1,-82.3/33.4,-81.3/35.0,-79.7/36.3,-78.3/@9.4,-48.8,3z",
         "name": "Tropical Storm Elsa",
         "source": [
           {
@@ -1611,24 +1611,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5438"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5374",
-        "location": "https://www.google.com/maps/dir/33.16433,-108.50974/@33.16433,-108.50974,3z",
-        "name": "Wildfire - Pinal and Gila Counties (Mescal Fire), Arizona, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=125074"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5374"
       },
       {
         "category": [
@@ -2217,7 +2199,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "08/Jul/2021 @ 14:00:23 PDT",
+    "last_update": "08/Jul/2021 @ 15:00:23 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3823,6 +3805,11 @@
           "<a href=\"http://maps.google.com/maps?q=35.0,-79.7\"><b>Tropical Storm Elsa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000795&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ELSA.shtml\">NOAA_NHC</a>",
           35.0,
           -79.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.3,-78.3\"><b>Tropical Storm Elsa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000795&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/ELSA.shtml\">NOAA_NHC</a>",
+          36.3,
+          -78.3
         ]
       ],
       "Snow": [],
@@ -4230,20 +4217,15 @@
           "<a href=\"http://maps.google.com/maps?q=38.433,-109.343\"><b>Pack Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7529/\">InciWeb</a>",
           38.433,
           -109.343
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.16433,-108.50974\"><b>Wildfire - Pinal and Gila Counties (Mescal Fire), Arizona, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=125074\">PDC</a>",
-          33.16433,
-          -108.50974
         ]
       ]
     },
-    "title": "119 events (08/Jul/2021 PDT)"
+    "title": "118 events (08/Jul/2021 PDT)"
   },
-  "last_update": "08/Jul/2021 @ 14:00:25 PDT",
+  "last_update": "08/Jul/2021 @ 15:00:24 PDT",
   "neo": {
     "date": "08/Jul/2021 PDT",
-    "last_update": "08/Jul/2021 @ 14:00:24 PDT",
+    "last_update": "08/Jul/2021 @ 15:00:23 PDT",
     "objects": [
       {
         "cat": "08/Jul/2021 @ 12:14:00 ",
@@ -4388,7 +4370,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Jul/2021 @ 14:00:25 PDT",
+    "last_update": "08/Jul/2021 @ 15:00:24 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
