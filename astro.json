@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jul/2021 @ 13:00:03 PDT",
+    "last_update": "08/Jul/2021 @ 14:00:21 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg",
     "title": "Perihelion to Aphelion (08/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -799,6 +799,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "ak0218owpvc7",
+        "location": "http://maps.google.com/maps?q=59.1641,-136.2587",
+        "name": "M 4.4 - 31 km SSW of Covenant Life, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0218owpvc7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000et2q",
         "location": "http://maps.google.com/maps?q=5.4722,126.512",
         "name": "M 4.5 - 105 km SSE of Pondaguitan, Philippines",
@@ -1043,6 +1061,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et50"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000etah",
+        "location": "http://maps.google.com/maps?q=13.0749,-90.0906",
+        "name": "M 5.4 - 63 km SSW of Acajutla, El Salvador",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etah"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000etaq",
+        "location": "http://maps.google.com/maps?q=-28.695,-71.7197",
+        "name": "M 5.4 - 94 km W of Vallenar, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etaq"
       },
       {
         "category": [
@@ -2163,11 +2217,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "08/Jul/2021 @ 13:00:05 PDT",
+    "last_update": "08/Jul/2021 @ 14:00:23 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=59.1641,-136.2587\"><b>M 4.4 - 31 km SSW of Covenant Life, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0218owpvc7\">USGS</a>",
+          59.1641,
+          -136.2587
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-28.695,-71.7197\"><b>M 5.4 - 94 km W of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etaq\">USGS</a>",
+          -28.695,
+          -71.7197
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.0749,-90.0906\"><b>M 5.4 - 63 km SSW of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etah\">USGS</a>",
+          13.0749,
+          -90.0906
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-34.7412,-71.8923\"><b>M 4.8 - 49 km WSW of Santa Cruz, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et99\">USGS</a>",
           -34.7412,
@@ -4169,12 +4238,12 @@
         ]
       ]
     },
-    "title": "116 events (08/Jul/2021 PDT)"
+    "title": "119 events (08/Jul/2021 PDT)"
   },
-  "last_update": "08/Jul/2021 @ 13:00:30 PDT",
+  "last_update": "08/Jul/2021 @ 14:00:25 PDT",
   "neo": {
     "date": "08/Jul/2021 PDT",
-    "last_update": "08/Jul/2021 @ 13:00:06 PDT",
+    "last_update": "08/Jul/2021 @ 14:00:24 PDT",
     "objects": [
       {
         "cat": "08/Jul/2021 @ 12:14:00 ",
@@ -4319,7 +4388,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Jul/2021 @ 13:00:06 PDT",
+    "last_update": "08/Jul/2021 @ 14:00:25 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
