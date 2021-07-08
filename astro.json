@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jul/2021 @ 15:00:21 PDT",
+    "last_update": "08/Jul/2021 @ 16:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg",
     "title": "Perihelion to Aphelion (08/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -727,24 +727,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000et0r",
-        "location": "http://maps.google.com/maps?q=37.5065,71.9622",
-        "name": "M 4.1 - 36 km E of Khorugh, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000et1q",
         "location": "http://maps.google.com/maps?q=-19.7627,-69.4201",
         "name": "M 4.1 - 91 km ENE of Iquique, Chile",
@@ -863,6 +845,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et1e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ew1625784613",
+        "location": "http://maps.google.com/maps?q=37.8952,-121.1256",
+        "name": "M 4.8 - 11 km WSW of Farmington, California",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1625784613"
       },
       {
         "category": [
@@ -997,24 +997,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000et0h",
-        "location": "http://maps.google.com/maps?q=23.8544,121.6468",
-        "name": "M 5.2 - 14 km SSE of Hualien City, Taiwan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0h"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000et4x",
         "location": "http://maps.google.com/maps?q=-18.463,-71.2286",
         "name": "M 5.2 - 91 km S of Pacocha, Peru",
@@ -1097,6 +1079,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etaq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "nc73584926",
+        "location": "http://maps.google.com/maps?q=38.5233345,-119.496666",
+        "name": "M 5.9 - 32km SSW of Smith Valley, NV",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926"
       },
       {
         "category": [
@@ -2199,11 +2199,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "08/Jul/2021 @ 15:00:23 PDT",
+    "last_update": "08/Jul/2021 @ 16:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.8952,-121.1256\"><b>M 4.8 - 11 km WSW of Farmington, California</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ew1625784613\">USGS</a>",
+          37.8952,
+          -121.1256
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.5233345,-119.496666\"><b>M 5.9 - 32km SSW of Smith Valley, NV</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926\">USGS</a>",
+          38.5233345,
+          -119.496666
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=59.1641,-136.2587\"><b>M 4.4 - 31 km SSW of Covenant Life, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0218owpvc7\">USGS</a>",
           59.1641,
@@ -2298,16 +2308,6 @@
           "<a href=\"http://maps.google.com/maps?q=-57.9284,-24.6212\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0u\">USGS</a>",
           -57.9284,
           -24.6212
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.5065,71.9622\"><b>M 4.1 - 36 km E of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0r\">USGS</a>",
-          37.5065,
-          71.9622
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23.8544,121.6468\"><b>M 5.2 - 14 km SSE of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0h\">USGS</a>",
-          23.8544,
-          121.6468
         ]
       ],
       "Floods": [],
@@ -4222,10 +4222,10 @@
     },
     "title": "118 events (08/Jul/2021 PDT)"
   },
-  "last_update": "08/Jul/2021 @ 15:00:24 PDT",
+  "last_update": "08/Jul/2021 @ 16:00:10 PDT",
   "neo": {
     "date": "08/Jul/2021 PDT",
-    "last_update": "08/Jul/2021 @ 15:00:23 PDT",
+    "last_update": "08/Jul/2021 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "08/Jul/2021 @ 12:14:00 ",
@@ -4370,7 +4370,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Jul/2021 @ 15:00:24 PDT",
+    "last_update": "08/Jul/2021 @ 16:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
