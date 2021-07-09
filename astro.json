@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jul/2021 @ 16:00:07 PDT",
+    "last_update": "08/Jul/2021 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/PeriAph2021_Jaworski1024.jpg",
     "title": "Perihelion to Aphelion (08/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -763,6 +763,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "nc73584936",
+        "location": "http://maps.google.com/maps?q=38.5046654,-119.5149994",
+        "name": "M 4.2 - 32km SE of Markleeville, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73584936"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000et16",
         "location": "http://maps.google.com/maps?q=37.9769,21.1347",
         "name": "M 4.3 - 4 km N of Kyllíni, Greece",
@@ -791,6 +809,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0218owpvc7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000etck",
+        "location": "http://maps.google.com/maps?q=-21.9543,-68.6255",
+        "name": "M 4.4 - 63 km NNE of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etck"
       },
       {
         "category": [
@@ -853,16 +889,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ew1625784613",
-        "location": "http://maps.google.com/maps?q=37.8952,-121.1256",
-        "name": "M 4.8 - 11 km WSW of Farmington, California",
+        "eid": "nc73585021",
+        "location": "http://maps.google.com/maps?q=38.4858322,-119.5410004",
+        "name": "M 4.6 - 30km ENE of Dardanelle, CA",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1625784613"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73585021"
       },
       {
         "category": [
@@ -953,24 +989,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et2w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000et0u",
-        "location": "http://maps.google.com/maps?q=-57.9284,-24.6212",
-        "name": "M 5.0 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0u"
       },
       {
         "category": [
@@ -2199,15 +2217,25 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "08/Jul/2021 @ 16:00:09 PDT",
+    "last_update": "08/Jul/2021 @ 17:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=37.8952,-121.1256\"><b>M 4.8 - 11 km WSW of Farmington, California</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ew1625784613\">USGS</a>",
-          37.8952,
-          -121.1256
+          "<a href=\"http://maps.google.com/maps?q=38.4858322,-119.5410004\"><b>M 4.6 - 30km ENE of Dardanelle, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73585021\">USGS</a>",
+          38.4858322,
+          -119.5410004
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.9543,-68.6255\"><b>M 4.4 - 63 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etck\">USGS</a>",
+          -21.9543,
+          -68.6255
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.5046654,-119.5149994\"><b>M 4.2 - 32km SE of Markleeville, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73584936\">USGS</a>",
+          38.5046654,
+          -119.5149994
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.5233345,-119.496666\"><b>M 5.9 - 32km SSW of Smith Valley, NV</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926\">USGS</a>",
@@ -2303,11 +2331,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.9769,21.1347\"><b>M 4.3 - 4 km N of Kyllíni, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et16\">USGS</a>",
           37.9769,
           21.1347
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.9284,-24.6212\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et0u\">USGS</a>",
-          -57.9284,
-          -24.6212
         ]
       ],
       "Floods": [],
@@ -4220,87 +4243,141 @@
         ]
       ]
     },
-    "title": "118 events (08/Jul/2021 PDT)"
+    "title": "119 events (08/Jul/2021 PDT)"
   },
-  "last_update": "08/Jul/2021 @ 16:00:10 PDT",
+  "last_update": "08/Jul/2021 @ 17:00:07 PDT",
   "neo": {
-    "date": "08/Jul/2021 PDT",
-    "last_update": "08/Jul/2021 @ 16:00:09 PDT",
+    "date": "09/Jul/2021 PDT",
+    "last_update": "08/Jul/2021 @ 17:00:06 PDT",
     "objects": [
       {
-        "cat": "08/Jul/2021 @ 12:14:00 ",
-        "diameter": "0.08-0.17 miles",
-        "distance": "8,352,333.49 miles",
+        "cat": "09/Jul/2021 @ 18:21:00 ",
+        "diameter": "0.09-0.19 miles",
+        "distance": "29,529,827.47 miles",
         "hazardous": true,
-        "name": "Asteroid (2008 UW91)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3434369",
-        "velocity": "43,777.67 mph"
+        "name": "Asteroid (2010 JN71)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3521439",
+        "velocity": "39,533.62 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 20:46:00 ",
+        "cat": "09/Jul/2021 @ 22:40:00 ",
+        "diameter": "0.34-0.77 miles",
+        "distance": "43,333,531.58 miles",
+        "hazardous": false,
+        "name": "Asteroid (2010 MU111)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3536126",
+        "velocity": "71,256.19 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 15:42:00 ",
         "diameter": "0.03-0.06 miles",
-        "distance": "23,973,955.47 miles",
+        "distance": "14,802,039.03 miles",
         "hazardous": false,
-        "name": "Asteroid (2015 YD10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3739066",
-        "velocity": "28,096.61 mph"
+        "name": "Asteroid (2016 NR)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3754379",
+        "velocity": "15,138.56 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 12:14:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "36,351,016.76 miles",
+        "cat": "09/Jul/2021 @ 23:18:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "8,353,480.41 miles",
         "hazardous": false,
-        "name": "Asteroid (2017 BG136)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3769438",
-        "velocity": "39,647.58 mph"
+        "name": "Asteroid (2017 DC36)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3769888",
+        "velocity": "22,492.85 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 01:52:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "37,545,365.18 miles",
+        "cat": "09/Jul/2021 @ 09:03:00 ",
+        "diameter": "0.04-0.08 miles",
+        "distance": "7,806,115.86 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 EX)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3799801",
-        "velocity": "12,962.55 mph"
+        "name": "Asteroid (2019 CL1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3838121",
+        "velocity": "27,057.23 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 01:30:00 ",
-        "diameter": "0.09-0.20 miles",
-        "distance": "17,814,567.76 miles",
+        "cat": "09/Jul/2021 @ 02:05:00 ",
+        "diameter": "0.07-0.16 miles",
+        "distance": "18,749,295.91 miles",
         "hazardous": false,
-        "name": "Asteroid (2019 KH2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3842592",
-        "velocity": "27,664.34 mph"
+        "name": "Asteroid (2019 LP)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3842685",
+        "velocity": "17,376.24 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 11:26:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "28,302,806.77 miles",
+        "cat": "09/Jul/2021 @ 21:23:00 ",
+        "diameter": "0.00-0.00 miles",
+        "distance": "11,199,092.54 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 AW4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54105262",
-        "velocity": "35,656.73 mph"
+        "name": "Asteroid (2020 HN3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016668",
+        "velocity": "8,185.99 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 04:22:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "29,398,316.43 miles",
+        "cat": "09/Jul/2021 @ 19:06:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "8,629,027.52 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 CF10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54122533",
-        "velocity": "22,133.97 mph"
+        "name": "Asteroid (2021 GY)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54134552",
+        "velocity": "18,861.77 mph"
       },
       {
-        "cat": "08/Jul/2021 @ 11:48:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "1,425,442.42 miles",
+        "cat": "09/Jul/2021 @ 03:29:00 ",
+        "diameter": "0.10-0.23 miles",
+        "distance": "35,270,367.01 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 NG)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54165399",
-        "velocity": "19,433.79 mph"
+        "name": "Asteroid (2021 LB2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54156744",
+        "velocity": "17,515.56 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 12:20:00 ",
+        "diameter": "0.14-0.32 miles",
+        "distance": "6,001,921.40 miles",
+        "hazardous": true,
+        "name": "Asteroid (2021 LD1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54154697",
+        "velocity": "54,750.73 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 00:54:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "17,435,571.87 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LJ5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54158259",
+        "velocity": "37,348.53 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 09:44:00 ",
+        "diameter": "0.15-0.35 miles",
+        "distance": "20,618,703.52 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LK2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54156750",
+        "velocity": "23,467.63 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 09:32:00 ",
+        "diameter": "0.10-0.22 miles",
+        "distance": "38,644,500.24 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LQ6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54160166",
+        "velocity": "30,808.45 mph"
+      },
+      {
+        "cat": "09/Jul/2021 @ 21:04:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "8,484,567.26 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 ND)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54165114",
+        "velocity": "19,356.73 mph"
       }
     ],
-    "title": "8 objects making close approach (08/Jul/2021 PDT)"
+    "title": "14 objects making close approach (09/Jul/2021 PDT)"
   },
   "satview": {
     "date": "08/Jul/2021 PDT",
@@ -4370,7 +4447,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Jul/2021 @ 16:00:10 PDT",
+    "last_update": "08/Jul/2021 @ 17:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
