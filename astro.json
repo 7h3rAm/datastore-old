@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jul/2021 @ 04:00:08 PDT",
+    "last_update": "09/Jul/2021 @ 05:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/LRVBPIX3M82Crop1024.jpg",
     "title": "M82: Starburst Galaxy with a Superwind (09/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1051,6 +1051,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000etip",
+        "location": "http://maps.google.com/maps?q=-29.0171,-69.8141",
+        "name": "M 4.7 - 104 km ESE of Vallenar, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etip"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000etds",
         "location": "http://maps.google.com/maps?q=-5.0454,150.3843",
         "name": "M 4.7 - 62 km NNE of Kimbe, Papua New Guinea",
@@ -1187,24 +1205,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etd9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000et5j",
-        "location": "http://maps.google.com/maps?q=31.9754,143.665",
-        "name": "M 5.2 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et5j"
       },
       {
         "category": [
@@ -2379,7 +2379,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "09/Jul/2021 @ 04:00:11 PDT",
+    "last_update": "09/Jul/2021 @ 05:00:10 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2403,6 +2403,11 @@
           "<a href=\"http://maps.google.com/maps?q=25.9691,90.3993\"><b>M 4.3 - 11 km SE of Lakhipur, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etjs\">USGS</a>",
           25.9691,
           90.3993
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.0171,-69.8141\"><b>M 4.7 - 104 km ESE of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etip\">USGS</a>",
+          -29.0171,
+          -69.8141
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-57.8767,-26.3779\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ethu\">USGS</a>",
@@ -2533,11 +2538,6 @@
           "<a href=\"http://maps.google.com/maps?q=41.6245,81.0426\"><b>M 4.8 - 80 km NE of Aksu, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et68\">USGS</a>",
           41.6245,
           81.0426
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.9754,143.665\"><b>M 5.2 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et5j\">USGS</a>",
-          31.9754,
-          143.665
         ]
       ],
       "Floods": [],
@@ -4462,10 +4462,10 @@
     },
     "title": "128 events (09/Jul/2021 PDT)"
   },
-  "last_update": "09/Jul/2021 @ 04:00:49 PDT",
+  "last_update": "09/Jul/2021 @ 05:00:47 PDT",
   "neo": {
     "date": "09/Jul/2021 PDT",
-    "last_update": "09/Jul/2021 @ 04:00:13 PDT",
+    "last_update": "09/Jul/2021 @ 05:00:11 PDT",
     "objects": [
       {
         "cat": "09/Jul/2021 @ 18:21:00 ",
@@ -4664,7 +4664,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jul/2021 @ 04:00:13 PDT",
+    "last_update": "09/Jul/2021 @ 05:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6204,7 +6204,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Jul/2021 @ 04:00:20 PDT",
+    "last_update": "09/Jul/2021 @ 05:00:17 PDT",
     "launches": {
       "future": [
         {
