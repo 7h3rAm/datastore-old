@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jul/2021 @ 00:00:07 PDT",
+    "last_update": "09/Jul/2021 @ 01:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/LRVBPIX3M82Crop1024.jpg",
     "title": "M82: Starburst Galaxy with a Superwind (09/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -764,8 +764,8 @@
           }
         ],
         "eid": "nc73585086",
-        "location": "http://maps.google.com/maps?q=38.534832,-119.5179977",
-        "name": "M 4.2 - 30km SE of Markleeville, CA",
+        "location": "http://maps.google.com/maps?q=38.537,-119.524",
+        "name": "M 4.2 - 29km SE of Markleeville, CA",
         "source": [
           {
             "sid": "USGS",
@@ -1115,24 +1115,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et4t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000et2w",
-        "location": "http://maps.google.com/maps?q=-55.9171,-26.4567",
-        "name": "M 5.0 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000et2w"
       },
       {
         "category": [
@@ -2415,7 +2397,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "09/Jul/2021 @ 00:00:09 PDT",
+    "last_update": "09/Jul/2021 @ 01:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2486,9 +2468,9 @@
           -119.4735031
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.534832,-119.5179977\"><b>M 4.2 - 30km SE of Markleeville, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73585086\">USGS</a>",
-          38.534832,
-          -119.5179977
+          "<a href=\"http://maps.google.com/maps?q=38.537,-119.524\"><b>M 4.2 - 29km SE of Markleeville, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73585086\">USGS</a>",
+          38.537,
+          -119.524
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.0454,150.3843\"><b>M 4.7 - 62 km NNE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etds\">USGS</a>",
@@ -2579,11 +2561,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.6677,71.444\"><b>M 4.9 - 8 km WSW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et3i\">USGS</a>",
           36.6677,
           71.444
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-55.9171,-26.4567\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000et2w\">USGS</a>",
-          -55.9171,
-          -26.4567
         ]
       ],
       "Floods": [],
@@ -4501,12 +4478,12 @@
         ]
       ]
     },
-    "title": "130 events (09/Jul/2021 PDT)"
+    "title": "129 events (09/Jul/2021 PDT)"
   },
-  "last_update": "09/Jul/2021 @ 00:00:46 PDT",
+  "last_update": "09/Jul/2021 @ 01:00:43 PDT",
   "neo": {
     "date": "09/Jul/2021 PDT",
-    "last_update": "09/Jul/2021 @ 00:00:10 PDT",
+    "last_update": "09/Jul/2021 @ 01:00:09 PDT",
     "objects": [
       {
         "cat": "09/Jul/2021 @ 18:21:00 ",
@@ -4705,7 +4682,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jul/2021 @ 00:00:10 PDT",
+    "last_update": "09/Jul/2021 @ 01:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6245,7 +6222,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Jul/2021 @ 00:00:17 PDT",
+    "last_update": "09/Jul/2021 @ 01:00:15 PDT",
     "launches": {
       "future": [
         {
