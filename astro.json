@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jul/2021 @ 15:00:07 PDT",
+    "last_update": "09/Jul/2021 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/LRVBPIX3M82Crop1024.jpg",
     "title": "M82: Starburst Galaxy with a Superwind (09/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1123,6 +1123,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000etwg",
+        "location": "http://maps.google.com/maps?q=-25.6902,-71.2015",
+        "name": "M 4.6 - 78 km WSW of Taltal, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etwg"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000etec",
         "location": "http://maps.google.com/maps?q=25.1204,95.2427",
         "name": "M 4.6 - 96 km SE of Phek, India",
@@ -1339,24 +1357,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000etd9",
-        "location": "http://maps.google.com/maps?q=38.5067,-119.5239",
-        "name": "M 5.2 - 4 km WSW of Walker, California",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etd9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000etvj",
         "location": "http://maps.google.com/maps?q=37.237,143.8847",
         "name": "M 5.3 - 257 km E of Namie, Japan",
@@ -1403,24 +1403,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etn1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nc73584926",
-        "location": "http://maps.google.com/maps?q=38.5075,-119.4998333",
-        "name": "M 6.0 - Antelope Valley, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926"
       },
       {
         "category": [
@@ -2591,11 +2573,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "09/Jul/2021 @ 15:00:09 PDT",
+    "last_update": "09/Jul/2021 @ 16:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-25.6902,-71.2015\"><b>M 4.6 - 78 km WSW of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etwg\">USGS</a>",
+          -25.6902,
+          -71.2015
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.0369,-96.0421\"><b>M 4.8 - 3 km SE of Tamazulápam del Espíritu Santo, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etw2\">USGS</a>",
           17.0369,
@@ -2780,16 +2767,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.5128333,-119.5106667\"><b>M 4.3 - 32km SE of Markleeville, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73584936\">USGS</a>",
           38.5128333,
           -119.5106667
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.5067,-119.5239\"><b>M 5.2 - 4 km WSW of Walker, California</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etd9\">USGS</a>",
-          38.5067,
-          -119.5239
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.5075,-119.4998333\"><b>M 6.0 - Antelope Valley, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926\">USGS</a>",
-          38.5075,
-          -119.4998333
         ]
       ],
       "Floods": [],
@@ -4742,12 +4719,12 @@
         ]
       ]
     },
-    "title": "140 events (09/Jul/2021 PDT)"
+    "title": "139 events (09/Jul/2021 PDT)"
   },
-  "last_update": "09/Jul/2021 @ 15:00:40 PDT",
+  "last_update": "09/Jul/2021 @ 16:00:38 PDT",
   "neo": {
     "date": "09/Jul/2021 PDT",
-    "last_update": "09/Jul/2021 @ 15:00:10 PDT",
+    "last_update": "09/Jul/2021 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "09/Jul/2021 @ 18:21:00 ",
@@ -4946,7 +4923,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jul/2021 @ 15:00:10 PDT",
+    "last_update": "09/Jul/2021 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6486,7 +6463,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Jul/2021 @ 15:00:18 PDT",
+    "last_update": "09/Jul/2021 @ 16:00:15 PDT",
     "launches": {
       "future": [
         {
