@@ -3917,7 +3917,7 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
-        "sparkid": "▁▁▁▁▁",
+        "sparkid": "█▁▁▁▁",
         "transaction": 0
       },
       "Cryptorbit": {
@@ -4466,7 +4466,7 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
-        "sparkid": "▁▁▁▁▁",
+        "sparkid": "█▁▁▁▁",
         "transaction": 0
       },
       "RansomPlus": {
@@ -4814,7 +4814,7 @@
     }
   },
   "graph": {},
-  "last_update": "10/Jul/2021 @ 00:49:50 PDT",
+  "last_update": "10/Jul/2021 @ 01:14:58 PDT",
   "stats": {
     "count_address_donation": 384,
     "count_address_popular": 151,
