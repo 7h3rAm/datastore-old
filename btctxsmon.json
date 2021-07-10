@@ -3171,6 +3171,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#f44336;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "ASN1": {
@@ -3179,6 +3181,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "AlcatrazLocker": {
@@ -3187,6 +3191,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "AngleWare": {
@@ -3195,6 +3201,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#f44336;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "ApolloLocker": {
@@ -3203,6 +3211,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "AtomBuilder": {
@@ -3211,6 +3221,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
         "transaction": 0
       },
       "BadBlock": {
@@ -3219,6 +3231,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "BadEncript": {
@@ -3227,6 +3241,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "BadRabbit": {
@@ -3235,6 +3251,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "Badware": {
@@ -3243,6 +3261,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "BansomQareManna": {
@@ -3251,6 +3271,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
         "transaction": 0
       },
       "BitCrypt": {
@@ -3259,6 +3281,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "BitPaymer": {
@@ -3267,6 +3291,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "BitStak": {
@@ -3275,6 +3301,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "Bitcoin Scammer": {
@@ -3283,6 +3311,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "Bitpaymer": {
@@ -3291,6 +3321,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "BlackFeather": {
@@ -3299,6 +3331,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
         "transaction": 0
       },
       "BlackHeart": {
@@ -3307,6 +3341,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
         "transaction": 0
       },
       "BlackSheep": {
@@ -3315,6 +3351,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
         "transaction": 0
       },
       "Bloccato": {
@@ -3323,6 +3361,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "Bucbi": {
@@ -3331,6 +3371,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "Bytar": {
@@ -3339,6 +3381,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "C3YPT3OR": {
@@ -3347,6 +3391,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
         "transaction": 0
       },
       "CSharpEncoded": {
@@ -3355,6 +3401,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "CTBLocker": {
@@ -3363,6 +3411,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
         "transaction": 0
       },
       "Cerber": {
@@ -3371,6 +3421,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "Chimera": {
@@ -3379,6 +3431,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
         "transaction": 0
       },
       "ClipboardMITM": {
@@ -3387,6 +3441,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "Coinbase Phishing": {
@@ -3395,6 +3451,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "ComradeCircle": {
@@ -3403,6 +3461,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "CryLocker": {
@@ -3411,6 +3471,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "CryptXXX": {
@@ -3419,6 +3481,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoApp": {
@@ -3427,6 +3491,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoBlock": {
@@ -3435,6 +3501,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoDefense": {
@@ -3443,6 +3511,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#69359c;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoHost": {
@@ -3451,6 +3521,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoLocker": {
@@ -3459,6 +3531,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoShuffler": {
@@ -3467,6 +3541,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoTorLocker": {
@@ -3475,6 +3551,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "CryptoWall": {
@@ -3483,6 +3561,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
         "transaction": 0
       },
       "Cryptorbit": {
@@ -3491,6 +3571,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "DMALocker": {
@@ -3499,6 +3581,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
         "transaction": 0
       },
       "DiskWriter": {
@@ -3507,6 +3591,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#69359c;\">▁</span></span>",
         "transaction": 0
       },
       "DoubleLocker": {
@@ -3515,6 +3601,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "EdgeLocker": {
@@ -3523,6 +3611,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "ElectrumPro Scammer": {
@@ -3531,6 +3621,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#69359c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "EncrypTile": {
@@ -3539,6 +3631,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "Equihax": {
@@ -3547,6 +3641,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "Fake Bomb Threat": {
@@ -3555,6 +3651,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
         "transaction": 0
       },
       "FindZip": {
@@ -3563,6 +3661,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
         "transaction": 0
       },
       "Flyper": {
@@ -3571,6 +3671,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
         "transaction": 0
       },
       "Funfact": {
@@ -3579,6 +3681,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "GandCrab": {
@@ -3587,6 +3691,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "Globe": {
@@ -3595,6 +3701,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
         "transaction": 0
       },
       "GlobeImposter": {
@@ -3603,6 +3711,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#f44336;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "GoldenEye": {
@@ -3611,6 +3721,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "Hand of God": {
@@ -3619,6 +3731,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
         "transaction": 0
       },
       "HappyLocker": {
@@ -3627,6 +3741,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
         "transaction": 0
       },
       "Haxerboi": {
@@ -3635,6 +3751,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "HiBuddy!": {
@@ -3643,6 +3761,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "HiddenTear": {
@@ -3651,6 +3771,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "ITBooks": {
@@ -3659,6 +3781,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
         "transaction": 0
       },
       "Iron": {
@@ -3667,6 +3791,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
         "transaction": 0
       },
       "JNEC.a": {
@@ -3675,6 +3801,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
         "transaction": 0
       },
       "Jigsaw": {
@@ -3683,6 +3811,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "JungleSec": {
@@ -3691,6 +3821,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "KeRanger": {
@@ -3699,6 +3831,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
         "transaction": 0
       },
       "KillDisk": {
@@ -3707,6 +3841,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
         "transaction": 0
       },
       "Kovter Nemucod": {
@@ -3715,6 +3851,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "Krypton": {
@@ -3723,6 +3861,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "L0cked": {
@@ -3731,6 +3871,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
         "transaction": 0
       },
       "LLTPLocker": {
@@ -3739,6 +3881,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "LambdaLocker": {
@@ -3747,6 +3891,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "LightningCrypt": {
@@ -3755,6 +3901,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "Locky": {
@@ -3763,6 +3911,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "LockyDecryptor": {
@@ -3771,6 +3921,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#69359c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "Magniber": {
@@ -3779,6 +3931,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
         "transaction": 0
       },
       "Mahasaraswati": {
@@ -3787,6 +3941,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "Mamba": {
@@ -3795,6 +3951,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
         "transaction": 0
       },
       "Manifestus": {
@@ -3803,6 +3961,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
         "transaction": 0
       },
       "MauriGo": {
@@ -3811,6 +3971,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "Mircop Crypt888": {
@@ -3819,6 +3981,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "Mischa": {
@@ -3827,6 +3991,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "NemucodAES": {
@@ -3835,6 +4001,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
         "transaction": 0
       },
       "NoobCrypt": {
@@ -3843,6 +4011,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "Nuke": {
@@ -3851,6 +4021,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "Nullbyte": {
@@ -3859,6 +4031,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
         "transaction": 0
       },
       "OXAR": {
@@ -3867,6 +4041,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
         "transaction": 0
       },
       "Oops": {
@@ -3875,6 +4051,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#69359c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "Osiris": {
@@ -3883,6 +4061,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "OzozaLocker": {
@@ -3891,6 +4071,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#8357ff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "Pacman": {
@@ -3899,6 +4081,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "Petya": {
@@ -3907,6 +4091,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "PopcornTime": {
@@ -3915,6 +4101,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
         "transaction": 0
       },
       "PredatorTheCipher": {
@@ -3923,6 +4111,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "Princess": {
@@ -3931,6 +4121,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#5b92e5;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
         "transaction": 0
       },
       "PrincessEvolution": {
@@ -3939,6 +4131,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
         "transaction": 0
       },
       "ProposalCrypt": {
@@ -3947,6 +4141,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
         "transaction": 0
       },
       "REKTLocker": {
@@ -3955,6 +4151,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "RackCrypt": {
@@ -3963,6 +4161,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
         "transaction": 0
       },
       "Ransom Spam": {
@@ -3971,6 +4171,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "RansomPlus": {
@@ -3979,6 +4181,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "Ransomix": {
@@ -3987,6 +4191,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "RedEye": {
@@ -3995,6 +4201,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
         "transaction": 0
       },
       "RenLocker": {
@@ -4003,6 +4211,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "Ryuk": {
@@ -4011,6 +4221,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
         "transaction": 0
       },
       "SamSam": {
@@ -4019,6 +4231,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "Satan": {
@@ -4027,6 +4241,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
         "transaction": 0
       },
       "SatanCryptor": {
@@ -4035,6 +4251,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
         "transaction": 0
       },
       "Satyr": {
@@ -4043,6 +4261,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "SharkBuilder": {
@@ -4051,6 +4271,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fe4164;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
         "transaction": 0
       },
       "Shrug": {
@@ -4059,6 +4281,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "Sigma": {
@@ -4067,6 +4291,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
         "transaction": 0
       },
       "Skull Ransomware": {
@@ -4075,6 +4301,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "Spora": {
@@ -4083,6 +4311,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
         "transaction": 0
       },
       "TeslaCrypt": {
@@ -4091,6 +4321,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#17a2b8;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
         "transaction": 0
       },
       "Thanatos": {
@@ -4099,6 +4331,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#ffc107;\">▁</span></span>",
         "transaction": 0
       },
       "TheTrumpLocker": {
@@ -4107,6 +4341,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#0c9;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#dc3545;\">▁</span></span>",
         "transaction": 0
       },
       "ThunderCrypt": {
@@ -4115,6 +4351,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
         "transaction": 0
       },
       "Troldesh": {
@@ -4123,6 +4361,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#fe4164;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffcc66;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
         "transaction": 0
       },
       "Twitter Crypto Scam": {
@@ -4131,6 +4371,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#fd7e14;\">▁</span></span>",
         "transaction": 0
       },
       "Unknown Ransomware": {
@@ -4139,6 +4381,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#00bcd4;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
         "transaction": 0
       },
       "Uyari": {
@@ -4147,6 +4391,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#6c757d;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#dc3545;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
         "transaction": 0
       },
       "VenusLocker": {
@@ -4155,6 +4401,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#e83e8c;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "VirLocker": {
@@ -4163,6 +4411,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#f44336;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#4caf50;\">▁</span></span>",
         "transaction": 0
       },
       "WanaCry": {
@@ -4171,6 +4421,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#0c9;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#20c997;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "WannaCry Hack Team": {
@@ -4179,6 +4431,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#fd7e14;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6c757d;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
         "transaction": 0
       },
       "WannaDecrypt0r": {
@@ -4187,6 +4441,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#007bff;\">█</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "WannaSpam": {
@@ -4195,6 +4451,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#2196f3;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
         "transaction": 0
       },
       "Xorist": {
@@ -4203,6 +4461,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#5b92e5;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#00bcd4;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#20b2aa;\">▁</span></span>",
         "transaction": 0
       },
       "Yatron": {
@@ -4211,6 +4471,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#17a2b8;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#20c997;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
         "transaction": 0
       },
       "ZCryptor": {
@@ -4219,6 +4481,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#2196f3;\">█</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#ffc107;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#007bff;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#20c997;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#00b7eb;\">▁</span></span>",
         "transaction": 0
       },
       "ZeroCrypt": {
@@ -4227,6 +4491,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#8357ff;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#6f42c1;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#00b7eb;\">█</span><span style=\"color:#00b7eb;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#f44336;\">▁</span><span style=\"color:#ffcc66;\">▁</span></span>",
         "transaction": 0
       },
       "Zoldon": {
@@ -4235,6 +4501,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#20b2aa;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#e83e8c;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6f42c1;\">█</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#a50b5e;\">▁</span></span>",
         "transaction": 0
       },
       "Zorro": {
@@ -4243,6 +4511,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#007bff;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#ffc107;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#28a745;\">▁</span></span>",
         "transaction": 0
       },
       "cru3lty": {
@@ -4251,6 +4521,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#28a745;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#00bcd4;\">▁</span><span style=\"color:#20b2aa;\">▁</span><span style=\"color:#f44336;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#69359c;\">█</span><span style=\"color:#0c9;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#8357ff;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
         "transaction": 0
       },
       "iRansom": {
@@ -4259,6 +4531,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#99cc99;\">█</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#ffcc66;\">▁</span><span style=\"color:#6f42c1;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#a50b5e;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#4caf50;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#e83e8c;\">▁</span></span>",
         "transaction": 0
       },
       "n1n1n1": {
@@ -4267,6 +4541,8 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#4caf50;\">█</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#a50b5e;\">▁</span><span style=\"color:#2196f3;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#17a2b8;\">▁</span><span style=\"color:#dc3545;\">▁</span><span style=\"color:#fe4164;\">▁</span><span style=\"color:#99cc99;\">▁</span></span>",
         "transaction": 0
       },
       "thedarkoverlord": {
@@ -4275,12 +4551,14 @@
         "last_seen": null,
         "received": 0,
         "sent": 0,
+        "sparkid": "<span class=\"sparklines\"><span style=\"color:#fd7e14;\">█</span><span style=\"color:#99cc99;\">▁</span><span style=\"color:#28a745;\">▁</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#6610f2;\">▁</span></span>",
+        "sparkidlong": "<span class=\"sparklines\"><span style=\"color:#6610f2;\">█</span><span style=\"color:#6610f2;\">▁</span><span style=\"color:#69359c;\">▁</span><span style=\"color:#6c757d;\">▁</span><span style=\"color:#5b92e5;\">▁</span></span>",
         "transaction": 0
       }
     }
   },
   "graph": {},
-  "last_update": "09/Jul/2021 @ 23:31:35 PDT",
+  "last_update": "09/Jul/2021 @ 23:54:52 PDT",
   "stats": {
     "count_address_donation": 384,
     "count_address_popular": 151,
