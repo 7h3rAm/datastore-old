@@ -1,6 +1,14 @@
 {
   "category": {
     "donation": {
+      "#bitcoin-otc": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "0x00sec": {
         "address": 1,
         "balance": 0,
@@ -17,7 +25,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "ASpecialWish": {
+      "A Special Wish": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -81,7 +89,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "AndreasAntonopoulos": {
+      "Andreas Antonopoulos": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -121,15 +129,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "ApacheSoftwareFoundation": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "Archive.org": {
+      "Apache Software Foundation": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -361,14 +361,6 @@
         "sent": 0,
         "transaction": 0
       },
-      "Bitcoin-otc": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
       "Bitcoin.Travel": {
         "address": 1,
         "balance": 0,
@@ -561,7 +553,23 @@
         "sent": 0,
         "transaction": 0
       },
+      "Brmlab Hackerspace Prague": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "BuyBitcoinWorldwide": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Casascius Bitcoin Analyzer": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -609,7 +617,15 @@
         "sent": 0,
         "transaction": 0
       },
-      "CodeToInspire": {
+      "Code T oInspire": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Coin Dance": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -618,14 +634,6 @@
         "transaction": 0
       },
       "CoinAd.com": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "CoinDance": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -745,7 +753,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "Dawid Ci  arkiewicz": {
+      "Dawid Ciężarkiewicz": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -753,7 +761,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "DecentralizedDanceParty": {
+      "Decentralized Dance Party": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -777,7 +785,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "DiasporaProject": {
+      "Diaspora Project": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -817,8 +825,16 @@
         "sent": 0,
         "transaction": 0
       },
+      "Donate Bitcoins": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "DonateBitcoins": {
-        "address": 2,
+        "address": 1,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -873,7 +889,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "Eligius mining pool": {
+      "Eligius Mining Pool": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -938,7 +954,7 @@
         "transaction": 0
       },
       "FeedingAmerica": {
-        "address": 1,
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -953,7 +969,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "FoodBankForNYC ActionAgainsHunger": {
+      "Food Bank For NYC ActionAgainsHunger": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1025,15 +1041,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "Freedomsphoenix.com": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "GATA Gold Anti Trust Action": {
+      "GATA Gold AntiTrust Action": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1201,7 +1209,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "HaveIBeenPwned": {
+      "Have I Been Pwned": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1234,7 +1242,7 @@
         "transaction": 0
       },
       "I2P": {
-        "address": 1,
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -1257,8 +1265,16 @@
         "sent": 0,
         "transaction": 0
       },
-      "IOCBucket": {
+      "IOC Bucket": {
         "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Internet Archive": {
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -1297,7 +1313,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "JuicinJake": {
+      "Juicin Jake": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1369,7 +1385,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "LiberLand": {
+      "Liberland": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1385,7 +1401,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "LifeboatFoundation1": {
+      "Lifeboat Foundation": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1393,7 +1409,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "LifeboatFoundation2": {
+      "Lifeboat Foundation1": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1402,15 +1418,7 @@
         "transaction": 0
       },
       "Linux Mint": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "LinuxMint": {
-        "address": 1,
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -1457,7 +1465,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "MarcusHutchinsLegalDefenseDonations": {
+      "Marcus Hutchins Legal Defense Donations": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1513,7 +1521,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "MethuselahFoundation": {
+      "Methuselah Foundation": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1625,7 +1633,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "OSEG Project Wind Turbine": {
+      "OSEG": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1633,7 +1641,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "OSEG all projects": {
+      "OSEG Project Wind Turbine": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1865,7 +1873,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "RealtimeBitcoin": {
+      "Realtime Bitcoin": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1937,7 +1945,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "SatoshiNakamoto": {
+      "Satoshi Nakamoto Institute": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -1945,7 +1953,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "SatoshiNakamotoInstitute": {
+      "SatoshiNakamoto": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2001,7 +2009,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "SportsCharityleague": {
+      "Sports Charity League": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2065,7 +2073,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "TPBitcoinCalculator": {
+      "TP Bitcoin Calculator": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2153,6 +2161,14 @@
         "sent": 0,
         "transaction": 0
       },
+      "The Hunger Project": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "The Liberty Radio Network": {
         "address": 1,
         "balance": 0,
@@ -2177,32 +2193,16 @@
         "sent": 0,
         "transaction": 0
       },
+      "The Water Project": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "TheBitcoinFoundation": {
         "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "TheHungerProject": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "TheInternetArchive": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "TheWaterProject": {
-        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -2217,7 +2217,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "Thejeshgn Developer": {
+      "Thejesh GN": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2225,7 +2225,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "TipMeInBitcoin": {
+      "Tip Me In Bitcoin": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2297,7 +2297,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "TweepCoin": {
+      "Tweep Coin": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2305,7 +2305,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "TweetsBroker": {
+      "Tweets Broker": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2313,7 +2313,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "UoAStudentsForLife": {
+      "UoA Students For Life": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2322,7 +2322,7 @@
         "transaction": 0
       },
       "VLC": {
-        "address": 1,
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -2345,8 +2345,8 @@
         "sent": 0,
         "transaction": 0
       },
-      "WalletExplorer": {
-        "address": 1,
+      "Wallet Explorer": {
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -2355,6 +2355,14 @@
       },
       "Watsi": {
         "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "We Are Change": {
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -2553,14 +2561,6 @@
         "sent": 0,
         "transaction": 0
       },
-      "brmlab hackerspace prague": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
       "btcrecover": {
         "address": 1,
         "balance": 0,
@@ -2570,14 +2570,6 @@
         "transaction": 0
       },
       "carlos8f Zenbot": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "casascius.uberbills.com": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2643,6 +2635,14 @@
       },
       "fnordprefekt": {
         "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "freedomsphoenix.com": {
+        "address": 2,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -2849,14 +2849,6 @@
         "sent": 0,
         "transaction": 0
       },
-      "wearechange.org": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
       "webpg.org": {
         "address": 1,
         "balance": 0,
@@ -2915,6 +2907,14 @@
         "sent": 0,
         "transaction": 0
       },
+      "Bitcoin Eater Address": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "Bitcoin-24": {
         "address": 1,
         "balance": 0,
@@ -2924,14 +2924,6 @@
         "transaction": 0
       },
       "Bitcoin-24.com": {
-        "address": 1,
-        "balance": 0,
-        "last_seen": null,
-        "received": 0,
-        "sent": 0,
-        "transaction": 0
-      },
-      "BitcoinEaterAddress": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -2955,7 +2947,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "BloombergReporter": {
+      "Bloomberg Reporter": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -3051,8 +3043,16 @@
         "sent": 0,
         "transaction": 0
       },
+      "CoinSecure Hacker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
       "CoinSecureHacker": {
-        "address": 22,
+        "address": 21,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -3115,7 +3115,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "MtGox": {
+      "Mt. Gox": {
         "address": 87,
         "balance": 0,
         "last_seen": null,
@@ -3123,7 +3123,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "PalindromeAddress": {
+      "Palindrome Address": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -3139,7 +3139,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "ThePirateBay": {
+      "The Pirate Bay": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -3155,7 +3155,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "USMarshalls SilkRoad RossUlbricht": {
+      "US Marshalls SilkRoad Ross Ulbricht": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -3285,7 +3285,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "BitcoinScammer": {
+      "Bitcoin Scammer": {
         "address": 26,
         "balance": 0,
         "last_seen": null,
@@ -3397,7 +3397,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "CoinbasePhishing": {
+      "Coinbase Phishing": {
         "address": 1,
         "balance": 0,
         "last_seen": null,
@@ -3557,7 +3557,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "FakeBombThreat": {
+      "Fake Bomb Threat": {
         "address": 25,
         "balance": 0,
         "last_seen": null,
@@ -3973,16 +3973,16 @@
         "sent": 0,
         "transaction": 0
       },
-      "RansomPlus": {
-        "address": 1,
+      "Ransom Spam": {
+        "address": 288,
         "balance": 0,
         "last_seen": null,
         "received": 0,
         "sent": 0,
         "transaction": 0
       },
-      "RansomSpam": {
-        "address": 288,
+      "RansomPlus": {
+        "address": 1,
         "balance": 0,
         "last_seen": null,
         "received": 0,
@@ -4077,7 +4077,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "SkullRansomware": {
+      "Skull Ransomware": {
         "address": 3,
         "balance": 0,
         "last_seen": null,
@@ -4133,7 +4133,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "TwitterCryptoScam": {
+      "Twitter Crypto Scam": {
         "address": 38,
         "balance": 0,
         "last_seen": null,
@@ -4181,7 +4181,7 @@
         "sent": 0,
         "transaction": 0
       },
-      "WannaCryHackTeam": {
+      "WannaCry Hack Team": {
         "address": 2,
         "balance": 0,
         "last_seen": null,
@@ -4288,13 +4288,13 @@
     }
   },
   "graph": {},
-  "last_update": "09/Jul/2021 @ 21:32:56 PDT",
+  "last_update": "09/Jul/2021 @ 23:05:47 PDT",
   "stats": {
-    "count_address_donation": 378,
+    "count_address_donation": 384,
     "count_address_popular": 151,
     "count_address_ransom": 979,
-    "count_wallet_donation": 361,
-    "count_wallet_popular": 35,
+    "count_wallet_donation": 360,
+    "count_wallet_popular": 36,
     "count_wallet_ransom": 139
   }
 }
