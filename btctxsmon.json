@@ -2898,17 +2898,1411 @@
         "transaction": 0
       }
     },
-    "popular": {},
-    "ransom": {}
+    "popular": {
+      "BitAurum.eu": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitFunder": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitStampHackers": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bitcoin-24": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bitcoin-24.com": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitcoinEaterAddress": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bitmarket.eu": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Blockchain.info": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BloombergReporter": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_BitcoinGenesisCoinbase": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_SatoshiNakamoto": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_aurinkoaurinkoaurinko": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_bitcoin_is_awesome": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_correct_horse_battery_staple": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_forgottenpassword": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_fuckfuckfuckfuck": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_goatsegoatsegoatse": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_loremipsumdolorsitamet": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_password": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BrainWallet_testingtestingtesting": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CoinSecureHacker": {
+        "address": 22,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "FBI": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "GavinAndresen_Bitcoin_Faucet": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "HuobiWhale": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Instawallet": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Instawallet_Cold_Storage": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Laszlo": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "LowercaseBTCAddress": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "MtGox": {
+        "address": 87,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "PalindromeAddress": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "SilkRoad": {
+        "address": 6,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ThePirateBay": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "TimDraper_USMarshalls_SilkRoad": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "USMarshalls_SilkRoad_RossUlbricht": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Wired_BFL": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      }
+    },
+    "ransom": {
+      "7ev3n": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ASN1": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "AlcatrazLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "AngleWare": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ApolloLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "AtomBuilder": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BadBlock": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BadEncript": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BadRabbit": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Badware": {
+        "address": 71,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BansomQareManna": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitCrypt": {
+        "address": 124,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitPaymer": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitStak": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BitcoinScammer": {
+        "address": 26,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bitpaymer": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BlackFeather": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BlackHeart": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "BlackSheep": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bloccato": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bucbi": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Bytar": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "C3YPT3OR": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CSharpEncoded": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CTBLocker": {
+        "address": 14,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Cerber": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Chimera": {
+        "address": 6,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ClipboardMITM": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CoinbasePhishing": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ComradeCircle": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptXXX": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoApp": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoBlock": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoDefense": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoHost": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoLocker": {
+        "address": 72,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoShuffler": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoTorLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "CryptoWall": {
+        "address": 16,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Cryptorbit": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "DMALocker": {
+        "address": 8,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "DiskWriter": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "DoubleLocker": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "EdgeLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ElectrumProScammer": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "EncrypTile": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Equihax": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "FakeBombThreat": {
+        "address": 25,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "FindZip": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Flyper": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Funfact": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "GandCrab": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Globe": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "GlobeImposter": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "GoldenEye": {
+        "address": 4,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Hand_of_God": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "HappyLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Haxerboi": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "HiBuddy!": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "HiddenTear": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ITBooks": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Iron": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "JNEC.a": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Jigsaw": {
+        "address": 22,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "JungleSec": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "KeRanger": {
+        "address": 6,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "KillDisk": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Kovter_Nemucod": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Krypton": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "L0cked": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "LLTPLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "LambdaLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "LightningCrypt": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Locky": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "LockyDecryptor": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Magniber": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Mahasaraswati": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Mamba": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Manifestus": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "MauriGo": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Mircop_Crypt888": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Mischa": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "NemucodAES": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "NoobCrypt": {
+        "address": 4,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Nuke": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Nullbyte": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "OXAR": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Oops": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Osiris": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "OzozaLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Pacman": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Petya": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "PopcornTime": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "PredatorTheCipher": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Princess": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "PrincessEvolution": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ProposalCrypt": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "REKTLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "RackCrypt": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "RansomPlus": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "RansomSpam": {
+        "address": 288,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Ransomix": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "RedEye": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "RenLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Ryuk": {
+        "address": 38,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "SamSam": {
+        "address": 49,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Satan": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "SatanCryptor": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Satyr": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "SharkBuilder": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Shrug": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Sigma": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "SkullRansomware": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Spora": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "TeslaCrypt": {
+        "address": 5,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Thanatos": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "TheTrumpLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ThunderCrypt": {
+        "address": 4,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Troldesh": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "TwitterCryptoScam": {
+        "address": 38,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "UnknownRansomware": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Uyari": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "VenusLocker": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "VirLocker": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "WanaCry": {
+        "address": 9,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "WannaCryHackTeam": {
+        "address": 2,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "WannaDecrypt0r": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "WannaSpam": {
+        "address": 7,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Xorist": {
+        "address": 4,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Yatron": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ZCryptor": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "ZeroCrypt": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Zoldon": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "Zorro": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "cru3lty": {
+        "address": 3,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "iRansom": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "n1n1n1": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      },
+      "thedarkoverlord": {
+        "address": 1,
+        "balance": 0,
+        "last_seen": null,
+        "received": 0,
+        "sent": 0,
+        "transaction": 0
+      }
+    }
   },
   "graph": {},
-  "last_update": "09/Jul/2021 @ 20:47:42 PDT",
+  "last_update": "09/Jul/2021 @ 21:20:29 PDT",
   "stats": {
     "count_address_donation": 378,
     "count_address_popular": 151,
     "count_address_ransom": 979,
     "count_wallet_donation": 362,
-    "count_wallet_popular": 0,
-    "count_wallet_ransom": 0
+    "count_wallet_popular": 35,
+    "count_wallet_ransom": 139
   }
 }
