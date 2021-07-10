@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Jul/2021 @ 04:00:07 PDT",
+    "last_update": "10/Jul/2021 @ 05:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/IMG_2021_07_08_29558_APOD1024.jpg",
     "title": "Mercury and the Da Vinci Glow (10/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -925,6 +925,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eu36",
+        "location": "http://maps.google.com/maps?q=12.5979,-59.3719",
+        "name": "M 4.5 - 55 km SSE of Oistins, Barbados",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu36"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000etxb",
         "location": "http://maps.google.com/maps?q=-22.9382,-66.2062",
         "name": "M 4.5 - 57 km WSW of Abra Pampa, Argentina",
@@ -1087,6 +1105,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000eu2l",
+        "location": "http://maps.google.com/maps?q=2.8926,126.646",
+        "name": "M 4.8 - 198 km NW of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu2l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000etw2",
         "location": "http://maps.google.com/maps?q=17.0369,-96.0421",
         "name": "M 4.8 - 3 km SE of Tamazulápam del Espíritu Santo, Mexico",
@@ -1169,24 +1205,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etv0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000etlq",
-        "location": "http://maps.google.com/maps?q=-6.3366,150.1035",
-        "name": "M 5.1 - 63 km ESE of Kandrian, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etlq"
       },
       {
         "category": [
@@ -2465,11 +2483,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "10/Jul/2021 @ 04:00:09 PDT",
+    "last_update": "10/Jul/2021 @ 05:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=12.5979,-59.3719\"><b>M 4.5 - 55 km SSE of Oistins, Barbados</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu36\">USGS</a>",
+          12.5979,
+          -59.3719
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.8926,126.646\"><b>M 4.8 - 198 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu2l\">USGS</a>",
+          2.8926,
+          126.646
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.1347,70.394\"><b>M 4.3 - 11 km N of Rasht, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu0w\">USGS</a>",
           39.1347,
@@ -2624,11 +2652,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.9763,-177.673\"><b>M 4.6 - 190 km SSE of Alo, Wallis and Futuna</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etmc\">USGS</a>",
           -15.9763,
           -177.673
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.3366,150.1035\"><b>M 5.1 - 63 km ESE of Kandrian, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000etlq\">USGS</a>",
-          -6.3366,
-          150.1035
         ]
       ],
       "Floods": [],
@@ -4581,12 +4604,12 @@
         ]
       ]
     },
-    "title": "133 events (10/Jul/2021 PDT)"
+    "title": "134 events (10/Jul/2021 PDT)"
   },
-  "last_update": "10/Jul/2021 @ 04:00:40 PDT",
+  "last_update": "10/Jul/2021 @ 05:02:05 PDT",
   "neo": {
     "date": "10/Jul/2021 PDT",
-    "last_update": "10/Jul/2021 @ 04:00:10 PDT",
+    "last_update": "10/Jul/2021 @ 05:00:09 PDT",
     "objects": [
       {
         "cat": "10/Jul/2021 @ 09:50:00 ",
@@ -4749,7 +4772,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Jul/2021 @ 04:00:11 PDT",
+    "last_update": "10/Jul/2021 @ 05:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6289,7 +6312,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Jul/2021 @ 04:00:17 PDT",
+    "last_update": "10/Jul/2021 @ 05:00:15 PDT",
     "launches": {
       "future": [
         {
