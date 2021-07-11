@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jul/2021 @ 11:00:41 PDT",
+    "last_update": "11/Jul/2021 @ 12:00:41 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg",
     "title": "Find the Moon (11/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -873,7 +873,7 @@
         ],
         "eid": "us6000eu81",
         "location": "http://maps.google.com/maps?q=40.1284,34.4416",
-        "name": "M 4.0 - Central Turkey",
+        "name": "M 4.0 - 7 km SE of Sungurlu, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -1033,24 +1033,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eu6w",
-        "location": "http://maps.google.com/maps?q=27.941,128.2411",
-        "name": "M 4.5 - 130 km WSW of Naze, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu6w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000eu9z",
         "location": "http://maps.google.com/maps?q=27.9985,128.1085",
         "name": "M 4.5 - 141 km WSW of Naze, Japan",
@@ -1141,16 +1123,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eu6g",
-        "location": "http://maps.google.com/maps?q=6.3219,124.0278",
-        "name": "M 4.9 - 13 km S of Sangay, Philippines",
+        "eid": "us6000eues",
+        "location": "http://maps.google.com/maps?q=51.7697,-175.9523",
+        "name": "M 4.9 - 48 km ESE of Adak, Alaska",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu6g"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eues"
       },
       {
         "category": [
@@ -1223,24 +1205,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu9i"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eues",
-        "location": "http://maps.google.com/maps?q=51.7857,-175.9603",
-        "name": "M 5.3 - 47 km ESE of Adak, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eues"
       },
       {
         "category": [
@@ -2699,15 +2663,15 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "11/Jul/2021 @ 11:00:43 PDT",
+    "last_update": "11/Jul/2021 @ 12:00:43 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=51.7857,-175.9603\"><b>M 5.3 - 47 km ESE of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eues\">USGS</a>",
-          51.7857,
-          -175.9603
+          "<a href=\"http://maps.google.com/maps?q=51.7697,-175.9523\"><b>M 4.9 - 48 km ESE of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eues\">USGS</a>",
+          51.7697,
+          -175.9523
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=2.8152,126.5276\"><b>M 4.6 - 203 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000euek\">USGS</a>",
@@ -2785,7 +2749,7 @@
           23.3161
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - 7 km SE of Sungurlu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
           40.1284,
           34.4416
         ],
@@ -2803,16 +2767,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.915,26.0204\"><b>M 4.0 - 22 km SW of Polichnítos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu6s\">USGS</a>",
           38.915,
           26.0204
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.941,128.2411\"><b>M 4.5 - 130 km WSW of Naze, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu6w\">USGS</a>",
-          27.941,
-          128.2411
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.3219,124.0278\"><b>M 4.9 - 13 km S of Sangay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu6g\">USGS</a>",
-          6.3219,
-          124.0278
         ]
       ],
       "Floods": [],
@@ -4925,12 +4879,12 @@
         ]
       ]
     },
-    "title": "146 events (11/Jul/2021 PDT)"
+    "title": "144 events (11/Jul/2021 PDT)"
   },
-  "last_update": "11/Jul/2021 @ 11:01:19 PDT",
+  "last_update": "11/Jul/2021 @ 12:01:17 PDT",
   "neo": {
     "date": "11/Jul/2021 PDT",
-    "last_update": "11/Jul/2021 @ 11:00:44 PDT",
+    "last_update": "11/Jul/2021 @ 12:00:44 PDT",
     "objects": [
       {
         "cat": "11/Jul/2021 @ 20:15:00 ",
@@ -5120,7 +5074,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jul/2021 @ 11:00:44 PDT",
+    "last_update": "11/Jul/2021 @ 12:00:44 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6660,7 +6614,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Jul/2021 @ 11:00:51 PDT",
+    "last_update": "11/Jul/2021 @ 12:00:50 PDT",
     "launches": {
       "future": [
         {
