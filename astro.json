@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jul/2021 @ 00:00:08 PDT",
+    "last_update": "11/Jul/2021 @ 01:00:10 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg",
     "title": "Find the Moon (11/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -819,7 +819,7 @@
         ],
         "eid": "us6000eu81",
         "location": "http://maps.google.com/maps?q=40.1284,34.4416",
-        "name": "M 4.0 - Central Turkey",
+        "name": "M 4.0 - 7 km SE of Sungurlu, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -2465,7 +2465,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "11/Jul/2021 @ 00:00:11 PDT",
+    "last_update": "11/Jul/2021 @ 01:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2516,7 +2516,7 @@
           23.3161
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - 7 km SE of Sungurlu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
           40.1284,
           34.4416
         ],
@@ -4628,10 +4628,10 @@
     },
     "title": "133 events (11/Jul/2021 PDT)"
   },
-  "last_update": "11/Jul/2021 @ 00:00:49 PDT",
+  "last_update": "11/Jul/2021 @ 01:00:44 PDT",
   "neo": {
     "date": "11/Jul/2021 PDT",
-    "last_update": "11/Jul/2021 @ 00:00:13 PDT",
+    "last_update": "11/Jul/2021 @ 01:00:12 PDT",
     "objects": [
       {
         "cat": "11/Jul/2021 @ 20:15:00 ",
@@ -4821,7 +4821,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jul/2021 @ 00:00:15 PDT",
+    "last_update": "11/Jul/2021 @ 01:00:13 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6361,7 +6361,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Jul/2021 @ 00:00:22 PDT",
+    "last_update": "11/Jul/2021 @ 01:00:18 PDT",
     "launches": {
       "future": [
         {
