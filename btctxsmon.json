@@ -1,10 +1,5288 @@
 {
   "category": {
-    "donation": {},
-    "popular": {},
-    "ransom": {}
+    "donation": {
+      "#bitcoin-otc": {
+        "address": 1,
+        "balance": 0.03238319,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 190.89080364,
+        "sent": 190.85842045,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 373
+      },
+      "0x00sec": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.191546,
+        "sent": 0.191546,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 32
+      },
+      "A Lightning War for Liberty": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 224.89009132,
+        "sent": 224.89009132,
+        "sparkid": "▁▅██▁",
+        "transaction": 84
+      },
+      "A Special Wish": {
+        "address": 1,
+        "balance": 0.2205399,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.42124067,
+        "sent": 0.20070077,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 85
+      },
+      "AbeSearch": {
+        "address": 1,
+        "balance": 2e-08,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 69.61485191,
+        "sent": 69.61485189,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 238
+      },
+      "Agricocb": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00021,
+        "sent": 0.00021,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "Ahmia": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 54.40889734,
+        "sent": 54.40889734,
+        "sparkid": "▁▆██▁",
+        "transaction": 1372
+      },
+      "AllBitcoinPrivateKeys.com": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "AllPrivateKeys.com": {
+        "address": 1,
+        "balance": 0.00062569,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.54920592,
+        "sent": 2.54858023,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 8465
+      },
+      "Alloscomp": {
+        "address": 1,
+        "balance": 0.0001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.57211996,
+        "sent": 2.57201996,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 86
+      },
+      "Ancientbeast.com": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 11.20203577,
+        "sent": 11.20192577,
+        "sparkid": "▁▂██▁",
+        "transaction": 17
+      },
+      "Andreas Antonopoulos": {
+        "address": 1,
+        "balance": 0.03542646,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 208.10857492,
+        "sent": 208.07314846,
+        "sparkid": "▁▃██▁",
+        "transaction": 2059
+      },
+      "AnonNews": {
+        "address": 1,
+        "balance": 0.965226,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 209.14461783,
+        "sent": 208.17939183,
+        "sparkid": "▁▃█▇▁",
+        "transaction": 139
+      },
+      "Anti Adblock Killer": {
+        "address": 1,
+        "balance": 0.31339435,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.45676657,
+        "sent": 0.14337222,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 36
+      },
+      "Antiwar.com": {
+        "address": 1,
+        "balance": 3.578e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 234.76514427,
+        "sent": 234.76510849,
+        "sparkid": "▁▄██▁",
+        "transaction": 1774
+      },
+      "Antony Bailey IT Consultant": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.29136305,
+        "sent": 1.29136305,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 100
+      },
+      "Apache Software Foundation": {
+        "address": 1,
+        "balance": 0.00789435,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 364.01695608,
+        "sent": 364.00906173,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 565
+      },
+      "Armory Bitcoin Client": {
+        "address": 1,
+        "balance": 0.00901224,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 348.6990915,
+        "sent": 348.69007926,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 1406
+      },
+      "ArmoryBTCClient": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 75.12399063,
+        "sent": 75.12399063,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 79
+      },
+      "Awesome Window Manager": {
+        "address": 1,
+        "balance": 36.30887556,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 41.30887556,
+        "sent": 5.0,
+        "sparkid": "▁▁█▃▄",
+        "transaction": 31
+      },
+      "AwesomeWM": {
+        "address": 1,
+        "balance": 0.16600668,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.16600668,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 21
+      },
+      "BFGMiner": {
+        "address": 1,
+        "balance": 0.00097464,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 88.62576892,
+        "sent": 88.62479428,
+        "sparkid": "▁▁██▁",
+        "transaction": 285
+      },
+      "BTC LTC China FUND": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.00011,
+        "sent": 1.0,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 4
+      },
+      "BTCBonkers": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.32031198,
+        "sent": 0.32031198,
+        "sparkid": "██▁▁▁",
+        "transaction": 181
+      },
+      "BTCForMe": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 229.48611372,
+        "sent": 229.48610372,
+        "sparkid": "▂▄██▁",
+        "transaction": 332
+      },
+      "BUND Berlin": {
+        "address": 1,
+        "balance": 0.01459193,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 120.01334846,
+        "sent": 119.99875653,
+        "sparkid": "▁▂▁█▁",
+        "transaction": 273
+      },
+      "BackBox Linux": {
+        "address": 1,
+        "balance": 0.57313994,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.58424554,
+        "sent": 0.0111056,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 26
+      },
+      "Ballad of the Bitcoin": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.40733281,
+        "sent": 2.40722281,
+        "sparkid": "▂█▄▄▁",
+        "transaction": 34
+      },
+      "BeerPong.bg": {
+        "address": 1,
+        "balance": 0.00043134,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00257814,
+        "sent": 0.0021468,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 44
+      },
+      "Bisq": {
+        "address": 1,
+        "balance": 0.0616516,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 89.71196696,
+        "sent": 89.65031536,
+        "sparkid": "▁▁██▁",
+        "transaction": 1816
+      },
+      "Bit Elfin": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 766.14694447,
+        "sent": 766.14694447,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 9117
+      },
+      "BitAddress.org": {
+        "address": 1,
+        "balance": 36.44205248,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 36.44205248,
+        "sent": 0.0,
+        "sparkid": "▁█▅▁▅",
+        "transaction": 565
+      },
+      "BitAurum.eu": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 637.68521,
+        "sent": 637.6851,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 28
+      },
+      "BitCrate": {
+        "address": 1,
+        "balance": 0.00040628,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 23.82444711,
+        "sent": 23.82404083,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 1558
+      },
+      "BitGive": {
+        "address": 1,
+        "balance": 0.20772789,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 272.81634159,
+        "sent": 272.6086137,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 22265
+      },
+      "BitHope": {
+        "address": 1,
+        "balance": 0.13612991,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 4.24488743,
+        "sent": 4.10875752,
+        "sparkid": "▂█▅▅▁",
+        "transaction": 262
+      },
+      "BitListen": {
+        "address": 1,
+        "balance": 0.10928471,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.34188669,
+        "sent": 1.23260198,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 402
+      },
+      "BitNodes": {
+        "address": 1,
+        "balance": 0.00043047,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00063601,
+        "sent": 0.00020554,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Bitcoin Charts": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 46.13095083,
+        "sent": 46.13095083,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 461
+      },
+      "Bitcoin Classifieds": {
+        "address": 1,
+        "balance": 0.15011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.20011,
+        "sent": 0.05,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "Bitcoin Foundation": {
+        "address": 1,
+        "balance": 0.90083378,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 5884.40341378,
+        "sent": 5883.50258,
+        "sparkid": "▂█▆▅▁",
+        "transaction": 1280
+      },
+      "Bitcoin Paranoid": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 31.4361186,
+        "sent": 31.4361186,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 515
+      },
+      "Bitcoin Reddit": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 22.51357574,
+        "sent": 22.51357574,
+        "sparkid": "▂▆██▁",
+        "transaction": 125
+      },
+      "Bitcoin Revolution": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.50001,
+        "sent": 1.5,
+        "sparkid": "▃█▃▃▁",
+        "transaction": 3
+      },
+      "Bitcoin Watch": {
+        "address": 1,
+        "balance": 0.00052685,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 32.27288585,
+        "sent": 32.272359,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 156
+      },
+      "Bitcoin.Travel": {
+        "address": 1,
+        "balance": 0.00046,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6.11241,
+        "sent": 6.11195,
+        "sparkid": "▂▄██▁",
+        "transaction": 18
+      },
+      "Bitcoin.org": {
+        "address": 1,
+        "balance": 0.00271872,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 37.57809922,
+        "sent": 37.5753805,
+        "sparkid": "▂███▁",
+        "transaction": 1387
+      },
+      "BitcoinBG": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.52529179,
+        "sent": 0.52529179,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 14
+      },
+      "BitcoinBlockClock": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0132122,
+        "sent": 0.0132122,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "BitcoinGamer": {
+        "address": 1,
+        "balance": 0.5350855,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3515.6120855,
+        "sent": 3515.077,
+        "sparkid": "▂▁██▁",
+        "transaction": 840
+      },
+      "BitcoinGenesis": {
+        "address": 1,
+        "balance": 68.44913596,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 68.44913596,
+        "sent": 0.0,
+        "sparkid": "▁▆█▁█",
+        "transaction": 2946
+      },
+      "BitcoinJS": {
+        "address": 1,
+        "balance": 15.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 38.20241,
+        "sent": 23.2023,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 13
+      },
+      "BitcoinPaperWallet": {
+        "address": 1,
+        "balance": 0.00601961,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.94222974,
+        "sent": 2.93621013,
+        "sparkid": "▄███▁",
+        "transaction": 167
+      },
+      "BitcoinRain": {
+        "address": 1,
+        "balance": 0.000195,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.047495,
+        "sent": 0.0473,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "BitcoinSignGuy": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 7.03122265,
+        "sent": 7.03122265,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 777
+      },
+      "BitcoinStats": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.33622402,
+        "sent": 0.33622402,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "BitcoinX": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.11010677,
+        "sent": 1.10999677,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "Bitcoinorg": {
+        "address": 1,
+        "balance": 8.095e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 13.57484425,
+        "sent": 13.5747633,
+        "sparkid": "▁▃██▁",
+        "transaction": 440
+      },
+      "Bitcointalk Forum": {
+        "address": 1,
+        "balance": 0.19009387,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9849.95900458,
+        "sent": 9849.76891071,
+        "sparkid": "▁▃██▁",
+        "transaction": 873
+      },
+      "Bitplay": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.49797641,
+        "sent": 1.49786641,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "BitsLogSergio": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 28.40106028,
+        "sent": 28.40106028,
+        "sparkid": "▁▆██▁",
+        "transaction": 56
+      },
+      "BjørnarKibsgaard": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BlenderFoundation": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 11.29729942,
+        "sent": 11.29729942,
+        "sparkid": "▁▂██▁",
+        "transaction": 78
+      },
+      "BlenderNation": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.1021534,
+        "sent": 0.1021534,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 25
+      },
+      "BlockParser": {
+        "address": 1,
+        "balance": 0.0352959,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 22.17592109,
+        "sent": 22.14062519,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 29
+      },
+      "Bluetile": {
+        "address": 1,
+        "balance": 0.00078602,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.26215615,
+        "sent": 1.26137013,
+        "sparkid": "████▁",
+        "transaction": 16
+      },
+      "Boulder Meshnet": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "BrainWallet.io": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.13541223,
+        "sent": 0.13541223,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "BreadForTheWorld": {
+        "address": 1,
+        "balance": 0.0001953,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0001953,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Brmlab Hackerspace Prague": {
+        "address": 1,
+        "balance": 0.00751631,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 61.23970003,
+        "sent": 61.23218372,
+        "sparkid": "▄█▄▄▁",
+        "transaction": 152
+      },
+      "BuyBitcoinWorldwide": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.15559459,
+        "sent": 0.15559459,
+        "sparkid": "██▁▁▁",
+        "transaction": 31
+      },
+      "Casascius Bitcoin Analyzer": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.23531304,
+        "sent": 2.23531304,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 9
+      },
+      "ChainQuery": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Chamba Project": {
+        "address": 1,
+        "balance": 0.001442,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.001442,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "CharacterBG": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.09956457,
+        "sent": 0.09956457,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 13
+      },
+      "Chitanka": {
+        "address": 1,
+        "balance": 0.02912078,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 8.70172362,
+        "sent": 8.67260284,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 148
+      },
+      "Chris Wilmer": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 8992.57769999,
+        "sent": 8992.57758999,
+        "sparkid": "▂▃██▁",
+        "transaction": 32
+      },
+      "Code T oInspire": {
+        "address": 1,
+        "balance": 4.03221914,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 7.26063352,
+        "sent": 3.22841438,
+        "sparkid": "▁█▇▃▄",
+        "transaction": 203
+      },
+      "Coin Dance": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.29415635,
+        "sent": 1.29415635,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 81
+      },
+      "CoinAd.com": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1687.69584504,
+        "sent": 1687.69584504,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 6699
+      },
+      "CoinMarketCap": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.59692083,
+        "sent": 1.59692083,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 234
+      },
+      "CoinPanic": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Coinbin": {
+        "address": 1,
+        "balance": 0.00015,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 15.77789626,
+        "sent": 15.77774626,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10781
+      },
+      "Convergence.io": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 128.17038496,
+        "sent": 128.17038496,
+        "sparkid": "▁▂██▁",
+        "transaction": 47
+      },
+      "CryptoCred": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00541186,
+        "sent": 0.00541186,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "CryptoMetrics": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.2733099,
+        "sent": 0.2733099,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 28
+      },
+      "CryptoWaves": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Cryptomator": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.32903508,
+        "sent": 0.32903508,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 24
+      },
+      "Cryto Coding Collective": {
+        "address": 1,
+        "balance": 2.28628192,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.56366592,
+        "sent": 7.277384,
+        "sparkid": "▁▃█▆▁",
+        "transaction": 19
+      },
+      "CubeSpawn": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "DOSBox": {
+        "address": 1,
+        "balance": 0.48067316,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.29340304,
+        "sent": 1.81272988,
+        "sparkid": "▂█▃▂▁",
+        "transaction": 51
+      },
+      "Daily Anarchist": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 7.99286753,
+        "sent": 7.99275753,
+        "sparkid": "▂███▁",
+        "transaction": 22
+      },
+      "DailyBlockchain": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.29358691,
+        "sent": 0.29358691,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 49
+      },
+      "DanJanosik BTCExplorer": {
+        "address": 1,
+        "balance": 0.005,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.71025971,
+        "sent": 0.70525971,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 111
+      },
+      "Dawid Ciężarkiewicz": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 150.77501028,
+        "sent": 150.77500028,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 28
+      },
+      "Decentralized Dance Party": {
+        "address": 1,
+        "balance": 0.00010745,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 32.46440198,
+        "sent": 32.46429453,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 67
+      },
+      "DeviaVir Zenbot": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Dia Open Source": {
+        "address": 1,
+        "balance": 0.21801982,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.33135182,
+        "sent": 2.113332,
+        "sparkid": "▄▁██▁",
+        "transaction": 30
+      },
+      "Diaspora Project": {
+        "address": 1,
+        "balance": 0.00034876,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 170.36928623,
+        "sent": 170.36893747,
+        "sparkid": "▂█▆▆▁",
+        "transaction": 246
+      },
+      "Digital Precursor": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 88.04347664,
+        "sent": 88.04346664,
+        "sparkid": "▁▆██▁",
+        "transaction": 11
+      },
+      "Directory.io": {
+        "address": 1,
+        "balance": 0.04524469,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.84919781,
+        "sent": 1.80395312,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 43
+      },
+      "Disroot": {
+        "address": 1,
+        "balance": 0.003542,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.003542,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "DokuWiki": {
+        "address": 1,
+        "balance": 0.297443,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.68596975,
+        "sent": 0.38852675,
+        "sparkid": "██▁▁▁",
+        "transaction": 46
+      },
+      "Donate Bitcoins": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "DonateBitcoins": {
+        "address": 1,
+        "balance": 0.000377,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.002245,
+        "sent": 0.001868,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Douglas County Dental Clinic": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.78752435,
+        "sent": 2.78741435,
+        "sparkid": "▄▄██▁",
+        "transaction": 16
+      },
+      "Dunand": {
+        "address": 1,
+        "balance": 0.00101,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 354.76961001,
+        "sent": 354.76860001,
+        "sparkid": "▁▃██▁",
+        "transaction": 18
+      },
+      "Duplicati": {
+        "address": 2,
+        "balance": 0.08842244,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.8915135,
+        "sent": 0.80309106,
+        "sparkid": "██▁▁▁",
+        "transaction": 92
+      },
+      "Earthquake & Tsunami": {
+        "address": 1,
+        "balance": 0.10611,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.11876687,
+        "sent": 0.01265687,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "Ektoplazm": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.86607796,
+        "sent": 2.86606796,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 7
+      },
+      "Electrum": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 14.03635599,
+        "sent": 14.03635599,
+        "sparkid": "▁▄██▁",
+        "transaction": 51
+      },
+      "Eligius Mining Pool": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 101.73264776,
+        "sent": 101.73264776,
+        "sparkid": "▁▁██▁",
+        "transaction": 195
+      },
+      "Eligius wk stats": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 11.93068386,
+        "sent": 11.93068386,
+        "sparkid": "▁▁██▁",
+        "transaction": 181
+      },
+      "Encyclopedia Dramatica": {
+        "address": 1,
+        "balance": 0.00611,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.01456,
+        "sent": 2.00845,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 11
+      },
+      "Erowid": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 65.64350678,
+        "sent": 65.64350678,
+        "sparkid": "▃▁██▁",
+        "transaction": 135
+      },
+      "Etherpad": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "EveryChildDeservesAHoliday": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.55028441,
+        "sent": 0.55028441,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 40
+      },
+      "F-Droid": {
+        "address": 1,
+        "balance": 0.4695122,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 52.15516029,
+        "sent": 51.68564809,
+        "sparkid": "▂▁█▇▁",
+        "transaction": 930
+      },
+      "Fairewinds.com": {
+        "address": 1,
+        "balance": 1.20011002,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.20011002,
+        "sent": 0.0,
+        "sparkid": "▂█▂▁▂",
+        "transaction": 7
+      },
+      "FeedingAmerica": {
+        "address": 2,
+        "balance": 0.00054379,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.01078511,
+        "sent": 0.010241320000000002,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 9
+      },
+      "FilePizza": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.02442111,
+        "sent": 0.02442111,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10
+      },
+      "Food Bank For NYC ActionAgainsHunger": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.1,
+        "sent": 0.1,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Fr33Aid": {
+        "address": 1,
+        "balance": 1.17655695,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.97799192,
+        "sent": 1.80143497,
+        "sparkid": "▁█▂▁▁",
+        "transaction": 53
+      },
+      "Free Software Foundation": {
+        "address": 1,
+        "balance": 0.33296149,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1103.37859927,
+        "sent": 1103.04563778,
+        "sparkid": "▁▁██▁",
+        "transaction": 2235
+      },
+      "Free Talk Live": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 786.92538888,
+        "sent": 786.92538888,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 568
+      },
+      "FreeSnowden": {
+        "address": 2,
+        "balance": 0.43598557,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 220.99498919,
+        "sent": 220.55900362,
+        "sparkid": "▂▁██▁",
+        "transaction": 1815
+      },
+      "FreedomBox": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 102.46679056,
+        "sent": 102.46679056,
+        "sparkid": "▁███▁",
+        "transaction": 27
+      },
+      "FreedomBox Foundation": {
+        "address": 1,
+        "balance": 0.00609323,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 53.50397998,
+        "sent": 53.49788675,
+        "sparkid": "▁█▇▇▁",
+        "transaction": 279
+      },
+      "FreedomFromHunger": {
+        "address": 1,
+        "balance": 0.00223976,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05433282,
+        "sent": 0.05209306,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "Freedomain Radio": {
+        "address": 2,
+        "balance": 256.32037011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1506.8829089800001,
+        "sent": 1250.56253887,
+        "sparkid": "▂█▆▅▁",
+        "transaction": 5092
+      },
+      "GATA Gold AntiTrust Action": {
+        "address": 1,
+        "balance": 0.00571543,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 35.91010157,
+        "sent": 35.90438614,
+        "sparkid": "▂▁██▁",
+        "transaction": 75
+      },
+      "GIMP": {
+        "address": 1,
+        "balance": 21.10602476,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 25.20602476,
+        "sent": 4.1,
+        "sparkid": "▁█▆▂▃",
+        "transaction": 793
+      },
+      "GNU": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "GNUMediaGoblin": {
+        "address": 1,
+        "balance": 1.1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.501175,
+        "sent": 9.501164,
+        "sparkid": "▁█▇▇▁",
+        "transaction": 145
+      },
+      "GNUOctave": {
+        "address": 1,
+        "balance": 0.62037936,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.62037936,
+        "sent": 0.0,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 48
+      },
+      "GPGTools": {
+        "address": 1,
+        "balance": 11.86395231,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 95.78511521,
+        "sent": 83.9211629,
+        "sparkid": "▁▅▃▅█",
+        "transaction": 637
+      },
+      "Gaelitoo": {
+        "address": 1,
+        "balance": 0.03926299,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05885599,
+        "sent": 0.019593,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 32
+      },
+      "Game Slayer": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Gamedia.fr": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0063475,
+        "sent": 0.0063475,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Geekbauchery": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 31.7234693,
+        "sent": 31.7234593,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 87
+      },
+      "Genesis2church.org": {
+        "address": 1,
+        "balance": 0.00014156,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.73484158,
+        "sent": 0.73470002,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "GiveDirectly": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 241.50921916,
+        "sent": 241.50921916,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 522
+      },
+      "GnuPG": {
+        "address": 1,
+        "balance": 0.12816522,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 26.30254298,
+        "sent": 26.17437776,
+        "sparkid": "▁▄██▁",
+        "transaction": 171
+      },
+      "GoBitTest": {
+        "address": 1,
+        "balance": 0.05604307,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.17177743,
+        "sent": 0.11573436,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 19
+      },
+      "Gribble IRC Bot": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 273.16534919,
+        "sent": 273.16534919,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 193
+      },
+      "Grumpy Cat": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6.0384888,
+        "sent": 6.0383788,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 14
+      },
+      "HAIKU": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.91569666,
+        "sent": 2.91569666,
+        "sparkid": "▄▄██▁",
+        "transaction": 136
+      },
+      "Hal Finney": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2004.32627681,
+        "sent": 2004.32627681,
+        "sparkid": "▁▅██▁",
+        "transaction": 21
+      },
+      "Happy Cat": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 7.50106174,
+        "sent": 7.50095174,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 9
+      },
+      "Hardcoded Software": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1e-05,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Hardcoreforensics": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Have I Been Pwned": {
+        "address": 1,
+        "balance": 5.47e-06,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 12.91611175,
+        "sent": 12.91610628,
+        "sparkid": "▁▅██▁",
+        "transaction": 1282
+      },
+      "HeavenSentGaming": {
+        "address": 1,
+        "balance": 0.00062555,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.223911,
+        "sent": 1.22328545,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 21
+      },
+      "Howtobitcoin.info": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.04011,
+        "sent": 0.04,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "HumanRightsFoundation": {
+        "address": 1,
+        "balance": 0.71913956,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 398.85161836,
+        "sent": 398.1324788,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 595
+      },
+      "I2P": {
+        "address": 2,
+        "balance": 2.42783871,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 102.78190015999999,
+        "sent": 100.35406145,
+        "sparkid": "▁▇█▆▁",
+        "transaction": 176
+      },
+      "I2P Network": {
+        "address": 1,
+        "balance": 0.00019929,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 5454.84931432,
+        "sent": 5454.84911503,
+        "sparkid": "▁▂██▁",
+        "transaction": 287
+      },
+      "IDRansomware": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.17132558,
+        "sent": 0.17132558,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 17
+      },
+      "IOC Bucket": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Internet Archive": {
+        "address": 2,
+        "balance": 0.57470689,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1831.1809647599998,
+        "sent": 1830.6062578699998,
+        "sparkid": "▃█▂▁▁",
+        "transaction": 5540
+      },
+      "J-Norm": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 32.26867,
+        "sent": 32.26856,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 12
+      },
+      "JURN": {
+        "address": 1,
+        "balance": 0.005776,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.005776,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Jim Gauthier": {
+        "address": 2,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 45.999719999999996,
+        "sent": 45.99961,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 12
+      },
+      "Juice Rap News": {
+        "address": 1,
+        "balance": 0.00182702,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 202.52807216,
+        "sent": 202.52624514,
+        "sparkid": "▂▂██▁",
+        "transaction": 391
+      },
+      "Juicin Jake": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Justus Ranvier": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 864.92177108,
+        "sent": 864.92177108,
+        "sparkid": "▁▁██▁",
+        "transaction": 105
+      },
+      "Kai Elvin": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 67.05436748,
+        "sent": 67.05425748,
+        "sparkid": "▂▁██▁",
+        "transaction": 90
+      },
+      "KennethReitz AwesomeCoins": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.02163304,
+        "sent": 0.02163304,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 12
+      },
+      "Keybase": {
+        "address": 1,
+        "balance": 0.0240043,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.49913003,
+        "sent": 0.47512573,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5361
+      },
+      "Know A Bit More": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 47.46364636,
+        "sent": 47.46353636,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 164
+      },
+      "LBC CryptoGuru": {
+        "address": 1,
+        "balance": 0.01323547,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.13598075,
+        "sent": 0.12274528,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 9
+      },
+      "LastDoor": {
+        "address": 1,
+        "balance": 0.00649195,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6.35164324,
+        "sent": 6.34515129,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 29
+      },
+      "LearnMeABitcoin": {
+        "address": 1,
+        "balance": 0.07740127,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.09403135,
+        "sent": 0.01663008,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 55
+      },
+      "Liberland": {
+        "address": 1,
+        "balance": 0.01877832,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 274.93698694,
+        "sent": 274.91820862,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 462
+      },
+      "LibreFM": {
+        "address": 1,
+        "balance": 0.01158267,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.76385052,
+        "sent": 0.75226785,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 32
+      },
+      "Lifeboat Foundation": {
+        "address": 1,
+        "balance": 0.00668462,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 27.62628564,
+        "sent": 27.61960102,
+        "sparkid": "▁▄██▁",
+        "transaction": 171
+      },
+      "Lifeboat Foundation1": {
+        "address": 1,
+        "balance": 0.00234844,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 194.37141626,
+        "sent": 194.36906782,
+        "sparkid": "▁▁██▁",
+        "transaction": 406
+      },
+      "Linux Mint": {
+        "address": 2,
+        "balance": 5.286818,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 40.20111634,
+        "sent": 34.91429834,
+        "sparkid": "▁▁█▂▃",
+        "transaction": 1143
+      },
+      "LiveBravely": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.1239316,
+        "sent": 0.1239316,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10
+      },
+      "Loomio": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3.26170054,
+        "sent": 3.26169054,
+        "sparkid": "▂█▄▄▁",
+        "transaction": 22
+      },
+      "Lurf": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.0417872,
+        "sent": 2.0416772,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 42
+      },
+      "MAPS": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 279.48013085,
+        "sent": 279.48013085,
+        "sparkid": "▂▃██▁",
+        "transaction": 1413
+      },
+      "Mailpile": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 130.60549358,
+        "sent": 130.60549358,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 269
+      },
+      "Marcus Hutchins Legal Defense Donations": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.77766633,
+        "sent": 0.77766633,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 102
+      },
+      "Marty Anstey": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.00011,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "Mastodon": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.11858331,
+        "sent": 1.11858331,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 54
+      },
+      "Matrix IM": {
+        "address": 1,
+        "balance": 3.67277289,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3.67770285,
+        "sent": 0.00492996,
+        "sparkid": "▃▁█▁█",
+        "transaction": 120
+      },
+      "Max Keiser Cigar Fund": {
+        "address": 1,
+        "balance": 0.26103968,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 177.50736936,
+        "sent": 177.24632968,
+        "sparkid": "▁▂██▁",
+        "transaction": 32
+      },
+      "Max Min Alpaca Socks": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 48.48928036,
+        "sent": 48.48917036,
+        "sparkid": "▂█▄▄▁",
+        "transaction": 157
+      },
+      "MediaGlest": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.91857081,
+        "sent": 0.91857081,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10
+      },
+      "Methuselah Foundation": {
+        "address": 1,
+        "balance": 3.05378048,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 99.92661247,
+        "sent": 96.87283199,
+        "sparkid": "▁▃█▅▂",
+        "transaction": 19
+      },
+      "MicheleSpagnuolo": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "MinecraftCC Mine4BTC Project": {
+        "address": 1,
+        "balance": 0.0003114,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 109.96957899,
+        "sent": 109.96926759,
+        "sparkid": "▂█▅▅▁",
+        "transaction": 52
+      },
+      "Mogambo Guru Report": {
+        "address": 1,
+        "balance": 0.26205,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.77205,
+        "sent": 2.51,
+        "sparkid": "▄▁██▁",
+        "transaction": 30
+      },
+      "MultiBit": {
+        "address": 1,
+        "balance": 0.0047115,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 74.65391163,
+        "sent": 74.64920013,
+        "sparkid": "▁▄██▁",
+        "transaction": 1836
+      },
+      "MuseScore": {
+        "address": 1,
+        "balance": 0.00021639,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.57890279,
+        "sent": 0.5786864,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 52
+      },
+      "MuttsWorld": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "MyCrypto": {
+        "address": 1,
+        "balance": 0.14600372,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.14600372,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "MyEtherWallet": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 186.54165008,
+        "sent": 186.54165008,
+        "sparkid": "▂█▇▇▁",
+        "transaction": 232
+      },
+      "NGOBG": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.26658291,
+        "sent": 0.26658291,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "NastyFans": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 166.14740086,
+        "sent": 166.14740086,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 592
+      },
+      "Netzpolitik": {
+        "address": 1,
+        "balance": 0.0083154,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 60.1043015,
+        "sent": 60.0959861,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 812
+      },
+      "Nicolas Mendoza": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "Noisetor": {
+        "address": 1,
+        "balance": 2.79858452,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 58.82570208,
+        "sent": 56.02711756,
+        "sparkid": "▁▂█▆▁",
+        "transaction": 529
+      },
+      "OSEG": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1e-05,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "OSEG Project Wind Turbine": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.00001,
+        "sent": 1.00001,
+        "sparkid": "▃█▃▃▁",
+        "transaction": 3
+      },
+      "OSMC": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "OXT": {
+        "address": 1,
+        "balance": 0.03101086,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.03101086,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "Obscurantism.org": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "OmniNano": {
+        "address": 1,
+        "balance": 0.25756837,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.30688175,
+        "sent": 0.04931338,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 145
+      },
+      "OpenCart Bitcoin": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 50.20011,
+        "sent": 50.2,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 8
+      },
+      "OpenELEC": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 22.65016518,
+        "sent": 22.65016518,
+        "sparkid": "▁█▆▆▁",
+        "transaction": 129
+      },
+      "OpenGameArt": {
+        "address": 1,
+        "balance": 0.00285225,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 55.77707672,
+        "sent": 55.77422447,
+        "sparkid": "▁▇██▁",
+        "transaction": 69
+      },
+      "OpenStreetMap": {
+        "address": 1,
+        "balance": 0.00032852,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 66.05867845,
+        "sent": 66.05834993,
+        "sparkid": "▂▆██▁",
+        "transaction": 575
+      },
+      "Osiris-sps.org": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 18.8908309,
+        "sent": 18.8908309,
+        "sparkid": "▃▅██▁",
+        "transaction": 17
+      },
+      "P2P Foundation": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 58.30469152,
+        "sent": 58.30469152,
+        "sparkid": "▁▃██▁",
+        "transaction": 65
+      },
+      "PDMC Electrum": {
+        "address": 1,
+        "balance": 2e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.56558983,
+        "sent": 0.56556983,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 29
+      },
+      "PTSD": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3.91606307,
+        "sent": 3.91606307,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 10
+      },
+      "ParrotProject": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.33168237,
+        "sent": 1.33168237,
+        "sparkid": "▄█▄▄▁",
+        "transaction": 32
+      },
+      "PayB.TC": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.51011,
+        "sent": 9.51011,
+        "sparkid": "▁▅██▁",
+        "transaction": 36
+      },
+      "Petter Reinholdtsen": {
+        "address": 1,
+        "balance": 0.00030746,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 21.66947828,
+        "sent": 21.66917082,
+        "sparkid": "▂█▇▇▁",
+        "transaction": 37
+      },
+      "Pi-hole": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.44004532,
+        "sent": 0.44004532,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 36
+      },
+      "PineappleFund": {
+        "address": 1,
+        "balance": 2.36110737,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 159998.93277937,
+        "sent": 159996.571672,
+        "sparkid": "▁▃█▆▂",
+        "transaction": 333
+      },
+      "Pirate Party of Austria": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 5.60112,
+        "sent": 5.60112,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 12
+      },
+      "Piwik": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Porc Therapy": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 28.90265201,
+        "sent": 28.90264201,
+        "sparkid": "▁▅██▁",
+        "transaction": 54
+      },
+      "Protest Barrick": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.000776,
+        "sent": 0.000776,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Python Responder": {
+        "address": 1,
+        "balance": 0.011818,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.298295,
+        "sent": 0.286477,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "Queesbitcoin.info": {
+        "address": 1,
+        "balance": 0.00021,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.66205414,
+        "sent": 2.66184414,
+        "sparkid": "▄▁██▁",
+        "transaction": 15
+      },
+      "Quill": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 76.66001937,
+        "sent": 76.66001937,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 4
+      },
+      "Radio Reddit": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 11.5935537,
+        "sent": 11.5935537,
+        "sparkid": "▁▅██▁",
+        "transaction": 22
+      },
+      "Raided for Tor": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 261.91754313,
+        "sent": 261.91743313,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 190
+      },
+      "Rarrikins": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 4.2113351,
+        "sent": 4.2113351,
+        "sparkid": "▂▁██▁",
+        "transaction": 30
+      },
+      "ReactOS Project": {
+        "address": 1,
+        "balance": 3.64094694,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 56.18589226,
+        "sent": 52.54494532,
+        "sparkid": "▁▁█▅▂",
+        "transaction": 317
+      },
+      "Realtime Bitcoin": {
+        "address": 1,
+        "balance": 0.03336382,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.13486382,
+        "sent": 0.1015,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "RedditIcocrypto": {
+        "address": 1,
+        "balance": 0.012908,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.012908,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Replicant": {
+        "address": 1,
+        "balance": 0.0012783,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 85.0772084,
+        "sent": 85.0759301,
+        "sparkid": "▁▃██▁",
+        "transaction": 243
+      },
+      "Ripplepay": {
+        "address": 1,
+        "balance": 0.00012,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 49.84579071,
+        "sent": 49.84567071,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 40
+      },
+      "Robert Galovic": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 8.60011,
+        "sent": 8.6,
+        "sparkid": "▁███▁",
+        "transaction": 8
+      },
+      "Ross Ulbricht Legal Defense Effort": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1288.19223567,
+        "sent": 1288.19223567,
+        "sparkid": "▁▆██▁",
+        "transaction": 3505
+      },
+      "Run2Rescue": {
+        "address": 1,
+        "balance": 0.02060998,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3.91814292,
+        "sent": 3.89753294,
+        "sparkid": "▂█▄▄▁",
+        "transaction": 142
+      },
+      "SHABANG.io": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.30581616,
+        "sent": 0.30581616,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 21
+      },
+      "Samourai": {
+        "address": 1,
+        "balance": 0.0007093,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.20599847,
+        "sent": 2.20528917,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 172
+      },
+      "Satoshi Nakamoto Institute": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "SatoshiNakamoto": {
+        "address": 1,
+        "balance": 0.05305101,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05305101,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "Schemaverse": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "SeansOutpost": {
+        "address": 2,
+        "balance": 8.00430721,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 547.28608797,
+        "sent": 539.2817807600001,
+        "sparkid": "▁▅▃█▄",
+        "transaction": 3265
+      },
+      "Seymour Buhts": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0843,
+        "sent": 0.0843,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 310
+      },
+      "Singularity Institute": {
+        "address": 1,
+        "balance": 0.00100777,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 343.93488076,
+        "sent": 343.93387299,
+        "sparkid": "▁▅██▁",
+        "transaction": 128
+      },
+      "Skeptinerd": {
+        "address": 1,
+        "balance": 0.005414,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.005914,
+        "sent": 0.0005,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "SongsOfLove": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 20.57076275,
+        "sent": 20.57076275,
+        "sparkid": "▁█▃▃▁",
+        "transaction": 104
+      },
+      "Sports Charity League": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.13064685,
+        "sent": 0.13064685,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "Stackunderflow": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00131,
+        "sent": 0.0012,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "Statoshi": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.37798599,
+        "sent": 1.37798599,
+        "sparkid": "▃█▃▃▁",
+        "transaction": 33
+      },
+      "Strongcoin": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 522.53174514,
+        "sent": 522.53174514,
+        "sparkid": "▁▄██▁",
+        "transaction": 37626
+      },
+      "SubgraphOS": {
+        "address": 1,
+        "balance": 0.56717288,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.79317248,
+        "sent": 0.2259996,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 18
+      },
+      "TAILS": {
+        "address": 1,
+        "balance": 7.27983995,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 235.72612137,
+        "sent": 228.44628142,
+        "sparkid": "▁▂█▂▅",
+        "transaction": 5118
+      },
+      "TN3T TOR": {
+        "address": 1,
+        "balance": 0.4565077,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.2216054,
+        "sent": 0.7650977,
+        "sparkid": "▂█▂▁▁",
+        "transaction": 5
+      },
+      "TOR Relay Node": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.00011,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "TP Bitcoin Calculator": {
+        "address": 1,
+        "balance": 0.0001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.12308658,
+        "sent": 1.12298658,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 24
+      },
+      "Tampermonkey": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.90618559,
+        "sent": 1.90618559,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 27
+      },
+      "TeamWin Project": {
+        "address": 1,
+        "balance": 0.28167017,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6.45414826,
+        "sent": 6.17247809,
+        "sparkid": "▁█▄▄▁",
+        "transaction": 132
+      },
+      "Tetranon Library Project": {
+        "address": 1,
+        "balance": 0.0006618,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.5224448,
+        "sent": 1.521783,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 36
+      },
+      "The Atheist Society": {
+        "address": 1,
+        "balance": 0.00011002,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.33011002,
+        "sent": 0.33,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 12
+      },
+      "The Big List of Bitcoin": {
+        "address": 1,
+        "balance": 0.00172968,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.97880016,
+        "sent": 1.97707048,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 84
+      },
+      "The Biggest Fish": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1413.08521651,
+        "sent": 1413.08510651,
+        "sparkid": "▃███▁",
+        "transaction": 1908
+      },
+      "The Bitcoin Foundation": {
+        "address": 1,
+        "balance": 0.00174758,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.6589979,
+        "sent": 2.65725032,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 118
+      },
+      "The Bitcoin Trader": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 24456.77117734,
+        "sent": 24456.77106734,
+        "sparkid": "▂▅██▁",
+        "transaction": 109
+      },
+      "The Daily Paul": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 56.91092615,
+        "sent": 56.91092615,
+        "sparkid": "▁▃██▁",
+        "transaction": 79
+      },
+      "The Free Network Foundation": {
+        "address": 1,
+        "balance": 2.55402519,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.55402519,
+        "sent": 0.0,
+        "sparkid": "▂█▃▁▃",
+        "transaction": 37
+      },
+      "The Freenet Project": {
+        "address": 1,
+        "balance": 0.00058483,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 693.36883631,
+        "sent": 693.36825148,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 311
+      },
+      "The Hunger Project": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05,
+        "sent": 0.05,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "The Liberty Radio Network": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 15.57969017,
+        "sent": 15.57969017,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 144
+      },
+      "The Rational Argumentator": {
+        "address": 1,
+        "balance": 0.00200655,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00200655,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "The Universal Packing List": {
+        "address": 1,
+        "balance": 2e-08,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.29985811,
+        "sent": 0.29985809,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 20
+      },
+      "The Water Project": {
+        "address": 2,
+        "balance": 0.00014777,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 331.28263834,
+        "sent": 331.28249057,
+        "sparkid": "▃█▂▂▁",
+        "transaction": 3112
+      },
+      "Thebitcoinreview.com": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.25161,
+        "sent": 0.2515,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "Thejesh GN": {
+        "address": 1,
+        "balance": 0.0008285,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.11459699,
+        "sent": 1.11376849,
+        "sparkid": "▃█▃▃▁",
+        "transaction": 33
+      },
+      "Tip Me In Bitcoin": {
+        "address": 1,
+        "balance": 0.00031744,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00092518,
+        "sent": 0.00060774,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Tor2web": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.1148246,
+        "sent": 0.1148246,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "TorProject": {
+        "address": 1,
+        "balance": 0.07167684,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.49937411,
+        "sent": 9.42769727,
+        "sparkid": "▁▁██▁",
+        "transaction": 105
+      },
+      "TorServers": {
+        "address": 4,
+        "balance": 1.674e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 5652.44632644,
+        "sent": 5652.4463097,
+        "sparkid": "▃▇██▁",
+        "transaction": 536
+      },
+      "Torservers": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1454.39112542,
+        "sent": 1454.39112542,
+        "sparkid": "▁▁██▁",
+        "transaction": 121
+      },
+      "Torstatus.info": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.50011,
+        "sent": 0.5,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "Trent Lapinski Mystic Labs": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05237997,
+        "sent": 0.05237997,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "Troll! Film Crowdfunding": {
+        "address": 1,
+        "balance": 0.67117094,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.67117094,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 49
+      },
+      "Tuxavant": {
+        "address": 2,
+        "balance": 0.034237000000000004,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6034.34704323,
+        "sent": 6034.31280623,
+        "sparkid": "▂█▃▃▁",
+        "transaction": 464
+      },
+      "Tweep Coin": {
+        "address": 1,
+        "balance": 0.00411,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.03861,
+        "sent": 0.0345,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "Tweets Broker": {
+        "address": 1,
+        "balance": 0.00051,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.01051,
+        "sent": 0.01,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "UoA Students For Life": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.39853597,
+        "sent": 1.39853597,
+        "sparkid": "▂█▂▂▁",
+        "transaction": 22
+      },
+      "VLC": {
+        "address": 2,
+        "balance": 0.01577752,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 12.98079191,
+        "sent": 12.96501439,
+        "sparkid": "▂█▇▇▁",
+        "transaction": 103
+      },
+      "VideoLAN": {
+        "address": 1,
+        "balance": 0.04912803,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.70808975,
+        "sent": 1.65896172,
+        "sparkid": "▄█▄▄▁",
+        "transaction": 257
+      },
+      "W.Handl Scientology Lawsuit": {
+        "address": 1,
+        "balance": 10.00131,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 29.92213,
+        "sent": 19.92082,
+        "sparkid": "▁▃█▂▅",
+        "transaction": 96
+      },
+      "Wallet Explorer": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.30831591,
+        "sent": 1.30831591,
+        "sparkid": "██▄▄▁",
+        "transaction": 17
+      },
+      "Watsi": {
+        "address": 1,
+        "balance": 1.919e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.5823606,
+        "sent": 0.58234141,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 127
+      },
+      "We Are Change": {
+        "address": 2,
+        "balance": 5.93040679,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 25.165105739999998,
+        "sent": 19.23469895,
+        "sparkid": "▁▆█▂▃",
+        "transaction": 353
+      },
+      "WeUseCoins": {
+        "address": 1,
+        "balance": 0.022811,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 21.428211,
+        "sent": 21.4054,
+        "sparkid": "▂▅██▁",
+        "transaction": 49
+      },
+      "WebBTC": {
+        "address": 1,
+        "balance": 1.95801228,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.95801228,
+        "sent": 0.0,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 13
+      },
+      "Weenfan BCT": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 210.5411378,
+        "sent": 210.5411378,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 224
+      },
+      "WhichWallet": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "WikiLeaks": {
+        "address": 3,
+        "balance": 0.01582572,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 4062.7114357299997,
+        "sent": 4062.6956100099997,
+        "sparkid": "▂█▇▇▁",
+        "transaction": 51823
+      },
+      "Wikispeed": {
+        "address": 1,
+        "balance": 0.00027,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 21.3474641,
+        "sent": 21.3471941,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 39
+      },
+      "WildMe": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.04044292,
+        "sent": 0.04044292,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "WireGuard": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.48823977,
+        "sent": 2.48823977,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 248
+      },
+      "XAVOA": {
+        "address": 1,
+        "balance": 0.00038095,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 991.42131697,
+        "sent": 991.42093602,
+        "sparkid": "▄█▄▄▁",
+        "transaction": 422
+      },
+      "XKCD": {
+        "address": 2,
+        "balance": 1.3509404200000001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 195.30012999,
+        "sent": 193.94918957000002,
+        "sparkid": "▂▄▁█▁",
+        "transaction": 351
+      },
+      "Yamwat OpenSource Project": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.07303913,
+        "sent": 0.07292913,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 118
+      },
+      "YelloSoft": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00011,
+        "sent": 0.0,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "YoghBlockchainReader": {
+        "address": 1,
+        "balance": 0.00181813,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.44284176,
+        "sent": 0.44102363,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "Zero3112": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 35.38815119,
+        "sent": 35.38815119,
+        "sparkid": "▂▂██▁",
+        "transaction": 31
+      },
+      "adaptive.mobi": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0384084,
+        "sent": 0.0382984,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "asaaki": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.99716455,
+        "sent": 9.99716455,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 13
+      },
+      "bensonsamuel.com": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 2.62412174,
+        "sent": 2.62412174,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 207
+      },
+      "bitcoin.interaqt.nl": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0069935,
+        "sent": 0.0069935,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "bitcoin.sipa.be": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.86914354,
+        "sent": 9.86914354,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 103
+      },
+      "bitcoinexchangerate.org": {
+        "address": 1,
+        "balance": 4e-07,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.17795839,
+        "sent": 0.17795799,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 14
+      },
+      "bitcoinity.org": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 33.90467792,
+        "sent": 33.90466792,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 74
+      },
+      "bitcoinmonitor.com": {
+        "address": 1,
+        "balance": 3.26823361,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 146.70927465,
+        "sent": 143.44104104,
+        "sparkid": "▁▁█▅▂",
+        "transaction": 272
+      },
+      "blockchained.com": {
+        "address": 1,
+        "balance": 0.0003,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.32506972,
+        "sent": 1.32476972,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "blockviewer.com": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 7.91469102,
+        "sent": 7.91469102,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 11
+      },
+      "btcrecover": {
+        "address": 1,
+        "balance": 0.00956461,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.30185798,
+        "sent": 1.29229337,
+        "sparkid": "█▁██▁",
+        "transaction": 60
+      },
+      "carlos8f Zenbot": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.06244337,
+        "sent": 0.06244337,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "crypto bot": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "cryptothis": {
+        "address": 1,
+        "balance": 0.00796328,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.04256868,
+        "sent": 0.0346054,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 17
+      },
+      "donateathome.org": {
+        "address": 1,
+        "balance": 1.19770466,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3206.64760146,
+        "sent": 3205.4498968,
+        "sparkid": "▁▃█▇▁",
+        "transaction": 35
+      },
+      "drivelights": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.01111,
+        "sent": 0.01111,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "dyne.org": {
+        "address": 1,
+        "balance": 0.0091416,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.83250486,
+        "sent": 1.82336326,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 24
+      },
+      "fabhack": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.31011,
+        "sent": 0.31011,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 8
+      },
+      "faucet.bitcoin.st": {
+        "address": 1,
+        "balance": 0.0001201,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 78.19488265,
+        "sent": 78.19476255,
+        "sparkid": "▂█▄▄▁",
+        "transaction": 217
+      },
+      "fnordprefekt": {
+        "address": 1,
+        "balance": 0.06244749,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.06244749,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 31
+      },
+      "freedomsphoenix.com": {
+        "address": 2,
+        "balance": 0.43326662,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 73.62517551,
+        "sent": 73.19190889,
+        "sparkid": "▂▅██▁",
+        "transaction": 68
+      },
+      "freifunk-rheinland.org": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 41.43725458,
+        "sent": 41.43725458,
+        "sparkid": "▁▁██▁",
+        "transaction": 90
+      },
+      "ftpbox.org": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 3.42011,
+        "sent": 3.42011,
+        "sparkid": "▁█▂▂▁",
+        "transaction": 13
+      },
+      "jonls.dk": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1.88760613,
+        "sent": 1.88759613,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 11
+      },
+      "ldmicro-jp": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00111,
+        "sent": 0.001,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "learnmeabitcoin.com": {
+        "address": 1,
+        "balance": 0.00551988,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00551988,
+        "sent": 0.0,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "leijurv": {
+        "address": 1,
+        "balance": 0.02237468,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 24.78321665,
+        "sent": 24.76084197,
+        "sparkid": "▁█▅▅▁",
+        "transaction": 343
+      },
+      "megabitcoin": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 1544.35097079,
+        "sent": 1544.35097079,
+        "sparkid": "▁▄██▁",
+        "transaction": 2197
+      },
+      "melvincarvalho.com": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.00511,
+        "sent": 0.005,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "minetopics.blogspot.com": {
+        "address": 1,
+        "balance": 1e-05,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.05001,
+        "sent": 0.05,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "moartr4dez": {
+        "address": 1,
+        "balance": 0.0001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.79361,
+        "sent": 0.79351,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "nlnet.nl": {
+        "address": 1,
+        "balance": 0.79931,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 5.79931,
+        "sent": 5.0,
+        "sparkid": "▂█▆▆▁",
+        "transaction": 7
+      },
+      "nyc.wikimedia.org": {
+        "address": 1,
+        "balance": 0.22415439,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 119.10121652,
+        "sent": 118.87706213,
+        "sparkid": "▁▇█▇▁",
+        "transaction": 147
+      },
+      "onion.to": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 30.91553263,
+        "sent": 30.91553263,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 28
+      },
+      "opensourceecology.org": {
+        "address": 1,
+        "balance": 7.45666754,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 34.99112754,
+        "sent": 27.53446,
+        "sparkid": "▁▂▂█▄",
+        "transaction": 63
+      },
+      "p2shinfo": {
+        "address": 1,
+        "balance": 0.12425957,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.14817679,
+        "sent": 0.02391722,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 13
+      },
+      "ragmondo": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 87.83825545,
+        "sent": 87.83825545,
+        "sparkid": "▁▂██▁",
+        "transaction": 138
+      },
+      "reboot.ms": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.016727,
+        "sent": 0.016727,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "recksplorer": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.07180218,
+        "sent": 0.07180218,
+        "sparkid": "██▁▁▁",
+        "transaction": 16
+      },
+      "ribuck": {
+        "address": 1,
+        "balance": 0.0016001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 12311.1116001,
+        "sent": 12311.11,
+        "sparkid": "▁███▁",
+        "transaction": 41
+      },
+      "searx": {
+        "address": 1,
+        "balance": 0.17980385,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.32980385,
+        "sent": 0.15,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 32
+      },
+      "sebaygo1": {
+        "address": 1,
+        "balance": 0.15799101,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.15799101,
+        "sent": 0.0,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 9
+      },
+      "seweso": {
+        "address": 1,
+        "balance": 0.0001,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 18.23584597,
+        "sent": 18.23574597,
+        "sparkid": "▃▃██▁",
+        "transaction": 61
+      },
+      "tbcoin": {
+        "address": 1,
+        "balance": 0.00011002,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.01061002,
+        "sent": 0.0105,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "tehtros": {
+        "address": 1,
+        "balance": 0.00053705,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.36835955,
+        "sent": 0.3678225,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 98
+      },
+      "theytrackyou": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "webpg.org": {
+        "address": 1,
+        "balance": 0.00021,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 6.00021,
+        "sent": 6.0,
+        "sparkid": "▂█▇▇▁",
+        "transaction": 7
+      },
+      "wizkid057 Eligius Mining": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 224.14726346,
+        "sent": 224.14726346,
+        "sparkid": "▁▆██▁",
+        "transaction": 430
+      },
+      "ympd": {
+        "address": 1,
+        "balance": 0.00463803,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 0.12996401,
+        "sent": 0.12532598,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 6
+      },
+      "yorba.org": {
+        "address": 1,
+        "balance": 0.00011,
+        "lastseen": null,
+        "lasttxepoch": null,
+        "received": 9.390776,
+        "sent": 9.390666,
+        "sparkid": "▁▆██▁",
+        "transaction": 22
+      }
+    },
+    "popular": {
+      "BitAurum.eu": {
+        "address": 2,
+        "balance": 2.2e-12,
+        "lastseen": "17/Oct/2015 @ 23:14:52 PDT",
+        "lasttxepoch": 1445148892,
+        "received": 4.1009922e-06,
+        "sent": 4.1009899999999995e-06,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 42
+      },
+      "BitFunder": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "25/Oct/2013 @ 19:10:37 PDT",
+        "lasttxepoch": 1382753437,
+        "received": 6.0841780027000005e-06,
+        "sent": 6.0841780027000005e-06,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 14
+      },
+      "BitStampHackers": {
+        "address": 1,
+        "balance": 6.766529730000001e-08,
+        "lastseen": "29/Sep/2017 @ 20:42:11 PDT",
+        "lasttxepoch": 1506742931,
+        "received": 0.00019949961714760001,
+        "sent": 0.0001994319518503,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 209
+      },
+      "Bitcoin Eater Address": {
+        "address": 1,
+        "balance": 1.312481658e-07,
+        "lastseen": "23/Sep/2017 @ 16:45:27 PDT",
+        "lasttxepoch": 1506210327,
+        "received": 1.312481658e-07,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 262
+      },
+      "Bitcoin-24": {
+        "address": 2,
+        "balance": 2.1e-12,
+        "lastseen": "17/Oct/2015 @ 23:47:28 PDT",
+        "lasttxepoch": 1445150848,
+        "received": 0.0500548370139618,
+        "sent": 0.05005483701186181,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 22240
+      },
+      "Bitmarket.eu": {
+        "address": 1,
+        "balance": 1.1e-12,
+        "lastseen": "17/Oct/2015 @ 18:46:51 PDT",
+        "lasttxepoch": 1445132811,
+        "received": 3.644934388e-07,
+        "sent": 3.6449233880000003e-07,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 36
+      },
+      "Blockchain.info": {
+        "address": 1,
+        "balance": 8.22841e-11,
+        "lastseen": "10/Oct/2016 @ 14:08:18 PDT",
+        "lasttxepoch": 1476133698,
+        "received": 0.0001588868565941,
+        "sent": 0.00015888677431,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 8145
+      },
+      "Bloomberg Reporter": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "23/Jan/2017 @ 07:59:14 PST",
+        "lasttxepoch": 1485187154,
+        "received": 2.3796755e-09,
+        "sent": 2.3796755e-09,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 20859
+      },
+      "BrainWallet BitcoinGenesisCoinbase": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "05/Jun/2016 @ 13:32:18 PDT",
+        "lasttxepoch": 1465158738,
+        "received": 3.8249999999999997e-10,
+        "sent": 3.8249999999999997e-10,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4
+      },
+      "BrainWallet SatoshiNakamoto": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "22/Aug/2017 @ 14:17:10 PDT",
+        "lasttxepoch": 1503436630,
+        "received": 2.560016e-10,
+        "sent": 2.560016e-10,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 22
+      },
+      "BrainWallet aurinkoaurinkoaurinko": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "20/Jan/2014 @ 16:03:28 PST",
+        "lasttxepoch": 1390262608,
+        "received": 1.009641e-08,
+        "sent": 1.009641e-08,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "BrainWallet bitcoin is awesome": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "09/May/2016 @ 03:45:51 PDT",
+        "lasttxepoch": 1462790751,
+        "received": 5.0106500863e-06,
+        "sent": 5.0106500863e-06,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10
+      },
+      "BrainWallet correct horse battery staple": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 15.94622732,
+        "sent": 15.94622732,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 4117
+      },
+      "BrainWallet forgottenpassword": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "11/Apr/2015 @ 14:19:28 PDT",
+        "lasttxepoch": 1428787168,
+        "received": 1.5795e-10,
+        "sent": 1.5795e-10,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 7
+      },
+      "BrainWallet fuckfuckfuckfuck": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "09/Mar/2013 @ 13:49:45 PST",
+        "lasttxepoch": 1362865785,
+        "received": 1e-08,
+        "sent": 1e-08,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "BrainWallet goatsegoatsegoatse": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "10/Mar/2013 @ 12:11:22 PDT",
+        "lasttxepoch": 1362942682,
+        "received": 1e-08,
+        "sent": 1e-08,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "BrainWallet loremipsumdolorsitamet": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "29/Nov/2013 @ 02:46:37 PST",
+        "lasttxepoch": 1385721997,
+        "received": 1.0122117699999999e-08,
+        "sent": 1.0122117699999999e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 10
+      },
+      "BrainWallet password": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "18/May/2017 @ 00:31:22 PDT",
+        "lasttxepoch": 1495092682,
+        "received": 3.533154e-09,
+        "sent": 3.533154e-09,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 28090
+      },
+      "BrainWallet testingtestingtesting": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "10/Mar/2013 @ 00:35:08 PST",
+        "lasttxepoch": 1362904508,
+        "received": 1e-08,
+        "sent": 1e-08,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "CoinSecure Hacker": {
+        "address": 22,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "FBI": {
+        "address": 2,
+        "balance": 1.8048650599999997e-07,
+        "lastseen": "04/Oct/2017 @ 18:47:32 PDT",
+        "lasttxepoch": 1507168052,
+        "received": 0.0017401838969995,
+        "sent": 0.0017400034104934998,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 1874
+      },
+      "GavinAndresen Bitcoin Faucet": {
+        "address": 3,
+        "balance": 1.318919e-10,
+        "lastseen": "01/Aug/2017 @ 11:17:19 PDT",
+        "lasttxepoch": 1501611439,
+        "received": 0.0020289128344072997,
+        "sent": 0.0020289127025153995,
+        "sparkid": "█▅▁▁▁",
+        "transaction": 29192
+      },
+      "HuobiWhale": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Instawallet": {
+        "address": 1,
+        "balance": 1.11e-11,
+        "lastseen": "17/Oct/2015 @ 18:46:51 PDT",
+        "lasttxepoch": 1445132811,
+        "received": 0.0022082510105503003,
+        "sent": 0.0022082509994503,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 9506
+      },
+      "Instawallet Cold Storage": {
+        "address": 1,
+        "balance": 1.1e-12,
+        "lastseen": "17/Oct/2015 @ 23:14:52 PDT",
+        "lasttxepoch": 1445148892,
+        "received": 0.0020402205131736,
+        "sent": 0.0020402205120736,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 70
+      },
+      "Laszlo": {
+        "address": 1,
+        "balance": 1.1024e-12,
+        "lastseen": "23/Jan/2017 @ 03:42:37 PST",
+        "lasttxepoch": 1485171757,
+        "received": 0.0008143209011023999,
+        "sent": 0.0008143209,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 3290
+      },
+      "Lowercase BTC Address": {
+        "address": 1,
+        "balance": 6.896352e-10,
+        "lastseen": "15/Sep/2017 @ 21:41:24 PDT",
+        "lasttxepoch": 1505536884,
+        "received": 2.484933e-09,
+        "sent": 1.7952978e-09,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 13
+      },
+      "Mt. Gox": {
+        "address": 87,
+        "balance": 0.0016360595085542998,
+        "lastseen": "01/Aug/2017 @ 21:10:26 PDT",
+        "lasttxepoch": 1501647026,
+        "received": 0.0587032078489433,
+        "sent": 0.057067148340389,
+        "sparkid": "█▄▁▁▁",
+        "transaction": 21051
+      },
+      "Palindrome Address": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "RossUlbricht USMarshalls SilkRoad": {
+        "address": 1,
+        "balance": 2.6274000000000003e-12,
+        "lastseen": "23/Jan/2017 @ 03:34:23 PST",
+        "lasttxepoch": 1485171263,
+        "received": 0.0002965880961066,
+        "sent": 0.0002965880934792,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 41
+      },
+      "Silk Road": {
+        "address": 1,
+        "balance": 3.3635846000000003e-09,
+        "lastseen": "03/Oct/2017 @ 20:08:19 PDT",
+        "lasttxepoch": 1507086499,
+        "received": 0.0061332665366937,
+        "sent": 0.0061332631731091,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 683
+      },
+      "SilkRoad": {
+        "address": 5,
+        "balance": 1e-12,
+        "lastseen": "26/Oct/2015 @ 18:37:32 PDT",
+        "lasttxepoch": 1445909852,
+        "received": 4.1266380999999996e-05,
+        "sent": 4.1266379999999994e-05,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 10
+      },
+      "The Pirate Bay": {
+        "address": 1,
+        "balance": 4.4842890000000003e-10,
+        "lastseen": "03/Oct/2017 @ 17:13:43 PDT",
+        "lasttxepoch": 1507076023,
+        "received": 1.223622269e-07,
+        "sent": 1.21913798e-07,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 832
+      },
+      "TimDraper USMarshalls SilkRoad": {
+        "address": 1,
+        "balance": 6e-13,
+        "lastseen": "22/Aug/2015 @ 02:05:01 PDT",
+        "lasttxepoch": 1440234301,
+        "received": 0.0002965651932956,
+        "sent": 0.0002965651926956,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 50
+      },
+      "Wired BFL": {
+        "address": 1,
+        "balance": 1.334623579e-07,
+        "lastseen": "05/Jan/2016 @ 04:51:10 PST",
+        "lasttxepoch": 1451998270,
+        "received": 1.334623579e-07,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 360
+      }
+    },
+    "ransom": {
+      "7ev3n": {
+        "address": 1,
+        "balance": 1.11225e-11,
+        "lastseen": "29/Apr/2016 @ 05:00:58 PDT",
+        "lasttxepoch": 1461931258,
+        "received": 1.11225e-11,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "ASN1": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "AlcatrazLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "AngleWare": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "AtomBuilder": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BadBlock": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BadEncript": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BadRabbit": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Badware": {
+        "address": 70,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BansomQareManna": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BitCrypt": {
+        "address": 122,
+        "balance": 2.1977401000000003e-09,
+        "lastseen": "25/Oct/2016 @ 11:22:29 PDT",
+        "lasttxepoch": 1477419749,
+        "received": 6.599566296600002e-06,
+        "sent": 6.597368556500002e-06,
+        "sparkid": "█▄▁▁▁",
+        "transaction": 1021
+      },
+      "BitPaymer": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BitStak": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "27/Jan/2017 @ 08:54:24 PST",
+        "lasttxepoch": 1485536064,
+        "received": 4.0000000000000004e-11,
+        "sent": 4.0000000000000004e-11,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Bitcoin Scammer": {
+        "address": 24,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Bitpaymer": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "27/Jul/2017 @ 12:03:49 PDT",
+        "lasttxepoch": 1501182229,
+        "received": 2.00039113e-08,
+        "sent": 2.00039113e-08,
+        "sparkid": "▄█▁▁▁",
+        "transaction": 2
+      },
+      "BlackFeather": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BlackHeart": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "BlackSheep": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Bloccato": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Bucbi": {
+        "address": 1,
+        "balance": 8.959999999999999e-11,
+        "lastseen": "02/Apr/2016 @ 11:08:02 PDT",
+        "lasttxepoch": 1459620482,
+        "received": 8.959999999999999e-11,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "CSharpEncoded": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "CTBLocker": {
+        "address": 14,
+        "balance": 4e-12,
+        "lastseen": "18/Apr/2016 @ 04:33:14 PDT",
+        "lasttxepoch": 1460979194,
+        "received": 5e-12,
+        "sent": 1e-12,
+        "sparkid": "█▃▁▁▁",
+        "transaction": 5
+      },
+      "Cerber": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "08/Mar/2017 @ 17:37:16 PST",
+        "lasttxepoch": 1489023436,
+        "received": 1.493036655e-07,
+        "sent": 1.493036655e-07,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 39
+      },
+      "Chimera": {
+        "address": 6,
+        "balance": 6e-14,
+        "lastseen": "12/Nov/2015 @ 12:06:40 PST",
+        "lasttxepoch": 1447358800,
+        "received": 5.060000000000001e-12,
+        "sent": 5.0000000000000005e-12,
+        "sparkid": "█▄▁▁▁",
+        "transaction": 3
+      },
+      "ClipboardMITM": {
+        "address": 1,
+        "balance": 1.8105e-12,
+        "lastseen": "04/Oct/2017 @ 21:40:56 PDT",
+        "lasttxepoch": 1507178456,
+        "received": 7.39117301e-08,
+        "sent": 7.39099196e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 83
+      },
+      "Coinbase Phishing": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "ComradeCircle": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "18/Oct/2016 @ 11:07:12 PDT",
+        "lasttxepoch": 1476814032,
+        "received": 2.0332000099999998e-08,
+        "sent": 2.0332000099999998e-08,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "CryLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "CryptXXX": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "24/Aug/2016 @ 10:15:40 PDT",
+        "lasttxepoch": 1472058940,
+        "received": 9.485816438000001e-07,
+        "sent": 9.485816438000001e-07,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 82
+      },
+      "CryptoApp": {
+        "address": 1,
+        "balance": 5.126e-13,
+        "lastseen": "24/Jun/2015 @ 08:17:43 PDT",
+        "lasttxepoch": 1435159063,
+        "received": 1.00010626e-08,
+        "sent": 1.0000549999999999e-08,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "CryptoBlock": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "CryptoDefense": {
+        "address": 1,
+        "balance": 1.7799999999999999e-12,
+        "lastseen": "15/Aug/2014 @ 05:01:32 PDT",
+        "lasttxepoch": 1408104092,
+        "received": 1.1490839975e-06,
+        "sent": 1.1490822174999999e-06,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 144
+      },
+      "CryptoHost": {
+        "address": 1,
+        "balance": 2.0000000000000002e-11,
+        "lastseen": "12/Jun/2016 @ 05:08:32 PDT",
+        "lasttxepoch": 1465733312,
+        "received": 2.0000000000000002e-11,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "CryptoLocker": {
+        "address": 71,
+        "balance": 1.1e-12,
+        "lastseen": "28/Mar/2017 @ 16:00:37 PDT",
+        "lasttxepoch": 1490742037,
+        "received": 0.0007057678511833994,
+        "sent": 0.0007057678500833994,
+        "sparkid": "█▅▁▁▁",
+        "transaction": 412
+      },
+      "CryptoTorLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "13/Feb/2015 @ 18:06:02 PST",
+        "lasttxepoch": 1423879562,
+        "received": 5.69976399e-08,
+        "sent": 5.69976399e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 40
+      },
+      "CryptoWall": {
+        "address": 16,
+        "balance": 2.801513e-10,
+        "lastseen": "28/Nov/2015 @ 12:42:40 PST",
+        "lasttxepoch": 1448743360,
+        "received": 4.4867552573e-06,
+        "sent": 4.486475106000001e-06,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 535
+      },
+      "Cryptorbit": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "16/Feb/2014 @ 04:31:47 PST",
+        "lasttxepoch": 1392553907,
+        "received": 4.9997e-08,
+        "sent": 4.9997e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 12
+      },
+      "DMALocker": {
+        "address": 8,
+        "balance": 0.0,
+        "lastseen": "11/Jul/2016 @ 05:34:57 PDT",
+        "lasttxepoch": 1468240497,
+        "received": 1.2843045165000002e-06,
+        "sent": 1.2843045165000002e-06,
+        "sparkid": "██▁▁▁",
+        "transaction": 53
+      },
+      "DiskWriter": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "DoubleLocker": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "EdgeLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "ElectrumPro Scammer": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "EncrypTile": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Equihax": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Fake Bomb Threat": {
+        "address": 25,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "FindZip": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Flyper": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "23/Dec/2016 @ 11:47:05 PST",
+        "lasttxepoch": 1482522425,
+        "received": 3.3827439e-09,
+        "sent": 3.3827439e-09,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Funfact": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Globe": {
+        "address": 2,
+        "balance": 1.0942000000000001e-12,
+        "lastseen": "21/Sep/2017 @ 09:00:01 PDT",
+        "lasttxepoch": 1506009601,
+        "received": 9.173832796e-07,
+        "sent": 9.173821854e-07,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 455
+      },
+      "GlobeImposter": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "27/Jun/2017 @ 22:36:58 PDT",
+        "lasttxepoch": 1498628218,
+        "received": 8.140474229999998e-08,
+        "sent": 8.140474229999998e-08,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 8
+      },
+      "GoldenEye": {
+        "address": 4,
+        "balance": 0.0,
+        "lastseen": "29/Dec/2016 @ 04:42:57 PST",
+        "lasttxepoch": 1483015377,
+        "received": 2.5677199999999998e-11,
+        "sent": 2.5677199999999998e-11,
+        "sparkid": "█▂▁▁▁",
+        "transaction": 1
+      },
+      "Hand of God": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "HappyLocker": {
+        "address": 1,
+        "balance": 2.5176157999999997e-09,
+        "lastseen": "12/Aug/2017 @ 11:45:08 PDT",
+        "lasttxepoch": 1502563508,
+        "received": 1.79612645e-08,
+        "sent": 1.54436487e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 70
+      },
+      "Haxerboi": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "HiBuddy!": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "ITBooks": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Iron": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "JNEC.a": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Jigsaw": {
+        "address": 21,
+        "balance": 2.0000000000000002e-11,
+        "lastseen": "17/Dec/2016 @ 09:32:51 PST",
+        "lasttxepoch": 1481995971,
+        "received": 9.4462166e-09,
+        "sent": 9.4262166e-09,
+        "sparkid": "█▄▁▁▁",
+        "transaction": 18
+      },
+      "JungleSec": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "KeRanger": {
+        "address": 6,
+        "balance": 0.0,
+        "lastseen": "24/Mar/2016 @ 05:44:09 PDT",
+        "lasttxepoch": 1458823449,
+        "received": 3.66023e-11,
+        "sent": 3.66023e-11,
+        "sparkid": "█▂▁▁▁",
+        "transaction": 1
+      },
+      "KillDisk": {
+        "address": 1,
+        "balance": 1e-12,
+        "lastseen": "30/Dec/2016 @ 11:09:54 PST",
+        "lasttxepoch": 1483124994,
+        "received": 1e-12,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Kovter Nemucod": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Krypton": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "L0cked": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "LLTPLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "LambdaLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "31/Jul/2017 @ 10:20:45 PDT",
+        "lasttxepoch": 1501521645,
+        "received": 6.669231680000001e-08,
+        "sent": 6.669231680000001e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 13
+      },
+      "LightningCrypt": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Locky": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "29/Aug/2016 @ 04:42:33 PDT",
+        "lasttxepoch": 1472470953,
+        "received": 3e-08,
+        "sent": 3e-08,
+        "sparkid": "█▃▁▁▁",
+        "transaction": 1
+      },
+      "LockyDecryptor": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Magniber": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Mahasaraswati": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "21/May/2016 @ 07:31:58 PDT",
+        "lasttxepoch": 1463841118,
+        "received": 2e-08,
+        "sent": 2e-08,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Mamba": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "09/Sep/2016 @ 02:25:24 PDT",
+        "lasttxepoch": 1473413124,
+        "received": 4e-08,
+        "sent": 4e-08,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "Manifestus": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "MauriGo": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Mircop Crypt888": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "12/Nov/2016 @ 18:53:31 PST",
+        "lasttxepoch": 1479005611,
+        "received": 1.97064153e-08,
+        "sent": 1.97064153e-08,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 75
+      },
+      "Mischa": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "NemucodAES": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "NoobCrypt": {
+        "address": 4,
+        "balance": 1.4846e-09,
+        "lastseen": "20/Jul/2017 @ 22:46:22 PDT",
+        "lasttxepoch": 1500615982,
+        "received": 1.031697343e-07,
+        "sent": 1.016851343e-07,
+        "sparkid": "█▆▁▁▁",
+        "transaction": 33
+      },
+      "Nuke": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "22/May/2017 @ 11:44:21 PDT",
+        "lasttxepoch": 1495478661,
+        "received": 8.674082e-10,
+        "sent": 8.674082e-10,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Nullbyte": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "03/Sep/2016 @ 01:27:53 PDT",
+        "lasttxepoch": 1472891273,
+        "received": 1.72e-10,
+        "sent": 1.72e-10,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "OXAR": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Oops": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Osiris": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "OzozaLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "28/Sep/2017 @ 15:48:45 PDT",
+        "lasttxepoch": 1506638925,
+        "received": 1.16860824e-08,
+        "sent": 1.16860824e-08,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 68
+      },
+      "Pacman": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Petya": {
+        "address": 2,
+        "balance": 1.2433435e-09,
+        "lastseen": "03/Oct/2017 @ 07:51:40 PDT",
+        "lasttxepoch": 1507042300,
+        "received": 8.35378015e-08,
+        "sent": 8.2294458e-08,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 68
+      },
+      "PopcornTime": {
+        "address": 1,
+        "balance": 6e-14,
+        "lastseen": "30/Dec/2016 @ 11:09:54 PST",
+        "lasttxepoch": 1483124994,
+        "received": 2.78372e-11,
+        "sent": 2.77772e-11,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "PredatorTheCipher": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Princess": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "PrincessEvolution": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "ProposalCrypt": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "REKTLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "RackCrypt": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Ransom Spam": {
+        "address": 284,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "RedEye": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "RenLocker": {
+        "address": 1,
+        "balance": 2.5677199999999998e-11,
+        "lastseen": "14/Dec/2016 @ 03:10:24 PST",
+        "lasttxepoch": 1481713824,
+        "received": 2.5677199999999998e-11,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Ryuk": {
+        "address": 38,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "SamSam": {
+        "address": 48,
+        "balance": 6.099310000000001e-11,
+        "lastseen": "27/Sep/2016 @ 11:51:00 PDT",
+        "lasttxepoch": 1475002260,
+        "received": 7.2948609041e-06,
+        "sent": 7.294799911e-06,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 83
+      },
+      "Satan": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "SatanCryptor": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Satyr": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "SharkBuilder": {
+        "address": 1,
+        "balance": 4.951122e-10,
+        "lastseen": "15/Sep/2016 @ 12:27:14 PDT",
+        "lasttxepoch": 1473967634,
+        "received": 4.951122e-10,
+        "sent": 0.0,
+        "sparkid": "▂█▁▁▁",
+        "transaction": 5
+      },
+      "Shrug": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Sigma": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Skull Ransomware": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Spora": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "TeslaCrypt": {
+        "address": 5,
+        "balance": 1e-12,
+        "lastseen": "15/Mar/2015 @ 12:43:25 PDT",
+        "lasttxepoch": 1426448605,
+        "received": 1e-12,
+        "sent": 0.0,
+        "sparkid": "█▂▁▁▁",
+        "transaction": 1
+      },
+      "Thanatos": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "TheTrumpLocker": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "ThunderCrypt": {
+        "address": 4,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Troldesh": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Twitter Crypto Scam": {
+        "address": 33,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Unknown Ransomware": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Uyari": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "01/Jun/2017 @ 06:50:35 PDT",
+        "lasttxepoch": 1496325035,
+        "received": 4.0000000000000004e-11,
+        "sent": 4.0000000000000004e-11,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "VenusLocker": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "26/Feb/2017 @ 05:17:09 PST",
+        "lasttxepoch": 1488115029,
+        "received": 6.8014652e-08,
+        "sent": 6.8014652e-08,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 8
+      },
+      "VirLocker": {
+        "address": 1,
+        "balance": 4e-12,
+        "lastseen": "04/Nov/2015 @ 04:12:17 PST",
+        "lasttxepoch": 1446639137,
+        "received": 1.2646508700000001e-08,
+        "sent": 1.2642508700000002e-08,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 3
+      },
+      "WanaCry": {
+        "address": 9,
+        "balance": 1.53575699e-08,
+        "lastseen": "03/Oct/2017 @ 05:15:15 PDT",
+        "lasttxepoch": 1507032915,
+        "received": 5.978644487e-07,
+        "sent": 5.825068788000001e-07,
+        "sparkid": "▅█▁▁▁",
+        "transaction": 389
+      },
+      "WannaCry Hack Team": {
+        "address": 2,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "WannaDecrypt0r": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "WannaSpam": {
+        "address": 7,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Xorist": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "08/Jul/2017 @ 00:46:11 PDT",
+        "lasttxepoch": 1499499971,
+        "received": 3.7473755e-08,
+        "sent": 3.7473755e-08,
+        "sparkid": "▃█▁▁▁",
+        "transaction": 8
+      },
+      "ZCryptor": {
+        "address": 1,
+        "balance": 2.2337300000000003e-11,
+        "lastseen": "25/May/2016 @ 15:04:09 PDT",
+        "lasttxepoch": 1464213849,
+        "received": 2.2337300000000003e-11,
+        "sent": 0.0,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "ZeroCrypt": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "17/Mar/2017 @ 19:01:34 PDT",
+        "lasttxepoch": 1489802494,
+        "received": 1.0000000000000001e-11,
+        "sent": 1.0000000000000001e-11,
+        "sparkid": "██▁▁▁",
+        "transaction": 1
+      },
+      "Zoldon": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "Zorro": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "cru3lty": {
+        "address": 3,
+        "balance": 0.0,
+        "lastseen": "29/Sep/2017 @ 01:15:27 PDT",
+        "lasttxepoch": 1506672927,
+        "received": 1e-08,
+        "sent": 1e-08,
+        "sparkid": "▅█▁▁▁",
+        "transaction": 5
+      },
+      "iRansom": {
+        "address": 1,
+        "balance": 5.476e-13,
+        "lastseen": "28/Jul/2017 @ 20:22:48 PDT",
+        "lasttxepoch": 1501298568,
+        "received": 2.8309034e-09,
+        "sent": 2.8303558e-09,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 29
+      },
+      "n1n1n1": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      },
+      "thedarkoverlord": {
+        "address": 1,
+        "balance": 0.0,
+        "lastseen": "",
+        "lasttxepoch": null,
+        "received": 0.0,
+        "sent": 0.0,
+        "sparkid": "█▁▁▁▁",
+        "transaction": 0
+      }
+    }
   },
   "graph": {},
-  "last_update": "11/Jul/2021 @ 02:27:43 PDT",
-  "stats": {}
+  "last_update": "11/Jul/2021 @ 02:11:27 PDT",
+  "stats": {
+    "count_address": 1485,
+    "count_address_donation": 384,
+    "count_address_popular": 151,
+    "count_address_ransom": 950,
+    "count_balance": 541.3234315509523,
+    "count_balance_donation": 541.3217949499998,
+    "count_balance_popular": 0.0016365771096358004,
+    "count_balance_ransom": 2.3842827800000005e-08,
+    "count_received": 281160.16217305034,
+    "count_received_donation": 281144.0904836702,
+    "count_received_popular": 16.070959333499196,
+    "count_received_ransom": 0.0007300466471077993,
+    "count_sent": 280618.83874149923,
+    "count_sent_donation": 280602.76868872007,
+    "count_sent_popular": 16.06932275638956,
+    "count_sent_ransom": 0.0007300228042799991,
+    "count_txs": 395822,
+    "count_txs_donation": 240980,
+    "count_txs_popular": 151044,
+    "count_txs_ransom": 3798,
+    "count_wallet": 525,
+    "count_wallet_donation": 360,
+    "count_wallet_popular": 35,
+    "count_wallet_ransom": 130
+  }
 }
