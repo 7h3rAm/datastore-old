@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jul/2021 @ 03:26:02 PDT",
+    "last_update": "11/Jul/2021 @ 04:02:54 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg",
     "title": "Find the Moon (11/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -819,7 +819,7 @@
         ],
         "eid": "us6000eu81",
         "location": "http://maps.google.com/maps?q=40.1284,34.4416",
-        "name": "M 4.0 - Central Turkey",
+        "name": "M 4.0 - 7 km SE of Sungurlu, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -1015,24 +1015,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eu36",
-        "location": "http://maps.google.com/maps?q=12.5979,-59.3719",
-        "name": "M 4.5 - 55 km SSE of Oistins, Barbados",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu36"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000eu9t",
         "location": "http://maps.google.com/maps?q=-0.0171,123.3236",
         "name": "M 4.6 - 67 km SSE of Gorontalo, Indonesia",
@@ -1079,6 +1061,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu8w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000euct",
+        "location": "http://maps.google.com/maps?q=-15.762,-173.3311",
+        "name": "M 4.7 - 54 km ENE of Hihifo, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000euct"
       },
       {
         "category": [
@@ -2483,11 +2483,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "11/Jul/2021 @ 03:26:04 PDT",
+    "last_update": "11/Jul/2021 @ 04:02:56 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.762,-173.3311\"><b>M 4.7 - 54 km ENE of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000euct\">USGS</a>",
+          -15.762,
+          -173.3311
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-8.0232,-74.5597\"><b>M 4.3 - 39 km N of Pucallpa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000euc8\">USGS</a>",
           -8.0232,
@@ -2544,7 +2549,7 @@
           23.3161
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.1284,34.4416\"><b>M 4.0 - 7 km SE of Sungurlu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu81\">USGS</a>",
           40.1284,
           34.4416
         ],
@@ -2587,11 +2592,6 @@
           "<a href=\"http://maps.google.com/maps?q=-22.1405,170.9796\"><b>M 4.7 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu4k\">USGS</a>",
           -22.1405,
           170.9796
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.5979,-59.3719\"><b>M 4.5 - 55 km SSE of Oistins, Barbados</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eu36\">USGS</a>",
-          12.5979,
-          -59.3719
         ]
       ],
       "Floods": [],
@@ -4651,10 +4651,10 @@
     },
     "title": "134 events (11/Jul/2021 PDT)"
   },
-  "last_update": "11/Jul/2021 @ 03:26:42 PDT",
+  "last_update": "11/Jul/2021 @ 04:03:30 PDT",
   "neo": {
     "date": "11/Jul/2021 PDT",
-    "last_update": "11/Jul/2021 @ 03:26:05 PDT",
+    "last_update": "11/Jul/2021 @ 04:02:57 PDT",
     "objects": [
       {
         "cat": "11/Jul/2021 @ 20:15:00 ",
@@ -4844,7 +4844,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jul/2021 @ 03:26:06 PDT",
+    "last_update": "11/Jul/2021 @ 04:02:57 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6384,7 +6384,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Jul/2021 @ 03:26:12 PDT",
+    "last_update": "11/Jul/2021 @ 04:03:02 PDT",
     "launches": {
       "future": [
         {
