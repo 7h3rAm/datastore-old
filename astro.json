@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jul/2021 @ 21:00:45 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2107/spotthemoon_westlake_960.jpg",
-    "title": "Find the Moon (11/Jul/2021 PDT)",
+    "last_update": "11/Jul/2021 @ 22:00:41 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2107/M27_Falls_960.jpg",
+    "title": "M27: The Dumbbell Nebula (12/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -845,24 +845,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0218tvb9m0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000euaw",
-        "location": "http://maps.google.com/maps?q=13.2897,-89.807",
-        "name": "M 4.1 - 33 km S of Acajutla, El Salvador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000euaw"
       },
       {
         "category": [
@@ -2483,7 +2465,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "11/Jul/2021 @ 21:00:48 PDT",
+    "last_update": "11/Jul/2021 @ 22:00:43 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2537,11 +2519,6 @@
           "<a href=\"http://maps.google.com/maps?q=-8.0232,-74.5597\"><b>M 4.3 - 39 km N of Pucallpa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000euc8\">USGS</a>",
           -8.0232,
           -74.5597
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.2897,-89.807\"><b>M 4.1 - 33 km S of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000euaw\">USGS</a>",
-          13.2897,
-          -89.807
         ]
       ],
       "Floods": [],
@@ -4649,12 +4626,12 @@
         ]
       ]
     },
-    "title": "134 events (11/Jul/2021 PDT)"
+    "title": "133 events (11/Jul/2021 PDT)"
   },
-  "last_update": "11/Jul/2021 @ 21:01:23 PDT",
+  "last_update": "11/Jul/2021 @ 22:01:11 PDT",
   "neo": {
     "date": "12/Jul/2021 PDT",
-    "last_update": "11/Jul/2021 @ 21:00:49 PDT",
+    "last_update": "11/Jul/2021 @ 22:00:44 PDT",
     "objects": [
       {
         "cat": "12/Jul/2021 @ 03:41:00 ",
@@ -4799,7 +4776,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jul/2021 @ 21:00:50 PDT",
+    "last_update": "11/Jul/2021 @ 22:00:44 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6339,7 +6316,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Jul/2021 @ 21:00:57 PDT",
+    "last_update": "11/Jul/2021 @ 22:00:49 PDT",
     "launches": {
       "future": [
         {
