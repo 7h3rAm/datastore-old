@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Jul/2021 @ 20:00:47 PDT",
+    "last_update": "12/Jul/2021 @ 21:00:42 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/M27_Falls_960.jpg",
     "title": "M27: The Dumbbell Nebula (12/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -871,24 +871,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eldv",
-        "location": "http://maps.google.com/maps?q=39.0198,70.7341",
-        "name": "M 4.1 - 31 km E of Rasht, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000euj7",
         "location": "http://maps.google.com/maps?q=13.9269,-92.1892",
         "name": "M 4.1 - 50 km SW of Champerico, Guatemala",
@@ -899,6 +881,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000euj7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000eldv",
+        "location": "http://maps.google.com/maps?q=39.0198,70.7341",
+        "name": "M 4.1 - Kyrgyzstan-Tajikistan border region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv"
       },
       {
         "category": [
@@ -1071,7 +1071,7 @@
         ],
         "eid": "us7000elcr",
         "location": "http://maps.google.com/maps?q=11.6418,-86.4474",
-        "name": "M 5.2 - 17 km SSW of El Rosario, Nicaragua",
+        "name": "M 5.2 - near the coast of Nicaragua",
         "source": [
           {
             "sid": "USGS",
@@ -1089,7 +1089,7 @@
         ],
         "eid": "us7000ele9",
         "location": "http://maps.google.com/maps?q=52.4265,160.4835",
-        "name": "M 5.3 - off the east coast of the Kamchatka Peninsula, Russia",
+        "name": "M 5.3 - 141 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "source": [
           {
             "sid": "USGS",
@@ -2645,18 +2645,18 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "12/Jul/2021 @ 20:00:49 PDT",
+    "last_update": "12/Jul/2021 @ 21:00:44 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=52.4265,160.4835\"><b>M 5.3 - off the east coast of the Kamchatka Peninsula, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ele9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=52.4265,160.4835\"><b>M 5.3 - 141 km ESE of Petropavlovsk-Kamchatsky, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ele9\">USGS</a>",
           52.4265,
           160.4835
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=39.0198,70.7341\"><b>M 4.1 - 31 km E of Rasht, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=39.0198,70.7341\"><b>M 4.1 - Kyrgyzstan-Tajikistan border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv\">USGS</a>",
           39.0198,
           70.7341
         ],
@@ -2666,7 +2666,7 @@
           151.5869
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=11.6418,-86.4474\"><b>M 5.2 - 17 km SSW of El Rosario, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elcr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=11.6418,-86.4474\"><b>M 5.2 - near the coast of Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elcr\">USGS</a>",
           11.6418,
           -86.4474
         ],
@@ -4858,10 +4858,10 @@
     },
     "title": "143 events (12/Jul/2021 PDT)"
   },
-  "last_update": "12/Jul/2021 @ 20:01:23 PDT",
+  "last_update": "12/Jul/2021 @ 21:01:17 PDT",
   "neo": {
     "date": "13/Jul/2021 PDT",
-    "last_update": "12/Jul/2021 @ 20:00:50 PDT",
+    "last_update": "12/Jul/2021 @ 21:00:45 PDT",
     "objects": [
       {
         "cat": "13/Jul/2021 @ 16:31:00 ",
@@ -5060,7 +5060,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Jul/2021 @ 20:00:50 PDT",
+    "last_update": "12/Jul/2021 @ 21:00:46 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6600,7 +6600,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Jul/2021 @ 20:00:57 PDT",
+    "last_update": "12/Jul/2021 @ 21:00:51 PDT",
     "launches": {
       "future": [
         {
