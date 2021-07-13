@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Jul/2021 @ 05:01:09 PDT",
+    "last_update": "13/Jul/2021 @ 06:01:06 PDT",
     "source": "https://solarsystem.nasa.gov/gltf_embed/2381",
     "title": "Saturn's Iapetus: Painted Moon in 3D (13/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -953,24 +953,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elc1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000eult",
-        "location": "http://maps.google.com/maps?q=-3.7839,140.1512",
-        "name": "M 4.6 - 141 km SSW of Abepura, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eult"
       },
       {
         "category": [
@@ -2663,7 +2645,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "13/Jul/2021 @ 05:01:37 PDT",
+    "last_update": "13/Jul/2021 @ 06:01:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2737,11 +2719,6 @@
           "<a href=\"http://maps.google.com/maps?q=32.0106,141.8199\"><b>M 4.7 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eum6\">USGS</a>",
           32.0106,
           141.8199
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.7839,140.1512\"><b>M 4.6 - 141 km SSW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eult\">USGS</a>",
-          -3.7839,
-          140.1512
         ]
       ],
       "Floods": [],
@@ -4879,12 +4856,12 @@
         ]
       ]
     },
-    "title": "144 events (13/Jul/2021 PDT)"
+    "title": "143 events (13/Jul/2021 PDT)"
   },
-  "last_update": "13/Jul/2021 @ 05:02:24 PDT",
+  "last_update": "13/Jul/2021 @ 06:02:22 PDT",
   "neo": {
     "date": "13/Jul/2021 PDT",
-    "last_update": "13/Jul/2021 @ 05:01:38 PDT",
+    "last_update": "13/Jul/2021 @ 06:01:36 PDT",
     "objects": [
       {
         "cat": "13/Jul/2021 @ 16:31:00 ",
@@ -5019,8 +4996,8 @@
     "date": "13/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 11/Jul/2021 @ 14:43:32 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/11/jpg/epic_1b_20210711214822.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 12/Jul/2021 @ 13:28:46 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/12/jpg/epic_1b_20210712203335.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -5083,7 +5060,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Jul/2021 @ 05:01:39 PDT",
+    "last_update": "13/Jul/2021 @ 06:01:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6623,7 +6600,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Jul/2021 @ 05:01:45 PDT",
+    "last_update": "13/Jul/2021 @ 06:01:41 PDT",
     "launches": {
       "future": [
         {
