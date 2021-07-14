@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Jul/2021 @ 18:01:14 PDT",
+    "last_update": "13/Jul/2021 @ 19:01:07 PDT",
     "source": "https://solarsystem.nasa.gov/gltf_embed/2381",
     "title": "Saturn's Iapetus: Painted Moon in 3D (13/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -943,24 +943,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000eldv",
-        "location": "http://maps.google.com/maps?q=39.0491,70.6736",
-        "name": "M 4.1 - 25 km E of Rasht, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000elq3",
         "location": "http://maps.google.com/maps?q=-28.7681,-71.5384",
         "name": "M 4.1 - 79 km WSW of Vallenar, Chile",
@@ -1286,8 +1268,8 @@
           }
         ],
         "eid": "us7000ele9",
-        "location": "http://maps.google.com/maps?q=52.4801,160.482",
-        "name": "M 5.2 - 138 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "location": "http://maps.google.com/maps?q=52.4785,160.5046",
+        "name": "M 5.2 - 140 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "source": [
           {
             "sid": "USGS",
@@ -3239,7 +3221,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "13/Jul/2021 @ 18:01:44 PDT",
+    "last_update": "13/Jul/2021 @ 19:01:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3345,19 +3327,14 @@
           -92.0616
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=52.4801,160.482\"><b>M 5.2 - 138 km ESE of Petropavlovsk-Kamchatsky, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ele9\">USGS</a>",
-          52.4801,
-          160.482
+          "<a href=\"http://maps.google.com/maps?q=52.4785,160.5046\"><b>M 5.2 - 140 km ESE of Petropavlovsk-Kamchatsky, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ele9\">USGS</a>",
+          52.4785,
+          160.5046
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=52.8784,-168.0624\"><b>M 4.0 - 54 km E of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ele4\">USGS</a>",
           52.8784,
           -168.0624
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=39.0491,70.6736\"><b>M 4.1 - 25 km E of Rasht, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eldv\">USGS</a>",
-          39.0491,
-          70.6736
         ]
       ],
       "Floods": [],
@@ -5615,12 +5592,12 @@
         ]
       ]
     },
-    "title": "176 events (13/Jul/2021 PDT)"
+    "title": "175 events (13/Jul/2021 PDT)"
   },
-  "last_update": "13/Jul/2021 @ 18:02:35 PDT",
+  "last_update": "13/Jul/2021 @ 19:02:19 PDT",
   "neo": {
     "date": "14/Jul/2021 PDT",
-    "last_update": "13/Jul/2021 @ 18:01:45 PDT",
+    "last_update": "13/Jul/2021 @ 19:01:36 PDT",
     "objects": [
       {
         "cat": "14/Jul/2021 @ 23:26:00 ",
@@ -5819,7 +5796,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Jul/2021 @ 18:01:45 PDT",
+    "last_update": "13/Jul/2021 @ 19:01:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7359,7 +7336,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Jul/2021 @ 18:01:53 PDT",
+    "last_update": "13/Jul/2021 @ 19:01:42 PDT",
     "launches": {
       "future": [
         {
