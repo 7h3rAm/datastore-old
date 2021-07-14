@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jul/2021 @ 02:00:57 PDT",
+    "last_update": "14/Jul/2021 @ 03:00:54 PDT",
     "source": "https://www.youtube.com/embed/V_Kd4YBNs7c?rel=0",
     "title": "GW200115: Simulation of a Black Hole Merging with a Neutron Star (14/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -961,6 +961,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000elu3",
+        "location": "http://maps.google.com/maps?q=36.528,70.8336",
+        "name": "M 4.3 - 37 km S of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elu3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000elqp",
         "location": "http://maps.google.com/maps?q=23.9079,121.6467",
         "name": "M 4.4 - 8 km SSE of Hualien City, Taiwan",
@@ -1277,6 +1295,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elqb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000elui",
+        "location": "http://maps.google.com/maps?q=12.0217,143.8032",
+        "name": "M 5.3 - 166 km SW of Merizo Village, Guam",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elui"
       },
       {
         "category": [
@@ -3203,11 +3239,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "14/Jul/2021 @ 02:01:27 PDT",
+    "last_update": "14/Jul/2021 @ 03:01:23 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=12.0217,143.8032\"><b>M 5.3 - 166 km SW of Merizo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elui\">USGS</a>",
+          12.0217,
+          143.8032
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.528,70.8336\"><b>M 4.3 - 37 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elu3\">USGS</a>",
+          36.528,
+          70.8336
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-33.2267,-70.3103\"><b>M 4.8 - 32 km ENE of Chicureo Abajo, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elt0\">USGS</a>",
           -33.2267,
@@ -5569,12 +5615,12 @@
         ]
       ]
     },
-    "title": "174 events (14/Jul/2021 PDT)"
+    "title": "176 events (14/Jul/2021 PDT)"
   },
-  "last_update": "14/Jul/2021 @ 02:02:21 PDT",
+  "last_update": "14/Jul/2021 @ 03:02:10 PDT",
   "neo": {
     "date": "14/Jul/2021 PDT",
-    "last_update": "14/Jul/2021 @ 02:01:28 PDT",
+    "last_update": "14/Jul/2021 @ 03:01:24 PDT",
     "objects": [
       {
         "cat": "14/Jul/2021 @ 23:26:00 ",
@@ -5773,7 +5819,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jul/2021 @ 02:01:28 PDT",
+    "last_update": "14/Jul/2021 @ 03:01:24 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7313,7 +7359,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jul/2021 @ 02:01:35 PDT",
+    "last_update": "14/Jul/2021 @ 03:01:29 PDT",
     "launches": {
       "future": [
         {
