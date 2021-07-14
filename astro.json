@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jul/2021 @ 05:00:59 PDT",
+    "last_update": "14/Jul/2021 @ 06:00:59 PDT",
     "source": "https://www.youtube.com/embed/V_Kd4YBNs7c?rel=0",
     "title": "GW200115: Simulation of a Black Hole Merging with a Neutron Star (14/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1169,24 +1169,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000els8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000eli9",
-        "location": "http://maps.google.com/maps?q=-5.0906,130.8853",
-        "name": "M 4.8 - 215 km WNW of Tual, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eli9"
       },
       {
         "category": [
@@ -3239,7 +3221,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "14/Jul/2021 @ 05:01:28 PDT",
+    "last_update": "14/Jul/2021 @ 06:01:29 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3358,11 +3340,6 @@
           "<a href=\"http://maps.google.com/maps?q=39.7361,13.0145\"><b>M 4.2 - 114 km N of Ustica, Italy</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elie\">USGS</a>",
           39.7361,
           13.0145
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.0906,130.8853\"><b>M 4.8 - 215 km WNW of Tual, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eli9\">USGS</a>",
-          -5.0906,
-          130.8853
         ]
       ],
       "Floods": [],
@@ -5615,12 +5592,12 @@
         ]
       ]
     },
-    "title": "176 events (14/Jul/2021 PDT)"
+    "title": "175 events (14/Jul/2021 PDT)"
   },
-  "last_update": "14/Jul/2021 @ 05:02:21 PDT",
+  "last_update": "14/Jul/2021 @ 06:02:15 PDT",
   "neo": {
     "date": "14/Jul/2021 PDT",
-    "last_update": "14/Jul/2021 @ 05:01:29 PDT",
+    "last_update": "14/Jul/2021 @ 06:01:29 PDT",
     "objects": [
       {
         "cat": "14/Jul/2021 @ 23:26:00 ",
@@ -5819,7 +5796,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jul/2021 @ 05:01:30 PDT",
+    "last_update": "14/Jul/2021 @ 06:01:30 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7359,7 +7336,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jul/2021 @ 05:01:37 PDT",
+    "last_update": "14/Jul/2021 @ 06:01:35 PDT",
     "launches": {
       "future": [
         {
