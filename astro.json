@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jul/2021 @ 08:01:08 PDT",
+    "last_update": "14/Jul/2021 @ 09:00:57 PDT",
     "source": "https://www.youtube.com/embed/V_Kd4YBNs7c?rel=0",
     "title": "GW200115: Simulation of a Black Hole Merging with a Neutron Star (14/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -997,6 +997,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000elw9",
+        "location": "http://maps.google.com/maps?q=1.5811,127.4462",
+        "name": "M 4.3 - 64 km WSW of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elw9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000elqp",
         "location": "http://maps.google.com/maps?q=23.9079,121.6467",
         "name": "M 4.4 - 8 km SSE of Hualien City, Taiwan",
@@ -1033,24 +1051,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000elkw",
-        "location": "http://maps.google.com/maps?q=-22.1188,-67.5184",
-        "name": "M 4.5 - 112 km NE of San Pedro de Atacama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elkw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000elnz",
         "location": "http://maps.google.com/maps?q=0.7582,126.2019",
         "name": "M 4.5 - 131 km W of Ternate, Indonesia",
@@ -1079,24 +1079,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elpr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000elkh",
-        "location": "http://maps.google.com/maps?q=-25.3498,-179.9504",
-        "name": "M 4.5 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elkh"
       },
       {
         "category": [
@@ -1241,6 +1223,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elpm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000elwm",
+        "location": "http://maps.google.com/maps?q=30.9619,103.4798",
+        "name": "M 5.0 - 43 km W of Tianpeng, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000elwm"
       },
       {
         "category": [
@@ -3311,11 +3311,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "14/Jul/2021 @ 08:01:36 PDT",
+    "last_update": "14/Jul/2021 @ 09:01:26 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.9619,103.4798\"><b>M 5.0 - 43 km W of Tianpeng, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elwm\">USGS</a>",
+          30.9619,
+          103.4798
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=1.5811,127.4462\"><b>M 4.3 - 64 km WSW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elw9\">USGS</a>",
+          1.5811,
+          127.4462
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.3879,101.6067\"><b>M 4.6 - 97 km SW of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000eluq\">USGS</a>",
           -4.3879,
@@ -3415,16 +3425,6 @@
           "<a href=\"http://maps.google.com/maps?q=11.5543,-87.3747\"><b>M 4.1 - 97 km WSW of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elnc\">USGS</a>",
           11.5543,
           -87.3747
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.1188,-67.5184\"><b>M 4.5 - 112 km NE of San Pedro de Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elkw\">USGS</a>",
-          -22.1188,
-          -67.5184
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-25.3498,-179.9504\"><b>M 4.5 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000elkh\">USGS</a>",
-          -25.3498,
-          -179.9504
         ]
       ],
       "Floods": [],
@@ -5709,10 +5709,10 @@
     },
     "title": "180 events (14/Jul/2021 PDT)"
   },
-  "last_update": "14/Jul/2021 @ 08:02:31 PDT",
+  "last_update": "14/Jul/2021 @ 09:02:15 PDT",
   "neo": {
     "date": "14/Jul/2021 PDT",
-    "last_update": "14/Jul/2021 @ 08:01:37 PDT",
+    "last_update": "14/Jul/2021 @ 09:01:27 PDT",
     "objects": [
       {
         "cat": "14/Jul/2021 @ 23:26:00 ",
@@ -5911,7 +5911,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jul/2021 @ 08:01:38 PDT",
+    "last_update": "14/Jul/2021 @ 09:01:28 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7451,7 +7451,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jul/2021 @ 08:01:46 PDT",
+    "last_update": "14/Jul/2021 @ 09:01:33 PDT",
     "launches": {
       "future": [
         {
