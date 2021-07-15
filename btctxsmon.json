@@ -1233,13 +1233,13 @@
       },
       "Free Software Foundation": {
         "address": 1,
-        "balance": 0.33296149,
+        "balance": 0.33674036,
         "lastseen": "04/Oct/2017 @ 21:59:55 PDT",
         "lasttxepoch": 1507179595,
-        "received": 1103.37859927,
+        "received": 1103.38237814,
         "sent": 1103.04563778,
         "sparkid": "▁▁██▁",
-        "transaction": 2235
+        "transaction": 2236
       },
       "Free Talk Live": {
         "address": 1,
@@ -2463,13 +2463,13 @@
       },
       "SeansOutpost": {
         "address": 2,
-        "balance": 8.00430721,
+        "balance": 8.0044646,
         "lastseen": "04/Oct/2017 @ 21:59:55 PDT",
         "lasttxepoch": 1507179595,
-        "received": 547.28608797,
+        "received": 547.2862453600001,
         "sent": 539.2817807600001,
-        "sparkid": "▁▅▃█▄",
-        "transaction": 3265
+        "sparkid": "▁▆▃█▄",
+        "transaction": 3266
       },
       "Seymour Buhts": {
         "address": 1,
@@ -5258,26 +5258,26 @@
     }
   },
   "graph": {},
-  "last_update": "15/Jul/2021 @ 15:00:42 PDT",
+  "last_update": "15/Jul/2021 @ 16:00:44 PDT",
   "stats": {
     "count_address": 1485,
     "count_address_donation": 384,
     "count_address_popular": 151,
     "count_address_ransom": 950,
-    "count_balance": 138463.93150018,
-    "count_balance_donation": 541.5596403799997,
+    "count_balance": 138463.93543644002,
+    "count_balance_donation": 541.5635766399997,
     "count_balance_popular": 137918.76151736002,
     "count_balance_ransom": 3.6103424400000006,
-    "count_received": 12925659.431135762,
-    "count_received_donation": 281144.32981832017,
+    "count_received": 12925659.435072023,
+    "count_received_donation": 281144.3337545801,
     "count_received_popular": 12570492.586928653,
     "count_received_ransom": 74022.51438879008,
     "count_sent": 12787195.49963558,
     "count_sent_donation": 280602.77017794,
     "count_sent_popular": 12432573.825411292,
     "count_sent_ransom": 74018.90404635006,
-    "count_txs": 456870,
-    "count_txs_donation": 241013,
+    "count_txs": 456872,
+    "count_txs_donation": 241015,
     "count_txs_popular": 207523,
     "count_txs_ransom": 8334,
     "count_wallet": 525,
