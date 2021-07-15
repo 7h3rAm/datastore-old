@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jul/2021 @ 05:00:52 PDT",
+    "last_update": "15/Jul/2021 @ 06:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/Dark_Tower_MPRS_1100c.jpg",
     "title": "The Dark Tower in Scorpius (15/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3131,7 +3131,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "15/Jul/2021 @ 05:01:21 PDT",
+    "last_update": "15/Jul/2021 @ 06:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -5324,10 +5324,10 @@
     },
     "title": "170 events (15/Jul/2021 PDT)"
   },
-  "last_update": "15/Jul/2021 @ 05:02:07 PDT",
+  "last_update": "15/Jul/2021 @ 06:02:00 PDT",
   "neo": {
     "date": "15/Jul/2021 PDT",
-    "last_update": "15/Jul/2021 @ 05:01:22 PDT",
+    "last_update": "15/Jul/2021 @ 06:01:16 PDT",
     "objects": [
       {
         "cat": "15/Jul/2021 @ 04:31:00 ",
@@ -5445,7 +5445,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jul/2021 @ 05:01:22 PDT",
+    "last_update": "15/Jul/2021 @ 06:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6985,7 +6985,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jul/2021 @ 05:01:29 PDT",
+    "last_update": "15/Jul/2021 @ 06:01:22 PDT",
     "launches": {
       "future": [
         {
@@ -18079,12 +18079,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "77,085,723.73 miles",
+      "earth_distance": "81,893,945.01 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "214,575,592.22 miles",
+      "mars_distance": "216,794,502.54 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,163.65 mph",
+      "speed": "5,217.05 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
