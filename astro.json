@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jul/2021 @ 06:00:47 PDT",
+    "last_update": "16/Jul/2021 @ 07:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg",
     "title": "Love and War by Moonlight (16/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -969,24 +969,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak02190danzl",
-        "location": "http://maps.google.com/maps?q=54.0584,-164.5736",
-        "name": "M 4.0 - 79 km E of Akutan, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02190danzl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000emcm",
         "location": "http://maps.google.com/maps?q=23.901,121.6771",
         "name": "M 4.2 - 11 km SE of Hualien City, Taiwan",
@@ -1015,24 +997,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emdl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000em5g",
-        "location": "http://maps.google.com/maps?q=-14.4499,167.4991",
-        "name": "M 4.5 - Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000em5g"
       },
       {
         "category": [
@@ -3289,7 +3253,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "16/Jul/2021 @ 06:01:17 PDT",
+    "last_update": "16/Jul/2021 @ 07:01:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3338,16 +3302,6 @@
           "<a href=\"http://maps.google.com/maps?q=23.901,121.6771\"><b>M 4.2 - 11 km SE of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emcm\">USGS</a>",
           23.901,
           121.6771
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.0584,-164.5736\"><b>M 4.0 - 79 km E of Akutan, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak02190danzl\">USGS</a>",
-          54.0584,
-          -164.5736
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.4499,167.4991\"><b>M 4.5 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000em5g\">USGS</a>",
-          -14.4499,
-          167.4991
         ]
       ],
       "Floods": [],
@@ -5550,12 +5504,12 @@
         ]
       ]
     },
-    "title": "179 events (16/Jul/2021 PDT)"
+    "title": "177 events (16/Jul/2021 PDT)"
   },
-  "last_update": "16/Jul/2021 @ 06:02:02 PDT",
+  "last_update": "16/Jul/2021 @ 07:01:57 PDT",
   "neo": {
     "date": "16/Jul/2021 PDT",
-    "last_update": "16/Jul/2021 @ 06:01:18 PDT",
+    "last_update": "16/Jul/2021 @ 07:01:13 PDT",
     "objects": [
       {
         "cat": "16/Jul/2021 @ 04:00:00 ",
@@ -5587,7 +5541,7 @@
       {
         "cat": "16/Jul/2021 @ 12:29:00 ",
         "diameter": "0.13-0.28 miles",
-        "distance": "20,426,493.67 miles",
+        "distance": "20,426,501.39 miles",
         "hazardous": true,
         "name": "Asteroid (2016 NG15)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3754438",
@@ -5659,11 +5613,11 @@
       {
         "cat": "16/Jul/2021 @ 14:06:00 ",
         "diameter": "0.01-0.01 miles",
-        "distance": "1,255,322.22 miles",
+        "distance": "1,255,679.90 miles",
         "hazardous": false,
         "name": "Asteroid (2021 NT5)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54169408",
-        "velocity": "15,419.17 mph"
+        "velocity": "15,418.97 mph"
       },
       {
         "cat": "16/Jul/2021 @ 11:49:00 ",
@@ -5754,7 +5708,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jul/2021 @ 06:01:18 PDT",
+    "last_update": "16/Jul/2021 @ 07:01:13 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7294,7 +7248,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Jul/2021 @ 06:01:25 PDT",
+    "last_update": "16/Jul/2021 @ 07:01:18 PDT",
     "launches": {
       "future": [
         {
