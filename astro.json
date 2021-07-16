@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jul/2021 @ 21:01:05 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2107/Dark_Tower_MPRS_1100c.jpg",
-    "title": "The Dark Tower in Scorpius (15/Jul/2021 PDT)",
+    "last_update": "15/Jul/2021 @ 22:00:51 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg",
+    "title": "Love and War by Moonlight (16/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -1097,6 +1097,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000em32"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000emeg",
+        "location": "http://maps.google.com/maps?q=33.3082,139.4983",
+        "name": "M 5.5 - 160 km SSE of Shimoda, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emeg"
       },
       {
         "category": [
@@ -3253,11 +3271,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5420"
       }
     ],
-    "last_update": "15/Jul/2021 @ 21:01:33 PDT",
+    "last_update": "15/Jul/2021 @ 22:01:20 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.3082,139.4983\"><b>M 5.5 - 160 km SSE of Shimoda, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emeg\">USGS</a>",
+          33.3082,
+          139.4983
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.271,-67.4651\"><b>M 4.4 - 116 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emdl\">USGS</a>",
           -24.271,
@@ -5479,12 +5502,12 @@
         ]
       ]
     },
-    "title": "177 events (15/Jul/2021 PDT)"
+    "title": "178 events (15/Jul/2021 PDT)"
   },
-  "last_update": "15/Jul/2021 @ 21:02:19 PDT",
+  "last_update": "15/Jul/2021 @ 22:02:04 PDT",
   "neo": {
     "date": "16/Jul/2021 PDT",
-    "last_update": "15/Jul/2021 @ 21:01:34 PDT",
+    "last_update": "15/Jul/2021 @ 22:01:21 PDT",
     "objects": [
       {
         "cat": "16/Jul/2021 @ 04:00:00 ",
@@ -5683,7 +5706,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jul/2021 @ 21:01:35 PDT",
+    "last_update": "15/Jul/2021 @ 22:01:21 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7223,7 +7246,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jul/2021 @ 21:01:41 PDT",
+    "last_update": "15/Jul/2021 @ 22:01:26 PDT",
     "launches": {
       "future": [
         {
