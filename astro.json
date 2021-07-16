@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jul/2021 @ 11:00:48 PDT",
+    "last_update": "16/Jul/2021 @ 12:00:43 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg",
     "title": "Love and War by Moonlight (16/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -925,6 +925,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emcm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000emmb",
+        "location": "http://maps.google.com/maps?q=40.4005,83.7235",
+        "name": "M 4.3 - 160 km SSE of Kuqa, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmb"
       },
       {
         "category": [
@@ -3339,11 +3357,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "16/Jul/2021 @ 11:01:16 PDT",
+    "last_update": "16/Jul/2021 @ 12:01:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.4005,83.7235\"><b>M 4.3 - 160 km SSE of Kuqa, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmb\">USGS</a>",
+          40.4005,
+          83.7235
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-29.3301,-176.2026\"><b>M 5.3 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emli\">USGS</a>",
           -29.3301,
@@ -5615,12 +5638,12 @@
         ]
       ]
     },
-    "title": "182 events (16/Jul/2021 PDT)"
+    "title": "183 events (16/Jul/2021 PDT)"
   },
-  "last_update": "16/Jul/2021 @ 11:02:05 PDT",
+  "last_update": "16/Jul/2021 @ 12:01:59 PDT",
   "neo": {
     "date": "16/Jul/2021 PDT",
-    "last_update": "16/Jul/2021 @ 11:01:17 PDT",
+    "last_update": "16/Jul/2021 @ 12:01:13 PDT",
     "objects": [
       {
         "cat": "16/Jul/2021 @ 04:00:00 ",
@@ -5819,7 +5842,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jul/2021 @ 11:01:17 PDT",
+    "last_update": "16/Jul/2021 @ 12:01:13 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7359,7 +7382,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Jul/2021 @ 11:01:24 PDT",
+    "last_update": "16/Jul/2021 @ 12:01:18 PDT",
     "launches": {
       "future": [
         {
