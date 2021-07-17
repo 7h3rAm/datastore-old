@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2021 @ 00:00:46 PDT",
+    "last_update": "17/Jul/2021 @ 01:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg",
     "title": "Alphonsus and Arzachel (17/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1141,24 +1141,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emqv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emg2",
-        "location": "http://maps.google.com/maps?q=6.1662,-82.4999",
-        "name": "M 4.6 - 210 km S of Punta de Burica, Panama",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emg2"
       },
       {
         "category": [
@@ -3533,7 +3515,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "17/Jul/2021 @ 00:01:16 PDT",
+    "last_update": "17/Jul/2021 @ 01:01:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3647,11 +3629,6 @@
           "<a href=\"http://maps.google.com/maps?q=-8.2167,120.0428\"><b>M 4.6 - 35 km NNE of Labuan Bajo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emga\">USGS</a>",
           -8.2167,
           120.0428
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.1662,-82.4999\"><b>M 4.6 - 210 km S of Punta de Burica, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emg2\">USGS</a>",
-          6.1662,
-          -82.4999
         ]
       ],
       "Floods": [],
@@ -5864,12 +5841,12 @@
         ]
       ]
     },
-    "title": "193 events (17/Jul/2021 PDT)"
+    "title": "192 events (17/Jul/2021 PDT)"
   },
-  "last_update": "17/Jul/2021 @ 00:02:08 PDT",
+  "last_update": "17/Jul/2021 @ 01:01:59 PDT",
   "neo": {
     "date": "17/Jul/2021 PDT",
-    "last_update": "17/Jul/2021 @ 00:01:17 PDT",
+    "last_update": "17/Jul/2021 @ 01:01:15 PDT",
     "objects": [
       {
         "cat": "17/Jul/2021 @ 01:49:00 ",
@@ -6068,7 +6045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jul/2021 @ 00:01:17 PDT",
+    "last_update": "17/Jul/2021 @ 01:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7608,7 +7585,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jul/2021 @ 00:01:24 PDT",
+    "last_update": "17/Jul/2021 @ 01:01:20 PDT",
     "launches": {
       "future": [
         {
