@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2021 @ 10:00:48 PDT",
+    "last_update": "17/Jul/2021 @ 11:00:48 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg",
     "title": "Alphonsus and Arzachel (17/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1061,7 +1061,7 @@
         ],
         "eid": "us7000emtd",
         "location": "http://maps.google.com/maps?q=33.9542,141.5638",
-        "name": "M 4.2 - off the east coast of Honshu, Japan",
+        "name": "M 4.2 - 174 km SE of Katsuura, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -1069,24 +1069,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emnr",
-        "location": "http://maps.google.com/maps?q=39.1176,70.4124",
-        "name": "M 4.3 - 10 km NNE of Rasht, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr"
       },
       {
         "category": [
@@ -1105,24 +1087,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ems9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emmb",
-        "location": "http://maps.google.com/maps?q=40.4005,83.7235",
-        "name": "M 4.3 - 160 km SSE of Kuqa, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmb"
       },
       {
         "category": [
@@ -1159,6 +1123,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000emnr",
+        "location": "http://maps.google.com/maps?q=39.1176,70.4124",
+        "name": "M 4.3 - Kyrgyzstan-Tajikistan border region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr"
       },
       {
         "category": [
@@ -3839,7 +3821,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "17/Jul/2021 @ 10:01:18 PDT",
+    "last_update": "17/Jul/2021 @ 11:01:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3890,7 +3872,7 @@
           -67.0655
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.9542,141.5638\"><b>M 4.2 - off the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.9542,141.5638\"><b>M 4.2 - 174 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd\">USGS</a>",
           33.9542,
           141.5638
         ],
@@ -3940,7 +3922,7 @@
           -148.6669
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=39.1176,70.4124\"><b>M 4.3 - 10 km NNE of Rasht, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=39.1176,70.4124\"><b>M 4.3 - Kyrgyzstan-Tajikistan border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr\">USGS</a>",
           39.1176,
           70.4124
         ],
@@ -3958,11 +3940,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.3305,130.1013\"><b>M 4.3 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmm\">USGS</a>",
           -6.3305,
           130.1013
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=40.4005,83.7235\"><b>M 4.3 - 160 km SSE of Kuqa, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmb\">USGS</a>",
-          40.4005,
-          83.7235
         ]
       ],
       "Floods": [],
@@ -6360,12 +6337,12 @@
         ]
       ]
     },
-    "title": "210 events (17/Jul/2021 PDT)"
+    "title": "209 events (17/Jul/2021 PDT)"
   },
-  "last_update": "17/Jul/2021 @ 10:02:12 PDT",
+  "last_update": "17/Jul/2021 @ 11:02:11 PDT",
   "neo": {
     "date": "17/Jul/2021 PDT",
-    "last_update": "17/Jul/2021 @ 10:01:21 PDT",
+    "last_update": "17/Jul/2021 @ 11:01:21 PDT",
     "objects": [
       {
         "cat": "17/Jul/2021 @ 01:49:00 ",
@@ -6564,7 +6541,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jul/2021 @ 10:01:22 PDT",
+    "last_update": "17/Jul/2021 @ 11:01:21 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8104,7 +8081,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jul/2021 @ 10:01:29 PDT",
+    "last_update": "17/Jul/2021 @ 11:01:27 PDT",
     "launches": {
       "future": [
         {
