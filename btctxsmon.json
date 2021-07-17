@@ -143,13 +143,13 @@
       },
       "Antiwar.com": {
         "address": 1,
-        "balance": 3.578e-05,
+        "balance": 1.689e-05,
         "lastseen": "22/Sep/2017 @ 12:04:52 PDT",
         "lasttxepoch": 1506107092,
         "received": 234.76514427,
-        "sent": 234.76510849,
+        "sent": 234.76512738,
         "sparkid": "▁▄██▁",
-        "transaction": 1774
+        "transaction": 1775
       },
       "Antony Bailey IT Consultant": {
         "address": 1,
@@ -2753,13 +2753,13 @@
       },
       "The Water Project": {
         "address": 2,
-        "balance": 0.00015374,
+        "balance": 0.00013456,
         "lastseen": "05/Oct/2017 @ 07:44:26 PDT",
         "lasttxepoch": 1507214666,
         "received": 331.28276977,
-        "sent": 331.28261603,
+        "sent": 331.28263520999997,
         "sparkid": "▂█▁▁▁",
-        "transaction": 3115
+        "transaction": 3116
       },
       "Thebitcoinreview.com": {
         "address": 1,
@@ -2943,13 +2943,13 @@
       },
       "Watsi": {
         "address": 1,
-        "balance": 1.919e-05,
+        "balance": 0.0,
         "lastseen": "01/Oct/2017 @ 08:10:03 PDT",
         "lasttxepoch": 1506870603,
         "received": 0.5823606,
-        "sent": 0.58234141,
-        "sparkid": "▂█▁▁▁",
-        "transaction": 127
+        "sent": 0.5823606,
+        "sparkid": "▁█▁▁▁",
+        "transaction": 128
       },
       "We Are Change": {
         "address": 2,
@@ -5258,26 +5258,26 @@
     }
   },
   "graph": {},
-  "last_update": "16/Jul/2021 @ 20:00:40 PDT",
+  "last_update": "16/Jul/2021 @ 21:00:37 PDT",
   "stats": {
     "count_address": 1485,
     "count_address_donation": 384,
     "count_address_popular": 151,
     "count_address_ransom": 950,
-    "count_balance": 138463.93549094,
-    "count_balance_donation": 541.5636311399998,
+    "count_balance": 138463.93543368002,
+    "count_balance_donation": 541.5635738799998,
     "count_balance_popular": 137918.76151736002,
     "count_balance_ransom": 3.6103424400000006,
     "count_received": 12925659.435365522,
     "count_received_donation": 281144.33404808014,
     "count_received_popular": 12570492.586928653,
     "count_received_ransom": 74022.51438879008,
-    "count_sent": 12787195.49987458,
-    "count_sent_donation": 280602.77041694004,
+    "count_sent": 12787195.49993184,
+    "count_sent_donation": 280602.7704742001,
     "count_sent_popular": 12432573.825411292,
     "count_sent_ransom": 74018.90404635006,
-    "count_txs": 456877,
-    "count_txs_donation": 241020,
+    "count_txs": 456880,
+    "count_txs_donation": 241023,
     "count_txs_popular": 207523,
     "count_txs_ransom": 8334,
     "count_wallet": 525,

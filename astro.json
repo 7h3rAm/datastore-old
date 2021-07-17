@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jul/2021 @ 20:00:45 PDT",
+    "last_update": "16/Jul/2021 @ 21:00:42 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2021Jul11MarsVenusMoon_ShiHuan1024.jpg",
     "title": "Love and War by Moonlight (16/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -951,16 +951,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000emnr",
-        "location": "http://maps.google.com/maps?q=39.1176,70.4124",
-        "name": "M 4.3 - 10 km NNE of Rasht, Tajikistan",
+        "eid": "us7000emsu",
+        "location": "http://maps.google.com/maps?q=-23.4599,-67.0011",
+        "name": "M 4.2 - 109 km NW of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsu"
       },
       {
         "category": [
@@ -1051,6 +1051,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emmm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000emnr",
+        "location": "http://maps.google.com/maps?q=39.1176,70.4124",
+        "name": "M 4.3 - Kyrgyzstan-Tajikistan border region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr"
       },
       {
         "category": [
@@ -1249,6 +1267,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emeg"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000emsw",
+        "location": "http://maps.google.com/maps?q=-20.6238,-178.3804",
+        "name": "M 5.5 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsw"
       },
       {
         "category": [
@@ -3479,11 +3515,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "16/Jul/2021 @ 20:01:14 PDT",
+    "last_update": "16/Jul/2021 @ 21:01:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.6238,-178.3804\"><b>M 5.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsw\">USGS</a>",
+          -20.6238,
+          -178.3804
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.4599,-67.0011\"><b>M 4.2 - 109 km NW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsu\">USGS</a>",
+          -23.4599,
+          -67.0011
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.0105,-67.2806\"><b>M 4.3 - 100 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ems9\">USGS</a>",
           -24.0105,
@@ -3520,7 +3566,7 @@
           -148.6669
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=39.1176,70.4124\"><b>M 4.3 - 10 km NNE of Rasht, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=39.1176,70.4124\"><b>M 4.3 - Kyrgyzstan-Tajikistan border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emnr\">USGS</a>",
           39.1176,
           70.4124
         ],
@@ -5795,12 +5841,12 @@
         ]
       ]
     },
-    "title": "190 events (16/Jul/2021 PDT)"
+    "title": "192 events (16/Jul/2021 PDT)"
   },
-  "last_update": "16/Jul/2021 @ 20:02:05 PDT",
+  "last_update": "16/Jul/2021 @ 21:01:56 PDT",
   "neo": {
     "date": "17/Jul/2021 PDT",
-    "last_update": "16/Jul/2021 @ 20:01:15 PDT",
+    "last_update": "16/Jul/2021 @ 21:01:12 PDT",
     "objects": [
       {
         "cat": "17/Jul/2021 @ 01:49:00 ",
@@ -5999,7 +6045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jul/2021 @ 20:01:15 PDT",
+    "last_update": "16/Jul/2021 @ 21:01:13 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7539,7 +7585,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Jul/2021 @ 20:01:22 PDT",
+    "last_update": "16/Jul/2021 @ 21:01:18 PDT",
     "launches": {
       "future": [
         {
