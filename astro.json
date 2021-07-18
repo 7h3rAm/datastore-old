@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Jul/2021 @ 00:00:51 PDT",
+    "last_update": "18/Jul/2021 @ 01:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/M31_Galex_960.jpg",
     "title": "The Andromeda Galaxy in Ultraviolet (18/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1007,7 +1007,7 @@
         ],
         "eid": "us7000en1m",
         "location": "http://maps.google.com/maps?q=7.1402,-82.6751",
-        "name": "M 4.2 - south of Panama",
+        "name": "M 4.2 - 101 km SSE of Punta de Burica, Panama",
         "source": [
           {
             "sid": "USGS",
@@ -3857,7 +3857,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "18/Jul/2021 @ 00:01:20 PDT",
+    "last_update": "18/Jul/2021 @ 01:01:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3908,7 +3908,7 @@
           103.9244
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=7.1402,-82.6751\"><b>M 4.2 - south of Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en1m\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=7.1402,-82.6751\"><b>M 4.2 - 101 km SSE of Punta de Burica, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en1m\">USGS</a>",
           7.1402,
           -82.6751
         ],
@@ -6385,10 +6385,10 @@
     },
     "title": "211 events (18/Jul/2021 PDT)"
   },
-  "last_update": "18/Jul/2021 @ 00:02:10 PDT",
+  "last_update": "18/Jul/2021 @ 01:01:57 PDT",
   "neo": {
     "date": "18/Jul/2021 PDT",
-    "last_update": "18/Jul/2021 @ 00:01:23 PDT",
+    "last_update": "18/Jul/2021 @ 01:01:18 PDT",
     "objects": [
       {
         "cat": "18/Jul/2021 @ 13:44:00 ",
@@ -6551,7 +6551,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Jul/2021 @ 00:01:23 PDT",
+    "last_update": "18/Jul/2021 @ 01:01:19 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8091,7 +8091,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Jul/2021 @ 00:01:30 PDT",
+    "last_update": "18/Jul/2021 @ 01:01:24 PDT",
     "launches": {
       "future": [
         {
