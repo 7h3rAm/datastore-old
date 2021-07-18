@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2021 @ 16:01:29 PDT",
+    "last_update": "17/Jul/2021 @ 17:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg",
     "title": "Alphonsus and Arzachel (17/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1025,7 +1025,7 @@
         ],
         "eid": "us7000emtd",
         "location": "http://maps.google.com/maps?q=33.9542,141.5638",
-        "name": "M 4.2 - 174 km SE of Katsuura, Japan",
+        "name": "M 4.2 - off the east coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -1249,24 +1249,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emxz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emqy",
-        "location": "http://maps.google.com/maps?q=14.1622,128.2172",
-        "name": "M 5.0 - east of the Philippine Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emqy"
       },
       {
         "category": [
@@ -3767,7 +3749,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "17/Jul/2021 @ 16:01:58 PDT",
+    "last_update": "17/Jul/2021 @ 17:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3838,7 +3820,7 @@
           -67.0655
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.9542,141.5638\"><b>M 4.2 - 174 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.9542,141.5638\"><b>M 4.2 - off the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd\">USGS</a>",
           33.9542,
           141.5638
         ],
@@ -3866,11 +3848,6 @@
           "<a href=\"http://maps.google.com/maps?q=-56.1042,-27.8533\"><b>M 5.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emrg\">USGS</a>",
           -56.1042,
           -27.8533
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.1622,128.2172\"><b>M 5.0 - east of the Philippine Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emqy\">USGS</a>",
-          14.1622,
-          128.2172
         ]
       ],
       "Floods": [],
@@ -6268,141 +6245,105 @@
         ]
       ]
     },
-    "title": "206 events (17/Jul/2021 PDT)"
+    "title": "205 events (17/Jul/2021 PDT)"
   },
-  "last_update": "17/Jul/2021 @ 16:02:45 PDT",
+  "last_update": "17/Jul/2021 @ 17:02:00 PDT",
   "neo": {
-    "date": "17/Jul/2021 PDT",
-    "last_update": "17/Jul/2021 @ 16:02:01 PDT",
+    "date": "18/Jul/2021 PDT",
+    "last_update": "17/Jul/2021 @ 17:01:16 PDT",
     "objects": [
       {
-        "cat": "17/Jul/2021 @ 01:49:00 ",
-        "diameter": "0.08-0.18 miles",
-        "distance": "31,167,823.47 miles",
-        "hazardous": false,
-        "name": "Asteroid (2013 MD6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3644175",
-        "velocity": "40,975.87 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 22:10:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "19,906,440.80 miles",
-        "hazardous": false,
-        "name": "Asteroid (2013 WR45)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3653969",
-        "velocity": "28,712.27 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 16:56:00 ",
-        "diameter": "0.05-0.11 miles",
-        "distance": "21,646,221.65 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 EH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3745032",
-        "velocity": "20,994.53 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 23:35:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "39,830,920.73 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 FZ12)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3748477",
-        "velocity": "18,654.35 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 05:19:00 ",
-        "diameter": "0.10-0.22 miles",
-        "distance": "31,272,295.48 miles",
+        "cat": "18/Jul/2021 @ 13:44:00 ",
+        "diameter": "0.12-0.27 miles",
+        "distance": "30,118,302.77 miles",
         "hazardous": true,
-        "name": "Asteroid (2017 OP68)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3780638",
-        "velocity": "34,238.42 mph"
+        "name": "Asteroid (2002 PF43)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3132521",
+        "velocity": "33,453.52 mph"
       },
       {
-        "cat": "17/Jul/2021 @ 22:29:00 ",
+        "cat": "18/Jul/2021 @ 00:56:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "26,410,893.04 miles",
+        "hazardous": false,
+        "name": "Asteroid (2012 UX136)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3614400",
+        "velocity": "12,589.24 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 02:01:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "16,809,669.04 miles",
+        "hazardous": true,
+        "name": "Asteroid (2014 NB52)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3674578",
+        "velocity": "34,263.75 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 22:03:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "40,843,253.37 miles",
+        "hazardous": false,
+        "name": "Asteroid (2014 WZ365)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3699892",
+        "velocity": "26,886.48 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 00:34:00 ",
+        "diameter": "0.08-0.19 miles",
+        "distance": "22,916,042.88 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 QX34)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3781300",
+        "velocity": "30,051.31 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 20:38:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "42,934,908.22 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 AV1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3976539",
+        "velocity": "51,631.15 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 15:37:00 ",
+        "diameter": "0.03-0.08 miles",
+        "distance": "37,766,134.54 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 WF3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54092913",
+        "velocity": "30,688.97 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 09:15:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "26,191,234.39 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 CR9)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54122198",
+        "velocity": "21,740.25 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 20:10:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "8,694,134.39 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 LU6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54160169",
+        "velocity": "14,541.59 mph"
+      },
+      {
+        "cat": "18/Jul/2021 @ 03:16:00 ",
         "diameter": "0.04-0.08 miles",
-        "distance": "35,456,946.02 miles",
+        "distance": "4,759,218.71 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 QA1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3826900",
-        "velocity": "40,957.00 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 04:56:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "22,970,659.66 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 AC3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3837602",
-        "velocity": "24,046.63 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 19:03:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "3,618,886.27 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 NB7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843317",
-        "velocity": "30,785.31 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 05:42:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "39,345,081.70 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 HX3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016677",
-        "velocity": "36,978.26 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 23:03:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "33,674,289.17 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 AW5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54105518",
-        "velocity": "12,798.91 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 20:25:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "5,473,650.67 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 BR1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54106532",
-        "velocity": "10,962.78 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 11:46:00 ",
-        "diameter": "0.14-0.31 miles",
-        "distance": "28,701,428.42 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 LW8)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54160719",
-        "velocity": "77,715.34 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 17:41:00 ",
-        "diameter": "0.17-0.39 miles",
-        "distance": "26,479,769.81 miles",
-        "hazardous": false,
-        "name": "Asteroid 499986 (2011 NP)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2499986",
-        "velocity": "43,760.46 mph"
-      },
-      {
-        "cat": "17/Jul/2021 @ 23:49:00 ",
-        "diameter": "0.50-1.12 miles",
-        "distance": "21,264,481.10 miles",
-        "hazardous": false,
-        "name": "Asteroid 87309 (2000 QP)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2087309",
-        "velocity": "38,634.98 mph"
+        "name": "Asteroid (2021 ND1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54166391",
+        "velocity": "32,164.15 mph"
       }
     ],
-    "title": "14 objects making close approach (17/Jul/2021 PDT)"
+    "title": "10 objects making close approach (18/Jul/2021 PDT)"
   },
   "satview": {
     "date": "17/Jul/2021 PDT",
@@ -6472,7 +6413,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jul/2021 @ 16:02:01 PDT",
+    "last_update": "17/Jul/2021 @ 17:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8012,7 +7953,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jul/2021 @ 16:02:08 PDT",
+    "last_update": "17/Jul/2021 @ 17:01:22 PDT",
     "launches": {
       "future": [
         {
