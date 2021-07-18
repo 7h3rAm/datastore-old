@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Jul/2021 @ 04:00:45 PDT",
+    "last_update": "18/Jul/2021 @ 05:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/M31_Galex_960.jpg",
     "title": "The Andromeda Galaxy in Ultraviolet (18/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1023,24 +1023,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000en2d",
-        "location": "http://maps.google.com/maps?q=17.8751,-67.1315",
-        "name": "M 4.3 - 12 km SSE of Pole Ojea, Puerto Rico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en2d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000emzz",
         "location": "http://maps.google.com/maps?q=6.8857,-82.6054",
         "name": "M 4.3 - 130 km SSE of Punta de Burica, Panama",
@@ -1149,16 +1131,52 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000emw3",
-        "location": "http://maps.google.com/maps?q=-22.1261,169.8389",
-        "name": "M 4.6 - 212 km ESE of Tadine, New Caledonia",
+        "eid": "us7000en4y",
+        "location": "http://maps.google.com/maps?q=36.9692,139.2089",
+        "name": "M 4.5 - 30 km ESE of Muikamachi, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw3"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en4y"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "pr2021199004",
+        "location": "http://maps.google.com/maps?q=17.9443,-67.0966",
+        "name": "M 4.5 - 6 km WSW of La Parguera, Puerto Rico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2021199004"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000en4v",
+        "location": "http://maps.google.com/maps?q=36.9691,139.1883",
+        "name": "M 4.6 - 29 km ESE of Muikamachi, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en4v"
       },
       {
         "category": [
@@ -1231,24 +1249,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en3e"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emw7",
-        "location": "http://maps.google.com/maps?q=-6.4784,154.2967",
-        "name": "M 4.8 - 132 km W of Panguna, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw7"
       },
       {
         "category": [
@@ -1375,24 +1375,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73594531"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emw6",
-        "location": "http://maps.google.com/maps?q=33.6201,131.8153",
-        "name": "M 5.2 - 28 km NE of Kitsuki, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw6"
       },
       {
         "category": [
@@ -3875,7 +3857,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "18/Jul/2021 @ 04:01:15 PDT",
+    "last_update": "18/Jul/2021 @ 05:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3884,6 +3866,16 @@
           "<a href=\"http://maps.google.com/maps?q=0.0004,123.7988\"><b>M 4.9 - 101 km SE of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en55\">USGS</a>",
           0.0004,
           123.7988
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.9692,139.2089\"><b>M 4.5 - 30 km ESE of Muikamachi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en4y\">USGS</a>",
+          36.9692,
+          139.2089
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.9691,139.1883\"><b>M 4.6 - 29 km ESE of Muikamachi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en4v\">USGS</a>",
+          36.9691,
+          139.1883
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-3.7175,146.0363\"><b>M 4.7 - 168 km N of Madang, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en4t\">USGS</a>",
@@ -3916,9 +3908,9 @@
           -91.3033
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=17.8751,-67.1315\"><b>M 4.3 - 12 km SSE of Pole Ojea, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en2d\">USGS</a>",
-          17.8751,
-          -67.1315
+          "<a href=\"http://maps.google.com/maps?q=17.9443,-67.0966\"><b>M 4.5 - 6 km WSW of La Parguera, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2021199004\">USGS</a>",
+          17.9443,
+          -67.0966
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-14.8835,-71.5965\"><b>M 4.9 - 11 km SW of Coporaque, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en2a\">USGS</a>",
@@ -3994,21 +3986,6 @@
           "<a href=\"http://maps.google.com/maps?q=1.7129,127.262\"><b>M 4.6 - 83 km W of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emxb\">USGS</a>",
           1.7129,
           127.262
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.6201,131.8153\"><b>M 5.2 - 28 km NE of Kitsuki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw6\">USGS</a>",
-          33.6201,
-          131.8153
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.1261,169.8389\"><b>M 4.6 - 212 km ESE of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw3\">USGS</a>",
-          -22.1261,
-          169.8389
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.4784,154.2967\"><b>M 4.8 - 132 km W of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emw7\">USGS</a>",
-          -6.4784,
-          154.2967
         ]
       ],
       "Floods": [],
@@ -6426,12 +6403,12 @@
         ]
       ]
     },
-    "title": "212 events (18/Jul/2021 PDT)"
+    "title": "211 events (18/Jul/2021 PDT)"
   },
-  "last_update": "18/Jul/2021 @ 04:02:02 PDT",
+  "last_update": "18/Jul/2021 @ 05:01:57 PDT",
   "neo": {
     "date": "18/Jul/2021 PDT",
-    "last_update": "18/Jul/2021 @ 04:01:16 PDT",
+    "last_update": "18/Jul/2021 @ 05:01:13 PDT",
     "objects": [
       {
         "cat": "18/Jul/2021 @ 13:44:00 ",
@@ -6594,7 +6571,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Jul/2021 @ 04:01:16 PDT",
+    "last_update": "18/Jul/2021 @ 05:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8134,7 +8111,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Jul/2021 @ 04:01:22 PDT",
+    "last_update": "18/Jul/2021 @ 05:01:19 PDT",
     "launches": {
       "future": [
         {
