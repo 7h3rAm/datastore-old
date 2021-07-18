@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2021 @ 20:00:50 PDT",
+    "last_update": "17/Jul/2021 @ 21:00:48 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/AlphonseArzachelOwl_Donnard1088.jpg",
     "title": "Alphonsus and Arzachel (17/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1005,24 +1005,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000emsu",
-        "location": "http://maps.google.com/maps?q=-23.4599,-67.0011",
-        "name": "M 4.2 - 109 km NW of San Antonio de los Cobres, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000emtd",
         "location": "http://maps.google.com/maps?q=33.9542,141.5638",
         "name": "M 4.2 - off the east coast of Honshu, Japan",
@@ -1167,6 +1149,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000en26",
+        "location": "http://maps.google.com/maps?q=6.2849,124.5518",
+        "name": "M 4.5 - 18 km WNW of Lake Sebu, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en26"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000emue",
         "location": "http://maps.google.com/maps?q=-5.207,-80.7245",
         "name": "M 4.5 - 6 km WSW of San Martin, Peru",
@@ -1221,6 +1221,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "pt21199050",
+        "location": "http://maps.google.com/maps?q=17.935,-67.118",
+        "name": "M 4.7 - 8 km ESE of Pole Ojea, Puerto Rico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt21199050"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000emw7",
         "location": "http://maps.google.com/maps?q=-6.4784,154.2967",
         "name": "M 4.8 - 132 km W of Panguna, Papua New Guinea",
@@ -1267,6 +1285,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en1c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000en2a",
+        "location": "http://maps.google.com/maps?q=-14.8835,-71.5965",
+        "name": "M 4.9 - 11 km SW of Coporaque, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en2a"
       },
       {
         "category": [
@@ -1375,24 +1411,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000en1d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000emsw",
-        "location": "http://maps.google.com/maps?q=-20.6238,-178.3804",
-        "name": "M 5.5 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsw"
       },
       {
         "category": [
@@ -3821,11 +3839,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "17/Jul/2021 @ 20:01:22 PDT",
+    "last_update": "17/Jul/2021 @ 21:01:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=17.935,-67.118\"><b>M 4.7 - 8 km ESE of Pole Ojea, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pt21199050\">USGS</a>",
+          17.935,
+          -67.118
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.8835,-71.5965\"><b>M 4.9 - 11 km SW of Coporaque, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en2a\">USGS</a>",
+          -14.8835,
+          -71.5965
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.2849,124.5518\"><b>M 4.5 - 18 km WNW of Lake Sebu, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en26\">USGS</a>",
+          6.2849,
+          124.5518
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-6.4031,103.9244\"><b>M 4.9 - 183 km SW of Bandar Lampung, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000en20\">USGS</a>",
           -6.4031,
@@ -3930,16 +3963,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.9542,141.5638\"><b>M 4.2 - off the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emtd\">USGS</a>",
           33.9542,
           141.5638
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.6238,-178.3804\"><b>M 5.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsw\">USGS</a>",
-          -20.6238,
-          -178.3804
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-23.4599,-67.0011\"><b>M 4.2 - 109 km NW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000emsu\">USGS</a>",
-          -23.4599,
-          -67.0011
         ]
       ],
       "Floods": [],
@@ -3987,6 +4010,61 @@
           -60.75
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-75.04,-101.27\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.04,
+          -101.27
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.78,-103.95\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.78,
+          -103.95
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.31,-105.03\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.31,
+          -105.03
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.09,-106.65\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.09,
+          -106.65
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.63,-107.55\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.63,
+          -107.55
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.01,-108.01\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.01,
+          -108.01
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.57,-111.47\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.57,
+          -111.47
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.31,-112.74\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.31,
+          -112.74
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.65,-114.28\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.65,
+          -114.28
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.14,-117.04\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.14,
+          -117.04
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.22,-118.54\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.22,
+          -118.54
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-68.9,-60.5\"><b>Iceberg A69B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -68.9,
           -60.5
@@ -4005,6 +4083,76 @@
           "<a href=\"http://maps.google.com/maps?q=-67.12,-60.38\"><b>Iceberg A69B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -67.12,
           -60.38
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.75,-128.69\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.75,
+          -128.69
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.84,-130.34\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.84,
+          -130.34
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.77,-132.17\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.77,
+          -132.17
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.71,-133.77\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.71,
+          -133.77
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.97,-140.39\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.97,
+          -140.39
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.25,-142.0\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.25,
+          -142.0
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.12,-144.51\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.12,
+          -144.51
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.74,-146.02\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.74,
+          -146.02
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.52,-145.72\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.52,
+          -145.72
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.0,-148.11\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.0,
+          -148.11
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.46,-151.05\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.46,
+          -151.05
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.58,-152.9\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.58,
+          -152.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.67,-154.72\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.67,
+          -154.72
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.68,-156.85\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -75.68,
+          -156.85
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-69.07,-60.51\"><b>Iceberg A69A</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -4045,6 +4193,51 @@
           "<a href=\"http://maps.google.com/maps?q=-74.41,-56.65\"><b>Iceberg A76C</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
           -74.41,
           -56.65
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.96,22.16\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.96,
+          22.16
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.79,19.79\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.79,
+          19.79
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.53,17.49\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.53,
+          17.49
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.1,13.67\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.1,
+          13.67
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.79,19.7\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.79,
+          19.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.57,17.84\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.57,
+          17.84
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.23,15.73\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.23,
+          15.73
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.13,13.85\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.13,
+          13.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.11,12.32\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.11,
+          12.32
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-74.63,-107.19\"><b>Iceberg B42</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -4250,76 +4443,6 @@
           "<a href=\"http://maps.google.com/maps?q=-65.87,-56.73\"><b>Iceberg A63</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -65.87,
           -56.73
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.09,-57.49\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
-          -75.09,
-          -57.49
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.61,-58.2\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
-          -74.61,
-          -58.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.13,-59.2\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
-          -74.13,
-          -59.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.04,-101.27\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.04,
-          -101.27
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.78,-103.95\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.78,
-          -103.95
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.31,-105.03\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.31,
-          -105.03
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.09,-106.65\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.09,
-          -106.65
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-73.63,-107.55\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.63,
-          -107.55
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-73.01,-108.01\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.01,
-          -108.01
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.57,-111.47\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.57,
-          -111.47
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.31,-112.74\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.31,
-          -112.74
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.65,-114.28\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.65,
-          -114.28
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.14,-117.04\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.14,
-          -117.04
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.22,-118.54\"><b>Iceberg B46</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://earthobservatory.nasa.gov/images/144212/pine-island-glacier-quickly-drops-another-iceberg\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.22,
-          -118.54
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-65.87,85.49\"><b>Iceberg B09I</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -5237,74 +5360,19 @@
           11.38
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-73.75,-128.69\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.75,
-          -128.69
+          "<a href=\"http://maps.google.com/maps?q=-75.09,-57.49\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -75.09,
+          -57.49
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-73.84,-130.34\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.84,
-          -130.34
+          "<a href=\"http://maps.google.com/maps?q=-74.61,-58.2\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -74.61,
+          -58.2
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-73.77,-132.17\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.77,
-          -132.17
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-73.71,-133.77\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.71,
-          -133.77
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-73.97,-140.39\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.97,
-          -140.39
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.25,-142.0\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.25,
-          -142.0
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.12,-144.51\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.12,
-          -144.51
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-73.74,-146.02\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -73.74,
-          -146.02
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-74.52,-145.72\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -74.52,
-          -145.72
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.0,-148.11\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.0,
-          -148.11
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.46,-151.05\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.46,
-          -151.05
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.58,-152.9\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.58,
-          -152.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.67,-154.72\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.67,
-          -154.72
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-75.68,-156.85\"><b>Iceberg B50</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -75.68,
-          -156.85
+          "<a href=\"http://maps.google.com/maps?q=-74.13,-59.2\"><b>Iceberg A76B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -74.13,
+          -59.2
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-69.77,21.67\"><b>Iceberg D29A</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -5325,26 +5393,6 @@
           "<a href=\"http://maps.google.com/maps?q=-69.37,16.31\"><b>Iceberg D29A</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -69.37,
           16.31
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.96,22.16\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.96,
-          22.16
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.79,19.79\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.79,
-          19.79
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.53,17.49\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.53,
-          17.49
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.1,13.67\"><b>Iceberg D29B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.1,
-          13.67
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-69.77,22.15\"><b>Iceberg D29C</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -5400,31 +5448,6 @@
           "<a href=\"http://maps.google.com/maps?q=-69.57,8.5\"><b>Iceberg D30A</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -69.57,
           8.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.79,19.7\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.79,
-          19.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.57,17.84\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.57,
-          17.84
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.23,15.73\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.23,
-          15.73
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.13,13.85\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.13,
-          13.85
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.11,12.32\"><b>Iceberg D30B</b></a><br/>Category: Sea and Lake Ice<br/>Source: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -69.11,
-          12.32
         ]
       ],
       "Severe Storms": [
@@ -6337,12 +6360,12 @@
         ]
       ]
     },
-    "title": "209 events (17/Jul/2021 PDT)"
+    "title": "210 events (17/Jul/2021 PDT)"
   },
-  "last_update": "17/Jul/2021 @ 20:02:08 PDT",
+  "last_update": "17/Jul/2021 @ 21:02:05 PDT",
   "neo": {
     "date": "18/Jul/2021 PDT",
-    "last_update": "17/Jul/2021 @ 20:01:25 PDT",
+    "last_update": "17/Jul/2021 @ 21:01:19 PDT",
     "objects": [
       {
         "cat": "18/Jul/2021 @ 13:44:00 ",
@@ -6505,7 +6528,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jul/2021 @ 20:01:25 PDT",
+    "last_update": "17/Jul/2021 @ 21:01:19 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8045,7 +8068,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jul/2021 @ 20:01:35 PDT",
+    "last_update": "17/Jul/2021 @ 21:01:25 PDT",
     "launches": {
       "future": [
         {
