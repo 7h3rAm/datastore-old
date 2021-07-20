@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Jul/2021 @ 22:00:44 PDT",
+    "last_update": "19/Jul/2021 @ 23:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_960.jpg",
     "title": "Thor's Helmet (20/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1185,6 +1185,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000enma",
+        "location": "http://maps.google.com/maps?q=38.3669,23.307",
+        "name": "M 4.3 - 4 km NNW of Thívai, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enma"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000enfm",
         "location": "http://maps.google.com/maps?q=6.9102,-73.0191",
         "name": "M 4.3 - 9 km SSE of Piedecuesta, Colombia",
@@ -1348,8 +1366,8 @@
           }
         ],
         "eid": "us7000enjx",
-        "location": "http://maps.google.com/maps?q=26.5548,129.9109",
-        "name": "M 5.1 - 191 km E of Nago, Japan",
+        "location": "http://maps.google.com/maps?q=26.5582,129.8872",
+        "name": "M 5.1 - 189 km E of Nago, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -3945,11 +3963,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "19/Jul/2021 @ 22:01:14 PDT",
+    "last_update": "19/Jul/2021 @ 23:01:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.3669,23.307\"><b>M 4.3 - 4 km NNW of Thívai, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enma\">USGS</a>",
+          38.3669,
+          23.307
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.4782,153.8915\"><b>M 4.8 - New Ireland region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enm2\">USGS</a>",
           -5.4782,
@@ -3966,9 +3989,9 @@
           -71.4158
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=26.5548,129.9109\"><b>M 5.1 - 191 km E of Nago, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjx\">USGS</a>",
-          26.5548,
-          129.9109
+          "<a href=\"http://maps.google.com/maps?q=26.5582,129.8872\"><b>M 5.1 - 189 km E of Nago, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjx\">USGS</a>",
+          26.5582,
+          129.8872
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.0304,152.1383\"><b>M 5.7 - 77 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjy\">USGS</a>",
@@ -6596,12 +6619,12 @@
         ]
       ]
     },
-    "title": "215 events (19/Jul/2021 PDT)"
+    "title": "216 events (19/Jul/2021 PDT)"
   },
-  "last_update": "19/Jul/2021 @ 22:02:02 PDT",
+  "last_update": "19/Jul/2021 @ 23:02:21 PDT",
   "neo": {
     "date": "20/Jul/2021 PDT",
-    "last_update": "19/Jul/2021 @ 22:01:17 PDT",
+    "last_update": "19/Jul/2021 @ 23:01:15 PDT",
     "objects": [
       {
         "cat": "20/Jul/2021 @ 11:43:00 ",
@@ -6755,7 +6778,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Jul/2021 @ 22:01:17 PDT",
+    "last_update": "19/Jul/2021 @ 23:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8295,7 +8318,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Jul/2021 @ 22:01:23 PDT",
+    "last_update": "19/Jul/2021 @ 23:01:21 PDT",
     "launches": {
       "future": [
         {
