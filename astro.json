@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jul/2021 @ 15:00:53 PDT",
+    "last_update": "20/Jul/2021 @ 16:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_960.jpg",
     "title": "Thor's Helmet (20/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1159,24 +1159,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enr9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000enjm",
-        "location": "http://maps.google.com/maps?q=56.0017,113.5694",
-        "name": "M 4.6 - 18 km SSE of Severomuysk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjm"
       },
       {
         "category": [
@@ -4071,7 +4053,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "20/Jul/2021 @ 15:01:23 PDT",
+    "last_update": "20/Jul/2021 @ 16:01:17 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4135,11 +4117,6 @@
           "<a href=\"http://maps.google.com/maps?q=-5.0278,152.1354\"><b>M 5.4 - 77 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjy\">USGS</a>",
           -5.0278,
           152.1354
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.0017,113.5694\"><b>M 4.6 - 18 km SSE of Severomuysk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enjm\">USGS</a>",
-          56.0017,
-          113.5694
         ]
       ],
       "Floods": [],
@@ -6837,12 +6814,12 @@
         ]
       ]
     },
-    "title": "222 events (20/Jul/2021 PDT)"
+    "title": "221 events (20/Jul/2021 PDT)"
   },
-  "last_update": "20/Jul/2021 @ 15:02:14 PDT",
+  "last_update": "20/Jul/2021 @ 16:02:09 PDT",
   "neo": {
     "date": "20/Jul/2021 PDT",
-    "last_update": "20/Jul/2021 @ 15:01:24 PDT",
+    "last_update": "20/Jul/2021 @ 16:01:20 PDT",
     "objects": [
       {
         "cat": "20/Jul/2021 @ 11:43:00 ",
@@ -6996,7 +6973,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jul/2021 @ 15:01:24 PDT",
+    "last_update": "20/Jul/2021 @ 16:01:20 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8536,7 +8513,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jul/2021 @ 15:01:31 PDT",
+    "last_update": "20/Jul/2021 @ 16:01:26 PDT",
     "launches": {
       "future": [
         {
