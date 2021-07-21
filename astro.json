@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jul/2021 @ 23:00:46 PDT",
+    "last_update": "21/Jul/2021 @ 00:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/RingColorsOH_Vanderbei_1080.jpg",
     "title": "Colors: Ring Nebula versus Stars (21/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "20/Jul/2021 PDT",
+    "date": "21/Jul/2021 PDT",
     "events": [
       {
         "category": [
@@ -4035,7 +4035,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "20/Jul/2021 @ 23:01:16 PDT",
+    "last_update": "21/Jul/2021 @ 00:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -6791,12 +6791,12 @@
         ]
       ]
     },
-    "title": "220 events (20/Jul/2021 PDT)"
+    "title": "220 events (21/Jul/2021 PDT)"
   },
-  "last_update": "20/Jul/2021 @ 23:02:06 PDT",
+  "last_update": "21/Jul/2021 @ 00:01:59 PDT",
   "neo": {
     "date": "21/Jul/2021 PDT",
-    "last_update": "20/Jul/2021 @ 23:01:18 PDT",
+    "last_update": "21/Jul/2021 @ 00:01:16 PDT",
     "objects": [
       {
         "cat": "21/Jul/2021 @ 21:05:00 ",
@@ -6928,7 +6928,7 @@
     "title": "14 objects making close approach (21/Jul/2021 PDT)"
   },
   "satview": {
-    "date": "20/Jul/2021 PDT",
+    "date": "21/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 19/Jul/2021 @ 14:34:12 PDT.",
@@ -6995,7 +6995,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jul/2021 @ 23:01:19 PDT",
+    "last_update": "21/Jul/2021 @ 00:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7048,7 +7048,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (20/Jul/2021 PDT)"
+    "title": "10 people in space (21/Jul/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -8535,7 +8535,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jul/2021 @ 23:01:26 PDT",
+    "last_update": "21/Jul/2021 @ 00:01:21 PDT",
     "launches": {
       "future": [
         {
