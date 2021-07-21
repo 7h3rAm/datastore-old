@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jul/2021 @ 17:00:46 PDT",
+    "last_update": "20/Jul/2021 @ 18:00:43 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_960.jpg",
     "title": "Thor's Helmet (20/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1213,6 +1213,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enm2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000exhl",
+        "location": "http://maps.google.com/maps?q=29.3151,70.0216",
+        "name": "M 5.1 - 38 km NW of Rajanpur, Pakistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000exhl"
       },
       {
         "category": [
@@ -4035,11 +4053,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "20/Jul/2021 @ 17:01:15 PDT",
+    "last_update": "20/Jul/2021 @ 18:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.3151,70.0216\"><b>M 5.1 - 38 km NW of Rajanpur, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000exhl\">USGS</a>",
+          29.3151,
+          70.0216
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=23.8625,65.2818\"><b>M 4.1 - 162 km SSE of Ormara, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000exhg\">USGS</a>",
           23.8625,
@@ -6791,12 +6814,12 @@
         ]
       ]
     },
-    "title": "220 events (20/Jul/2021 PDT)"
+    "title": "221 events (20/Jul/2021 PDT)"
   },
-  "last_update": "20/Jul/2021 @ 17:02:06 PDT",
+  "last_update": "20/Jul/2021 @ 18:01:59 PDT",
   "neo": {
     "date": "21/Jul/2021 PDT",
-    "last_update": "20/Jul/2021 @ 17:01:16 PDT",
+    "last_update": "20/Jul/2021 @ 18:01:14 PDT",
     "objects": [
       {
         "cat": "21/Jul/2021 @ 21:05:00 ",
@@ -6995,7 +7018,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jul/2021 @ 17:01:16 PDT",
+    "last_update": "20/Jul/2021 @ 18:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8535,7 +8558,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jul/2021 @ 17:01:24 PDT",
+    "last_update": "20/Jul/2021 @ 18:01:19 PDT",
     "launches": {
       "future": [
         {
