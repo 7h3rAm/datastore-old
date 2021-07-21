@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Jul/2021 @ 08:00:51 PDT",
+    "last_update": "21/Jul/2021 @ 09:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/RingColorsOH_Vanderbei_1080.jpg",
     "title": "Colors: Ring Nebula versus Stars (21/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1229,24 +1229,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000enqu",
-        "location": "http://maps.google.com/maps?q=-15.5876,-72.1531",
-        "name": "M 4.1 - 2 km WSW of Choco, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enqu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000enrp",
         "location": "http://maps.google.com/maps?q=35.0801,25.1665",
         "name": "M 4.2 - 7 km ENE of Asímion, Greece",
@@ -1329,24 +1311,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000exl5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000enr9",
-        "location": "http://maps.google.com/maps?q=46.72,153.2675",
-        "name": "M 4.4 - Kuril Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enr9"
       },
       {
         "category": [
@@ -4377,7 +4341,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "21/Jul/2021 @ 08:01:22 PDT",
+    "last_update": "21/Jul/2021 @ 09:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4441,16 +4405,6 @@
           "<a href=\"http://maps.google.com/maps?q=35.0801,25.1665\"><b>M 4.2 - 7 km ENE of Asímion, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enrp\">USGS</a>",
           35.0801,
           25.1665
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=46.72,153.2675\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enr9\">USGS</a>",
-          46.72,
-          153.2675
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.5876,-72.1531\"><b>M 4.1 - 2 km WSW of Choco, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enqu\">USGS</a>",
-          -15.5876,
-          -72.1531
         ]
       ],
       "Floods": [],
@@ -7293,12 +7247,12 @@
         ]
       ]
     },
-    "title": "239 events (21/Jul/2021 PDT)"
+    "title": "237 events (21/Jul/2021 PDT)"
   },
-  "last_update": "21/Jul/2021 @ 08:02:09 PDT",
+  "last_update": "21/Jul/2021 @ 09:02:02 PDT",
   "neo": {
     "date": "21/Jul/2021 PDT",
-    "last_update": "21/Jul/2021 @ 08:01:22 PDT",
+    "last_update": "21/Jul/2021 @ 09:01:16 PDT",
     "objects": [
       {
         "cat": "21/Jul/2021 @ 21:05:00 ",
@@ -7506,7 +7460,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Jul/2021 @ 08:01:23 PDT",
+    "last_update": "21/Jul/2021 @ 09:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -9046,7 +9000,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Jul/2021 @ 08:01:29 PDT",
+    "last_update": "21/Jul/2021 @ 09:01:21 PDT",
     "launches": {
       "future": [
         {
