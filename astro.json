@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jul/2021 @ 20:00:49 PDT",
+    "last_update": "20/Jul/2021 @ 21:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_960.jpg",
     "title": "Thor's Helmet (20/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1113,24 +1113,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000enlg",
-        "location": "http://maps.google.com/maps?q=-35.3537,-71.4158",
-        "name": "M 4.3 - 21 km NNE of San Clemente, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enlg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000enma",
         "location": "http://maps.google.com/maps?q=38.3669,23.307",
         "name": "M 4.3 - 4 km NNW of Thívai, Greece",
@@ -1141,24 +1123,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enma"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000enlk",
-        "location": "http://maps.google.com/maps?q=-12.2493,167.0735",
-        "name": "M 4.4 - 187 km NNW of Sola, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000enlk"
       },
       {
         "category": [
@@ -4089,7 +4053,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "20/Jul/2021 @ 20:01:18 PDT",
+    "last_update": "20/Jul/2021 @ 21:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4153,16 +4117,6 @@
           "<a href=\"http://maps.google.com/maps?q=-5.4782,153.8915\"><b>M 4.8 - New Ireland region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enm2\">USGS</a>",
           -5.4782,
           153.8915
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-12.2493,167.0735\"><b>M 4.4 - 187 km NNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enlk\">USGS</a>",
-          -12.2493,
-          167.0735
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-35.3537,-71.4158\"><b>M 4.3 - 21 km NNE of San Clemente, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000enlg\">USGS</a>",
-          -35.3537,
-          -71.4158
         ]
       ],
       "Floods": [],
@@ -6860,12 +6814,12 @@
         ]
       ]
     },
-    "title": "223 events (20/Jul/2021 PDT)"
+    "title": "221 events (20/Jul/2021 PDT)"
   },
-  "last_update": "20/Jul/2021 @ 20:02:12 PDT",
+  "last_update": "20/Jul/2021 @ 21:01:59 PDT",
   "neo": {
     "date": "21/Jul/2021 PDT",
-    "last_update": "20/Jul/2021 @ 20:01:21 PDT",
+    "last_update": "20/Jul/2021 @ 21:01:17 PDT",
     "objects": [
       {
         "cat": "21/Jul/2021 @ 21:05:00 ",
@@ -7064,7 +7018,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jul/2021 @ 20:01:21 PDT",
+    "last_update": "20/Jul/2021 @ 21:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8604,7 +8558,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jul/2021 @ 20:01:33 PDT",
+    "last_update": "20/Jul/2021 @ 21:01:23 PDT",
     "launches": {
       "future": [
         {
