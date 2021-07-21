@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Jul/2021 @ 03:00:50 PDT",
+    "last_update": "21/Jul/2021 @ 04:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/RingColorsOH_Vanderbei_1080.jpg",
     "title": "Colors: Ring Nebula versus Stars (21/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1149,6 +1149,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000exkk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "nc73596726",
+        "location": "http://maps.google.com/maps?q=40.3256683,-124.3391647",
+        "name": "M 4.3 - 5km W of Petrolia, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73596726"
       },
       {
         "category": [
@@ -4053,11 +4071,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "21/Jul/2021 @ 03:01:25 PDT",
+    "last_update": "21/Jul/2021 @ 04:01:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.3256683,-124.3391647\"><b>M 4.3 - 5km W of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73596726\">USGS</a>",
+          40.3256683,
+          -124.3391647
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.2074,-177.6001\"><b>M 4.3 - 269 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000exkk\">USGS</a>",
           -20.2074,
@@ -6879,12 +6902,12 @@
         ]
       ]
     },
-    "title": "221 events (21/Jul/2021 PDT)"
+    "title": "222 events (21/Jul/2021 PDT)"
   },
-  "last_update": "21/Jul/2021 @ 03:02:17 PDT",
+  "last_update": "21/Jul/2021 @ 04:01:59 PDT",
   "neo": {
     "date": "21/Jul/2021 PDT",
-    "last_update": "21/Jul/2021 @ 03:01:28 PDT",
+    "last_update": "21/Jul/2021 @ 04:01:17 PDT",
     "objects": [
       {
         "cat": "21/Jul/2021 @ 21:05:00 ",
@@ -7083,7 +7106,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Jul/2021 @ 03:01:28 PDT",
+    "last_update": "21/Jul/2021 @ 04:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8623,7 +8646,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Jul/2021 @ 03:01:35 PDT",
+    "last_update": "21/Jul/2021 @ 04:01:22 PDT",
     "launches": {
       "future": [
         {
