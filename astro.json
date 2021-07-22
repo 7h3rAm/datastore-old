@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Jul/2021 @ 02:00:48 PDT",
+    "last_update": "22/Jul/2021 @ 03:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/NGC7814withSN2021rhuChart32_1024.jpg",
     "title": "NGC 7814: Little Sombrero with Supernova (22/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1301,24 +1301,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000exkk",
-        "location": "http://maps.google.com/maps?q=-20.2074,-177.6001",
-        "name": "M 4.3 - 269 km WNW of Haveluloto, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000exkk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000exna",
         "location": "http://maps.google.com/maps?q=-18.0342,-177.9479",
         "name": "M 4.3 - 289 km E of Levuka, Fiji",
@@ -2238,7 +2220,7 @@
           }
         ],
         "eid": "EONET_5622",
-        "location": "https://www.google.com/maps/dir/20.8,113.3/20.9,113.2/21,113/21.1,112.7/21.2,112.5/21.3,112.4/21.4,112.3/21.7,111.9/21.8,111.6/22,111.5/22.1,110.9/@20.8,113.3,3z",
+        "location": "https://www.google.com/maps/dir/20.8,113.3/20.9,113.2/21,113/21.1,112.7/21.2,112.5/21.3,112.4/21.4,112.3/21.7,111.9/21.8,111.6/22,111.5/22.1,110.9/22.5,110.5/22.8,109.5/22.8,108.9/22.6,108.3/@20.8,113.3,3z",
         "name": "Typhoon Cempaka",
         "source": [
           {
@@ -2260,7 +2242,7 @@
           }
         ],
         "eid": "EONET_5620",
-        "location": "https://www.google.com/maps/dir/22.4,132.5/22.7,132.3/23,132/23.5,132.2/23.8,132/24,131.7/24.1,131.5/24.2,131.2/24.4,130.8/24.7,129.7/24.4,128.8/24.1,128.2/24.1,127.9/24.2,127.3/@22.4,132.5,3z",
+        "location": "https://www.google.com/maps/dir/22.4,132.5/22.7,132.3/23,132/23.5,132.2/23.8,132/24,131.7/24.1,131.5/24.2,131.2/24.4,130.8/24.7,129.7/24.4,128.8/24.1,128.2/24.1,127.9/24.2,127.3/23.9,126.6/23.6,126.2/23.5,126.1/23.5,125.9/@22.4,132.5,3z",
         "name": "Typhoon In-fa",
         "source": [
           {
@@ -4473,7 +4455,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "22/Jul/2021 @ 02:01:18 PDT",
+    "last_update": "22/Jul/2021 @ 03:01:17 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4587,11 +4569,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.2773333,-124.4131667\"><b>M 4.4 - 12km WSW of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73596726\">USGS</a>",
           40.2773333,
           -124.4131667
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.2074,-177.6001\"><b>M 4.3 - 269 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000exkk\">USGS</a>",
-          -20.2074,
-          -177.6001
         ]
       ],
       "Floods": [],
@@ -6136,6 +6113,26 @@
           110.9
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=22.5,110.5\"><b>Typhoon Cempaka</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000801&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1021.tcw\">JTWC</a>",
+          22.5,
+          110.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.8,109.5\"><b>Typhoon Cempaka</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000801&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1021.tcw\">JTWC</a>",
+          22.8,
+          109.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.8,108.9\"><b>Typhoon Cempaka</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000801&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1021.tcw\">JTWC</a>",
+          22.8,
+          108.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.6,108.3\"><b>Typhoon Cempaka</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000801&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1021.tcw\">JTWC</a>",
+          22.6,
+          108.3
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=22.4,132.5\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
           22.4,
           132.5
@@ -6204,6 +6201,26 @@
           "<a href=\"http://maps.google.com/maps?q=24.2,127.3\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
           24.2,
           127.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.9,126.6\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
+          23.9,
+          126.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.6,126.2\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
+          23.6,
+          126.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.5,126.1\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
+          23.5,
+          126.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.5,125.9\"><b>Typhoon In-fa</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000799&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0921.tcw\">JTWC</a>",
+          23.5,
+          125.9
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=16.9,-109.4\"><b>Cyclone Guillermo</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000800&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0721.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/GUILLERMO.shtml\">NOAA_NHC</a>",
@@ -7419,12 +7436,12 @@
         ]
       ]
     },
-    "title": "245 events (22/Jul/2021 PDT)"
+    "title": "244 events (22/Jul/2021 PDT)"
   },
-  "last_update": "22/Jul/2021 @ 02:03:16 PDT",
+  "last_update": "22/Jul/2021 @ 03:02:06 PDT",
   "neo": {
     "date": "22/Jul/2021 PDT",
-    "last_update": "22/Jul/2021 @ 02:01:21 PDT",
+    "last_update": "22/Jul/2021 @ 03:01:20 PDT",
     "objects": [
       {
         "cat": "22/Jul/2021 @ 23:03:00 ",
@@ -7560,7 +7577,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Jul/2021 @ 02:01:21 PDT",
+    "last_update": "22/Jul/2021 @ 03:01:20 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -9100,7 +9117,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Jul/2021 @ 02:01:29 PDT",
+    "last_update": "22/Jul/2021 @ 03:01:26 PDT",
     "launches": {
       "future": [
         {
