@@ -41,6 +41,8 @@ http://procdot.com/
 
 https://github.com/tomchop/malcom
 
+https://github.com/redcode-labs/Citadel
+
 wireshark filters:
 ssl/tls start/finish filter:  tcp.flags & 0x02 || tcp.flags.fin == 1 || ( tcp.flags.ack == 1 && tcp.seq == 1 && tcp.len == 0)
 http req/resp:  http.request|| http.response
