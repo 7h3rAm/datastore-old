@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jul/2021 @ 08:00:56 PDT",
+    "last_update": "26/Jul/2021 @ 09:00:49 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/CG4_Rolland_1080.jpg",
     "title": "CG4: A Ruptured Cometary Globule (26/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1461,16 +1461,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000eyy4",
-        "location": "http://maps.google.com/maps?q=27.3193,88.2481",
-        "name": "M 4.5 - 3 km NNW of Gyalshing, India",
+        "eid": "us6000ez1r",
+        "location": "http://maps.google.com/maps?q=-32.5275,-65.6557",
+        "name": "M 4.5 - 31 km SE of Luján, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyy4"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez1r"
       },
       {
         "category": [
@@ -1479,16 +1479,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000ez1r",
-        "location": "http://maps.google.com/maps?q=-32.5275,-65.6557",
-        "name": "M 4.5 - San Luis, Argentina",
+        "eid": "us6000ez7y",
+        "location": "http://maps.google.com/maps?q=44.4672,148.1968",
+        "name": "M 4.5 - 88 km SSE of Kuril’sk, Russia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez1r"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez7y"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000ez82",
+        "location": "http://maps.google.com/maps?q=-21.8169,-178.9902",
+        "name": "M 4.5 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez82"
       },
       {
         "category": [
@@ -1623,6 +1641,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000ez3j",
+        "location": "http://maps.google.com/maps?q=24.5629,94.4303",
+        "name": "M 4.9 - 37 km E of Wāngjing, India",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez3j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000ez2i",
         "location": "http://maps.google.com/maps?q=-29.7171,-176.7956",
         "name": "M 4.9 - Kermadec Islands region",
@@ -1633,24 +1669,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez2i"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000ez3j",
-        "location": "http://maps.google.com/maps?q=24.5629,94.4303",
-        "name": "M 4.9 - Myanmar-India border region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez3j"
       },
       {
         "category": [
@@ -4193,11 +4211,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5597"
       }
     ],
-    "last_update": "26/Jul/2021 @ 08:01:26 PDT",
+    "last_update": "26/Jul/2021 @ 09:01:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.4672,148.1968\"><b>M 4.5 - 88 km SSE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez7y\">USGS</a>",
+          44.4672,
+          148.1968
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.8169,-178.9902\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez82\">USGS</a>",
+          -21.8169,
+          -178.9902
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-0.7479,121.9314\"><b>M 6.2 - 97 km WNW of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez5x\">USGS</a>",
           -0.7479,
@@ -4229,7 +4257,7 @@
           -174.4112
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=24.5629,94.4303\"><b>M 4.9 - Myanmar-India border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez3j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=24.5629,94.4303\"><b>M 4.9 - 37 km E of Wāngjing, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez3j\">USGS</a>",
           24.5629,
           94.4303
         ],
@@ -4269,7 +4297,7 @@
           -71.9638
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-32.5275,-65.6557\"><b>M 4.5 - San Luis, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez1r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-32.5275,-65.6557\"><b>M 4.5 - 31 km SE of Luján, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ez1r\">USGS</a>",
           -32.5275,
           -65.6557
         ],
@@ -4322,11 +4350,6 @@
           "<a href=\"http://maps.google.com/maps?q=-29.8826,-176.6641\"><b>M 5.3 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyyf\">USGS</a>",
           -29.8826,
           -176.6641
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.3193,88.2481\"><b>M 4.5 - 3 km NNW of Gyalshing, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyy4\">USGS</a>",
-          27.3193,
-          88.2481
         ]
       ],
       "Floods": [],
@@ -6634,12 +6657,12 @@
         ]
       ]
     },
-    "title": "219 events (26/Jul/2021 PDT)"
+    "title": "220 events (26/Jul/2021 PDT)"
   },
-  "last_update": "26/Jul/2021 @ 08:02:16 PDT",
+  "last_update": "26/Jul/2021 @ 09:02:05 PDT",
   "neo": {
     "date": "26/Jul/2021 PDT",
-    "last_update": "26/Jul/2021 @ 08:01:27 PDT",
+    "last_update": "26/Jul/2021 @ 09:01:19 PDT",
     "objects": [
       {
         "cat": "26/Jul/2021 @ 16:29:00 ",
@@ -6856,7 +6879,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jul/2021 @ 08:01:28 PDT",
+    "last_update": "26/Jul/2021 @ 09:01:19 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8396,7 +8419,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Jul/2021 @ 08:01:34 PDT",
+    "last_update": "26/Jul/2021 @ 09:01:24 PDT",
     "launches": {
       "future": [
         {
