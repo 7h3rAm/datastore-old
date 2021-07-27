@@ -51,4 +51,21 @@ POST's:  http.request.method == "POST"
 Display...pretty much all everything you'd want to show to someone:  (http.request.full_uri||http.response||dns.flags == 0x0100||ssl.handshake.type == 1) && !(ssdp)
 
 
+feeds:
+www.tweettioc.com/feed/daily/domain
+www.tweettioc.com/feed/daily/ip
+www.tweettioc.com/feed/daily/mail
+www.tweettioc.com/feed/daily/md5
+www.tweettioc.com/feed/daily/sha1
+www.tweettioc.com/feed/daily/sha256
+www.tweettioc.com/feed/daily/url
+www.tweettioc.com/v1/tweets/daily/domain
+www.tweettioc.com/v1/tweets/daily/full
+www.tweettioc.com/v1/tweets/daily/ioc
+www.tweettioc.com/v1/tweets/daily/ip
+www.tweettioc.com/v1/tweets/daily/mail
+www.tweettioc.com/v1/tweets/daily/md5
+www.tweettioc.com/v1/tweets/daily/sha1
+www.tweettioc.com/v1/tweets/daily/sha256
+www.tweettioc.com/v1/tweets/daily/url
 
