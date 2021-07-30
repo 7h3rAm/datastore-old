@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Jul/2021 @ 22:00:44 PDT",
+    "last_update": "29/Jul/2021 @ 23:00:48 PDT",
     "source": "https://apod.nasa.gov/apod/image/1908/MimasPIA17213_fig1_1024.jpg",
     "title": "Mimas in Saturnlight (30/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1345,6 +1345,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f0i0",
+        "location": "http://maps.google.com/maps?q=-26.3422,28.2268",
+        "name": "M 4.2 - 13 km SE of Alberton, South Africa",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0i0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "ak0219nhgfif",
         "location": "http://maps.google.com/maps?q=55.2735,-157.3887",
         "name": "M 4.2 - 130 km SSE of Chignik, Alaska",
@@ -1391,6 +1409,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219nf7l0e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ak0219nfpsmu",
+        "location": "http://maps.google.com/maps?q=55.2983,-156.8104",
+        "name": "M 4.2 - 149 km SE of Chignik, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219nfpsmu"
       },
       {
         "category": [
@@ -1489,24 +1525,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak0219nfpsmu",
-        "location": "http://maps.google.com/maps?q=55.2983,-156.8104",
-        "name": "M 4.2 - south of Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219nfpsmu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f03t",
         "location": "http://maps.google.com/maps?q=55.3532,-157.192",
         "name": "M 4.3 - 129 km SE of Chignik, Alaska",
@@ -1597,6 +1615,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f0if",
+        "location": "http://maps.google.com/maps?q=10.4519,-86.1109",
+        "name": "M 4.3 - 51 km W of Sardinal, Costa Rica",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0if"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f0fs",
         "location": "http://maps.google.com/maps?q=29.6552,50.6502",
         "name": "M 4.4 - 15 km ENE of Bandar-e Genāveh, Iran",
@@ -1671,7 +1707,7 @@
         ],
         "eid": "us6000f03p",
         "location": "http://maps.google.com/maps?q=55.1085,-158.5512",
-        "name": "M 4.4 - Alaska Peninsula",
+        "name": "M 4.4 - 96 km SSE of Perryville, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -2093,24 +2129,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f05w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f02b",
-        "location": "http://maps.google.com/maps?q=-53.9185,158.6965",
-        "name": "M 5.4 - Macquarie Island region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f02b"
       },
       {
         "category": [
@@ -4891,11 +4909,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "29/Jul/2021 @ 22:01:12 PDT",
+    "last_update": "29/Jul/2021 @ 23:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=10.4519,-86.1109\"><b>M 4.3 - 51 km W of Sardinal, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0if\">USGS</a>",
+          10.4519,
+          -86.1109
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-26.3422,28.2268\"><b>M 4.2 - 13 km SE of Alberton, South Africa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0i0\">USGS</a>",
+          -26.3422,
+          28.2268
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=10.3635,-86.224\"><b>M 4.7 - 65 km WSW of Sardinal, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0hw\">USGS</a>",
           10.3635,
@@ -5097,7 +5125,7 @@
           -156.0454
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=55.2983,-156.8104\"><b>M 4.2 - south of Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219nfpsmu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=55.2983,-156.8104\"><b>M 4.2 - 149 km SE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219nfpsmu\">USGS</a>",
           55.2983,
           -156.8104
         ],
@@ -5132,7 +5160,7 @@
           -157.192
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=55.1085,-158.5512\"><b>M 4.4 - Alaska Peninsula</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f03p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=55.1085,-158.5512\"><b>M 4.4 - 96 km SSE of Perryville, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f03p\">USGS</a>",
           55.1085,
           -158.5512
         ],
@@ -5175,11 +5203,6 @@
           "<a href=\"http://maps.google.com/maps?q=55.3248,-157.8414\"><b>M 8.2 - 104 km SE of Perryville, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219neiszm\">USGS</a>",
           55.3248,
           -157.8414
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-53.9185,158.6965\"><b>M 5.4 - Macquarie Island region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f02b\">USGS</a>",
-          -53.9185,
-          158.6965
         ]
       ],
       "Floods": [],
@@ -7487,12 +7510,12 @@
         ]
       ]
     },
-    "title": "260 events (29/Jul/2021 PDT)"
+    "title": "261 events (29/Jul/2021 PDT)"
   },
-  "last_update": "29/Jul/2021 @ 22:02:03 PDT",
+  "last_update": "29/Jul/2021 @ 23:02:06 PDT",
   "neo": {
     "date": "30/Jul/2021 PDT",
-    "last_update": "29/Jul/2021 @ 22:01:13 PDT",
+    "last_update": "29/Jul/2021 @ 23:01:14 PDT",
     "objects": [
       {
         "cat": "30/Jul/2021 @ 13:37:00 ",
@@ -7727,7 +7750,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Jul/2021 @ 22:01:13 PDT",
+    "last_update": "29/Jul/2021 @ 23:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -9267,7 +9290,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Jul/2021 @ 22:01:20 PDT",
+    "last_update": "29/Jul/2021 @ 23:01:20 PDT",
     "launches": {
       "future": [
         {
