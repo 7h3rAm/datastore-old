@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Jul/2021 @ 05:00:46 PDT",
+    "last_update": "31/Jul/2021 @ 06:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg",
     "title": "Remembering NEOWISE (31/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1411,6 +1411,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0xu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f0z3",
+        "location": "http://maps.google.com/maps?q=-32.6762,-71.7663",
+        "name": "M 5.1 - 41 km NNW of Valparaíso, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0z3"
       },
       {
         "category": [
@@ -4009,11 +4027,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "31/Jul/2021 @ 05:01:15 PDT",
+    "last_update": "31/Jul/2021 @ 06:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-32.6762,-71.7663\"><b>M 5.1 - 41 km NNW of Valparaíso, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0z3\">USGS</a>",
+          -32.6762,
+          -71.7663
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-15.3142,166.4125\"><b>M 5.0 - 77 km WSW of Port-Olry, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0xu\">USGS</a>",
           -15.3142,
@@ -6205,12 +6228,12 @@
         ]
       ]
     },
-    "title": "213 events (31/Jul/2021 PDT)"
+    "title": "214 events (31/Jul/2021 PDT)"
   },
-  "last_update": "31/Jul/2021 @ 05:02:05 PDT",
+  "last_update": "31/Jul/2021 @ 06:01:56 PDT",
   "neo": {
     "date": "31/Jul/2021 PDT",
-    "last_update": "31/Jul/2021 @ 05:01:16 PDT",
+    "last_update": "31/Jul/2021 @ 06:01:14 PDT",
     "objects": [
       {
         "cat": "31/Jul/2021 @ 00:10:00 ",
@@ -6309,8 +6332,8 @@
     "date": "31/Jul/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 29/Jul/2021 @ 14:52:54 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/29/jpg/epic_1b_20210729215743.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 30/Jul/2021 @ 14:06:06 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/07/30/jpg/epic_1b_20210730211055.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -6373,7 +6396,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jul/2021 @ 05:01:17 PDT",
+    "last_update": "31/Jul/2021 @ 06:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7913,7 +7936,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Jul/2021 @ 05:01:23 PDT",
+    "last_update": "31/Jul/2021 @ 06:01:19 PDT",
     "launches": {
       "future": [
         {
