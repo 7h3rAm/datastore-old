@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Jul/2021 @ 14:00:47 PDT",
+    "last_update": "31/Jul/2021 @ 15:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg",
     "title": "Remembering NEOWISE (31/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1203,24 +1203,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f0t9",
-        "location": "http://maps.google.com/maps?q=29.7169,50.5225",
-        "name": "M 4.2 - 15 km N of Bandar-e Genāveh, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0t9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "ak0219qv3rpn",
         "location": "http://maps.google.com/maps?q=55.7109,-155.9788",
         "name": "M 4.3 - 164 km ESE of Chignik, Alaska",
@@ -1239,16 +1221,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f0vx",
-        "location": "http://maps.google.com/maps?q=-5.0771,-80.8106",
-        "name": "M 4.3 - 19 km SSW of Nuevo Sullana, Peru",
+        "eid": "us6000f0zl",
+        "location": "http://maps.google.com/maps?q=-16.9192,-69.6772",
+        "name": "M 4.3 - 20 km SSE of Mazo Cruz, Peru",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vx"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zl"
       },
       {
         "category": [
@@ -1275,16 +1257,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f0zl",
-        "location": "http://maps.google.com/maps?q=-16.9192,-69.6772",
-        "name": "M 4.3 - Peru-Bolivia border region",
+        "eid": "us6000f0vx",
+        "location": "http://maps.google.com/maps?q=-5.0771,-80.8106",
+        "name": "M 4.3 - near the coast of northern Peru",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zl"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f11c",
+        "location": "http://maps.google.com/maps?q=29.3472,69.6448",
+        "name": "M 4.4 - 58 km NE of Dera Bugti, Pakistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f11c"
       },
       {
         "category": [
@@ -1365,6 +1365,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f11n",
+        "location": "http://maps.google.com/maps?q=36.4269,27.0587",
+        "name": "M 4.7 - 21 km SSW of Mandráki, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f11n"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f0vt",
         "location": "http://maps.google.com/maps?q=33.8519,134.5798",
         "name": "M 4.7 - 9 km SW of Anan, Japan",
@@ -1375,24 +1393,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f0ta",
-        "location": "http://maps.google.com/maps?q=29.6398,142.4432",
-        "name": "M 4.7 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0ta"
       },
       {
         "category": [
@@ -1491,6 +1491,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f128",
+        "location": "http://maps.google.com/maps?q=30.4142,-109.2058",
+        "name": "M 5.2 - 26 km WSW of Bavispe, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f128"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f0ub",
         "location": "http://maps.google.com/maps?q=-26.8082,-114.2742",
         "name": "M 5.3 - Easter Island region",
@@ -1511,7 +1529,7 @@
         ],
         "eid": "us6000f0u9",
         "location": "http://maps.google.com/maps?q=-16.7372,-173.67",
-        "name": "M 5.4 - Tonga",
+        "name": "M 5.4 - 87 km S of Hihifo, Tonga",
         "source": [
           {
             "sid": "USGS",
@@ -4117,11 +4135,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "31/Jul/2021 @ 14:01:17 PDT",
+    "last_update": "31/Jul/2021 @ 15:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.4142,-109.2058\"><b>M 5.2 - 26 km WSW of Bavispe, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f128\">USGS</a>",
+          30.4142,
+          -109.2058
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.4269,27.0587\"><b>M 4.7 - 21 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f11n\">USGS</a>",
+          36.4269,
+          27.0587
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.3472,69.6448\"><b>M 4.4 - 58 km NE of Dera Bugti, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f11c\">USGS</a>",
+          29.3472,
+          69.6448
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=56.0794,-156.3242\"><b>M 4.0 - 131 km ESE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qwo9g1\">USGS</a>",
           56.0794,
@@ -4153,7 +4186,7 @@
           177.7542
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-16.9192,-69.6772\"><b>M 4.3 - Peru-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zl\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-16.9192,-69.6772\"><b>M 4.3 - 20 km SSE of Mazo Cruz, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zl\">USGS</a>",
           -16.9192,
           -69.6772
         ],
@@ -4173,7 +4206,7 @@
           141.6382
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.0771,-80.8106\"><b>M 4.3 - 19 km SSW of Nuevo Sullana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vx\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.0771,-80.8106\"><b>M 4.3 - near the coast of northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vx\">USGS</a>",
           -5.0771,
           -80.8106
         ],
@@ -4213,7 +4246,7 @@
           -114.2742
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-16.7372,-173.67\"><b>M 5.4 - Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0u9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-16.7372,-173.67\"><b>M 5.4 - 87 km S of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0u9\">USGS</a>",
           -16.7372,
           -173.67
         ],
@@ -4221,16 +4254,6 @@
           "<a href=\"http://maps.google.com/maps?q=55.5679,-154.2909\"><b>M 4.7 - 153 km S of Akhiok, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219pbk71d\">USGS</a>",
           55.5679,
           -154.2909
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.6398,142.4432\"><b>M 4.7 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0ta\">USGS</a>",
-          29.6398,
-          142.4432
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.7169,50.5225\"><b>M 4.2 - 15 km N of Bandar-e Genāveh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0t9\">USGS</a>",
-          29.7169,
-          50.5225
         ]
       ],
       "Floods": [],
@@ -6723,12 +6746,12 @@
         ]
       ]
     },
-    "title": "219 events (31/Jul/2021 PDT)"
+    "title": "220 events (31/Jul/2021 PDT)"
   },
-  "last_update": "31/Jul/2021 @ 14:02:00 PDT",
+  "last_update": "31/Jul/2021 @ 15:02:00 PDT",
   "neo": {
     "date": "31/Jul/2021 PDT",
-    "last_update": "31/Jul/2021 @ 14:01:18 PDT",
+    "last_update": "31/Jul/2021 @ 15:01:15 PDT",
     "objects": [
       {
         "cat": "31/Jul/2021 @ 00:10:00 ",
@@ -6900,7 +6923,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jul/2021 @ 14:01:18 PDT",
+    "last_update": "31/Jul/2021 @ 15:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8440,7 +8463,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Jul/2021 @ 14:01:24 PDT",
+    "last_update": "31/Jul/2021 @ 15:01:21 PDT",
     "launches": {
       "future": [
         {
