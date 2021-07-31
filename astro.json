@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Jul/2021 @ 09:00:45 PDT",
+    "last_update": "31/Jul/2021 @ 10:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg",
     "title": "Remembering NEOWISE (31/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1149,6 +1149,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f104",
+        "location": "http://maps.google.com/maps?q=-20.3476,-69.1281",
+        "name": "M 4.0 - 107 km E of Iquique, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f104"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ak0219qnv9sd",
+        "location": "http://maps.google.com/maps?q=55.2334,-157.3266",
+        "name": "M 4.0 - 136 km SSE of Chignik, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qnv9sd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f106",
         "location": "http://maps.google.com/maps?q=55.1271,-157.1319",
         "name": "M 4.1 - 152 km SSE of Chignik, Alaska",
@@ -1167,24 +1203,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak0219qnv9sd",
-        "location": "http://maps.google.com/maps?q=55.2525,-157.3435",
-        "name": "M 4.2 - 133 km SSE of Chignik, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qnv9sd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f0t9",
         "location": "http://maps.google.com/maps?q=29.7169,50.5225",
         "name": "M 4.2 - 15 km N of Bandar-e Genāveh, Iran",
@@ -1195,6 +1213,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0t9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ak0219qv3rpn",
+        "location": "http://maps.google.com/maps?q=55.7109,-155.9788",
+        "name": "M 4.3 - 164 km ESE of Chignik, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qv3rpn"
       },
       {
         "category": [
@@ -1239,16 +1275,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak0219qv3rpn",
-        "location": "http://maps.google.com/maps?q=56.3412,-155.8386",
-        "name": "M 4.5 - 122 km SW of Akhiok, Alaska",
+        "eid": "us6000f0zs",
+        "location": "http://maps.google.com/maps?q=-24.0854,-66.92",
+        "name": "M 4.5 - 62 km WNW of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qv3rpn"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zs"
       },
       {
         "category": [
@@ -4135,15 +4171,15 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "31/Jul/2021 @ 09:01:15 PDT",
+    "last_update": "31/Jul/2021 @ 10:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=56.3412,-155.8386\"><b>M 4.5 - 122 km SW of Akhiok, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qv3rpn\">USGS</a>",
-          56.3412,
-          -155.8386
+          "<a href=\"http://maps.google.com/maps?q=55.7109,-155.9788\"><b>M 4.3 - 164 km ESE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qv3rpn\">USGS</a>",
+          55.7109,
+          -155.9788
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=27.6146,-111.5085\"><b>M 5.5 - 59 km SW of San Carlos, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f109\">USGS</a>",
@@ -4154,6 +4190,16 @@
           "<a href=\"http://maps.google.com/maps?q=55.1271,-157.1319\"><b>M 4.1 - 152 km SSE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f106\">USGS</a>",
           55.1271,
           -157.1319
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.3476,-69.1281\"><b>M 4.0 - 107 km E of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f104\">USGS</a>",
+          -20.3476,
+          -69.1281
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.0854,-66.92\"><b>M 4.5 - 62 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zs\">USGS</a>",
+          -24.0854,
+          -66.92
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=51.4166,177.7542\"><b>M 4.5 - Rat Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0zr\">USGS</a>",
@@ -4186,9 +4232,9 @@
           134.5798
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=55.2525,-157.3435\"><b>M 4.2 - 133 km SSE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qnv9sd\">USGS</a>",
-          55.2525,
-          -157.3435
+          "<a href=\"http://maps.google.com/maps?q=55.2334,-157.3266\"><b>M 4.0 - 136 km SSE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0219qnv9sd\">USGS</a>",
+          55.2334,
+          -157.3266
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.3056,1.6767\"><b>M 4.3 - 4 km NNW of El Abadia, Algeria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vh\">USGS</a>",
@@ -6746,12 +6792,12 @@
         ]
       ]
     },
-    "title": "220 events (31/Jul/2021 PDT)"
+    "title": "222 events (31/Jul/2021 PDT)"
   },
-  "last_update": "31/Jul/2021 @ 09:02:04 PDT",
+  "last_update": "31/Jul/2021 @ 10:01:58 PDT",
   "neo": {
     "date": "31/Jul/2021 PDT",
-    "last_update": "31/Jul/2021 @ 09:01:16 PDT",
+    "last_update": "31/Jul/2021 @ 10:01:14 PDT",
     "objects": [
       {
         "cat": "31/Jul/2021 @ 00:10:00 ",
@@ -6923,7 +6969,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jul/2021 @ 09:01:16 PDT",
+    "last_update": "31/Jul/2021 @ 10:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8463,7 +8509,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Jul/2021 @ 09:01:22 PDT",
+    "last_update": "31/Jul/2021 @ 10:01:20 PDT",
     "launches": {
       "future": [
         {
@@ -19557,12 +19603,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "90,435,723.94 miles",
+      "earth_distance": "96,878,262.48 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "220,223,041.84 miles",
+      "mars_distance": "222,426,241.18 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,299.55 mph",
+      "speed": "5,352.57 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
