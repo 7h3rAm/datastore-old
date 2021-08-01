@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Aug/2021 @ 10:00:50 PDT",
+    "last_update": "01/Aug/2021 @ 11:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PlutoEnhancedHiRes_NewHorizons_960.jpg",
     "title": "Pluto in Enhanced Color (01/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1479,6 +1479,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f172"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f1a2",
+        "location": "http://maps.google.com/maps?q=-6.3237,147.0583",
+        "name": "M 4.6 - 44 km N of Lae, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1a2"
       },
       {
         "category": [
@@ -4343,11 +4361,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "01/Aug/2021 @ 10:01:18 PDT",
+    "last_update": "01/Aug/2021 @ 11:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.3237,147.0583\"><b>M 4.6 - 44 km N of Lae, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1a2\">USGS</a>",
+          -6.3237,
+          147.0583
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=55.467,-158.6828\"><b>M 4.6 - 57 km SSE of Perryville, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f19u\">USGS</a>",
           55.467,
@@ -6993,12 +7016,12 @@
         ]
       ]
     },
-    "title": "232 events (01/Aug/2021 PDT)"
+    "title": "233 events (01/Aug/2021 PDT)"
   },
-  "last_update": "01/Aug/2021 @ 10:02:07 PDT",
+  "last_update": "01/Aug/2021 @ 11:02:03 PDT",
   "neo": {
     "date": "01/Aug/2021 PDT",
-    "last_update": "01/Aug/2021 @ 10:01:19 PDT",
+    "last_update": "01/Aug/2021 @ 11:01:16 PDT",
     "objects": [
       {
         "cat": "01/Aug/2021 @ 01:25:00 ",
@@ -7197,7 +7220,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Aug/2021 @ 10:01:19 PDT",
+    "last_update": "01/Aug/2021 @ 11:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8737,7 +8760,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Aug/2021 @ 10:01:26 PDT",
+    "last_update": "01/Aug/2021 @ 11:01:22 PDT",
     "launches": {
       "future": [
         {
