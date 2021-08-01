@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Jul/2021 @ 18:00:43 PDT",
+    "last_update": "31/Jul/2021 @ 19:00:42 PDT",
     "source": "https://apod.nasa.gov/apod/image/2107/2020_07_23_NEOWISE_Klondik_Combine1_Samostatne_1100px.jpg",
     "title": "Remembering NEOWISE (31/Jul/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1365,24 +1365,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f0vd",
-        "location": "http://maps.google.com/maps?q=80.6353,121.6143",
-        "name": "M 4.5 - east of Severnaya Zemlya",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f13z",
         "location": "http://maps.google.com/maps?q=62.9564,-25.2586",
         "name": "M 4.6 - 171 km SW of Grindavík, Iceland",
@@ -1393,6 +1375,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f13z"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f141",
+        "location": "http://maps.google.com/maps?q=62.8249,-25.041",
+        "name": "M 4.7 - 172 km SW of Grindavík, Iceland",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f141"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f147",
+        "location": "http://maps.google.com/maps?q=62.8127,-25.1937",
+        "name": "M 4.7 - 179 km SW of Grindavík, Iceland",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f147"
       },
       {
         "category": [
@@ -1429,6 +1447,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f140",
+        "location": "http://maps.google.com/maps?q=62.8596,-25.0473",
+        "name": "M 4.8 - 170 km SW of Grindavík, Iceland",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f140"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f143",
+        "location": "http://maps.google.com/maps?q=14.0051,145.0634",
+        "name": "M 4.9 - 55 km NNE of Yigo Village, Guam",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f143"
       },
       {
         "category": [
@@ -4099,11 +4153,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "31/Jul/2021 @ 18:01:12 PDT",
+    "last_update": "31/Jul/2021 @ 19:01:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=62.8127,-25.1937\"><b>M 4.7 - 179 km SW of Grindavík, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f147\">USGS</a>",
+          62.8127,
+          -25.1937
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.0051,145.0634\"><b>M 4.9 - 55 km NNE of Yigo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f143\">USGS</a>",
+          14.0051,
+          145.0634
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=62.8249,-25.041\"><b>M 4.7 - 172 km SW of Grindavík, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f141\">USGS</a>",
+          62.8249,
+          -25.041
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=62.8596,-25.0473\"><b>M 4.8 - 170 km SW of Grindavík, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f140\">USGS</a>",
+          62.8596,
+          -25.0473
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=62.9564,-25.2586\"><b>M 4.6 - 171 km SW of Grindavík, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f13z\">USGS</a>",
           62.9564,
@@ -4203,11 +4277,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.3056,1.6767\"><b>M 4.3 - 4 km NNW of El Abadia, Algeria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vh\">USGS</a>",
           36.3056,
           1.6767
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=80.6353,121.6143\"><b>M 4.5 - east of Severnaya Zemlya</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f0vd\">USGS</a>",
-          80.6353,
-          121.6143
         ]
       ],
       "Floods": [],
@@ -6700,12 +6769,12 @@
         ]
       ]
     },
-    "title": "218 events (31/Jul/2021 PDT)"
+    "title": "221 events (31/Jul/2021 PDT)"
   },
-  "last_update": "31/Jul/2021 @ 18:01:54 PDT",
+  "last_update": "31/Jul/2021 @ 19:01:13 PDT",
   "neo": {
     "date": "01/Aug/2021 PDT",
-    "last_update": "31/Jul/2021 @ 18:01:13 PDT",
+    "last_update": "31/Jul/2021 @ 19:01:12 PDT",
     "objects": [
       {
         "cat": "01/Aug/2021 @ 01:25:00 ",
@@ -6904,7 +6973,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jul/2021 @ 18:01:13 PDT",
+    "last_update": "31/Jul/2021 @ 19:01:13 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
