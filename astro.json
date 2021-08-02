@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Aug/2021 @ 06:00:45 PDT",
+    "last_update": "02/Aug/2021 @ 07:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html",
     "title": "The Hubble Ultra Deep Field in Light and Sound (02/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1225,24 +1225,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f18t",
-        "location": "http://maps.google.com/maps?q=34.45,139.7333",
-        "name": "M 4.3 - 60 km SSW of Tateyama, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "ak0219sikao3",
         "location": "http://maps.google.com/maps?q=55.3348,-158.4729",
         "name": "M 4.3 - 76 km SSE of Perryville, Alaska",
@@ -1387,27 +1369,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f18f",
-        "location": "http://maps.google.com/maps?q=62.8281,-25.2465",
-        "name": "M 4.7 - 180 km SW of Grindavík, Iceland",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18f"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f1bs",
         "location": "http://maps.google.com/maps?q=-8.2999,-74.2782",
-        "name": "M 4.8 - central Peru",
+        "name": "M 4.8 - 30 km ENE of San Fernando, Peru",
         "source": [
           {
             "sid": "USGS",
@@ -1415,24 +1379,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1bs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f18d",
-        "location": "http://maps.google.com/maps?q=-38.3532,175.8296",
-        "name": "M 5.0 - 13 km SSW of Tokoroa, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18d"
       },
       {
         "category": [
@@ -4045,7 +3991,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "02/Aug/2021 @ 06:01:14 PDT",
+    "last_update": "02/Aug/2021 @ 07:01:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4091,7 +4037,7 @@
           16.2999
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.2999,-74.2782\"><b>M 4.8 - central Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1bs\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.2999,-74.2782\"><b>M 4.8 - 30 km ENE of San Fernando, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1bs\">USGS</a>",
           -8.2999,
           -74.2782
         ],
@@ -4134,21 +4080,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.1068,-173.394\"><b>M 4.6 - 103 km NNE of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f19p\">USGS</a>",
           -15.1068,
           -173.394
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.45,139.7333\"><b>M 4.3 - 60 km SSW of Tateyama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18t\">USGS</a>",
-          34.45,
-          139.7333
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.3532,175.8296\"><b>M 5.0 - 13 km SSW of Tokoroa, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18d\">USGS</a>",
-          -38.3532,
-          175.8296
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=62.8281,-25.2465\"><b>M 4.7 - 180 km SW of Grindavík, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f18f\">USGS</a>",
-          62.8281,
-          -25.2465
         ]
       ],
       "Floods": [],
@@ -6660,12 +6591,12 @@
         ]
       ]
     },
-    "title": "215 events (02/Aug/2021 PDT)"
+    "title": "212 events (02/Aug/2021 PDT)"
   },
-  "last_update": "02/Aug/2021 @ 06:02:01 PDT",
+  "last_update": "02/Aug/2021 @ 07:02:01 PDT",
   "neo": {
     "date": "02/Aug/2021 PDT",
-    "last_update": "02/Aug/2021 @ 06:01:15 PDT",
+    "last_update": "02/Aug/2021 @ 07:01:15 PDT",
     "objects": [
       {
         "cat": "02/Aug/2021 @ 14:54:00 ",
@@ -6749,13 +6680,13 @@
         "velocity": "21,839.15 mph"
       },
       {
-        "cat": "02/Aug/2021 @ 12:53:00 ",
+        "cat": "02/Aug/2021 @ 12:56:00 ",
         "diameter": "0.04-0.09 miles",
-        "distance": "3,320,345.08 miles",
+        "distance": "3,319,211.21 miles",
         "hazardous": false,
         "name": "Asteroid (2021 OZ)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54174525",
-        "velocity": "20,171.25 mph"
+        "velocity": "20,171.86 mph"
       }
     ],
     "title": "10 objects making close approach (02/Aug/2021 PDT)"
@@ -6828,7 +6759,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Aug/2021 @ 06:01:15 PDT",
+    "last_update": "02/Aug/2021 @ 07:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8368,7 +8299,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Aug/2021 @ 06:01:21 PDT",
+    "last_update": "02/Aug/2021 @ 07:01:21 PDT",
     "launches": {
       "future": [
         {
