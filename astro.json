@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Aug/2021 @ 05:00:51 PDT",
+    "last_update": "03/Aug/2021 @ 06:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PerseusFireball_Dandan_960.jpg",
     "title": "A Perseid Fireball and the Milky Way (03/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -610,7 +610,7 @@
           }
         ],
         "eid": "EONET_5741",
-        "location": "https://www.google.com/maps/dir/11.9,-113/12.9,-114/13.2,-115.2/13.6,-116.2/14,-117.4/14.2,-118.3/14.4,-119/14.5,-119.8/14.7,-120.4/14.9,-121.1/15.2,-121.9/@11.9,-113,3z",
+        "location": "https://www.google.com/maps/dir/11.9,-113/12.9,-114/13.2,-115.2/13.6,-116.2/14,-117.4/14.2,-118.3/14.4,-119/14.5,-119.8/14.7,-120.4/14.9,-121.1/15.2,-121.9/15.3,-122.2/15.6,-122.6/@11.9,-113,3z",
         "name": "Hurricane Hilda",
         "source": [
           {
@@ -1151,7 +1151,7 @@
         ],
         "eid": "us6000f1pz",
         "location": "http://maps.google.com/maps?q=36.2796,26.9729",
-        "name": "M 4.2 - 39 km SSW of Mandráki, Greece",
+        "name": "M 4.2 - Dodecanese Islands, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -1545,6 +1545,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f1u4",
+        "location": "http://maps.google.com/maps?q=36.357,27.0363",
+        "name": "M 5.2 - 29 km SSW of Mandráki, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1u4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f1r3",
         "location": "http://maps.google.com/maps?q=8.8853,94.093",
         "name": "M 5.3 - Nicobar Islands, India region",
@@ -1591,6 +1609,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1td"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f1tx",
+        "location": "http://maps.google.com/maps?q=-1.5033,148.1225",
+        "name": "M 5.5 - 111 km ENE of Lorengau, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1tx"
       },
       {
         "category": [
@@ -4261,11 +4297,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "03/Aug/2021 @ 05:01:19 PDT",
+    "last_update": "03/Aug/2021 @ 06:01:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.357,27.0363\"><b>M 5.2 - 29 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1u4\">USGS</a>",
+          36.357,
+          27.0363
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-1.5033,148.1225\"><b>M 5.5 - 111 km ENE of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1tx\">USGS</a>",
+          -1.5033,
+          148.1225
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.2439,141.9397\"><b>M 4.3 - 114 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1tr\">USGS</a>",
           36.2439,
@@ -4347,7 +4393,7 @@
           94.1388
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.2796,26.9729\"><b>M 4.2 - 39 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1pz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.2796,26.9729\"><b>M 4.2 - Dodecanese Islands, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1pz\">USGS</a>",
           36.2796,
           26.9729
         ],
@@ -5942,6 +5988,16 @@
           "<a href=\"http://maps.google.com/maps?q=15.2,-121.9\"><b>Hurricane Hilda</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000803&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0821.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/HILDA.shtml\">NOAA_NHC</a>",
           15.2,
           -121.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.3,-122.2\"><b>Hurricane Hilda</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000803&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0821.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/HILDA.shtml\">NOAA_NHC</a>",
+          15.3,
+          -122.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.6,-122.6\"><b>Hurricane Hilda</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000803&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0821.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/HILDA.shtml\">NOAA_NHC</a>",
+          15.6,
+          -122.6
         ]
       ],
       "Snow": [],
@@ -6841,12 +6897,12 @@
         ]
       ]
     },
-    "title": "227 events (03/Aug/2021 PDT)"
+    "title": "229 events (03/Aug/2021 PDT)"
   },
-  "last_update": "03/Aug/2021 @ 05:02:12 PDT",
+  "last_update": "03/Aug/2021 @ 06:02:00 PDT",
   "neo": {
     "date": "03/Aug/2021 PDT",
-    "last_update": "03/Aug/2021 @ 05:01:19 PDT",
+    "last_update": "03/Aug/2021 @ 06:01:17 PDT",
     "objects": [
       {
         "cat": "03/Aug/2021 @ 10:44:00 ",
@@ -7045,7 +7101,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Aug/2021 @ 05:01:20 PDT",
+    "last_update": "03/Aug/2021 @ 06:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8585,7 +8641,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Aug/2021 @ 05:01:26 PDT",
+    "last_update": "03/Aug/2021 @ 06:01:22 PDT",
     "launches": {
       "future": [
         {
