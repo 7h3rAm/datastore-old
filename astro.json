@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Aug/2021 @ 14:00:51 PDT",
+    "last_update": "03/Aug/2021 @ 15:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PerseusFireball_Dandan_960.jpg",
     "title": "A Perseid Fireball and the Milky Way (03/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1127,7 +1127,7 @@
         ],
         "eid": "us6000f1wu",
         "location": "http://maps.google.com/maps?q=-24.2011,-67.281",
-        "name": "M 4.2 - 97 km W of San Antonio de los Cobres, Argentina",
+        "name": "M 4.2 - Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -1179,34 +1179,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1ms",
-        "location": "http://maps.google.com/maps?q=36.3842,141.7574",
-        "name": "M 4.4 - 100 km ESE of Takahagi, Japan",
+        "eid": "us6000f1rz",
+        "location": "http://maps.google.com/maps?q=36.3628,141.8203",
+        "name": "M 4.5 - 106 km ESE of Takahagi, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ms"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f1mm",
-        "location": "http://maps.google.com/maps?q=32.2494,60.6534",
-        "name": "M 4.5 - 109 km WSW of Anār Darah, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1mm"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz"
       },
       {
         "category": [
@@ -1269,24 +1251,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1rz",
-        "location": "http://maps.google.com/maps?q=36.3628,141.8203",
-        "name": "M 4.5 - near the east coast of Honshu, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f1sh",
         "location": "http://maps.google.com/maps?q=36.194,141.9307",
         "name": "M 4.6 - 111 km ENE of Hasaki, Japan",
@@ -1315,6 +1279,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ph"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f1yr",
+        "location": "http://maps.google.com/maps?q=36.3742,26.9835",
+        "name": "M 4.6 - 29 km SSW of Mandráki, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1yr"
       },
       {
         "category": [
@@ -4313,7 +4295,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "03/Aug/2021 @ 14:01:21 PDT",
+    "last_update": "03/Aug/2021 @ 15:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4329,6 +4311,11 @@
           142.0887
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=36.3742,26.9835\"><b>M 4.6 - 29 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1yr\">USGS</a>",
+          36.3742,
+          26.9835
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-9.262,119.2362\"><b>M 4.8 - 79 km SSW of Komodo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1yp\">USGS</a>",
           -9.262,
           119.2362
@@ -4339,7 +4326,7 @@
           -70.8055
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - 97 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
           -24.2011,
           -67.281
         ],
@@ -4409,7 +4396,7 @@
           18.426
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.3628,141.8203\"><b>M 4.5 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.3628,141.8203\"><b>M 4.5 - 106 km ESE of Takahagi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz\">USGS</a>",
           36.3628,
           141.8203
         ],
@@ -4472,16 +4459,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.2397,73.184\"><b>M 4.6 - 68 km W of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1nq\">USGS</a>",
           38.2397,
           73.184
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=32.2494,60.6534\"><b>M 4.5 - 109 km WSW of Anār Darah, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1mm\">USGS</a>",
-          32.2494,
-          60.6534
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.3842,141.7574\"><b>M 4.4 - 100 km ESE of Takahagi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ms\">USGS</a>",
-          36.3842,
-          141.7574
         ]
       ],
       "Floods": [],
@@ -6938,12 +6915,12 @@
         ]
       ]
     },
-    "title": "229 events (03/Aug/2021 PDT)"
+    "title": "228 events (03/Aug/2021 PDT)"
   },
-  "last_update": "03/Aug/2021 @ 14:02:11 PDT",
+  "last_update": "03/Aug/2021 @ 15:01:55 PDT",
   "neo": {
     "date": "03/Aug/2021 PDT",
-    "last_update": "03/Aug/2021 @ 14:01:22 PDT",
+    "last_update": "03/Aug/2021 @ 15:01:14 PDT",
     "objects": [
       {
         "cat": "03/Aug/2021 @ 10:44:00 ",
@@ -7142,7 +7119,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Aug/2021 @ 14:01:22 PDT",
+    "last_update": "03/Aug/2021 @ 15:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8682,7 +8659,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Aug/2021 @ 14:01:29 PDT",
+    "last_update": "03/Aug/2021 @ 15:01:19 PDT",
     "launches": {
       "future": [
         {
