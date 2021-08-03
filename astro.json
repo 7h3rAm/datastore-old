@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Aug/2021 @ 20:00:47 PDT",
+    "last_update": "02/Aug/2021 @ 21:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html",
     "title": "The Hubble Ultra Deep Field in Light and Sound (02/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -463,24 +463,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5554"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5515",
-        "location": "https://www.google.com/maps/dir/56.787,-125.710833/@56.787,-125.710833,3z",
-        "name": "Forres Mountain Fire, British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=833"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5515"
       },
       {
         "category": [
@@ -1473,24 +1455,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1d5",
-        "location": "http://maps.google.com/maps?q=-47.0876,-11.1533",
-        "name": "M 5.1 - southern Mid-Atlantic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1d5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f1ny",
         "location": "http://maps.google.com/maps?q=-3.2013,100.3572",
         "name": "M 5.2 - 171 km SW of Sungai Penuh, Indonesia",
@@ -1509,6 +1473,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f1r3",
+        "location": "http://maps.google.com/maps?q=8.8853,94.093",
+        "name": "M 5.3 - Nicobar Islands, India region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1r3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f1qs",
         "location": "http://maps.google.com/maps?q=9.0084,94.1037",
         "name": "M 5.3 - Nicobar Islands, India region",
@@ -1519,24 +1501,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1qs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f1d3",
-        "location": "http://maps.google.com/maps?q=44.1322,148.2984",
-        "name": "M 5.4 - 126 km SSE of Kuril’sk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1d3"
       },
       {
         "category": [
@@ -3099,24 +3063,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5510",
-        "location": "https://www.google.com/maps/dir/52.1158,-100.5422/@52.1158,-100.5422,3z",
-        "name": "Wildfire MB-WE022, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5510"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5537",
         "location": "https://www.google.com/maps/dir/53.9006,-99.9169/@53.9006,-99.9169,3z",
         "name": "Wildfire MB-WE024, Manitoba, Canada",
@@ -4229,11 +4175,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "02/Aug/2021 @ 20:01:16 PDT",
+    "last_update": "02/Aug/2021 @ 21:01:17 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=8.8853,94.093\"><b>M 5.3 - Nicobar Islands, India region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1r3\">USGS</a>",
+          8.8853,
+          94.093
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=9.0084,94.1037\"><b>M 5.3 - Nicobar Islands, India region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1qs\">USGS</a>",
           9.0084,
@@ -4348,16 +4299,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.9982,179.7277\"><b>M 4.3 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1e1\">USGS</a>",
           -24.9982,
           179.7277
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.1322,148.2984\"><b>M 5.4 - 126 km SSE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1d3\">USGS</a>",
-          44.1322,
-          148.2984
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-47.0876,-11.1533\"><b>M 5.1 - southern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1d5\">USGS</a>",
-          -47.0876,
-          -11.1533
         ]
       ],
       "Floods": [],
@@ -6881,25 +6822,15 @@
           "<a href=\"http://maps.google.com/maps?q=38.628,-119.857\"><b>Tamarack Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7674/\">InciWeb</a>",
           38.628,
           -119.857
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.1158,-100.5422\"><b>Wildfire MB-WE022, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          52.1158,
-          -100.5422
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.787,-125.710833\"><b>Forres Mountain Fire, British Columbia, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=833\">BCWILDFIRE</a>",
-          56.787,
-          -125.710833
         ]
       ]
     },
-    "title": "225 events (02/Aug/2021 PDT)"
+    "title": "222 events (02/Aug/2021 PDT)"
   },
-  "last_update": "02/Aug/2021 @ 20:02:03 PDT",
+  "last_update": "02/Aug/2021 @ 21:02:01 PDT",
   "neo": {
     "date": "03/Aug/2021 PDT",
-    "last_update": "02/Aug/2021 @ 20:01:17 PDT",
+    "last_update": "02/Aug/2021 @ 21:01:18 PDT",
     "objects": [
       {
         "cat": "03/Aug/2021 @ 10:44:00 ",
@@ -7098,7 +7029,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Aug/2021 @ 20:01:17 PDT",
+    "last_update": "02/Aug/2021 @ 21:01:18 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8638,7 +8569,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Aug/2021 @ 20:01:24 PDT",
+    "last_update": "02/Aug/2021 @ 21:01:23 PDT",
     "launches": {
       "future": [
         {
