@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Aug/2021 @ 02:00:49 PDT",
+    "last_update": "03/Aug/2021 @ 03:00:45 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PerseusFireball_Dandan_960.jpg",
     "title": "A Perseid Fireball and the Milky Way (03/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -2085,28 +2085,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5747"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🌀",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
-          }
-        ],
-        "eid": "EONET_5677",
-        "location": "https://www.google.com/maps/dir/24.7,149.4/25.2,149.7/26.2,150/27.3,150.3/28.1,150.3/28.6,149.9/31.2,150.5/31.8,150.5/32.9,150.3/34.2,148.8/34.6,146.8/35,144.8/34.5,142.8/34.9,142.5/35.8,142.3/36.4,142.1/37.6,142/39.1,141.6/40.2,140.3/40.9,138.5/@24.7,149.4,3z",
-        "name": "Tropical Storm Nepartak",
-        "source": [
-          {
-            "sid": "GDACS",
-            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC"
-          },
-          {
-            "sid": "JTWC",
-            "url": "https://www.metoc.navy.mil/jtwc/products/wp1121.tcw"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5677"
       },
       {
         "category": [
@@ -4229,7 +4207,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "03/Aug/2021 @ 02:01:18 PDT",
+    "last_update": "03/Aug/2021 @ 03:01:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -5895,106 +5873,6 @@
           "<a href=\"http://maps.google.com/maps?q=15.2,-121.9\"><b>Hurricane Hilda</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000803&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0821.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/HILDA.shtml\">NOAA_NHC</a>",
           15.2,
           -121.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=24.7,149.4\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          24.7,
-          149.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=25.2,149.7\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          25.2,
-          149.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=26.2,150\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          26.2,
-          150
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.3,150.3\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          27.3,
-          150.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.1,150.3\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          28.1,
-          150.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.6,149.9\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          28.6,
-          149.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.2,150.5\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          31.2,
-          150.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.8,150.5\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          31.8,
-          150.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=32.9,150.3\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          32.9,
-          150.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.2,148.8\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          34.2,
-          148.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.6,146.8\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          34.6,
-          146.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35,144.8\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          35,
-          144.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.5,142.8\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          34.5,
-          142.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.9,142.5\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          34.9,
-          142.5
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.8,142.3\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          35.8,
-          142.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.4,142.1\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          36.4,
-          142.1
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.6,142\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          37.6,
-          142
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=39.1,141.6\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          39.1,
-          141.6
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=40.2,140.3\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          40.2,
-          140.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=40.9,138.5\"><b>Tropical Storm Nepartak</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000802&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1121.tcw\">JTWC</a>",
-          40.9,
-          138.5
         ]
       ],
       "Snow": [],
@@ -6894,12 +6772,12 @@
         ]
       ]
     },
-    "title": "225 events (03/Aug/2021 PDT)"
+    "title": "224 events (03/Aug/2021 PDT)"
   },
-  "last_update": "03/Aug/2021 @ 02:02:04 PDT",
+  "last_update": "03/Aug/2021 @ 03:02:02 PDT",
   "neo": {
     "date": "03/Aug/2021 PDT",
-    "last_update": "03/Aug/2021 @ 02:01:19 PDT",
+    "last_update": "03/Aug/2021 @ 03:01:15 PDT",
     "objects": [
       {
         "cat": "03/Aug/2021 @ 10:44:00 ",
@@ -7098,7 +6976,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Aug/2021 @ 02:01:19 PDT",
+    "last_update": "03/Aug/2021 @ 03:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8638,7 +8516,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Aug/2021 @ 02:01:25 PDT",
+    "last_update": "03/Aug/2021 @ 03:01:20 PDT",
     "launches": {
       "future": [
         {
