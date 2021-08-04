@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Aug/2021 @ 21:00:48 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2108/PerseusFireball_Dandan_960.jpg",
-    "title": "A Perseid Fireball and the Milky Way (03/Aug/2021 PDT)",
+    "last_update": "03/Aug/2021 @ 22:00:43 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2108/CenAjets_Eht_960.jpg",
+    "title": "EHT Resolves Central Jet from Black Hole in Cen A (04/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -1125,24 +1125,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1re",
-        "location": "http://maps.google.com/maps?q=-29.5132,-72.3098",
-        "name": "M 4.1 - 105 km WNW of Coquimbo, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1re"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f210",
         "location": "http://maps.google.com/maps?q=36.2966,27.0605",
         "name": "M 4.1 - 35 km S of Mandráki, Greece",
@@ -1163,7 +1145,7 @@
         ],
         "eid": "us6000f1wu",
         "location": "http://maps.google.com/maps?q=-24.2011,-67.281",
-        "name": "M 4.2 - Chile-Argentina border region",
+        "name": "M 4.2 - 97 km W of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -1287,24 +1269,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1rz",
-        "location": "http://maps.google.com/maps?q=36.3628,141.8203",
-        "name": "M 4.5 - 106 km ESE of Takahagi, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f1wt",
         "location": "http://maps.google.com/maps?q=30.9402,49.5377",
         "name": "M 4.5 - 13 km ENE of Rāmshīr, Iran",
@@ -1323,16 +1287,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f1rk",
-        "location": "http://maps.google.com/maps?q=42.8227,140.9617",
-        "name": "M 4.5 - 24 km ENE of Niseko Town, Japan",
+        "eid": "us6000f22i",
+        "location": "http://maps.google.com/maps?q=36.2309,142.3452",
+        "name": "M 4.5 - 147 km ENE of Hasaki, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rk"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22i"
       },
       {
         "category": [
@@ -1387,6 +1351,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f20f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f1rz",
+        "location": "http://maps.google.com/maps?q=36.3628,141.8203",
+        "name": "M 4.5 - near the east coast of Honshu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz"
       },
       {
         "category": [
@@ -1675,6 +1657,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1tx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f22l",
+        "location": "http://maps.google.com/maps?q=36.138,141.9652",
+        "name": "M 5.7 - 111 km ENE of Hasaki, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22l"
       },
       {
         "category": [
@@ -4291,11 +4291,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "03/Aug/2021 @ 21:01:17 PDT",
+    "last_update": "03/Aug/2021 @ 22:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.138,141.9652\"><b>M 5.7 - 111 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22l\">USGS</a>",
+          36.138,
+          141.9652
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.2309,142.3452\"><b>M 4.5 - 147 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22i\">USGS</a>",
+          36.2309,
+          142.3452
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.2391,142.0476\"><b>M 4.9 - 123 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f21y\">USGS</a>",
           36.2391,
@@ -4377,7 +4387,7 @@
           -70.8055
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - 97 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
           -24.2011,
           -67.281
         ],
@@ -4447,19 +4457,9 @@
           18.426
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.3628,141.8203\"><b>M 4.5 - 106 km ESE of Takahagi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.3628,141.8203\"><b>M 4.5 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rz\">USGS</a>",
           36.3628,
           141.8203
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.8227,140.9617\"><b>M 4.5 - 24 km ENE of Niseko Town, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1rk\">USGS</a>",
-          42.8227,
-          140.9617
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-29.5132,-72.3098\"><b>M 4.1 - 105 km WNW of Coquimbo, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1re\">USGS</a>",
-          -29.5132,
-          -72.3098
         ]
       ],
       "Floods": [],
@@ -6913,10 +6913,10 @@
     },
     "title": "228 events (03/Aug/2021 PDT)"
   },
-  "last_update": "03/Aug/2021 @ 21:02:08 PDT",
+  "last_update": "03/Aug/2021 @ 22:01:59 PDT",
   "neo": {
     "date": "04/Aug/2021 PDT",
-    "last_update": "03/Aug/2021 @ 21:01:18 PDT",
+    "last_update": "03/Aug/2021 @ 22:01:14 PDT",
     "objects": [
       {
         "cat": "04/Aug/2021 @ 02:50:00 ",
@@ -7088,7 +7088,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Aug/2021 @ 21:01:18 PDT",
+    "last_update": "03/Aug/2021 @ 22:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8628,7 +8628,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Aug/2021 @ 21:01:25 PDT",
+    "last_update": "03/Aug/2021 @ 22:01:20 PDT",
     "launches": {
       "future": [
         {
