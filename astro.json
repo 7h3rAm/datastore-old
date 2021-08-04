@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Aug/2021 @ 08:01:04 PDT",
+    "last_update": "04/Aug/2021 @ 09:00:48 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/CenAjets_Eht_960.jpg",
     "title": "EHT Resolves Central Jet from Black Hole in Cen A (04/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1738,8 +1738,8 @@
           }
         ],
         "eid": "us6000f1z7",
-        "location": "http://maps.google.com/maps?q=36.1095,142.0887",
-        "name": "M 5.8 - 120 km ENE of Hasaki, Japan",
+        "location": "http://maps.google.com/maps?q=36.0993,142.1167",
+        "name": "M 5.8 - 122 km ENE of Hasaki, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -4511,7 +4511,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "04/Aug/2021 @ 08:01:34 PDT",
+    "last_update": "04/Aug/2021 @ 09:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4662,9 +4662,9 @@
           142.0429
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.1095,142.0887\"><b>M 5.8 - 120 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1z7\">USGS</a>",
-          36.1095,
-          142.0887
+          "<a href=\"http://maps.google.com/maps?q=36.0993,142.1167\"><b>M 5.8 - 122 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1z7\">USGS</a>",
+          36.0993,
+          142.1167
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.3742,26.9835\"><b>M 4.6 - 29 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1yr\">USGS</a>",
@@ -7238,10 +7238,10 @@
     },
     "title": "240 events (04/Aug/2021 PDT)"
   },
-  "last_update": "04/Aug/2021 @ 08:02:31 PDT",
+  "last_update": "04/Aug/2021 @ 09:02:06 PDT",
   "neo": {
     "date": "04/Aug/2021 PDT",
-    "last_update": "04/Aug/2021 @ 08:01:35 PDT",
+    "last_update": "04/Aug/2021 @ 09:01:16 PDT",
     "objects": [
       {
         "cat": "04/Aug/2021 @ 02:50:00 ",
@@ -7413,7 +7413,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Aug/2021 @ 08:01:36 PDT",
+    "last_update": "04/Aug/2021 @ 09:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8953,7 +8953,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Aug/2021 @ 08:01:44 PDT",
+    "last_update": "04/Aug/2021 @ 09:01:22 PDT",
     "launches": {
       "future": [
         {
