@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Aug/2021 @ 01:00:49 PDT",
+    "last_update": "04/Aug/2021 @ 02:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/CenAjets_Eht_960.jpg",
     "title": "EHT Resolves Central Jet from Black Hole in Cen A (04/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1163,7 +1163,7 @@
         ],
         "eid": "us6000f1wu",
         "location": "http://maps.google.com/maps?q=-24.2011,-67.281",
-        "name": "M 4.2 - Chile-Argentina border region",
+        "name": "M 4.2 - 97 km W of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -1585,24 +1585,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f23q"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f1ta",
-        "location": "http://maps.google.com/maps?q=-52.7026,18.4389",
-        "name": "M 5.0 - southwest of Africa",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ta"
       },
       {
         "category": [
@@ -4345,7 +4327,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "04/Aug/2021 @ 01:01:18 PDT",
+    "last_update": "04/Aug/2021 @ 02:01:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4481,7 +4463,7 @@
           -70.8055
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2011,-67.281\"><b>M 4.2 - 97 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1wu\">USGS</a>",
           -24.2011,
           -67.281
         ],
@@ -4524,11 +4506,6 @@
           "<a href=\"http://maps.google.com/maps?q=-25.4824,179.8055\"><b>M 5.4 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1td\">USGS</a>",
           -25.4824,
           179.8055
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-52.7026,18.4389\"><b>M 5.0 - southwest of Africa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f1ta\">USGS</a>",
-          -52.7026,
-          18.4389
         ]
       ],
       "Floods": [],
@@ -6980,12 +6957,12 @@
         ]
       ]
     },
-    "title": "231 events (04/Aug/2021 PDT)"
+    "title": "230 events (04/Aug/2021 PDT)"
   },
-  "last_update": "04/Aug/2021 @ 01:02:04 PDT",
+  "last_update": "04/Aug/2021 @ 02:02:00 PDT",
   "neo": {
     "date": "04/Aug/2021 PDT",
-    "last_update": "04/Aug/2021 @ 01:01:19 PDT",
+    "last_update": "04/Aug/2021 @ 02:01:17 PDT",
     "objects": [
       {
         "cat": "04/Aug/2021 @ 02:50:00 ",
@@ -7157,7 +7134,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Aug/2021 @ 01:01:20 PDT",
+    "last_update": "04/Aug/2021 @ 02:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8697,7 +8674,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Aug/2021 @ 01:01:26 PDT",
+    "last_update": "04/Aug/2021 @ 02:01:22 PDT",
     "launches": {
       "future": [
         {
