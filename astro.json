@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Aug/2021 @ 11:00:48 PDT",
+    "last_update": "04/Aug/2021 @ 12:00:47 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/CenAjets_Eht_960.jpg",
     "title": "EHT Resolves Central Jet from Black Hole in Cen A (04/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1653,6 +1653,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f27x",
+        "location": "http://maps.google.com/maps?q=8.8472,94.085",
+        "name": "M 5.5 - Nicobar Islands, India region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f27x"
       },
       {
         "category": [
@@ -4453,11 +4471,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "04/Aug/2021 @ 11:01:17 PDT",
+    "last_update": "04/Aug/2021 @ 12:01:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=8.8472,94.085\"><b>M 5.5 - Nicobar Islands, India region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f27x\">USGS</a>",
+          8.8472,
+          94.085
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.9399,35.716\"><b>M 4.0 - 16 km NW of Bünyan, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f260\">USGS</a>",
           38.9399,
@@ -7163,12 +7186,12 @@
         ]
       ]
     },
-    "title": "237 events (04/Aug/2021 PDT)"
+    "title": "238 events (04/Aug/2021 PDT)"
   },
-  "last_update": "04/Aug/2021 @ 11:02:13 PDT",
+  "last_update": "04/Aug/2021 @ 12:02:06 PDT",
   "neo": {
     "date": "04/Aug/2021 PDT",
-    "last_update": "04/Aug/2021 @ 11:01:18 PDT",
+    "last_update": "04/Aug/2021 @ 12:01:17 PDT",
     "objects": [
       {
         "cat": "04/Aug/2021 @ 02:50:00 ",
@@ -7340,7 +7363,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Aug/2021 @ 11:01:19 PDT",
+    "last_update": "04/Aug/2021 @ 12:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8880,7 +8903,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Aug/2021 @ 11:01:25 PDT",
+    "last_update": "04/Aug/2021 @ 12:01:22 PDT",
     "launches": {
       "future": [
         {
