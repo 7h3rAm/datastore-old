@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Aug/2021 @ 18:00:48 PDT",
+    "last_update": "04/Aug/2021 @ 19:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/CenAjets_Eht_960.jpg",
     "title": "EHT Resolves Central Jet from Black Hole in Cen A (04/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1139,24 +1139,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f21m",
-        "location": "http://maps.google.com/maps?q=36.2269,141.9485",
-        "name": "M 4.3 - 114 km ENE of Hasaki, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f21m"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f28n",
         "location": "http://maps.google.com/maps?q=-15.4022,-72.1662",
         "name": "M 4.3 - 19 km NNW of Choco, Peru",
@@ -1212,8 +1194,8 @@
           }
         ],
         "eid": "us6000f22i",
-        "location": "http://maps.google.com/maps?q=36.2309,142.3452",
-        "name": "M 4.5 - 147 km ENE of Hasaki, Japan",
+        "location": "http://maps.google.com/maps?q=36.2535,142.392",
+        "name": "M 4.6 - 151 km ENE of Hasaki, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -1445,24 +1427,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f28k",
-        "location": "http://maps.google.com/maps?q=4.8687,127.5007",
-        "name": "M 4.9 - 220 km SE of Pondaguitan, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f28k"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f254",
         "location": "http://maps.google.com/maps?q=36.316,69.8473",
         "name": "M 4.9 - 28 km S of Farkhār, Afghanistan",
@@ -1491,6 +1455,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f23q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f28k",
+        "location": "http://maps.google.com/maps?q=4.8687,127.5007",
+        "name": "M 4.9 - Pulau-Pulau Talaud, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f28k"
       },
       {
         "category": [
@@ -4323,7 +4305,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "04/Aug/2021 @ 18:01:18 PDT",
+    "last_update": "04/Aug/2021 @ 19:01:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4349,7 +4331,7 @@
           -72.1662
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.8687,127.5007\"><b>M 4.9 - 220 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f28k\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.8687,127.5007\"><b>M 4.9 - Pulau-Pulau Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f28k\">USGS</a>",
           4.8687,
           127.5007
         ],
@@ -4449,9 +4431,9 @@
           141.7545
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.2309,142.3452\"><b>M 4.5 - 147 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22i\">USGS</a>",
-          36.2309,
-          142.3452
+          "<a href=\"http://maps.google.com/maps?q=36.2535,142.392\"><b>M 4.6 - 151 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f22i\">USGS</a>",
+          36.2535,
+          142.392
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.3568,141.9034\"><b>M 4.8 - 113 km ESE of Takahagi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f222\">USGS</a>",
@@ -4462,11 +4444,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.2391,142.0476\"><b>M 4.9 - 123 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f21y\">USGS</a>",
           36.2391,
           142.0476
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.2269,141.9485\"><b>M 4.3 - 114 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f21m\">USGS</a>",
-          36.2269,
-          141.9485
         ]
       ],
       "Floods": [],
@@ -6998,12 +6975,12 @@
         ]
       ]
     },
-    "title": "230 events (04/Aug/2021 PDT)"
+    "title": "229 events (04/Aug/2021 PDT)"
   },
-  "last_update": "04/Aug/2021 @ 18:02:07 PDT",
+  "last_update": "04/Aug/2021 @ 19:02:04 PDT",
   "neo": {
     "date": "05/Aug/2021 PDT",
-    "last_update": "04/Aug/2021 @ 18:01:19 PDT",
+    "last_update": "04/Aug/2021 @ 19:01:16 PDT",
     "objects": [
       {
         "cat": "05/Aug/2021 @ 00:52:00 ",
@@ -7166,7 +7143,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Aug/2021 @ 18:01:19 PDT",
+    "last_update": "04/Aug/2021 @ 19:01:17 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8706,7 +8683,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Aug/2021 @ 18:01:26 PDT",
+    "last_update": "04/Aug/2021 @ 19:01:22 PDT",
     "launches": {
       "future": [
         {
