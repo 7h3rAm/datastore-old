@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Aug/2021 @ 08:00:52 PDT",
+    "last_update": "06/Aug/2021 @ 09:00:46 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/NGC6726_6723_2panel1100.jpg",
     "title": "Stars and Dust Across Corona Australis (06/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1031,7 +1031,7 @@
         ],
         "eid": "us6000f2n4",
         "location": "http://maps.google.com/maps?q=6.0221,127.5739",
-        "name": "M 4.7 - 158 km ESE of Pondaguitan, Philippines",
+        "name": "M 4.7 - Philippine Islands region",
         "source": [
           {
             "sid": "USGS",
@@ -1039,6 +1039,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2n4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f2sa",
+        "location": "http://maps.google.com/maps?q=19.3047,119.8302",
+        "name": "M 4.9 - 121 km NW of Davila, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa"
       },
       {
         "category": [
@@ -1057,24 +1075,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2nz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f2sa",
-        "location": "http://maps.google.com/maps?q=19.3047,119.8302",
-        "name": "M 4.9 - Philippine Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa"
       },
       {
         "category": [
@@ -4195,7 +4195,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "06/Aug/2021 @ 08:01:24 PDT",
+    "last_update": "06/Aug/2021 @ 09:01:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4211,7 +4211,7 @@
           167.2405
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.3047,119.8302\"><b>M 4.9 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.3047,119.8302\"><b>M 4.9 - 121 km NW of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa\">USGS</a>",
           19.3047,
           119.8302
         ],
@@ -4251,7 +4251,7 @@
           -178.6927
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.0221,127.5739\"><b>M 4.7 - 158 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2n4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.0221,127.5739\"><b>M 4.7 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2n4\">USGS</a>",
           6.0221,
           127.5739
         ],
@@ -6987,10 +6987,10 @@
     },
     "title": "224 events (06/Aug/2021 PDT)"
   },
-  "last_update": "06/Aug/2021 @ 08:02:14 PDT",
+  "last_update": "06/Aug/2021 @ 09:02:00 PDT",
   "neo": {
     "date": "06/Aug/2021 PDT",
-    "last_update": "06/Aug/2021 @ 08:01:25 PDT",
+    "last_update": "06/Aug/2021 @ 09:01:16 PDT",
     "objects": [
       {
         "cat": "06/Aug/2021 @ 18:00:00 ",
@@ -7117,7 +7117,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Aug/2021 @ 08:01:25 PDT",
+    "last_update": "06/Aug/2021 @ 09:01:16 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8657,7 +8657,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Aug/2021 @ 08:01:31 PDT",
+    "last_update": "06/Aug/2021 @ 09:01:21 PDT",
     "launches": {
       "future": [
         {
