@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Aug/2021 @ 03:00:44 PDT",
+    "last_update": "07/Aug/2021 @ 04:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PIA24688_RTE_Anaglyph1024.jpg",
     "title": "Jezero Crater: Raised Ridges in 3D (07/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1017,16 +1017,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f2sa",
-        "location": "http://maps.google.com/maps?q=19.3047,119.8302",
-        "name": "M 4.9 - 121 km NW of Davila, Philippines",
+        "eid": "us6000f34k",
+        "location": "http://maps.google.com/maps?q=-59.5236,-25.88",
+        "name": "M 4.8 - South Sandwich Islands region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f34k"
       },
       {
         "category": [
@@ -1045,6 +1045,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2wh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f2sa",
+        "location": "http://maps.google.com/maps?q=19.3047,119.8302",
+        "name": "M 4.9 - Philippine Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa"
       },
       {
         "category": [
@@ -4089,11 +4107,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "07/Aug/2021 @ 03:01:17 PDT",
+    "last_update": "07/Aug/2021 @ 04:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.5236,-25.88\"><b>M 4.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f34k\">USGS</a>",
+          -59.5236,
+          -25.88
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.4405,71.0907\"><b>M 4.6 - 47 km SW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f34g\">USGS</a>",
           36.4405,
@@ -4160,7 +4183,7 @@
           167.2405
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.3047,119.8302\"><b>M 4.9 - 121 km NW of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.3047,119.8302\"><b>M 4.9 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f2sa\">USGS</a>",
           19.3047,
           119.8302
         ],
@@ -6854,12 +6877,12 @@
         ]
       ]
     },
-    "title": "219 events (07/Aug/2021 PDT)"
+    "title": "220 events (07/Aug/2021 PDT)"
   },
-  "last_update": "07/Aug/2021 @ 03:02:03 PDT",
+  "last_update": "07/Aug/2021 @ 04:01:57 PDT",
   "neo": {
     "date": "07/Aug/2021 PDT",
-    "last_update": "07/Aug/2021 @ 03:01:18 PDT",
+    "last_update": "07/Aug/2021 @ 04:01:14 PDT",
     "objects": [
       {
         "cat": "07/Aug/2021 @ 23:36:00 ",
@@ -6995,7 +7018,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Aug/2021 @ 03:01:18 PDT",
+    "last_update": "07/Aug/2021 @ 04:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8535,7 +8558,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Aug/2021 @ 03:01:24 PDT",
+    "last_update": "07/Aug/2021 @ 04:01:19 PDT",
     "launches": {
       "future": [
         {
