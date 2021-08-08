@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Aug/2021 @ 23:00:45 PDT",
+    "last_update": "08/Aug/2021 @ 00:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/perseid_iss_1080.jpg",
     "title": "A Perseid Below (08/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "07/Aug/2021 PDT",
+    "date": "08/Aug/2021 PDT",
     "events": [
       {
         "category": [
@@ -1191,7 +1191,7 @@
         ],
         "eid": "us6000f37h",
         "location": "http://maps.google.com/maps?q=-21.8466,-68.4127",
-        "name": "M 5.1 - 85 km NE of Calama, Chile",
+        "name": "M 5.1 - Chile-Bolivia border region",
         "source": [
           {
             "sid": "USGS",
@@ -4157,7 +4157,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "07/Aug/2021 @ 23:01:15 PDT",
+    "last_update": "08/Aug/2021 @ 00:01:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4218,7 +4218,7 @@
           160.6283
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.8466,-68.4127\"><b>M 5.1 - 85 km NE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f37h\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.8466,-68.4127\"><b>M 5.1 - Chile-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f37h\">USGS</a>",
           -21.8466,
           -68.4127
         ],
@@ -7092,12 +7092,12 @@
         ]
       ]
     },
-    "title": "223 events (07/Aug/2021 PDT)"
+    "title": "223 events (08/Aug/2021 PDT)"
   },
-  "last_update": "07/Aug/2021 @ 23:02:01 PDT",
+  "last_update": "08/Aug/2021 @ 00:01:56 PDT",
   "neo": {
     "date": "08/Aug/2021 PDT",
-    "last_update": "07/Aug/2021 @ 23:01:16 PDT",
+    "last_update": "08/Aug/2021 @ 00:01:14 PDT",
     "objects": [
       {
         "cat": "08/Aug/2021 @ 19:34:00 ",
@@ -7229,7 +7229,7 @@
     "title": "14 objects making close approach (08/Aug/2021 PDT)"
   },
   "satview": {
-    "date": "07/Aug/2021 PDT",
+    "date": "08/Aug/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 06/Aug/2021 @ 14:06:08 PDT.",
@@ -7296,7 +7296,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Aug/2021 @ 23:01:16 PDT",
+    "last_update": "08/Aug/2021 @ 00:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7349,7 +7349,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (07/Aug/2021 PDT)"
+    "title": "10 people in space (08/Aug/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -8836,7 +8836,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Aug/2021 @ 23:01:22 PDT",
+    "last_update": "08/Aug/2021 @ 00:01:19 PDT",
     "launches": {
       "future": [
         {
