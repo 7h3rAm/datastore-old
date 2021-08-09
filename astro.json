@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Aug/2021 @ 20:00:44 PDT",
+    "last_update": "08/Aug/2021 @ 21:00:43 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/perseid_iss_1080.jpg",
     "title": "A Perseid Below (08/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -45,28 +45,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5785"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5616",
-        "location": "https://www.google.com/maps/dir/49.746033,-115.6278/@49.746033,-115.6278,3z",
-        "name": "Bill Nye Mountain - MR Fire, British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=856"
-          },
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127260"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5616"
       },
       {
         "category": [
@@ -219,28 +197,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5734",
-        "location": "https://www.google.com/maps/dir/51.0811,-118.823183/@51.0811,-118.823183,3z",
-        "name": "Crazy Creek Gorge FSR Fire, British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=866"
-          },
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127494"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5734"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5737",
         "location": "https://www.google.com/maps/dir/44.983,-120.951/@44.983,-120.951,3z",
         "name": "Deep Creek Fire",
@@ -349,28 +305,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5655"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5584",
-        "location": "https://www.google.com/maps/dir/53.581917,-123.738617/@53.581917,-123.738617,3z",
-        "name": "Grizzly Lake Fire, British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=846"
-          },
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=126553"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5584"
       },
       {
         "category": [
@@ -1575,32 +1509,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5585"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🌀",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
-          }
-        ],
-        "eid": "EONET_5747",
-        "location": "https://www.google.com/maps/dir/18.1,-113.6/18.6,-114.6/19.3,-115.4/20,-116.2/20.2,-116.3/20.4,-115.8/20.2,-115.2/@18.1,-113.6,3z",
-        "name": "Tropical Storm Ignacio",
-        "source": [
-          {
-            "sid": "GDACS",
-            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC"
-          },
-          {
-            "sid": "JTWC",
-            "url": "https://www.metoc.navy.mil/jtwc/products/ep1021.tcw"
-          },
-          {
-            "sid": "NOAA_NHC",
-            "url": "https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5747"
       },
       {
         "category": [
@@ -4025,27 +3933,9 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5688",
-        "location": "https://www.google.com/maps/dir/46.553,-111.356/@46.553,-111.356,3z",
-        "name": "Woods Creek Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7649/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5688"
       }
     ],
-    "last_update": "08/Aug/2021 @ 20:01:13 PDT",
+    "last_update": "08/Aug/2021 @ 21:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -5933,41 +5823,6 @@
           130.8
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=18.1,-113.6\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          18.1,
-          -113.6
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.6,-114.6\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          18.6,
-          -114.6
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.3,-115.4\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          19.3,
-          -115.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20,-116.2\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          20,
-          -116.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.2,-116.3\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          20.2,
-          -116.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.4,-115.8\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          20.4,
-          -115.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.2,-115.2\"><b>Tropical Storm Ignacio</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000805&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1021.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IGNACIO.shtml\">NOAA_NHC</a>",
-          20.2,
-          -115.2
-        ],
-        [
           "<a href=\"http://maps.google.com/maps?q=11.9,-113\"><b>Hurricane Hilda</b></a><br/>Category: Severe Storms<br/>Source: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000803&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0821.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/HILDA.shtml\">NOAA_NHC</a>",
           11.9,
           -113
@@ -6977,35 +6832,15 @@
           "<a href=\"http://maps.google.com/maps?q=47.645,-116.019\"><b>Character Complex Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7654/\">InciWeb</a>",
           47.645,
           -116.019
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.581917,-123.738617\"><b>Grizzly Lake Fire, British Columbia, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=846\">BCWILDFIRE</a>, <a href=\"http://emops.pdc.org/emops/?hazard_id=126553\">PDC</a>",
-          53.581917,
-          -123.738617
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.746033,-115.6278\"><b>Bill Nye Mountain - MR Fire, British Columbia, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=856\">BCWILDFIRE</a>, <a href=\"http://emops.pdc.org/emops/?hazard_id=127260\">PDC</a>",
-          49.746033,
-          -115.6278
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=46.553,-111.356\"><b>Woods Creek Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7649/\">InciWeb</a>",
-          46.553,
-          -111.356
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.0811,-118.823183\"><b>Crazy Creek Gorge FSR Fire, British Columbia, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=866\">BCWILDFIRE</a>, <a href=\"http://emops.pdc.org/emops/?hazard_id=127494\">PDC</a>",
-          51.0811,
-          -118.823183
         ]
       ]
     },
-    "title": "217 events (08/Aug/2021 PDT)"
+    "title": "212 events (08/Aug/2021 PDT)"
   },
-  "last_update": "08/Aug/2021 @ 20:02:00 PDT",
+  "last_update": "08/Aug/2021 @ 21:01:56 PDT",
   "neo": {
     "date": "09/Aug/2021 PDT",
-    "last_update": "08/Aug/2021 @ 20:01:15 PDT",
+    "last_update": "08/Aug/2021 @ 21:01:15 PDT",
     "objects": [
       {
         "cat": "09/Aug/2021 @ 00:25:00 ",
@@ -7159,7 +6994,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Aug/2021 @ 20:01:15 PDT",
+    "last_update": "08/Aug/2021 @ 21:01:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8699,7 +8534,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Aug/2021 @ 20:01:21 PDT",
+    "last_update": "08/Aug/2021 @ 21:01:20 PDT",
     "launches": {
       "future": [
         {
