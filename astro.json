@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Aug/2021 @ 02:00:42 PDT",
+    "last_update": "10/Aug/2021 @ 03:00:44 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/SpaceFlame_nasa_960.jpg",
     "title": "Fire in Space (10/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -835,24 +835,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f3k5",
-        "location": "http://maps.google.com/maps?q=-38.1316,-74.1331",
-        "name": "M 4.2 - 71 km SW of Lebu, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3k5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f3m4",
         "location": "http://maps.google.com/maps?q=17.4462,-94.1241",
         "name": "M 4.3 - 27 km NE of Helio García Alfaro, Mexico",
@@ -979,24 +961,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f3jw",
-        "location": "http://maps.google.com/maps?q=17.3018,-99.8797",
-        "name": "M 4.7 - 6 km ENE of San Cristóbal, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3jw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f3kh",
         "location": "http://maps.google.com/maps?q=40.0312,76.0512",
         "name": "M 4.7 - 62 km N of Kashgar, China",
@@ -1043,24 +1007,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3lk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f3k3",
-        "location": "http://maps.google.com/maps?q=53.3078,170.1143",
-        "name": "M 5.0 - 212 km WNW of Attu Station, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3k3"
       },
       {
         "category": [
@@ -1677,24 +1623,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5666"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5587",
-        "location": "https://www.google.com/maps/dir/48.595,-120.537/@48.595,-120.537,3z",
-        "name": "Varden Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7655/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5587"
       },
       {
         "category": [
@@ -3895,7 +3823,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
       }
     ],
-    "last_update": "10/Aug/2021 @ 02:00:45 PDT",
+    "last_update": "10/Aug/2021 @ 03:00:46 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3989,21 +3917,6 @@
           "<a href=\"http://maps.google.com/maps?q=-45.7066,-76.9906\"><b>M 4.3 - Off the coast of Aisen, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3kb\">USGS</a>",
           -45.7066,
           -76.9906
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.1316,-74.1331\"><b>M 4.2 - 71 km SW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3k5\">USGS</a>",
-          -38.1316,
-          -74.1331
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.3078,170.1143\"><b>M 5.0 - 212 km WNW of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3k3\">USGS</a>",
-          53.3078,
-          170.1143
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.3018,-99.8797\"><b>M 4.7 - 6 km ENE of San Cristóbal, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3jw\">USGS</a>",
-          17.3018,
-          -99.8797
         ]
       ],
       "Floods": [],
@@ -6827,20 +6740,15 @@
           "<a href=\"http://maps.google.com/maps?q=44.466,-121.4\"><b>Jefferson and Deshutes Counties (Grandview Fire), Oregon, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=126465\">PDC</a>, <a href=\"http://inciweb.nwcg.gov/incident/7651/\">InciWeb</a>",
           44.466,
           -121.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.595,-120.537\"><b>Varden Fire</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://inciweb.nwcg.gov/incident/7655/\">InciWeb</a>",
-          48.595,
-          -120.537
         ]
       ]
     },
-    "title": "210 events (10/Aug/2021 PDT)"
+    "title": "206 events (10/Aug/2021 PDT)"
   },
-  "last_update": "10/Aug/2021 @ 02:01:09 PDT",
+  "last_update": "10/Aug/2021 @ 03:00:48 PDT",
   "neo": {
     "date": "10/Aug/2021 PDT",
-    "last_update": "10/Aug/2021 @ 02:00:47 PDT",
+    "last_update": "10/Aug/2021 @ 03:00:47 PDT",
     "objects": [
       {
         "cat": "10/Aug/2021 @ 02:00:00 ",
@@ -7003,7 +6911,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Aug/2021 @ 02:00:48 PDT",
+    "last_update": "10/Aug/2021 @ 03:00:48 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
