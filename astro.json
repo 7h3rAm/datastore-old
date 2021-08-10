@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Aug/2021 @ 05:00:44 PDT",
+    "last_update": "10/Aug/2021 @ 06:00:43 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/SpaceFlame_nasa_960.jpg",
     "title": "Fire in Space (10/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -759,6 +759,24 @@
       {
         "category": [
           {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_5808",
+        "location": "https://www.google.com/maps/dir/-8.272,123.505/@-8.272,123.505,3z",
+        "name": "Lewotolo Volcano, Indonesia",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=264230"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5808"
+      },
+      {
+        "category": [
+          {
             "emoji": "🔴",
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
@@ -1015,16 +1033,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f3kx",
-        "location": "http://maps.google.com/maps?q=-56.7091,-6.078",
-        "name": "M 5.3 - southern Mid-Atlantic Ridge",
+        "eid": "us6000f3u7",
+        "location": "http://maps.google.com/maps?q=44.1137,148.3479",
+        "name": "M 5.1 - 129 km SSE of Kuril’sk, Russia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3kx"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3u7"
       },
       {
         "category": [
@@ -1303,6 +1321,24 @@
       {
         "category": [
           {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_5809",
+        "location": "https://www.google.com/maps/dir/56.653,161.36/@56.653,161.36,3z",
+        "name": "Sheveluch Volcano, Russia",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=300270"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5809"
+      },
+      {
+        "category": [
+          {
             "emoji": "🔥",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
@@ -1569,6 +1605,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5666"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_5807",
+        "location": "https://www.google.com/maps/dir/-5.05,151.33/@-5.05,151.33,3z",
+        "name": "Ulawun Volcano, Papua New Guinea",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=252120"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5807"
       },
       {
         "category": [
@@ -3769,11 +3823,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
       }
     ],
-    "last_update": "10/Aug/2021 @ 05:00:46 PDT",
+    "last_update": "10/Aug/2021 @ 06:00:45 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.1137,148.3479\"><b>M 5.1 - 129 km SSE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3u7\">USGS</a>",
+          44.1137,
+          148.3479
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.4145,-89.4831\"><b>M 4.5 - 19 km WSW of La Libertad, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3t8\">USGS</a>",
           13.4145,
@@ -3843,11 +3902,6 @@
           "<a href=\"http://maps.google.com/maps?q=-56.6813,-6.0281\"><b>M 5.0 - southern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3l0\">USGS</a>",
           -56.6813,
           -6.0281
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-56.7091,-6.078\"><b>M 5.3 - southern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3kx\">USGS</a>",
-          -56.7091,
-          -6.078
         ]
       ],
       "Floods": [],
@@ -5844,7 +5898,23 @@
       ],
       "Snow": [],
       "Temperature Extremes": [],
-      "Volcanoes": [],
+      "Volcanoes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.05,151.33\"><b>Ulawun Volcano, Papua New Guinea</b></a><br/>Category: Volcanoes<br/>Source: <a href=\"http://volcano.si.edu/volcano.cfm?vn=252120\">SIVolcano</a>",
+          -5.05,
+          151.33
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=56.653,161.36\"><b>Sheveluch Volcano, Russia</b></a><br/>Category: Volcanoes<br/>Source: <a href=\"http://volcano.si.edu/volcano.cfm?vn=300270\">SIVolcano</a>",
+          56.653,
+          161.36
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.272,123.505\"><b>Lewotolo Volcano, Indonesia</b></a><br/>Category: Volcanoes<br/>Source: <a href=\"http://volcano.si.edu/volcano.cfm?vn=264230\">SIVolcano</a>",
+          -8.272,
+          123.505
+        ]
+      ],
       "Water Color": [],
       "Wildfires": [
         [
@@ -6674,12 +6744,12 @@
         ]
       ]
     },
-    "title": "203 events (10/Aug/2021 PDT)"
+    "title": "206 events (10/Aug/2021 PDT)"
   },
-  "last_update": "10/Aug/2021 @ 05:00:47 PDT",
+  "last_update": "10/Aug/2021 @ 06:00:46 PDT",
   "neo": {
     "date": "10/Aug/2021 PDT",
-    "last_update": "10/Aug/2021 @ 05:00:47 PDT",
+    "last_update": "10/Aug/2021 @ 06:00:46 PDT",
     "objects": [
       {
         "cat": "10/Aug/2021 @ 02:00:00 ",
@@ -6842,7 +6912,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Aug/2021 @ 05:00:47 PDT",
+    "last_update": "10/Aug/2021 @ 06:00:46 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
