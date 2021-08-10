@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Aug/2021 @ 19:01:13 PDT",
+    "last_update": "09/Aug/2021 @ 20:00:43 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PerseidsLost_SlovinskyHoralek_1080.jpg",
     "title": "Perseus and the Lost Meteors (09/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -917,6 +917,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3id"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f3rk",
+        "location": "http://maps.google.com/maps?q=-7.2211,129.2885",
+        "name": "M 4.6 - 290 km ENE of Lospalos, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3rk"
       },
       {
         "category": [
@@ -4043,11 +4061,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
       }
     ],
-    "last_update": "09/Aug/2021 @ 19:01:42 PDT",
+    "last_update": "09/Aug/2021 @ 20:01:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.2211,129.2885\"><b>M 4.6 - 290 km ENE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3rk\">USGS</a>",
+          -7.2211,
+          129.2885
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.9102,-66.7563\"><b>M 4.3 - 56 km NW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3r4\">USGS</a>",
           -23.9102,
@@ -7023,12 +7046,12 @@
         ]
       ]
     },
-    "title": "218 events (09/Aug/2021 PDT)"
+    "title": "219 events (09/Aug/2021 PDT)"
   },
-  "last_update": "09/Aug/2021 @ 19:02:30 PDT",
+  "last_update": "09/Aug/2021 @ 20:01:58 PDT",
   "neo": {
     "date": "10/Aug/2021 PDT",
-    "last_update": "09/Aug/2021 @ 19:01:45 PDT",
+    "last_update": "09/Aug/2021 @ 20:01:14 PDT",
     "objects": [
       {
         "cat": "10/Aug/2021 @ 02:00:00 ",
@@ -7191,7 +7214,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Aug/2021 @ 19:01:45 PDT",
+    "last_update": "09/Aug/2021 @ 20:01:14 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8731,7 +8754,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Aug/2021 @ 19:01:51 PDT",
+    "last_update": "09/Aug/2021 @ 20:01:19 PDT",
     "launches": {
       "future": [
         {
