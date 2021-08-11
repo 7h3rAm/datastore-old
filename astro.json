@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Aug/2021 @ 20:06:15 PDT",
+    "last_update": "10/Aug/2021 @ 21:00:24 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/SpaceFlame_nasa_960.jpg",
     "title": "Fire in Space (10/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -975,24 +975,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f3rz",
-        "location": "http://maps.google.com/maps?q=22.4138,95.8591",
-        "name": "M 4.8 - 23 km SE of Shwebo, Myanmar",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3rz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f3zj",
         "location": "http://maps.google.com/maps?q=34.7331,98.0956",
         "name": "M 4.8 - Southern Qinghai, China",
@@ -1515,28 +1497,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5794"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5585",
-        "location": "https://www.google.com/maps/dir/50.662167,-121.201783/@50.662167,-121.201783,3z",
-        "name": "Tremont Crk. Fire, British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=843"
-          },
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=126489"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5585"
       },
       {
         "category": [
@@ -2423,24 +2383,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5659",
-        "location": "https://www.google.com/maps/dir/51.3367,-95.1706/@51.3367,-95.1706,3z",
-        "name": "Wildfire MB-EA119, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5659"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5714",
         "location": "https://www.google.com/maps/dir/51.4697,-95.9489/@51.4697,-95.9489,3z",
         "name": "Wildfire MB-EA133, Manitoba, Canada",
@@ -2693,42 +2635,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5563",
-        "location": "https://www.google.com/maps/dir/54.045,-94.4486/@54.045,-94.4486,3z",
-        "name": "Wildfire MB-NO033, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5563"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5716",
-        "location": "https://www.google.com/maps/dir/56.3528,-96.1697/@56.3528,-96.1697,3z",
-        "name": "Wildfire MB-NO045, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5716"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5690",
         "location": "https://www.google.com/maps/dir/55.5333,-99.1333/@55.5333,-99.1333,3z",
         "name": "Wildfire MB-NO054, Manitoba, Canada",
@@ -2937,60 +2843,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5775"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5640",
-        "location": "https://www.google.com/maps/dir/55.6108,-101.7236/@55.6108,-101.7236,3z",
-        "name": "Wildfire MB-WE046, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5640"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5641",
-        "location": "https://www.google.com/maps/dir/55.0469,-99.5756/@55.0469,-99.5756,3z",
-        "name": "Wildfire MB-WE047, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5641"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5566",
-        "location": "https://www.google.com/maps/dir/55.7236,-100.172/@55.7236,-100.172,3z",
-        "name": "Wildfire MB-WE048, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5566"
       },
       {
         "category": [
@@ -4017,7 +3869,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
       }
     ],
-    "last_update": "10/Aug/2021 @ 20:06:18 PDT",
+    "last_update": "10/Aug/2021 @ 21:00:27 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4111,11 +3963,6 @@
           "<a href=\"http://maps.google.com/maps?q=-0.1146,-80.6447\"><b>M 4.2 - 58 km NNW of Bahía de Caráquez, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3sw\">USGS</a>",
           -0.1146,
           -80.6447
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=22.4138,95.8591\"><b>M 4.8 - 23 km SE of Shwebo, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3rz\">USGS</a>",
-          22.4138,
-          95.8591
         ]
       ],
       "Floods": [],
@@ -6985,50 +6832,15 @@
           "<a href=\"http://maps.google.com/maps?q=46.652,-114.591\"><b>Granite Pass Complex Fire, Wildfire - Missoula County , Montana/Idaho, United States</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://emops.pdc.org/emops/?hazard_id=126314\">PDC</a>, <a href=\"http://inciweb.nwcg.gov/incident/7653/\">InciWeb</a>",
           46.652,
           -114.591
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.045,-94.4486\"><b>Wildfire MB-NO033, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          54.045,
-          -94.4486
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=55.7236,-100.172\"><b>Wildfire MB-WE048, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          55.7236,
-          -100.172
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=50.662167,-121.201783\"><b>Tremont Crk. Fire, British Columbia, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=843\">BCWILDFIRE</a>, <a href=\"http://emops.pdc.org/emops/?hazard_id=126489\">PDC</a>",
-          50.662167,
-          -121.201783
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=55.6108,-101.7236\"><b>Wildfire MB-WE046, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          55.6108,
-          -101.7236
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=55.0469,-99.5756\"><b>Wildfire MB-WE047, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          55.0469,
-          -99.5756
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.3367,-95.1706\"><b>Wildfire MB-EA119, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          51.3367,
-          -95.1706
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.3528,-96.1697\"><b>Wildfire MB-NO045, Manitoba, Canada</b></a><br/>Category: Wildfires<br/>Source: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          56.3528,
-          -96.1697
         ]
       ]
     },
-    "title": "217 events (10/Aug/2021 PDT)"
+    "title": "209 events (10/Aug/2021 PDT)"
   },
-  "last_update": "10/Aug/2021 @ 20:06:42 PDT",
+  "last_update": "10/Aug/2021 @ 21:00:50 PDT",
   "neo": {
     "date": "11/Aug/2021 PDT",
-    "last_update": "10/Aug/2021 @ 20:06:19 PDT",
+    "last_update": "10/Aug/2021 @ 21:00:28 PDT",
     "objects": [
       {
         "cat": "11/Aug/2021 @ 15:22:00 ",
@@ -7281,7 +7093,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Aug/2021 @ 20:06:20 PDT",
+    "last_update": "10/Aug/2021 @ 21:00:28 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8821,7 +8633,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Aug/2021 @ 20:06:25 PDT",
+    "last_update": "10/Aug/2021 @ 21:00:33 PDT",
     "launches": {
       "future": [
         {
