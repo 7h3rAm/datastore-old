@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Aug/2021 @ 00:08:59 PDT",
+    "last_update": "11/Aug/2021 @ 01:04:57 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Mammatus_Johnston_960.jpg",
     "title": "Mammatus Clouds over Saskatchewan (11/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -939,24 +939,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f3t8",
-        "location": "http://maps.google.com/maps?q=13.4145,-89.4831",
-        "name": "M 4.5 - 19 km WSW of La Libertad, El Salvador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3t8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f3w0",
         "location": "http://maps.google.com/maps?q=-14.8212,-76.237",
         "name": "M 4.5 - 90 km SW of Santiago, Peru",
@@ -1039,6 +1021,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3zj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f437",
+        "location": "http://maps.google.com/maps?q=40.5355,63.353",
+        "name": "M 4.9 - 45 km N of Gazli, Uzbekistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f437"
       },
       {
         "category": [
@@ -3923,11 +3923,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5651"
       }
     ],
-    "last_update": "11/Aug/2021 @ 00:09:02 PDT",
+    "last_update": "11/Aug/2021 @ 01:04:59 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.5355,63.353\"><b>M 4.9 - 45 km N of Gazli, Uzbekistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f437\">USGS</a>",
+          40.5355,
+          63.353
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.7945,23.0413\"><b>M 4.2 - 6 km S of Loutrá Aidhipsoú, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f42v\">USGS</a>",
           38.7945,
@@ -4027,11 +4032,6 @@
           "<a href=\"http://maps.google.com/maps?q=-3.645,123.409\"><b>M 4.2 - 105 km ENE of Kendari, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3tm\">USGS</a>",
           -3.645,
           123.409
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.4145,-89.4831\"><b>M 4.5 - 19 km WSW of La Libertad, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f3t8\">USGS</a>",
-          13.4145,
-          -89.4831
         ]
       ],
       "Floods": [],
@@ -6906,10 +6906,10 @@
     },
     "title": "212 events (11/Aug/2021 PDT)"
   },
-  "last_update": "11/Aug/2021 @ 00:09:25 PDT",
+  "last_update": "11/Aug/2021 @ 01:05:22 PDT",
   "neo": {
     "date": "11/Aug/2021 PDT",
-    "last_update": "11/Aug/2021 @ 00:09:03 PDT",
+    "last_update": "11/Aug/2021 @ 01:05:00 PDT",
     "objects": [
       {
         "cat": "11/Aug/2021 @ 15:22:00 ",
@@ -7162,7 +7162,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Aug/2021 @ 00:09:03 PDT",
+    "last_update": "11/Aug/2021 @ 01:05:01 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8702,7 +8702,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Aug/2021 @ 00:09:08 PDT",
+    "last_update": "11/Aug/2021 @ 01:05:06 PDT",
     "launches": {
       "future": [
         {
