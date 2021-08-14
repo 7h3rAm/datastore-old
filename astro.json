@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Aug/2021 @ 08:00:12 PDT",
+    "last_update": "14/Aug/2021 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/IMG_20210813_143919_1024.jpg",
     "title": "Island Universe, Cosmic Sand (14/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -833,6 +833,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f66r",
+        "location": "http://maps.google.com/maps?q=18.4906,-73.7093",
+        "name": "M 4.2 - 7 km W of Baradères, Haiti",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f66r"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f5tb",
         "location": "http://maps.google.com/maps?q=-19.861,-70.0836",
         "name": "M 4.3 - 39 km N of Iquique, Chile",
@@ -897,6 +915,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f668"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f66y",
+        "location": "http://maps.google.com/maps?q=18.476,-73.6736",
+        "name": "M 4.6 - 3 km W of Baradères, Haiti",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f66y"
       },
       {
         "category": [
@@ -1175,24 +1211,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f5py",
-        "location": "http://maps.google.com/maps?q=-56.9831,-24.8551",
-        "name": "M 5.0 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5py"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f5vh",
         "location": "http://maps.google.com/maps?q=-26.4548,-175.7152",
         "name": "M 5.0 - south of Tonga",
@@ -1221,6 +1239,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5yv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f671",
+        "location": "http://maps.google.com/maps?q=-60.1302,-26.7546",
+        "name": "M 5.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f671"
       },
       {
         "category": [
@@ -1527,24 +1563,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5st"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f5na",
-        "location": "http://maps.google.com/maps?q=13.7104,120.8272",
-        "name": "M 5.8 - 6 km W of Bagalangit, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5na"
       },
       {
         "category": [
@@ -1936,7 +1954,7 @@
           }
         ],
         "eid": "EONET_5818",
-        "location": "https://www.google.com/maps/dir/17.4,-66.8/18,-68.2/18.2,-69.7/18.9,-71.0/19.5,-72.2/20.2,-73.5/20.9,-74.4/21.3,-75.3/21.5,-75.6/22.0,-76.7/@17.4,-66.8,3z",
+        "location": "https://www.google.com/maps/dir/17.4,-66.8/18,-68.2/18.2,-69.7/18.9,-71.0/19.5,-72.2/20.2,-73.5/20.9,-74.4/21.3,-75.3/21.5,-75.6/22.0,-76.7/22.3,-79.6/22.7,-80.6/23.3,-81.7/@17.4,-66.8,3z",
         "name": "Tropical Storm Fred",
         "source": [
           {
@@ -1949,6 +1967,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5818"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5850",
+        "location": "https://www.google.com/maps/dir/15.8,-55.6/16.2,-57.9/@15.8,-55.6,3z",
+        "name": "Tropical Storm Grace",
+        "source": [
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/GRACE.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5850"
       },
       {
         "category": [
@@ -4247,11 +4283,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "14/Aug/2021 @ 08:00:42 PDT",
+    "last_update": "14/Aug/2021 @ 09:00:33 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.476,-73.6736\"><b>M 4.6 - 3 km W of Baradères, Haiti</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f66y\">USGS</a>",
+          18.476,
+          -73.6736
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-60.1302,-26.7546\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f671\">USGS</a>",
+          -60.1302,
+          -26.7546
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.4906,-73.7093\"><b>M 4.2 - 7 km W of Baradères, Haiti</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f66r\">USGS</a>",
+          18.4906,
+          -73.7093
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.4851,-73.5484\"><b>M 4.6 - 6 km SW of Petit Trou de Nippes, Haiti</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f66l\">USGS</a>",
           18.4851,
@@ -4476,16 +4527,6 @@
           "<a href=\"http://maps.google.com/maps?q=28.2879,57.3367\"><b>M 4.5 - 121 km SSE of Kūh Sefīd, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5sf\">USGS</a>",
           28.2879,
           57.3367
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-56.9831,-24.8551\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5py\">USGS</a>",
-          -56.9831,
-          -24.8551
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.7104,120.8272\"><b>M 5.8 - 6 km W of Bagalangit, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f5na\">USGS</a>",
-          13.7104,
-          120.8272
         ]
       ],
       "Floods": [],
@@ -6075,6 +6116,16 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=15.8,-55.6\"><b>Tropical Storm Grace</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.nhc.noaa.gov/archive/2021/GRACE.shtml\">NOAA_NHC</a>",
+          15.8,
+          -55.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.2,-57.9\"><b>Tropical Storm Grace</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.nhc.noaa.gov/archive/2021/GRACE.shtml\">NOAA_NHC</a>",
+          16.2,
+          -57.9
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=12.7,168.6\"><b>Tropical Storm 16W</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000813&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1621.tcw\">JTWC</a>",
           12.7,
           168.6
@@ -6133,6 +6184,21 @@
           "<a href=\"http://maps.google.com/maps?q=22.0,-76.7\"><b>Tropical Storm Fred</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000811&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/FRED.shtml\">NOAA_NHC</a>",
           22.0,
           -76.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.3,-79.6\"><b>Tropical Storm Fred</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000811&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/FRED.shtml\">NOAA_NHC</a>",
+          22.3,
+          -79.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.7,-80.6\"><b>Tropical Storm Fred</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000811&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/FRED.shtml\">NOAA_NHC</a>",
+          22.7,
+          -80.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.3,-81.7\"><b>Tropical Storm Fred</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000811&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/FRED.shtml\">NOAA_NHC</a>",
+          23.3,
+          -81.7
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=14.1,-102.3\"><b>Tropical Storm Linda</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000812&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1221.tcw\">JTWC</a>",
@@ -7238,12 +7304,12 @@
         ]
       ]
     },
-    "title": "232 events (14/Aug/2021 PDT)"
+    "title": "234 events (14/Aug/2021 PDT)"
   },
-  "last_update": "14/Aug/2021 @ 08:01:20 PDT",
+  "last_update": "14/Aug/2021 @ 09:01:04 PDT",
   "neo": {
     "date": "14/Aug/2021 PDT",
-    "last_update": "14/Aug/2021 @ 08:00:45 PDT",
+    "last_update": "14/Aug/2021 @ 09:00:36 PDT",
     "objects": [
       {
         "cat": "14/Aug/2021 @ 11:02:00 ",
@@ -7370,7 +7436,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Aug/2021 @ 08:00:45 PDT",
+    "last_update": "14/Aug/2021 @ 09:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8910,7 +8976,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Aug/2021 @ 08:00:53 PDT",
+    "last_update": "14/Aug/2021 @ 09:00:41 PDT",
     "launches": {
       "future": [
         {
