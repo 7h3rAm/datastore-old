@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Aug/2021 @ 03:00:07 PDT",
+    "last_update": "16/Aug/2021 @ 04:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/PerseidNovaSprites_Korona_960.jpg",
     "title": "Perseid Meteor, Red Sprites, and Nova RS Ophiuchus (16/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -819,24 +819,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f6k1",
-        "location": "http://maps.google.com/maps?q=-57.8643,-24.7469",
-        "name": "M 4.6 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6k1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f6kw",
         "location": "http://maps.google.com/maps?q=18.4762,-73.7504",
         "name": "M 4.7 - 11 km W of Baradères, Haiti",
@@ -927,16 +909,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f6rj",
-        "location": "http://maps.google.com/maps?q=56.4856,117.7166",
-        "name": "M 5.0 - 51 km SW of Novaya Chara, Russia",
+        "eid": "us6000f6v0",
+        "location": "http://maps.google.com/maps?q=-23.7701,-69.8728",
+        "name": "M 5.0 - 54 km ESE of Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6rj"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0"
       },
       {
         "category": [
@@ -945,16 +927,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f6v0",
-        "location": "http://maps.google.com/maps?q=-23.7701,-69.8728",
-        "name": "M 5.0 - Antofagasta, Chile",
+        "eid": "us6000f6rj",
+        "location": "http://maps.google.com/maps?q=56.4856,117.7166",
+        "name": "M 5.0 - Chitinskaya Oblast', Russia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6rj"
       },
       {
         "category": [
@@ -973,24 +955,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6ka"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f6j4",
-        "location": "http://maps.google.com/maps?q=37.493,70.1318",
-        "name": "M 5.1 - 40 km ESE of Chubek, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6j4"
       },
       {
         "category": [
@@ -1099,24 +1063,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6ra"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f6j1",
-        "location": "http://maps.google.com/maps?q=-57.8502,-25.4775",
-        "name": "M 5.4 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6j1"
       },
       {
         "category": [
@@ -3543,7 +3489,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "16/Aug/2021 @ 03:00:34 PDT",
+    "last_update": "16/Aug/2021 @ 04:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3554,7 +3500,7 @@
           -26.5513
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-23.7701,-69.8728\"><b>M 5.0 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-23.7701,-69.8728\"><b>M 5.0 - 54 km ESE of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0\">USGS</a>",
           -23.7701,
           -69.8728
         ],
@@ -3594,7 +3540,7 @@
           -67.4634
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.4856,117.7166\"><b>M 5.0 - 51 km SW of Novaya Chara, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6rj\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.4856,117.7166\"><b>M 5.0 - Chitinskaya Oblast', Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6rj\">USGS</a>",
           56.4856,
           117.7166
         ],
@@ -3672,21 +3618,6 @@
           "<a href=\"http://maps.google.com/maps?q=-57.8456,-25.3312\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6ka\">USGS</a>",
           -57.8456,
           -25.3312
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.8643,-24.7469\"><b>M 4.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6k1\">USGS</a>",
-          -57.8643,
-          -24.7469
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.493,70.1318\"><b>M 5.1 - 40 km ESE of Chubek, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6j4\">USGS</a>",
-          37.493,
-          70.1318
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.8502,-25.4775\"><b>M 5.4 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6j1\">USGS</a>",
-          -57.8502,
-          -25.4775
         ]
       ],
       "Floods": [],
@@ -6334,12 +6265,12 @@
         ]
       ]
     },
-    "title": "192 events (16/Aug/2021 PDT)"
+    "title": "189 events (16/Aug/2021 PDT)"
   },
-  "last_update": "16/Aug/2021 @ 03:01:13 PDT",
+  "last_update": "16/Aug/2021 @ 04:01:05 PDT",
   "neo": {
     "date": "16/Aug/2021 PDT",
-    "last_update": "16/Aug/2021 @ 03:00:37 PDT",
+    "last_update": "16/Aug/2021 @ 04:00:36 PDT",
     "objects": [
       {
         "cat": "16/Aug/2021 @ 12:07:00 ",
@@ -6457,7 +6388,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Aug/2021 @ 03:00:37 PDT",
+    "last_update": "16/Aug/2021 @ 04:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7997,7 +7928,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Aug/2021 @ 03:00:43 PDT",
+    "last_update": "16/Aug/2021 @ 04:00:41 PDT",
     "launches": {
       "future": [
         {
