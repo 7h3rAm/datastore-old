@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Aug/2021 @ 00:00:06 PDT",
+    "last_update": "17/Aug/2021 @ 01:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (17/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -847,24 +847,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7eg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f6v0",
-        "location": "http://maps.google.com/maps?q=-23.7701,-69.8728",
-        "name": "M 5.0 - 54 km ESE of Antofagasta, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0"
       },
       {
         "category": [
@@ -3471,7 +3453,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "17/Aug/2021 @ 00:00:36 PDT",
+    "last_update": "17/Aug/2021 @ 01:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3585,11 +3567,6 @@
           "<a href=\"http://maps.google.com/maps?q=-59.6708,-26.5513\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6vg\">USGS</a>",
           -59.6708,
           -26.5513
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-23.7701,-69.8728\"><b>M 5.0 - 54 km ESE of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6v0\">USGS</a>",
-          -23.7701,
-          -69.8728
         ]
       ],
       "Floods": [],
@@ -6297,12 +6274,12 @@
         ]
       ]
     },
-    "title": "188 events (17/Aug/2021 PDT)"
+    "title": "187 events (17/Aug/2021 PDT)"
   },
-  "last_update": "17/Aug/2021 @ 00:01:13 PDT",
+  "last_update": "17/Aug/2021 @ 01:01:04 PDT",
   "neo": {
     "date": "17/Aug/2021 PDT",
-    "last_update": "17/Aug/2021 @ 00:00:36 PDT",
+    "last_update": "17/Aug/2021 @ 01:00:37 PDT",
     "objects": [
       {
         "cat": "17/Aug/2021 @ 05:41:00 ",
@@ -6474,7 +6451,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Aug/2021 @ 00:00:37 PDT",
+    "last_update": "17/Aug/2021 @ 01:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8014,7 +7991,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Aug/2021 @ 00:00:43 PDT",
+    "last_update": "17/Aug/2021 @ 01:00:42 PDT",
     "launches": {
       "future": [
         {
