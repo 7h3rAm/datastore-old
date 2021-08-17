@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Aug/2021 @ 11:00:03 PDT",
+    "last_update": "17/Aug/2021 @ 12:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (17/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -693,6 +693,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f7kd",
+        "location": "http://maps.google.com/maps?q=52.8177,-167.6096",
+        "name": "M 4.0 - 85 km E of Nikolski, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7kd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f7h8",
         "location": "http://maps.google.com/maps?q=38.6755,14.6632",
         "name": "M 4.2 - 18 km NW of Malfa, Italy",
@@ -783,9 +801,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f7mh",
+        "location": "http://maps.google.com/maps?q=52.9206,-167.8826",
+        "name": "M 4.5 - 65 km E of Nikolski, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7mh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f7ej",
         "location": "http://maps.google.com/maps?q=-24.2715,-67.284",
-        "name": "M 4.5 - Chile-Argentina border region",
+        "name": "M 4.5 - 98 km W of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -1009,6 +1045,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ki"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f7ks",
+        "location": "http://maps.google.com/maps?q=-58.0238,-25.4706",
+        "name": "M 6.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ks"
       },
       {
         "category": [
@@ -3661,15 +3715,30 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "17/Aug/2021 @ 11:00:33 PDT",
+    "last_update": "17/Aug/2021 @ 12:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=-58.0238,-25.4706\"><b>M 6.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ks\">USGS</a>",
+          -58.0238,
+          -25.4706
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-23.2175,-176.9563\"><b>M 5.8 - 289 km SW of Vaini, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ki\">USGS</a>",
           -23.2175,
           -176.9563
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=52.9206,-167.8826\"><b>M 4.5 - 65 km E of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7mh\">USGS</a>",
+          52.9206,
+          -167.8826
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=52.8177,-167.6096\"><b>M 4.0 - 85 km E of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7kd\">USGS</a>",
+          52.8177,
+          -167.6096
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=25.7638,99.9985\"><b>M 4.3 - 29 km NW of Dali, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7k5\">USGS</a>",
@@ -3722,7 +3791,7 @@
           125.4397
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2715,-67.284\"><b>M 4.5 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ej\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2715,-67.284\"><b>M 4.5 - 98 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ej\">USGS</a>",
           -24.2715,
           -67.284
         ],
@@ -6442,12 +6511,12 @@
         ]
       ]
     },
-    "title": "199 events (17/Aug/2021 PDT)"
+    "title": "202 events (17/Aug/2021 PDT)"
   },
-  "last_update": "17/Aug/2021 @ 11:01:09 PDT",
+  "last_update": "17/Aug/2021 @ 12:01:08 PDT",
   "neo": {
     "date": "17/Aug/2021 PDT",
-    "last_update": "17/Aug/2021 @ 11:00:35 PDT",
+    "last_update": "17/Aug/2021 @ 12:00:37 PDT",
     "objects": [
       {
         "cat": "17/Aug/2021 @ 05:41:00 ",
@@ -6619,7 +6688,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Aug/2021 @ 11:00:36 PDT",
+    "last_update": "17/Aug/2021 @ 12:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8159,7 +8228,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Aug/2021 @ 11:00:42 PDT",
+    "last_update": "17/Aug/2021 @ 12:00:42 PDT",
     "launches": {
       "future": [
         {
