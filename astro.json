@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Aug/2021 @ 20:00:05 PDT",
+    "last_update": "17/Aug/2021 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (17/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -631,28 +631,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5634",
-        "location": "https://www.google.com/maps/dir/49.0897,-119.48395/@49.0897,-119.48395,3z",
-        "name": "Inkaneep Creek Fire (NkMip Creek Fire), British Columbia, Canada",
-        "source": [
-          {
-            "sid": "BCWILDFIRE",
-            "url": "http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=860"
-          },
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=126920"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5634"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5650",
         "location": "https://www.google.com/maps/dir/35.245,-118.261/@35.245,-118.261,3z",
         "name": "Kern County, Peak Fire, California, United States",
@@ -1035,24 +1013,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f7es",
-        "location": "http://maps.google.com/maps?q=-58.0246,-23.913",
-        "name": "M 5.6 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7es"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f7ki",
         "location": "http://maps.google.com/maps?q=-23.2175,-176.9563",
         "name": "M 5.8 - 289 km SW of Vaini, Tonga",
@@ -1063,6 +1023,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ki"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f7sk",
+        "location": "http://maps.google.com/maps?q=-59.6991,-26.1342",
+        "name": "M 5.8 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7sk"
       },
       {
         "category": [
@@ -2551,24 +2529,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5675",
-        "location": "https://www.google.com/maps/dir/51.6619,-96.635/@51.6619,-96.635,3z",
-        "name": "Wildfire MB-EA158, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5675"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5684",
         "location": "https://www.google.com/maps/dir/52.3678,-95.6856/@52.3678,-95.6856,3z",
         "name": "Wildfire MB-EA168, Manitoba, Canada",
@@ -2651,24 +2611,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5788"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5836",
-        "location": "https://www.google.com/maps/dir/57.2164,-101.6169/@57.2164,-101.6169,3z",
-        "name": "Wildfire MB-NO084, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5836"
       },
       {
         "category": [
@@ -3505,24 +3447,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5645",
-        "location": "https://www.google.com/maps/dir/45.17826,-114.37901/@45.17826,-114.37901,3z",
-        "name": "Wildfires - Lemhi County (Mud Lick Fire), Idaho, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=126821"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5645"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5700",
         "location": "https://www.google.com/maps/dir/48.35426,-116.00995/@48.35426,-116.00995,3z",
         "name": "Wildfires - Lincoln County (Burnt Peak Fire), Montana, United States",
@@ -3733,11 +3657,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "17/Aug/2021 @ 20:00:30 PDT",
+    "last_update": "17/Aug/2021 @ 21:00:30 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.6991,-26.1342\"><b>M 5.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7sk\">USGS</a>",
+          -59.6991,
+          -26.1342
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.0731,-25.5477\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7rs\">USGS</a>",
           -59.0731,
@@ -3842,11 +3771,6 @@
           "<a href=\"http://maps.google.com/maps?q=18.4735,-73.5581\"><b>M 4.1 - 7 km SW of Petit Trou de Nippes, Haiti</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7fk\">USGS</a>",
           18.4735,
           -73.5581
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.0246,-23.913\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7es\">USGS</a>",
-          -58.0246,
-          -23.913
         ]
       ],
       "Floods": [],
@@ -6511,35 +6435,15 @@
           "<a href=\"http://maps.google.com/maps?q=51.71611,-96.30854\"><b>Wildfire - SE of Berens River, Manitoba - Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=126841\">PDC</a>",
           51.71611,
           -96.30854
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.0897,-119.48395\"><b>Inkaneep Creek Fire (NkMip Creek Fire), British Columbia, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://bcfireinfo.for.gov.bc.ca/hprScripts/WildfireNews/OneFire.asp?ID=860\">BCWILDFIRE</a>, <a href=\"http://emops.pdc.org/emops/?hazard_id=126920\">PDC</a>",
-          49.0897,
-          -119.48395
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.6619,-96.635\"><b>Wildfire MB-EA158, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          51.6619,
-          -96.635
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=57.2164,-101.6169\"><b>Wildfire MB-NO084, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          57.2164,
-          -101.6169
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=45.17826,-114.37901\"><b>Wildfires - Lemhi County (Mud Lick Fire), Idaho, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=126821\">PDC</a>",
-          45.17826,
-          -114.37901
         ]
       ]
     },
-    "title": "203 events (17/Aug/2021 PDT)"
+    "title": "199 events (17/Aug/2021 PDT)"
   },
-  "last_update": "17/Aug/2021 @ 20:00:59 PDT",
+  "last_update": "17/Aug/2021 @ 21:00:57 PDT",
   "neo": {
     "date": "18/Aug/2021 PDT",
-    "last_update": "17/Aug/2021 @ 20:00:32 PDT",
+    "last_update": "17/Aug/2021 @ 21:00:30 PDT",
     "objects": [
       {
         "cat": "18/Aug/2021 @ 11:42:00 ",
@@ -6639,7 +6543,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Aug/2021 @ 20:00:32 PDT",
+    "last_update": "17/Aug/2021 @ 21:00:30 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8179,7 +8083,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Aug/2021 @ 20:00:38 PDT",
+    "last_update": "17/Aug/2021 @ 21:00:35 PDT",
     "launches": {
       "future": [
         {
