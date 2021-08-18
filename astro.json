@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Aug/2021 @ 16:00:05 PDT",
+    "last_update": "17/Aug/2021 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (17/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -729,6 +729,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f7ra",
+        "location": "http://maps.google.com/maps?q=12.3671,-87.7436",
+        "name": "M 4.2 - 52 km SW of Jiquilillo, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ra"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f7k5",
         "location": "http://maps.google.com/maps?q=25.7638,99.9985",
         "name": "M 4.3 - 29 km NW of Dali, China",
@@ -847,24 +865,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ej"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f7dp",
-        "location": "http://maps.google.com/maps?q=45.4381,16.277",
-        "name": "M 4.6 - 1 km W of Petrinja, Croatia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7dp"
       },
       {
         "category": [
@@ -1027,24 +1027,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7hy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f7cr",
-        "location": "http://maps.google.com/maps?q=-59.5636,-26.2299",
-        "name": "M 5.5 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7cr"
       },
       {
         "category": [
@@ -3769,11 +3751,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "17/Aug/2021 @ 16:00:34 PDT",
+    "last_update": "17/Aug/2021 @ 17:00:32 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=12.3671,-87.7436\"><b>M 4.2 - 52 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ra\">USGS</a>",
+          12.3671,
+          -87.7436
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.4224,-25.305\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7qj\">USGS</a>",
           -59.4224,
@@ -3883,16 +3870,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.7209,71.1284\"><b>M 4.4 - 30 km ESE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7e3\">USGS</a>",
           36.7209,
           71.1284
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=45.4381,16.277\"><b>M 4.6 - 1 km W of Petrinja, Croatia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7dp\">USGS</a>",
-          45.4381,
-          16.277
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.5636,-26.2299\"><b>M 5.5 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7cr\">USGS</a>",
-          -59.5636,
-          -26.2299
         ]
       ],
       "Floods": [],
@@ -6580,114 +6557,42 @@
         ]
       ]
     },
-    "title": "205 events (17/Aug/2021 PDT)"
+    "title": "204 events (17/Aug/2021 PDT)"
   },
-  "last_update": "17/Aug/2021 @ 16:01:10 PDT",
+  "last_update": "17/Aug/2021 @ 17:01:05 PDT",
   "neo": {
-    "date": "17/Aug/2021 PDT",
-    "last_update": "17/Aug/2021 @ 16:00:37 PDT",
+    "date": "18/Aug/2021 PDT",
+    "last_update": "17/Aug/2021 @ 17:00:34 PDT",
     "objects": [
       {
-        "cat": "17/Aug/2021 @ 05:41:00 ",
-        "diameter": "0.15-0.33 miles",
-        "distance": "31,905,284.79 miles",
-        "hazardous": false,
-        "name": "Asteroid (2000 QT7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3053813",
-        "velocity": "27,532.78 mph"
+        "cat": "18/Aug/2021 @ 11:42:00 ",
+        "diameter": "0.14-0.31 miles",
+        "distance": "19,193,747.94 miles",
+        "hazardous": true,
+        "name": "Asteroid (2015 PM)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3724987",
+        "velocity": "33,205.92 mph"
       },
       {
-        "cat": "17/Aug/2021 @ 05:26:00 ",
-        "diameter": "0.16-0.35 miles",
-        "distance": "43,478,038.12 miles",
-        "hazardous": false,
-        "name": "Asteroid (2010 QN1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3545238",
-        "velocity": "34,063.76 mph"
+        "cat": "18/Aug/2021 @ 04:17:00 ",
+        "diameter": "0.11-0.24 miles",
+        "distance": "11,146,118.05 miles",
+        "hazardous": true,
+        "name": "Asteroid (2015 XE352)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3736679",
+        "velocity": "17,958.69 mph"
       },
       {
-        "cat": "17/Aug/2021 @ 00:06:00 ",
-        "diameter": "0.07-0.15 miles",
-        "distance": "14,666,238.47 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 DK109)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3770284",
-        "velocity": "24,967.01 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 07:17:00 ",
-        "diameter": "0.05-0.12 miles",
-        "distance": "28,903,601.12 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 QC17)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3781002",
-        "velocity": "26,188.02 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 16:30:00 ",
-        "diameter": "0.05-0.12 miles",
-        "distance": "32,976,285.08 miles",
-        "hazardous": false,
-        "name": "Asteroid (2018 PU21)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3826796",
-        "velocity": "19,561.04 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 18:03:00 ",
-        "diameter": "0.06-0.13 miles",
-        "distance": "16,296,186.81 miles",
-        "hazardous": false,
-        "name": "Asteroid (2018 XS)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3836733",
-        "velocity": "33,025.44 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 23:14:00 ",
-        "diameter": "0.09-0.20 miles",
-        "distance": "5,765,695.63 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 NC1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843107",
-        "velocity": "9,660.67 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 07:29:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "41,273,628.67 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 RH)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843765",
-        "velocity": "27,271.78 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 07:38:00 ",
+        "cat": "18/Aug/2021 @ 04:36:00 ",
         "diameter": "0.01-0.01 miles",
-        "distance": "8,135,011.28 miles",
+        "distance": "22,621,179.99 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 DM2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3991737",
-        "velocity": "14,194.27 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 09:21:00 ",
-        "diameter": "0.18-0.40 miles",
-        "distance": "31,083,521.77 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 KQ7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54161063",
-        "velocity": "9,031.20 mph"
-      },
-      {
-        "cat": "17/Aug/2021 @ 19:42:00 ",
-        "diameter": "0.03-0.08 miles",
-        "distance": "7,638,481.99 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 NC6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54169953",
-        "velocity": "16,525.73 mph"
+        "name": "Asteroid (2020 XH2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54098712",
+        "velocity": "17,118.77 mph"
       }
     ],
-    "title": "11 objects making close approach (17/Aug/2021 PDT)"
+    "title": "3 objects making close approach (18/Aug/2021 PDT)"
   },
   "satview": {
     "date": "17/Aug/2021 PDT",
@@ -6757,7 +6662,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Aug/2021 @ 16:00:38 PDT",
+    "last_update": "17/Aug/2021 @ 17:00:34 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8297,7 +8202,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Aug/2021 @ 16:00:43 PDT",
+    "last_update": "17/Aug/2021 @ 17:00:39 PDT",
     "launches": {
       "future": [
         {
