@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Aug/2021 @ 00:00:06 PDT",
+    "last_update": "18/Aug/2021 @ 01:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/M57Ring_HubbleGendler_960.jpg",
     "title": "Rings Around the Ring Nebula (18/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -743,16 +743,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f7gd",
-        "location": "http://maps.google.com/maps?q=15.3172,-94.2304",
-        "name": "M 4.4 - 83 km SW of Cabeza de Toro, Mexico",
+        "eid": "us6000f7ue",
+        "location": "http://maps.google.com/maps?q=-18.2103,-69.7795",
+        "name": "M 4.4 - 51 km SSE of Palca, Peru",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gd"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ue"
       },
       {
         "category": [
@@ -789,42 +789,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7mh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f7gh",
-        "location": "http://maps.google.com/maps?q=32.7399,141.8988",
-        "name": "M 4.8 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f7gj",
-        "location": "http://maps.google.com/maps?q=-17.4415,-174.0108",
-        "name": "M 4.9 - 133 km N of Neiafu, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gj"
       },
       {
         "category": [
@@ -3639,11 +3603,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "18/Aug/2021 @ 00:00:38 PDT",
+    "last_update": "18/Aug/2021 @ 01:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.2103,-69.7795\"><b>M 4.4 - 51 km SSE of Palca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ue\">USGS</a>",
+          -18.2103,
+          -69.7795
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.6991,-26.1342\"><b>M 5.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7sk\">USGS</a>",
           -59.6991,
@@ -3733,21 +3702,6 @@
           "<a href=\"http://maps.google.com/maps?q=-58.7145,-24.613\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gr\">USGS</a>",
           -58.7145,
           -24.613
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=32.7399,141.8988\"><b>M 4.8 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gh\">USGS</a>",
-          32.7399,
-          141.8988
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.4415,-174.0108\"><b>M 4.9 - 133 km N of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gj\">USGS</a>",
-          -17.4415,
-          -174.0108
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=15.3172,-94.2304\"><b>M 4.4 - 83 km SW of Cabeza de Toro, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7gd\">USGS</a>",
-          15.3172,
-          -94.2304
         ]
       ],
       "Floods": [],
@@ -6415,12 +6369,12 @@
         ]
       ]
     },
-    "title": "198 events (18/Aug/2021 PDT)"
+    "title": "196 events (18/Aug/2021 PDT)"
   },
-  "last_update": "18/Aug/2021 @ 00:01:10 PDT",
+  "last_update": "18/Aug/2021 @ 01:01:02 PDT",
   "neo": {
     "date": "18/Aug/2021 PDT",
-    "last_update": "18/Aug/2021 @ 00:00:40 PDT",
+    "last_update": "18/Aug/2021 @ 01:00:35 PDT",
     "objects": [
       {
         "cat": "18/Aug/2021 @ 11:42:00 ",
@@ -6520,7 +6474,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Aug/2021 @ 00:00:40 PDT",
+    "last_update": "18/Aug/2021 @ 01:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8060,7 +8014,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Aug/2021 @ 00:00:47 PDT",
+    "last_update": "18/Aug/2021 @ 01:00:41 PDT",
     "launches": {
       "future": [
         {
