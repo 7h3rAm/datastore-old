@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Aug/2021 @ 09:00:09 PDT",
+    "last_update": "18/Aug/2021 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/M57Ring_HubbleGendler_960.jpg",
     "title": "Rings Around the Ring Nebula (18/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -753,24 +753,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ra"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f7k5",
-        "location": "http://maps.google.com/maps?q=25.7638,99.9985",
-        "name": "M 4.3 - 29 km NW of Dali, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7k5"
       },
       {
         "category": [
@@ -3733,7 +3715,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "18/Aug/2021 @ 09:00:38 PDT",
+    "last_update": "18/Aug/2021 @ 10:00:32 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3847,11 +3829,6 @@
           "<a href=\"http://maps.google.com/maps?q=52.8177,-167.6096\"><b>M 4.0 - 85 km E of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7kd\">USGS</a>",
           52.8177,
           -167.6096
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=25.7638,99.9985\"><b>M 4.3 - 29 km NW of Dali, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7k5\">USGS</a>",
-          25.7638,
-          99.9985
         ]
       ],
       "Floods": [],
@@ -6689,12 +6666,12 @@
         ]
       ]
     },
-    "title": "203 events (18/Aug/2021 PDT)"
+    "title": "202 events (18/Aug/2021 PDT)"
   },
-  "last_update": "18/Aug/2021 @ 09:01:08 PDT",
+  "last_update": "18/Aug/2021 @ 10:01:00 PDT",
   "neo": {
     "date": "18/Aug/2021 PDT",
-    "last_update": "18/Aug/2021 @ 09:00:40 PDT",
+    "last_update": "18/Aug/2021 @ 10:00:34 PDT",
     "objects": [
       {
         "cat": "18/Aug/2021 @ 11:42:00 ",
@@ -6794,7 +6771,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Aug/2021 @ 09:00:40 PDT",
+    "last_update": "18/Aug/2021 @ 10:00:34 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8334,7 +8311,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Aug/2021 @ 09:00:46 PDT",
+    "last_update": "18/Aug/2021 @ 10:00:39 PDT",
     "launches": {
       "future": [
         {
