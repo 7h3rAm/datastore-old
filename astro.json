@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Aug/2021 @ 11:00:07 PDT",
+    "last_update": "20/Aug/2021 @ 12:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg",
     "title": "Three Perseid Nights (20/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -829,6 +829,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f8vk",
+        "location": "http://maps.google.com/maps?q=-20.9163,-178.8789",
+        "name": "M 4.3 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8vk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f8k5",
         "location": "http://maps.google.com/maps?q=-7.7652,118.8978",
         "name": "M 4.5 - 79 km NNE of Bima, Indonesia",
@@ -1337,24 +1355,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5784"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5712",
-        "location": "https://www.google.com/maps/dir/47.912,-117.986/@47.912,-117.986,3z",
-        "name": "Sherwood Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7713/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5712"
       },
       {
         "category": [
@@ -3599,11 +3599,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "20/Aug/2021 @ 11:00:36 PDT",
+    "last_update": "20/Aug/2021 @ 12:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.9163,-178.8789\"><b>M 4.3 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8vk\">USGS</a>",
+          -20.9163,
+          -178.8789
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.2484,124.1658\"><b>M 4.8 - 24 km WSW of Pante Makasar, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8vf\">USGS</a>",
           -9.2484,
@@ -6687,20 +6692,15 @@
           "<a href=\"http://maps.google.com/maps?q=50.94242,-118.46305\"><b>Wildfires - British Columbia (Three Valley Lake Fire), Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=126981\">PDC</a>",
           50.94242,
           -118.46305
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=47.912,-117.986\"><b>Sherwood Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7713/\">InciWeb</a>",
-          47.912,
-          -117.986
         ]
       ]
     },
     "title": "196 events (20/Aug/2021 PDT)"
   },
-  "last_update": "20/Aug/2021 @ 11:01:22 PDT",
+  "last_update": "20/Aug/2021 @ 12:00:36 PDT",
   "neo": {
     "date": "20/Aug/2021 PDT",
-    "last_update": "20/Aug/2021 @ 11:00:41 PDT",
+    "last_update": "20/Aug/2021 @ 12:00:36 PDT",
     "objects": [
       {
         "cat": "20/Aug/2021 @ 08:15:00 ",
@@ -6890,7 +6890,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Aug/2021 @ 11:00:42 PDT",
+    "last_update": "20/Aug/2021 @ 12:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
