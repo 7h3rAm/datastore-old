@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Aug/2021 @ 04:00:07 PDT",
+    "last_update": "20/Aug/2021 @ 05:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg",
     "title": "Three Perseid Nights (20/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -811,24 +811,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f8b2",
-        "location": "http://maps.google.com/maps?q=36.2451,27.1147",
-        "name": "M 4.3 - 40 km S of Mandráki, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8b2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f8k5",
         "location": "http://maps.google.com/maps?q=-7.7652,118.8978",
         "name": "M 4.5 - 79 km NNE of Bima, Indonesia",
@@ -847,24 +829,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f8b9",
-        "location": "http://maps.google.com/maps?q=36.3585,27.1096",
-        "name": "M 4.7 - 28 km S of Mandráki, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8b9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000f8mb",
         "location": "http://maps.google.com/maps?q=-59.3478,-24.7964",
         "name": "M 4.7 - South Sandwich Islands region",
@@ -875,6 +839,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8mb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f8rq",
+        "location": "http://maps.google.com/maps?q=-58.8957,-24.7934",
+        "name": "M 4.8 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8rq"
       },
       {
         "category": [
@@ -1019,24 +1001,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8n5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f8bg",
-        "location": "http://maps.google.com/maps?q=-20.7295,-173.2518",
-        "name": "M 5.3 - 153 km SE of Pangai, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8bg"
       },
       {
         "category": [
@@ -3599,11 +3563,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "20/Aug/2021 @ 04:00:36 PDT",
+    "last_update": "20/Aug/2021 @ 05:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.8957,-24.7934\"><b>M 4.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8rq\">USGS</a>",
+          -58.8957,
+          -24.7934
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.5846,44.2199\"><b>M 4.0 - 21 km ESE of Özalp, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8qe\">USGS</a>",
           38.5846,
@@ -3688,21 +3657,6 @@
           "<a href=\"http://maps.google.com/maps?q=-59.4378,-26.1665\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8eh\">USGS</a>",
           -59.4378,
           -26.1665
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.7295,-173.2518\"><b>M 5.3 - 153 km SE of Pangai, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8bg\">USGS</a>",
-          -20.7295,
-          -173.2518
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.3585,27.1096\"><b>M 4.7 - 28 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8b9\">USGS</a>",
-          36.3585,
-          27.1096
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.2451,27.1147\"><b>M 4.3 - 40 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8b2\">USGS</a>",
-          36.2451,
-          27.1147
         ]
       ],
       "Floods": [],
@@ -6625,12 +6579,12 @@
         ]
       ]
     },
-    "title": "196 events (20/Aug/2021 PDT)"
+    "title": "194 events (20/Aug/2021 PDT)"
   },
-  "last_update": "20/Aug/2021 @ 04:01:07 PDT",
+  "last_update": "20/Aug/2021 @ 05:00:37 PDT",
   "neo": {
     "date": "20/Aug/2021 PDT",
-    "last_update": "20/Aug/2021 @ 04:00:37 PDT",
+    "last_update": "20/Aug/2021 @ 05:00:36 PDT",
     "objects": [
       {
         "cat": "20/Aug/2021 @ 08:15:00 ",
@@ -6820,7 +6774,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Aug/2021 @ 04:00:37 PDT",
+    "last_update": "20/Aug/2021 @ 05:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
