@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Aug/2021 @ 15:00:10 PDT",
+    "last_update": "21/Aug/2021 @ 16:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/j20210815a_cgo_crop1200.jpg",
     "title": "Triple Transit and Mutual Events (21/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -865,16 +865,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f95q",
-        "location": "http://maps.google.com/maps?q=-20.5775,169.9759",
-        "name": "M 4.5 - 135 km SSE of Isangel, Vanuatu",
+        "eid": "us6000f9fh",
+        "location": "http://maps.google.com/maps?q=2.5493,95.57",
+        "name": "M 4.4 - 90 km W of Sinabang, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95q"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9fh"
       },
       {
         "category": [
@@ -983,6 +983,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9e6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f9ff",
+        "location": "http://maps.google.com/maps?q=-18.1998,-70.2889",
+        "name": "M 4.7 - 20 km S of Tacna, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9ff"
       },
       {
         "category": [
@@ -1117,16 +1135,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000f95e",
-        "location": "http://maps.google.com/maps?q=-57.9934,-25.4308",
-        "name": "M 5.0 - South Sandwich Islands region",
+        "eid": "us6000f9f6",
+        "location": "http://maps.google.com/maps?q=36.0225,142.5698",
+        "name": "M 5.2 - 160 km E of Hasaki, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95e"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9f6"
       },
       {
         "category": [
@@ -3599,11 +3617,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "21/Aug/2021 @ 15:00:42 PDT",
+    "last_update": "21/Aug/2021 @ 16:00:39 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.5493,95.57\"><b>M 4.4 - 90 km W of Sinabang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9fh\">USGS</a>",
+          2.5493,
+          95.57
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.1998,-70.2889\"><b>M 4.7 - 20 km S of Tacna, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9ff\">USGS</a>",
+          -18.1998,
+          -70.2889
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.0225,142.5698\"><b>M 5.2 - 160 km E of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9f6\">USGS</a>",
+          36.0225,
+          142.5698
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=33.7467,141.5326\"><b>M 4.7 - 191 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9e6\">USGS</a>",
           33.7467,
@@ -3718,16 +3751,6 @@
           "<a href=\"http://maps.google.com/maps?q=3.8356,126.6372\"><b>M 4.4 - 216 km SE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f96l\">USGS</a>",
           3.8356,
           126.6372
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.9934,-25.4308\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95e\">USGS</a>",
-          -57.9934,
-          -25.4308
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.5775,169.9759\"><b>M 4.5 - 135 km SSE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95q\">USGS</a>",
-          -20.5775,
-          169.9759
         ]
       ],
       "Floods": [],
@@ -6780,12 +6803,12 @@
         ]
       ]
     },
-    "title": "196 events (21/Aug/2021 PDT)"
+    "title": "197 events (21/Aug/2021 PDT)"
   },
-  "last_update": "21/Aug/2021 @ 15:01:37 PDT",
+  "last_update": "21/Aug/2021 @ 16:01:25 PDT",
   "neo": {
     "date": "21/Aug/2021 PDT",
-    "last_update": "21/Aug/2021 @ 15:00:43 PDT",
+    "last_update": "21/Aug/2021 @ 16:00:40 PDT",
     "objects": [
       {
         "cat": "21/Aug/2021 @ 16:27:00 ",
@@ -7056,7 +7079,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Aug/2021 @ 15:00:43 PDT",
+    "last_update": "21/Aug/2021 @ 16:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8596,7 +8619,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Aug/2021 @ 15:00:49 PDT",
+    "last_update": "21/Aug/2021 @ 16:00:45 PDT",
     "launches": {
       "future": [
         {
