@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Aug/2021 @ 17:00:07 PDT",
+    "last_update": "20/Aug/2021 @ 18:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg",
     "title": "Three Perseid Nights (20/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -821,24 +821,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95q"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f8k5",
-        "location": "http://maps.google.com/maps?q=-7.7652,118.8978",
-        "name": "M 4.5 - 79 km NNE of Bima, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8k5"
       },
       {
         "category": [
@@ -3581,7 +3563,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "20/Aug/2021 @ 17:00:36 PDT",
+    "last_update": "20/Aug/2021 @ 18:00:32 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3695,11 +3677,6 @@
           "<a href=\"http://maps.google.com/maps?q=-56.8975,-25.0878\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8kd\">USGS</a>",
           -56.8975,
           -25.0878
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.7652,118.8978\"><b>M 4.5 - 79 km NNE of Bima, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8k5\">USGS</a>",
-          -7.7652,
-          118.8978
         ]
       ],
       "Floods": [],
@@ -6677,12 +6654,12 @@
         ]
       ]
     },
-    "title": "195 events (20/Aug/2021 PDT)"
+    "title": "194 events (20/Aug/2021 PDT)"
   },
-  "last_update": "20/Aug/2021 @ 17:01:23 PDT",
+  "last_update": "20/Aug/2021 @ 18:00:33 PDT",
   "neo": {
     "date": "21/Aug/2021 PDT",
-    "last_update": "20/Aug/2021 @ 17:00:41 PDT",
+    "last_update": "20/Aug/2021 @ 18:00:33 PDT",
     "objects": [
       {
         "cat": "21/Aug/2021 @ 16:27:00 ",
