@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Aug/2021 @ 19:00:08 PDT",
+    "last_update": "20/Aug/2021 @ 20:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/ThreeNightsPerseids1024.jpg",
     "title": "Three Perseid Nights (20/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000f97f",
+        "location": "http://maps.google.com/maps?q=37.9715,72.5507",
+        "name": "M 4.3 - 102 km ENE of Khorugh, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000f94g",
         "location": "http://maps.google.com/maps?q=-7.9838,-74.4216",
         "name": "M 4.3 - 46 km NNE of Pucallpa, Peru",
@@ -767,6 +785,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8vk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f96l",
+        "location": "http://maps.google.com/maps?q=3.8356,126.6372",
+        "name": "M 4.4 - 216 km SE of Sarangani, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f96l"
       },
       {
         "category": [
@@ -821,24 +857,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8s7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000f8mb",
-        "location": "http://maps.google.com/maps?q=-59.3478,-24.7964",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8mb"
       },
       {
         "category": [
@@ -911,6 +929,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8rq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000f97j",
+        "location": "http://maps.google.com/maps?q=27.1899,105.4357",
+        "name": "M 4.9 - 19 km SE of Bijie, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97j"
       },
       {
         "category": [
@@ -3527,15 +3563,30 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "20/Aug/2021 @ 19:00:42 PDT",
+    "last_update": "20/Aug/2021 @ 20:00:49 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=27.1899,105.4357\"><b>M 4.9 - 19 km SE of Bijie, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97j\">USGS</a>",
+          27.1899,
+          105.4357
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.9715,72.5507\"><b>M 4.3 - 102 km ENE of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97f\">USGS</a>",
+          37.9715,
+          72.5507
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=35.809,124.6295\"><b>M 4.6 - 173 km NW of Sinan, South Korea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f97a\">USGS</a>",
           35.809,
           124.6295
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=3.8356,126.6372\"><b>M 4.4 - 216 km SE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f96l\">USGS</a>",
+          3.8356,
+          126.6372
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-57.9934,-25.4308\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f95e\">USGS</a>",
@@ -3626,11 +3677,6 @@
           "<a href=\"http://maps.google.com/maps?q=-58.5782,-23.1901\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8mc\">USGS</a>",
           -58.5782,
           -23.1901
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.3478,-24.7964\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f8mb\">USGS</a>",
-          -59.3478,
-          -24.7964
         ]
       ],
       "Floods": [],
@@ -6608,12 +6654,12 @@
         ]
       ]
     },
-    "title": "192 events (20/Aug/2021 PDT)"
+    "title": "194 events (20/Aug/2021 PDT)"
   },
-  "last_update": "20/Aug/2021 @ 19:01:31 PDT",
+  "last_update": "20/Aug/2021 @ 20:00:56 PDT",
   "neo": {
     "date": "21/Aug/2021 PDT",
-    "last_update": "20/Aug/2021 @ 19:00:48 PDT",
+    "last_update": "20/Aug/2021 @ 20:00:56 PDT",
     "objects": [
       {
         "cat": "21/Aug/2021 @ 16:27:00 ",
