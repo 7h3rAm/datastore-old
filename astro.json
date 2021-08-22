@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Aug/2021 @ 18:00:07 PDT",
+    "last_update": "21/Aug/2021 @ 19:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/j20210815a_cgo_crop1200.jpg",
     "title": "Triple Transit and Mutual Events (21/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1118,8 +1118,8 @@
           }
         ],
         "eid": "us6000f9gd",
-        "location": "http://maps.google.com/maps?q=-60.1023,-24.4608",
-        "name": "M 6.9 - South Sandwich Islands region",
+        "location": "http://maps.google.com/maps?q=-60.1399,-24.4028",
+        "name": "M 6.8 - South Sandwich Islands region",
         "source": [
           {
             "sid": "USGS",
@@ -3599,15 +3599,15 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "21/Aug/2021 @ 18:00:36 PDT",
+    "last_update": "21/Aug/2021 @ 19:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-60.1023,-24.4608\"><b>M 6.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9gd\">USGS</a>",
-          -60.1023,
-          -24.4608
+          "<a href=\"http://maps.google.com/maps?q=-60.1399,-24.4028\"><b>M 6.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9gd\">USGS</a>",
+          -60.1399,
+          -24.4028
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=2.5493,95.57\"><b>M 4.4 - 90 km W of Sinabang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9fh\">USGS</a>",
@@ -6782,10 +6782,10 @@
     },
     "title": "196 events (21/Aug/2021 PDT)"
   },
-  "last_update": "21/Aug/2021 @ 18:01:22 PDT",
+  "last_update": "21/Aug/2021 @ 19:01:25 PDT",
   "neo": {
     "date": "22/Aug/2021 PDT",
-    "last_update": "21/Aug/2021 @ 18:00:37 PDT",
+    "last_update": "21/Aug/2021 @ 19:00:38 PDT",
     "objects": [
       {
         "cat": "22/Aug/2021 @ 12:47:00 ",
@@ -7038,7 +7038,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Aug/2021 @ 18:00:37 PDT",
+    "last_update": "21/Aug/2021 @ 19:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -8578,7 +8578,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Aug/2021 @ 18:00:42 PDT",
+    "last_update": "21/Aug/2021 @ 19:00:43 PDT",
     "launches": {
       "future": [
         {
