@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Aug/2021 @ 08:00:08 PDT",
+    "last_update": "30/Aug/2021 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/FireRainbow_Harbig_960.jpg",
     "title": "A Fire Rainbow over West Virginia (30/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -816,6 +816,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f5pz",
+        "location": "http://maps.google.com/maps?q=-59.5325,-26.4372",
+        "name": "M 5.2 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5pz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f5iz",
         "location": "http://maps.google.com/maps?q=-58.1011,-23.5325",
         "name": "M 5.4 - South Sandwich Islands region",
@@ -1138,6 +1156,28 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5905"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5908",
+        "location": "https://www.google.com/maps/dir/21.5,-50.9/@21.5,-50.9,3z",
+        "name": "Tropical Storm Kate",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/KATE.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5908"
       },
       {
         "category": [
@@ -2592,11 +2632,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "30/Aug/2021 @ 08:00:11 PDT",
+    "last_update": "30/Aug/2021 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.5325,-26.4372\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5pz\">USGS</a>",
+          -59.5325,
+          -26.4372
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.8655,117.6099\"><b>M 4.5 - 62 km NNE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5p9\">USGS</a>",
           -7.8655,
@@ -4320,6 +4365,11 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=21.5,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          21.5,
+          -50.9
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=35.1,-46.8\"><b>Tropical Storm Julian</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000820&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/JULIAN.shtml\">NOAA_NHC</a>",
           35.1,
           -46.8
@@ -5048,12 +5098,12 @@
         ]
       ]
     },
-    "title": "141 events (30/Aug/2021 PDT)"
+    "title": "143 events (30/Aug/2021 PDT)"
   },
-  "last_update": "30/Aug/2021 @ 08:00:42 PDT",
+  "last_update": "30/Aug/2021 @ 09:00:36 PDT",
   "neo": {
     "date": "30/Aug/2021 PDT",
-    "last_update": "30/Aug/2021 @ 08:00:12 PDT",
+    "last_update": "30/Aug/2021 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "30/Aug/2021 @ 02:58:00 ",
@@ -5207,7 +5257,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Aug/2021 @ 08:00:12 PDT",
+    "last_update": "30/Aug/2021 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6747,7 +6797,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Aug/2021 @ 08:00:19 PDT",
+    "last_update": "30/Aug/2021 @ 09:00:13 PDT",
     "launches": {
       "future": [
         {
