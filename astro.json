@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Aug/2021 @ 20:00:08 PDT",
+    "last_update": "29/Aug/2021 @ 21:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/phas_jpl_960.jpg",
     "title": "Orbits of Potentially Hazardous Asteroids (29/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1251,7 +1251,7 @@
           }
         ],
         "eid": "EONET_5901",
-        "location": "https://www.google.com/maps/dir/18.6,-80.5/20,-81.4/20.7,-82.1/22.1,-83.2/23.0,-84.0/24,-85.2/24.8,-86.1/26.2,-87/27.2,-88/28,-89.1/28.2,-89.3/28.8,-90/28.9,-90.1/29.5,-90.6/@18.6,-80.5,3z",
+        "location": "https://www.google.com/maps/dir/18.6,-80.5/20,-81.4/20.7,-82.1/22.1,-83.2/23.0,-84.0/24,-85.2/24.8,-86.1/26.2,-87/27.2,-88/28,-89.1/28.2,-89.3/28.8,-90/28.9,-90.1/29.5,-90.6/20.1,-50.6/30.4,-90.7/@18.6,-80.5,3z",
         "name": "Tropical Storm Ida",
         "source": [
           {
@@ -2206,24 +2206,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5839",
-        "location": "https://www.google.com/maps/dir/57.4306,-95.0492/@57.4306,-95.0492,3z",
-        "name": "Wildfire MB-NO121, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5839"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5744",
         "location": "https://www.google.com/maps/dir/56.9119,-96.3331/@56.9119,-96.3331,3z",
         "name": "Wildfire MB-NO124, Manitoba, Canada",
@@ -2758,7 +2740,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "29/Aug/2021 @ 20:00:37 PDT",
+    "last_update": "29/Aug/2021 @ 21:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4591,6 +4573,16 @@
           -90.6
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=20.1,-50.6\"><b>Tropical Storm Ida</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000818&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IDA.shtml\">NOAA_NHC</a>",
+          20.1,
+          -50.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.4,-90.7\"><b>Tropical Storm Ida</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000818&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IDA.shtml\">NOAA_NHC</a>",
+          30.4,
+          -90.7
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=12.3,-100.4\"><b>Tropical Storm Nora</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000817&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/NORA.shtml\">NOAA_NHC</a>",
           12.3,
           -100.4
@@ -5256,20 +5248,15 @@
           "<a href=\"http://maps.google.com/maps?q=47.764,-113.996\"><b>Boulder 2700 Fire </b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7754/\">InciWeb</a>",
           47.764,
           -113.996
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=57.4306,-95.0492\"><b>Wildfire MB-NO121, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          57.4306,
-          -95.0492
         ]
       ]
     },
-    "title": "150 events (29/Aug/2021 PDT)"
+    "title": "149 events (29/Aug/2021 PDT)"
   },
-  "last_update": "29/Aug/2021 @ 20:01:27 PDT",
+  "last_update": "29/Aug/2021 @ 21:01:19 PDT",
   "neo": {
     "date": "30/Aug/2021 PDT",
-    "last_update": "29/Aug/2021 @ 20:00:38 PDT",
+    "last_update": "29/Aug/2021 @ 21:00:36 PDT",
     "objects": [
       {
         "cat": "30/Aug/2021 @ 02:58:00 ",
@@ -5414,7 +5401,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Aug/2021 @ 20:00:38 PDT",
+    "last_update": "29/Aug/2021 @ 21:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6954,7 +6941,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Aug/2021 @ 20:00:44 PDT",
+    "last_update": "29/Aug/2021 @ 21:00:42 PDT",
     "launches": {
       "future": [
         {
