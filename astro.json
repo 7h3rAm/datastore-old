@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Aug/2021 @ 13:00:05 PDT",
+    "last_update": "31/Aug/2021 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Luna_Fedez_960.jpg",
     "title": "A Blue Moon in Exaggerated Colors (31/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -758,6 +758,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f6d0",
+        "location": "http://maps.google.com/maps?q=-17.6371,-69.6498",
+        "name": "M 4.3 - 36 km ENE of Palca, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f66z",
         "location": "http://maps.google.com/maps?q=-29.7355,-71.6429",
         "name": "M 4.3 - 37 km NW of Coquimbo, Chile",
@@ -1320,24 +1338,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5784"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5786",
-        "location": "https://www.google.com/maps/dir/42.901,-123.111/@42.901,-123.111,3z",
-        "name": "Skyline Ridge Complex Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7762/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5786"
       },
       {
         "category": [
@@ -2808,11 +2808,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "31/Aug/2021 @ 13:00:07 PDT",
+    "last_update": "31/Aug/2021 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.6371,-69.6498\"><b>M 4.3 - 36 km ENE of Palca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0\">USGS</a>",
+          -17.6371,
+          -69.6498
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-60.1686,-24.0502\"><b>M 4.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6ck\">USGS</a>",
           -60.1686,
@@ -5341,20 +5346,15 @@
           "<a href=\"http://maps.google.com/maps?q=40.34992,-123.06769\"><b>Wildfire - Trinity County (McFarland Fire), California, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127634\">PDC</a>",
           40.34992,
           -123.06769
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.901,-123.111\"><b>Skyline Ridge Complex Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7762/\">InciWeb</a>",
-          42.901,
-          -123.111
         ]
       ]
     },
     "title": "153 events (31/Aug/2021 PDT)"
   },
-  "last_update": "31/Aug/2021 @ 13:00:40 PDT",
+  "last_update": "31/Aug/2021 @ 14:00:39 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "31/Aug/2021 @ 13:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 14:00:06 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5472,7 +5472,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Aug/2021 @ 13:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 14:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -7012,7 +7012,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Aug/2021 @ 13:00:15 PDT",
+    "last_update": "31/Aug/2021 @ 14:00:14 PDT",
     "launches": {
       "future": [
         {
