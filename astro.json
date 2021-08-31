@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Aug/2021 @ 23:00:05 PDT",
+    "last_update": "31/Aug/2021 @ 00:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Luna_Fedez_960.jpg",
     "title": "A Blue Moon in Exaggerated Colors (31/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "30/Aug/2021 PDT",
+    "date": "31/Aug/2021 PDT",
     "events": [
       {
         "category": [
@@ -852,6 +852,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f62t",
+        "location": "http://maps.google.com/maps?q=-60.7953,-25.7863",
+        "name": "M 4.7 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62t"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f60h",
         "location": "http://maps.google.com/maps?q=-3.4543,32.3215",
         "name": "M 4.8 - 25 km NE of Masumbwe, Tanzania",
@@ -952,6 +970,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5u6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f634",
+        "location": "http://maps.google.com/maps?q=-58.0285,-25.6328",
+        "name": "M 5.2 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f634"
       },
       {
         "category": [
@@ -2668,11 +2704,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "30/Aug/2021 @ 23:00:07 PDT",
+    "last_update": "31/Aug/2021 @ 00:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.0285,-25.6328\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f634\">USGS</a>",
+          -58.0285,
+          -25.6328
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-60.7953,-25.7863\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62t\">USGS</a>",
+          -60.7953,
+          -25.7863
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=55.9409,113.3451\"><b>M 5.0 - 23 km SSW of Severomuysk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62p\">USGS</a>",
           55.9409,
@@ -5144,12 +5190,12 @@
         ]
       ]
     },
-    "title": "145 events (30/Aug/2021 PDT)"
+    "title": "147 events (31/Aug/2021 PDT)"
   },
-  "last_update": "30/Aug/2021 @ 23:00:36 PDT",
+  "last_update": "31/Aug/2021 @ 00:00:38 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "30/Aug/2021 @ 23:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 00:00:07 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5200,7 +5246,7 @@
     "title": "5 objects making close approach (31/Aug/2021 PDT)"
   },
   "satview": {
-    "date": "30/Aug/2021 PDT",
+    "date": "31/Aug/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 29/Aug/2021 @ 13:38:04 PDT.",
@@ -5267,7 +5313,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Aug/2021 @ 23:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 00:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5320,7 +5366,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (30/Aug/2021 PDT)"
+    "title": "10 people in space (31/Aug/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6807,7 +6853,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Aug/2021 @ 23:00:15 PDT",
+    "last_update": "31/Aug/2021 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
