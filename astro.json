@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Aug/2021 @ 05:00:06 PDT",
+    "last_update": "31/Aug/2021 @ 06:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Luna_Fedez_960.jpg",
     "title": "A Blue Moon in Exaggerated Colors (31/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1319,7 +1319,7 @@
           }
         ],
         "eid": "EONET_5901",
-        "location": "https://www.google.com/maps/dir/18.6,-80.5/20,-81.4/20.7,-82.1/22.1,-83.2/23.0,-84.0/24,-85.2/24.8,-86.1/26.2,-87/27.2,-88/28,-89.1/28.2,-89.3/28.8,-90/28.9,-90.1/29.5,-90.6/30.3,-90.7/31,-90.8/@18.6,-80.5,3z",
+        "location": "https://www.google.com/maps/dir/18.6,-80.5/20,-81.4/20.7,-82.1/22.1,-83.2/23.0,-84.0/24,-85.2/24.8,-86.1/26.2,-87/27.2,-88/28,-89.1/28.2,-89.3/28.8,-90/28.9,-90.1/29.5,-90.6/30.3,-90.7/31,-90.8/31.9,-90.7/32.6,-90.3/@18.6,-80.5,3z",
         "name": "Tropical Storm Ida",
         "source": [
           {
@@ -1363,7 +1363,7 @@
           }
         ],
         "eid": "EONET_5908",
-        "location": "https://www.google.com/maps/dir/21.5,-50.9/@21.5,-50.9,3z",
+        "location": "https://www.google.com/maps/dir/21.5,-50.9/22.7,-50.9/22.7,-50.9/23,-50.9/@21.5,-50.9,3z",
         "name": "Tropical Storm Kate",
         "source": [
           {
@@ -2740,7 +2740,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "31/Aug/2021 @ 05:00:09 PDT",
+    "last_update": "31/Aug/2021 @ 06:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4538,6 +4538,21 @@
           -50.9
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=22.7,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          22.7,
+          -50.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.7,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          22.7,
+          -50.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          23,
+          -50.9
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=35.1,-46.8\"><b>Tropical Storm Julian</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000820&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/JULIAN.shtml\">NOAA_NHC</a>",
           35.1,
           -46.8
@@ -4631,6 +4646,16 @@
           "<a href=\"http://maps.google.com/maps?q=31,-90.8\"><b>Tropical Storm Ida</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000818&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IDA.shtml\">NOAA_NHC</a>",
           31,
           -90.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=31.9,-90.7\"><b>Tropical Storm Ida</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000818&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IDA.shtml\">NOAA_NHC</a>",
+          31.9,
+          -90.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=32.6,-90.3\"><b>Tropical Storm Ida</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000818&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/IDA.shtml\">NOAA_NHC</a>",
+          32.6,
+          -90.3
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=12.3,-100.4\"><b>Tropical Storm Nora</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000817&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1421.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/NORA.shtml\">NOAA_NHC</a>",
@@ -5238,10 +5263,10 @@
     },
     "title": "149 events (31/Aug/2021 PDT)"
   },
-  "last_update": "31/Aug/2021 @ 05:00:43 PDT",
+  "last_update": "31/Aug/2021 @ 06:00:40 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "31/Aug/2021 @ 05:00:10 PDT",
+    "last_update": "31/Aug/2021 @ 06:00:08 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5295,8 +5320,8 @@
     "date": "31/Aug/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 29/Aug/2021 @ 13:38:04 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/08/29/jpg/epic_1b_20210829204253.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 29/Aug/2021 @ 15:49:00 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/08/29/jpg/epic_1b_20210829225348.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -5359,7 +5384,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Aug/2021 @ 05:00:11 PDT",
+    "last_update": "31/Aug/2021 @ 06:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6899,7 +6924,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Aug/2021 @ 05:00:17 PDT",
+    "last_update": "31/Aug/2021 @ 06:00:15 PDT",
     "launches": {
       "future": [
         {
