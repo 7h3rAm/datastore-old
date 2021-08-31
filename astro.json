@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Aug/2021 @ 17:00:04 PDT",
+    "last_update": "30/Aug/2021 @ 18:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/FireRainbow_Harbig_960.jpg",
     "title": "A Fire Rainbow over West Virginia (30/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -628,6 +628,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5891"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f5yr",
+        "location": "http://maps.google.com/maps?q=-6.399,130.0702",
+        "name": "M 4.1 - Banda Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5yr"
       },
       {
         "category": [
@@ -2632,11 +2650,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "30/Aug/2021 @ 17:00:06 PDT",
+    "last_update": "30/Aug/2021 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.399,130.0702\"><b>M 4.1 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5yr\">USGS</a>",
+          -6.399,
+          130.0702
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-13.7529,167.7876\"><b>M 4.9 - 28 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5y4\">USGS</a>",
           -13.7529,
@@ -5098,12 +5121,12 @@
         ]
       ]
     },
-    "title": "143 events (30/Aug/2021 PDT)"
+    "title": "144 events (30/Aug/2021 PDT)"
   },
-  "last_update": "30/Aug/2021 @ 17:00:39 PDT",
+  "last_update": "30/Aug/2021 @ 18:00:36 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "30/Aug/2021 @ 17:00:06 PDT",
+    "last_update": "30/Aug/2021 @ 18:00:06 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5221,7 +5244,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Aug/2021 @ 17:00:06 PDT",
+    "last_update": "30/Aug/2021 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6258,14 +6281,14 @@
       {
         "asds_attempts": 2,
         "asds_landings": 2,
-        "last_update": "landed on OCISLY as of Jun 17, 2021. ",
+        "last_update": "Covered in graffiti  as of Aug 2, 2021.",
         "launches": 2,
         "name": "B1062",
         "reuse_count": 1,
         "rtls_attempts": 0,
         "rtls_landings": 0,
-        "status": "unknown",
-        "status_emoji": "⚪"
+        "status": "active",
+        "status_emoji": "🟢"
       },
       {
         "asds_attempts": 1,
@@ -6761,7 +6784,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Aug/2021 @ 17:00:15 PDT",
+    "last_update": "30/Aug/2021 @ 18:00:12 PDT",
     "launches": {
       "future": [
         {
