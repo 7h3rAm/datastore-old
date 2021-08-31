@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Aug/2021 @ 20:00:04 PDT",
+    "last_update": "30/Aug/2021 @ 21:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/FireRainbow_Harbig_960.jpg",
     "title": "A Fire Rainbow over West Virginia (30/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -852,6 +852,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f60h",
+        "location": "http://maps.google.com/maps?q=-3.4543,32.3215",
+        "name": "M 4.8 - 25 km NE of Masumbwe, Tanzania",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f60h"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f5y4",
         "location": "http://maps.google.com/maps?q=-13.7529,167.7876",
         "name": "M 4.9 - 28 km ENE of Sola, Vanuatu",
@@ -934,6 +952,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5pz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f60j",
+        "location": "http://maps.google.com/maps?q=-29.9594,-177.515",
+        "name": "M 6.3 - Kermadec Islands, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f60j"
       },
       {
         "category": [
@@ -2170,78 +2206,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5744",
-        "location": "https://www.google.com/maps/dir/56.9119,-96.3331/@56.9119,-96.3331,3z",
-        "name": "Wildfire MB-NO124, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5744"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5745",
-        "location": "https://www.google.com/maps/dir/57.1783,-96.3789/@57.1783,-96.3789,3z",
-        "name": "Wildfire MB-NO125, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5745"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5746",
-        "location": "https://www.google.com/maps/dir/57.2778,-96.8731/@57.2778,-96.8731,3z",
-        "name": "Wildfire MB-NO126, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5746"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5765",
-        "location": "https://www.google.com/maps/dir/56.7183,-100.3767/@56.7183,-100.3767,3z",
-        "name": "Wildfire MB-NO129, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5765"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5840",
         "location": "https://www.google.com/maps/dir/56.8306,-101.4542/@56.8306,-101.4542,3z",
         "name": "Wildfire MB-NO132, Manitoba, Canada",
@@ -2704,11 +2668,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "30/Aug/2021 @ 20:00:06 PDT",
+    "last_update": "30/Aug/2021 @ 21:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.9594,-177.515\"><b>M 6.3 - Kermadec Islands, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f60j\">USGS</a>",
+          -29.9594,
+          -177.515
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.4543,32.3215\"><b>M 4.8 - 25 km NE of Masumbwe, Tanzania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f60h\">USGS</a>",
+          -3.4543,
+          32.3215
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=52.8829,-175.4948\"><b>M 4.3 - 116 km NW of Atka, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f605\">USGS</a>",
           52.8829,
@@ -5167,35 +5141,15 @@
           "<a href=\"http://maps.google.com/maps?q=19.95018,-155.61588\"><b>Wildfire -  Waimea, Hawaii County, Hawaii</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127585\">PDC</a>",
           19.95018,
           -155.61588
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.9119,-96.3331\"><b>Wildfire MB-NO124, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          56.9119,
-          -96.3331
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=57.1783,-96.3789\"><b>Wildfire MB-NO125, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          57.1783,
-          -96.3789
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=57.2778,-96.8731\"><b>Wildfire MB-NO126, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          57.2778,
-          -96.8731
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.7183,-100.3767\"><b>Wildfire MB-NO129, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          56.7183,
-          -100.3767
         ]
       ]
     },
-    "title": "147 events (30/Aug/2021 PDT)"
+    "title": "145 events (30/Aug/2021 PDT)"
   },
-  "last_update": "30/Aug/2021 @ 20:00:40 PDT",
+  "last_update": "30/Aug/2021 @ 21:00:41 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "30/Aug/2021 @ 20:00:07 PDT",
+    "last_update": "30/Aug/2021 @ 21:00:06 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5313,7 +5267,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Aug/2021 @ 20:00:08 PDT",
+    "last_update": "30/Aug/2021 @ 21:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6853,7 +6807,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Aug/2021 @ 20:00:15 PDT",
+    "last_update": "30/Aug/2021 @ 21:00:14 PDT",
     "launches": {
       "future": [
         {
