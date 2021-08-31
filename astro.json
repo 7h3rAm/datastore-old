@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Aug/2021 @ 01:00:05 PDT",
+    "last_update": "31/Aug/2021 @ 02:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Luna_Fedez_960.jpg",
     "title": "A Blue Moon in Exaggerated Colors (31/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -672,24 +672,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f5mh",
-        "location": "http://maps.google.com/maps?q=36.567,70.8573",
-        "name": "M 4.2 - 33 km S of Jurm, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5mh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f5qx",
         "location": "http://maps.google.com/maps?q=-21.3587,-69.8521",
         "name": "M 4.2 - 88 km NNE of Tocopilla, Chile",
@@ -754,6 +736,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5ni"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f648",
+        "location": "http://maps.google.com/maps?q=-28.11,-70.8472",
+        "name": "M 4.4 - 52 km N of Vallenar, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f648"
       },
       {
         "category": [
@@ -2704,11 +2704,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "31/Aug/2021 @ 01:00:07 PDT",
+    "last_update": "31/Aug/2021 @ 02:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-28.11,-70.8472\"><b>M 4.4 - 52 km N of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f648\">USGS</a>",
+          -28.11,
+          -70.8472
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-58.0285,-25.6328\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f634\">USGS</a>",
           -58.0285,
@@ -2813,11 +2818,6 @@
           "<a href=\"http://maps.google.com/maps?q=12.804,121.4679\"><b>M 4.7 - 0 km S of Salcedo, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5nn\">USGS</a>",
           12.804,
           121.4679
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.567,70.8573\"><b>M 4.2 - 33 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5mh\">USGS</a>",
-          36.567,
-          70.8573
         ]
       ],
       "Floods": [],
@@ -5192,10 +5192,10 @@
     },
     "title": "147 events (31/Aug/2021 PDT)"
   },
-  "last_update": "31/Aug/2021 @ 01:00:39 PDT",
+  "last_update": "31/Aug/2021 @ 02:00:36 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "31/Aug/2021 @ 01:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 02:00:08 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5313,7 +5313,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Aug/2021 @ 01:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 02:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6853,7 +6853,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Aug/2021 @ 01:00:15 PDT",
+    "last_update": "31/Aug/2021 @ 02:00:13 PDT",
     "launches": {
       "future": [
         {
