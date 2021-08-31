@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Aug/2021 @ 09:00:04 PDT",
+    "last_update": "31/Aug/2021 @ 10:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2108/Luna_Fedez_960.jpg",
     "title": "A Blue Moon in Exaggerated Colors (31/Aug/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -632,6 +632,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "nc73618401",
+        "location": "http://maps.google.com/maps?q=36.5779991,-121.1798325",
+        "name": "M 4.1 - 6km NNW of Pinnacles, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73618401"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f5yr",
         "location": "http://maps.google.com/maps?q=-6.399,130.0702",
         "name": "M 4.1 - Banda Sea",
@@ -678,24 +696,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5z3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f5qx",
-        "location": "http://maps.google.com/maps?q=-21.3587,-69.8521",
-        "name": "M 4.2 - 88 km NNE of Tocopilla, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5qx"
       },
       {
         "category": [
@@ -912,24 +912,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5y4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f5qr",
-        "location": "http://maps.google.com/maps?q=10.6228,-62.3165",
-        "name": "M 4.9 - 5 km NNW of Güiria, Venezuela",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5qr"
       },
       {
         "category": [
@@ -2772,11 +2754,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "31/Aug/2021 @ 09:00:06 PDT",
+    "last_update": "31/Aug/2021 @ 10:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.5779991,-121.1798325\"><b>M 4.1 - 6km NNW of Pinnacles, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73618401\">USGS</a>",
+          36.5779991,
+          -121.1798325
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-57.0435,-25.1732\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f67h\">USGS</a>",
           -57.0435,
@@ -2901,16 +2888,6 @@
           "<a href=\"http://maps.google.com/maps?q=-60.3127,-27.6082\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5u6\">USGS</a>",
           -60.3127,
           -27.6082
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.3587,-69.8521\"><b>M 4.2 - 88 km NNE of Tocopilla, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5qx\">USGS</a>",
-          -21.3587,
-          -69.8521
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=10.6228,-62.3165\"><b>M 4.9 - 5 km NNW of Güiria, Venezuela</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f5qr\">USGS</a>",
-          10.6228,
-          -62.3165
         ]
       ],
       "Floods": [],
@@ -5303,12 +5280,12 @@
         ]
       ]
     },
-    "title": "151 events (31/Aug/2021 PDT)"
+    "title": "150 events (31/Aug/2021 PDT)"
   },
-  "last_update": "31/Aug/2021 @ 09:00:42 PDT",
+  "last_update": "31/Aug/2021 @ 10:00:41 PDT",
   "neo": {
     "date": "31/Aug/2021 PDT",
-    "last_update": "31/Aug/2021 @ 09:00:07 PDT",
+    "last_update": "31/Aug/2021 @ 10:00:08 PDT",
     "objects": [
       {
         "cat": "31/Aug/2021 @ 05:57:00 ",
@@ -5426,7 +5403,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Aug/2021 @ 09:00:08 PDT",
+    "last_update": "31/Aug/2021 @ 10:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6966,7 +6943,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Aug/2021 @ 09:00:15 PDT",
+    "last_update": "31/Aug/2021 @ 10:00:14 PDT",
     "launches": {
       "future": [
         {
