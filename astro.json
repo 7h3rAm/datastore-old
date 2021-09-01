@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 09:00:08 PDT",
+    "last_update": "01/Sep/2021 @ 10:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -624,24 +624,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6c7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nc73618401",
-        "location": "http://maps.google.com/maps?q=36.5781667,-121.1828333",
-        "name": "M 4.1 - 6km NW of Pinnacles, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73618401"
       },
       {
         "category": [
@@ -2596,7 +2578,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 09:00:35 PDT",
+    "last_update": "01/Sep/2021 @ 10:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2705,11 +2687,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.9205,-114.9459\"><b>M 4.7 - 21 km S of Wells, Nevada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6a0\">USGS</a>",
           40.9205,
           -114.9459
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.5781667,-121.1828333\"><b>M 4.1 - 6km NW of Pinnacles, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73618401\">USGS</a>",
-          36.5781667,
-          -121.1828333
         ]
       ],
       "Floods": [],
@@ -5097,12 +5074,12 @@
         ]
       ]
     },
-    "title": "141 events (01/Sep/2021 PDT)"
+    "title": "140 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 09:01:39 PDT",
+  "last_update": "01/Sep/2021 @ 10:01:18 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 09:00:36 PDT",
+    "last_update": "01/Sep/2021 @ 10:00:37 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5210,8 +5187,8 @@
     "date": "01/Sep/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 31/Aug/2021 @ 04:26:18 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/08/31/jpg/epic_1b_20210831113107.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 31/Aug/2021 @ 13:09:58 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/08/31/jpg/epic_1b_20210831201447.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -5274,7 +5251,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 09:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 10:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6814,7 +6791,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 09:00:53 PDT",
+    "last_update": "01/Sep/2021 @ 10:00:43 PDT",
     "launches": {
       "future": [
         {
