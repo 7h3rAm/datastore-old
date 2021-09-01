@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Aug/2021 @ 22:00:07 PDT",
+    "last_update": "31/Aug/2021 @ 23:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -848,24 +848,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f62t",
-        "location": "http://maps.google.com/maps?q=-60.7953,-25.7863",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f6ez",
         "location": "http://maps.google.com/maps?q=29.8416,-42.7374",
         "name": "M 4.7 - northern Mid-Atlantic Ridge",
@@ -912,24 +894,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6g9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f62p",
-        "location": "http://maps.google.com/maps?q=55.9409,113.3451",
-        "name": "M 5.0 - 23 km SSW of Severomuysk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62p"
       },
       {
         "category": [
@@ -2664,7 +2628,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "31/Aug/2021 @ 22:00:39 PDT",
+    "last_update": "31/Aug/2021 @ 23:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2793,16 +2757,6 @@
           "<a href=\"http://maps.google.com/maps?q=-58.0285,-25.6328\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f634\">USGS</a>",
           -58.0285,
           -25.6328
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-60.7953,-25.7863\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62t\">USGS</a>",
-          -60.7953,
-          -25.7863
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=55.9409,113.3451\"><b>M 5.0 - 23 km SSW of Severomuysk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f62p\">USGS</a>",
-          55.9409,
-          113.3451
         ]
       ],
       "Floods": [],
@@ -5165,12 +5119,12 @@
         ]
       ]
     },
-    "title": "145 events (31/Aug/2021 PDT)"
+    "title": "143 events (31/Aug/2021 PDT)"
   },
-  "last_update": "31/Aug/2021 @ 22:01:34 PDT",
+  "last_update": "31/Aug/2021 @ 23:01:24 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "31/Aug/2021 @ 22:00:42 PDT",
+    "last_update": "31/Aug/2021 @ 23:00:38 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5342,7 +5296,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Aug/2021 @ 22:00:44 PDT",
+    "last_update": "31/Aug/2021 @ 23:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6882,7 +6836,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Aug/2021 @ 22:00:55 PDT",
+    "last_update": "31/Aug/2021 @ 23:00:43 PDT",
     "launches": {
       "future": [
         {
