@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 05:00:10 PDT",
+    "last_update": "01/Sep/2021 @ 06:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1305,7 +1305,7 @@
           }
         ],
         "eid": "EONET_5908",
-        "location": "https://www.google.com/maps/dir/21.5,-50.9/22.7,-50.9/22.7,-50.9/23,-50.9/@21.5,-50.9,3z",
+        "location": "https://www.google.com/maps/dir/21.5,-50.9/22.7,-50.9/22.7,-50.9/23,-50.9/23.5,-50.8/24.6,-50.9/25.4,-51.3/25.7,-51.7/@21.5,-50.9,3z",
         "name": "Tropical Storm Kate",
         "source": [
           {
@@ -1318,6 +1318,28 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5908"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5910",
+        "location": "https://www.google.com/maps/dir/12.3,-24.8/@12.3,-24.8,3z",
+        "name": "Tropical Storm Larry",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/LARRY.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5910"
       },
       {
         "category": [
@@ -2574,7 +2596,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 05:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 06:00:38 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4367,6 +4389,11 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=12.3,-24.8\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          12.3,
+          -24.8
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=21.5,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
           21.5,
           -50.9
@@ -4385,6 +4412,26 @@
           "<a href=\"http://maps.google.com/maps?q=23,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
           23,
           -50.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.5,-50.8\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          23.5,
+          -50.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=24.6,-50.9\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          24.6,
+          -50.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=25.4,-51.3\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          25.4,
+          -51.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=25.7,-51.7\"><b>Tropical Storm Kate</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000819&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/KATE.shtml\">NOAA_NHC</a>",
+          25.7,
+          -51.7
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.1,-46.8\"><b>Tropical Storm Julian</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000820&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/JULIAN.shtml\">NOAA_NHC</a>",
@@ -5050,12 +5097,12 @@
         ]
       ]
     },
-    "title": "140 events (01/Sep/2021 PDT)"
+    "title": "141 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 05:01:30 PDT",
+  "last_update": "01/Sep/2021 @ 06:01:20 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 05:00:40 PDT",
+    "last_update": "01/Sep/2021 @ 06:00:39 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5227,7 +5274,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 05:00:41 PDT",
+    "last_update": "01/Sep/2021 @ 06:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6767,7 +6814,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 05:00:47 PDT",
+    "last_update": "01/Sep/2021 @ 06:00:44 PDT",
     "launches": {
       "future": [
         {
