@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 03:00:10 PDT",
+    "last_update": "01/Sep/2021 @ 04:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -598,7 +598,7 @@
         ],
         "eid": "us7000f6c7",
         "location": "http://maps.google.com/maps?q=33.8638,135.2576",
-        "name": "M 4.0 - 8 km ESE of Gobō, Japan",
+        "name": "M 4.0 - near the south coast of western Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -624,24 +624,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73618401"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f662",
-        "location": "http://maps.google.com/maps?q=-5.6951,128.6141",
-        "name": "M 4.2 - 226 km SSE of Ambon, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f662"
       },
       {
         "category": [
@@ -686,24 +668,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f6d0",
-        "location": "http://maps.google.com/maps?q=-17.6371,-69.6498",
-        "name": "M 4.3 - 36 km ENE of Palca, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f66z",
         "location": "http://maps.google.com/maps?q=-29.7355,-71.6429",
         "name": "M 4.3 - 37 km NW of Coquimbo, Chile",
@@ -732,6 +696,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6ky"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6d0",
+        "location": "http://maps.google.com/maps?q=-17.6371,-69.6498",
+        "name": "M 4.3 - Tarapaca, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6m8",
+        "location": "http://maps.google.com/maps?q=45.678,26.4327",
+        "name": "M 4.4 - 16 km SE of Comandău, Romania",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6m8"
       },
       {
         "category": [
@@ -938,6 +938,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f6m0",
+        "location": "http://maps.google.com/maps?q=-59.0224,-25.6259",
+        "name": "M 5.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6m0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f6jk",
         "location": "http://maps.google.com/maps?q=-22.3048,171.5771",
         "name": "M 5.1 - southeast of the Loyalty Islands",
@@ -966,42 +984,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6l2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "ak021b61ksbu",
-        "location": "http://maps.google.com/maps?q=-17.8385,-178.5487",
-        "name": "M 5.2 - 227 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021b61ksbu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f65t",
-        "location": "http://maps.google.com/maps?q=-18.1109,-178.232",
-        "name": "M 5.2 - 259 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f65t"
       },
       {
         "category": [
@@ -2628,11 +2610,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 03:00:40 PDT",
+    "last_update": "01/Sep/2021 @ 04:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=45.678,26.4327\"><b>M 4.4 - 16 km SE of Comandău, Romania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6m8\">USGS</a>",
+          45.678,
+          26.4327
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.0224,-25.6259\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6m0\">USGS</a>",
+          -59.0224,
+          -25.6259
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.0666,-25.631\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6l9\">USGS</a>",
           -59.0666,
@@ -2704,7 +2696,7 @@
           -179.231
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.6371,-69.6498\"><b>M 4.3 - 36 km ENE of Palca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.6371,-69.6498\"><b>M 4.3 - Tarapaca, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6d0\">USGS</a>",
           -17.6371,
           -69.6498
         ],
@@ -2714,7 +2706,7 @@
           -24.0502
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.8638,135.2576\"><b>M 4.0 - 8 km ESE of Gobō, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6c7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.8638,135.2576\"><b>M 4.0 - near the south coast of western Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6c7\">USGS</a>",
           33.8638,
           135.2576
         ],
@@ -2752,21 +2744,6 @@
           "<a href=\"http://maps.google.com/maps?q=39.0216,30.1878\"><b>M 5.1 - 19 km W of İhsaniye, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f66b\">USGS</a>",
           39.0216,
           30.1878
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.6951,128.6141\"><b>M 4.2 - 226 km SSE of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f662\">USGS</a>",
-          -5.6951,
-          128.6141
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1109,-178.232\"><b>M 5.2 - 259 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f65t\">USGS</a>",
-          -18.1109,
-          -178.232
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.8385,-178.5487\"><b>M 5.2 - 227 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021b61ksbu\">USGS</a>",
-          -17.8385,
-          -178.5487
         ]
       ],
       "Floods": [],
@@ -5119,12 +5096,12 @@
         ]
       ]
     },
-    "title": "143 events (01/Sep/2021 PDT)"
+    "title": "142 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 03:01:26 PDT",
+  "last_update": "01/Sep/2021 @ 04:01:18 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 03:00:40 PDT",
+    "last_update": "01/Sep/2021 @ 04:00:35 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5296,7 +5273,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 03:00:40 PDT",
+    "last_update": "01/Sep/2021 @ 04:00:35 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6836,7 +6813,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 03:00:48 PDT",
+    "last_update": "01/Sep/2021 @ 04:00:41 PDT",
     "launches": {
       "future": [
         {
