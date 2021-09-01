@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 14:00:08 PDT",
+    "last_update": "01/Sep/2021 @ 15:00:10 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -614,24 +614,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f6es",
-        "location": "http://maps.google.com/maps?q=-23.8335,-179.231",
-        "name": "M 4.2 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6es"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f6gb",
         "location": "http://maps.google.com/maps?q=55.9494,113.3721",
         "name": "M 4.3 - 22 km S of Severomuysk, Russia",
@@ -732,6 +714,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6fb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6va",
+        "location": "http://maps.google.com/maps?q=37.7148,141.7225",
+        "name": "M 4.6 - 68 km ENE of Namie, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6va"
       },
       {
         "category": [
@@ -1414,24 +1414,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5752",
-        "location": "https://www.google.com/maps/dir/48.21894,-116.92985/@48.21894,-116.92985,3z",
-        "name": "Wildfire - Bonner County (Pioneer Fire), Idaho, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127680"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5752"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5870",
         "location": "https://www.google.com/maps/dir/49.83591,-120.89404/@49.83591,-120.89404,3z",
         "name": "Wildfire - British Columbia (Brook Creek Fire), Canada",
@@ -1640,24 +1622,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5865"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5750",
-        "location": "https://www.google.com/maps/dir/47.77489,-113.99586/@47.77489,-113.99586,3z",
-        "name": "Wildfire - Lake County (Boulder 2700 Fire), Montana, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127681"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5750"
       },
       {
         "category": [
@@ -2134,24 +2098,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5753",
-        "location": "https://www.google.com/maps/dir/38.30693,21.96864/@38.30693,21.96864,3z",
-        "name": "Wildfires - Aigialeia Municipality, Greece",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127676"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5753"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5821",
         "location": "https://www.google.com/maps/dir/37.64685,21.8275/@37.64685,21.8275,3z",
         "name": "Wildfires - Ancient Olympia, Greece",
@@ -2494,24 +2440,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5754",
-        "location": "https://www.google.com/maps/dir/41.90777,14.92611/@41.90777,14.92611,3z",
-        "name": "Wildfires - Termoli, Italy",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127675"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5754"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5830",
         "location": "https://www.google.com/maps/dir/39.40551,-121.29963/@39.40551,-121.29963,3z",
         "name": "Wildfires - Yuba County (Glen Fire), California, United States",
@@ -2524,11 +2452,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 14:00:45 PDT",
+    "last_update": "01/Sep/2021 @ 15:00:39 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.7148,141.7225\"><b>M 4.6 - 68 km ENE of Namie, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6va\">USGS</a>",
+          37.7148,
+          141.7225
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-27.7414,-71.1918\"><b>M 5.6 - 94 km WSW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6uy\">USGS</a>",
           -27.7414,
@@ -2618,11 +2551,6 @@
           "<a href=\"http://maps.google.com/maps?q=29.8416,-42.7374\"><b>M 4.7 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6ez\">USGS</a>",
           29.8416,
           -42.7374
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-23.8335,-179.231\"><b>M 4.2 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6es\">USGS</a>",
-          -23.8335,
-          -179.231
         ]
       ],
       "Floods": [],
@@ -4982,35 +4910,15 @@
           "<a href=\"http://maps.google.com/maps?q=40.748,-123.31743\"><b>Wildfire - Trinity County (Monument Fire), California, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127682\">PDC</a>",
           40.748,
           -123.31743
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=47.77489,-113.99586\"><b>Wildfire - Lake County (Boulder 2700 Fire), Montana, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127681\">PDC</a>",
-          47.77489,
-          -113.99586
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.21894,-116.92985\"><b>Wildfire - Bonner County (Pioneer Fire), Idaho, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127680\">PDC</a>",
-          48.21894,
-          -116.92985
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.30693,21.96864\"><b>Wildfires - Aigialeia Municipality, Greece</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127676\">PDC</a>",
-          38.30693,
-          21.96864
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.90777,14.92611\"><b>Wildfires - Termoli, Italy</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127675\">PDC</a>",
-          41.90777,
-          14.92611
         ]
       ]
     },
-    "title": "137 events (01/Sep/2021 PDT)"
+    "title": "133 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 14:01:41 PDT",
+  "last_update": "01/Sep/2021 @ 15:01:25 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 14:00:48 PDT",
+    "last_update": "01/Sep/2021 @ 15:00:41 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5182,7 +5090,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 14:00:48 PDT",
+    "last_update": "01/Sep/2021 @ 15:00:41 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6722,7 +6630,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 14:00:56 PDT",
+    "last_update": "01/Sep/2021 @ 15:00:46 PDT",
     "launches": {
       "future": [
         {
