@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 00:00:10 PDT",
+    "last_update": "01/Sep/2021 @ 01:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -758,24 +758,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f648",
-        "location": "http://maps.google.com/maps?q=-28.11,-70.8472",
-        "name": "M 4.4 - 52 km N of Vallenar, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f648"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f66h",
         "location": "http://maps.google.com/maps?q=-13.5113,-75.9269",
         "name": "M 4.5 - 23 km N of Humay, Peru",
@@ -894,6 +876,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6g9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6jx",
+        "location": "http://maps.google.com/maps?q=-42.6502,-82.4673",
+        "name": "M 4.9 - West Chile Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6jx"
       },
       {
         "category": [
@@ -1572,24 +1572,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5769",
-        "location": "https://www.google.com/maps/dir/36.90983,31.61545/@36.90983,31.61545,3z",
-        "name": "Wildfire - E of Antalya - Turkey",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127650"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5769"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5793",
         "location": "https://www.google.com/maps/dir/37.051774213,22.244933855/@37.051774213,22.244933855,3z",
         "name": "Wildfire - E of Kalamata, Peloponnisos - Greece",
@@ -2086,24 +2068,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5822"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5772",
-        "location": "https://www.google.com/maps/dir/36.96302,27.87693/@36.96302,27.87693,3z",
-        "name": "Wildfire - SW of Mugla - Turkey",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127649"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5772"
       },
       {
         "category": [
@@ -2628,11 +2592,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 00:00:44 PDT",
+    "last_update": "01/Sep/2021 @ 01:00:38 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-42.6502,-82.4673\"><b>M 4.9 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6jx\">USGS</a>",
+          -42.6502,
+          -82.4673
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-22.3048,171.5771\"><b>M 5.1 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6jk\">USGS</a>",
           -22.3048,
@@ -2752,11 +2721,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.2815,-124.4008333\"><b>M 4.0 - 11km WSW of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73618286\">USGS</a>",
           40.2815,
           -124.4008333
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.11,-70.8472\"><b>M 4.4 - 52 km N of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f648\">USGS</a>",
-          -28.11,
-          -70.8472
         ]
       ],
       "Floods": [],
@@ -5106,25 +5070,15 @@
           "<a href=\"http://maps.google.com/maps?q=37.7455,14.98278\"><b>Wildfires - Catania, Italy</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127674\">PDC</a>",
           37.7455,
           14.98278
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.90983,31.61545\"><b>Wildfire - E of Antalya - Turkey</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127650\">PDC</a>",
-          36.90983,
-          31.61545
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.96302,27.87693\"><b>Wildfire - SW of Mugla - Turkey</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127649\">PDC</a>",
-          36.96302,
-          27.87693
         ]
       ]
     },
-    "title": "143 events (01/Sep/2021 PDT)"
+    "title": "141 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 00:01:31 PDT",
+  "last_update": "01/Sep/2021 @ 01:01:23 PDT",
   "neo": {
     "date": "01/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 00:00:45 PDT",
+    "last_update": "01/Sep/2021 @ 01:00:38 PDT",
     "objects": [
       {
         "cat": "01/Sep/2021 @ 06:04:00 ",
@@ -5296,7 +5250,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 00:00:45 PDT",
+    "last_update": "01/Sep/2021 @ 01:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6836,7 +6790,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 00:00:52 PDT",
+    "last_update": "01/Sep/2021 @ 01:00:44 PDT",
     "launches": {
       "future": [
         {
