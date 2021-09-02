@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 21:00:07 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
-    "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
+    "last_update": "01/Sep/2021 @ 22:00:09 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
+    "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -606,6 +606,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5911"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6pu",
+        "location": "http://maps.google.com/maps?q=-24.3093,-67.4915",
+        "name": "M 4.2 - 119 km W of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6pu"
       },
       {
         "category": [
@@ -2290,7 +2308,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 21:00:36 PDT",
+    "last_update": "01/Sep/2021 @ 22:00:38 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2324,6 +2342,11 @@
           "<a href=\"http://maps.google.com/maps?q=-1.1138,-24.2695\"><b>M 5.7 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6q8\">USGS</a>",
           -1.1138,
           -24.2695
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.3093,-67.4915\"><b>M 4.2 - 119 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6pu\">USGS</a>",
+          -24.3093,
+          -67.4915
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=45.678,26.4327\"><b>M 4.4 - 16 km SE of Comandău, Romania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6m8\">USGS</a>",
@@ -4706,12 +4729,12 @@
         ]
       ]
     },
-    "title": "124 events (01/Sep/2021 PDT)"
+    "title": "125 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 21:01:27 PDT",
+  "last_update": "01/Sep/2021 @ 22:01:28 PDT",
   "neo": {
     "date": "02/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 21:00:38 PDT",
+    "last_update": "01/Sep/2021 @ 22:00:38 PDT",
     "objects": [
       {
         "cat": "02/Sep/2021 @ 18:19:00 ",
@@ -4937,7 +4960,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 21:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 22:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6477,7 +6500,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 21:00:45 PDT",
+    "last_update": "01/Sep/2021 @ 22:00:44 PDT",
     "launches": {
       "future": [
         {
