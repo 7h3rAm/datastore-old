@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Sep/2021 @ 11:00:10 PDT",
+    "last_update": "02/Sep/2021 @ 12:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
     "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -726,6 +726,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f76e",
+        "location": "http://maps.google.com/maps?q=-60.4438,-48.6152",
+        "name": "M 4.7 - Scotia Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f76e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f709",
         "location": "http://maps.google.com/maps?q=-3.8701,-76.2769",
         "name": "M 4.9 - 47 km SSE of Alianza Cristiana, Peru",
@@ -826,24 +844,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6wz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f6uy",
-        "location": "http://maps.google.com/maps?q=-27.7414,-71.1918",
-        "name": "M 5.6 - 94 km WSW of Copiapó, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6uy"
       },
       {
         "category": [
@@ -2248,11 +2248,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "02/Sep/2021 @ 11:00:39 PDT",
+    "last_update": "02/Sep/2021 @ 12:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-60.4438,-48.6152\"><b>M 4.7 - Scotia Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f76e\">USGS</a>",
+          -60.4438,
+          -48.6152
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.9579,-29.3526\"><b>M 4.6 - Azores Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f741\">USGS</a>",
           41.9579,
@@ -2322,11 +2327,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.7148,141.7225\"><b>M 4.6 - 68 km ENE of Namie, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6va\">USGS</a>",
           37.7148,
           141.7225
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-27.7414,-71.1918\"><b>M 5.6 - 94 km WSW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6uy\">USGS</a>",
-          -27.7414,
-          -71.1918
         ]
       ],
       "Floods": [],
@@ -4671,10 +4671,10 @@
     },
     "title": "121 events (02/Sep/2021 PDT)"
   },
-  "last_update": "02/Sep/2021 @ 11:01:30 PDT",
+  "last_update": "02/Sep/2021 @ 12:01:26 PDT",
   "neo": {
     "date": "02/Sep/2021 PDT",
-    "last_update": "02/Sep/2021 @ 11:00:40 PDT",
+    "last_update": "02/Sep/2021 @ 12:00:37 PDT",
     "objects": [
       {
         "cat": "02/Sep/2021 @ 18:19:00 ",
@@ -4900,7 +4900,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Sep/2021 @ 11:00:40 PDT",
+    "last_update": "02/Sep/2021 @ 12:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6440,7 +6440,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Sep/2021 @ 11:00:47 PDT",
+    "last_update": "02/Sep/2021 @ 12:00:42 PDT",
     "launches": {
       "future": [
         {
