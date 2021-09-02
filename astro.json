@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Sep/2021 @ 14:00:08 PDT",
+    "last_update": "02/Sep/2021 @ 15:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
     "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -600,6 +600,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f788",
+        "location": "http://maps.google.com/maps?q=36.3401,27.1136",
+        "name": "M 4.1 - 30 km S of Mandráki, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f6xd",
         "location": "http://maps.google.com/maps?q=41.4497,142.1389",
         "name": "M 4.2 - 79 km ENE of Mutsu, Japan",
@@ -628,6 +646,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f71f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f775",
+        "location": "http://maps.google.com/maps?q=39.4779,144.6747",
+        "name": "M 4.5 - 234 km E of Yamada, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f775"
       },
       {
         "category": [
@@ -2190,15 +2226,25 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "02/Sep/2021 @ 14:00:36 PDT",
+    "last_update": "02/Sep/2021 @ 15:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - 30 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
+          36.3401,
+          27.1136
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=50.4377,150.5626\"><b>M 5.2 - northwest of the Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f77w\">USGS</a>",
           50.4377,
           150.5626
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=39.4779,144.6747\"><b>M 4.5 - 234 km E of Yamada, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f775\">USGS</a>",
+          39.4779,
+          144.6747
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-60.4438,-48.6152\"><b>M 4.7 - Scotia Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f76e\">USGS</a>",
@@ -4596,12 +4642,12 @@
         ]
       ]
     },
-    "title": "118 events (02/Sep/2021 PDT)"
+    "title": "120 events (02/Sep/2021 PDT)"
   },
-  "last_update": "02/Sep/2021 @ 14:01:26 PDT",
+  "last_update": "02/Sep/2021 @ 15:01:24 PDT",
   "neo": {
     "date": "02/Sep/2021 PDT",
-    "last_update": "02/Sep/2021 @ 14:00:38 PDT",
+    "last_update": "02/Sep/2021 @ 15:00:38 PDT",
     "objects": [
       {
         "cat": "02/Sep/2021 @ 18:19:00 ",
@@ -4827,7 +4873,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Sep/2021 @ 14:00:39 PDT",
+    "last_update": "02/Sep/2021 @ 15:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6367,7 +6413,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Sep/2021 @ 14:00:45 PDT",
+    "last_update": "02/Sep/2021 @ 15:00:44 PDT",
     "launches": {
       "future": [
         {
