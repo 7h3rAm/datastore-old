@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Sep/2021 @ 17:00:10 PDT",
+    "last_update": "01/Sep/2021 @ 18:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DancingGhosts_EnglishNorris_960.jpg",
     "title": "Dancing Ghosts: Curved Jets from Active Galaxies (01/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -606,6 +606,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5911"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f6xd",
+        "location": "http://maps.google.com/maps?q=41.4497,142.1389",
+        "name": "M 4.2 - 79 km ENE of Mutsu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6xd"
       },
       {
         "category": [
@@ -2308,11 +2326,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "01/Sep/2021 @ 17:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 18:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=41.4497,142.1389\"><b>M 4.2 - 79 km ENE of Mutsu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6xd\">USGS</a>",
+          41.4497,
+          142.1389
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-1.5996,-15.4818\"><b>M 5.3 - north of Ascension Island</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6wz\">USGS</a>",
           -1.5996,
@@ -4729,12 +4752,12 @@
         ]
       ]
     },
-    "title": "125 events (01/Sep/2021 PDT)"
+    "title": "126 events (01/Sep/2021 PDT)"
   },
-  "last_update": "01/Sep/2021 @ 17:01:26 PDT",
+  "last_update": "01/Sep/2021 @ 18:01:25 PDT",
   "neo": {
     "date": "02/Sep/2021 PDT",
-    "last_update": "01/Sep/2021 @ 17:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 18:00:38 PDT",
     "objects": [
       {
         "cat": "02/Sep/2021 @ 18:19:00 ",
@@ -4960,7 +4983,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Sep/2021 @ 17:00:39 PDT",
+    "last_update": "01/Sep/2021 @ 18:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6500,7 +6523,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Sep/2021 @ 17:00:46 PDT",
+    "last_update": "01/Sep/2021 @ 18:00:43 PDT",
     "launches": {
       "future": [
         {
