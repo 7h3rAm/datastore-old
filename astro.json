@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Sep/2021 @ 06:00:09 PDT",
+    "last_update": "02/Sep/2021 @ 07:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
     "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -10,24 +10,6 @@
   "earthevents": {
     "date": "02/Sep/2021 PDT",
     "events": [
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5773",
-        "location": "https://www.google.com/maps/dir/44.093,-118.326/@44.093,-118.326,3z",
-        "name": "Black Butte Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7770/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5773"
-      },
       {
         "category": [
           {
@@ -844,24 +826,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6uy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f6q8",
-        "location": "http://maps.google.com/maps?q=-1.1138,-24.2695",
-        "name": "M 5.7 - central Mid-Atlantic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6q8"
       },
       {
         "category": [
@@ -2248,7 +2212,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "02/Sep/2021 @ 06:00:38 PDT",
+    "last_update": "02/Sep/2021 @ 07:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2322,11 +2286,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.3083,-179.8457\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6us\">USGS</a>",
           -24.3083,
           -179.8457
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-1.1138,-24.2695\"><b>M 5.7 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6q8\">USGS</a>",
-          -1.1138,
-          -24.2695
         ]
       ],
       "Floods": [],
@@ -4661,20 +4620,15 @@
           "<a href=\"http://maps.google.com/maps?q=48.778,-119.034\"><b>Walker Creek Fire, Okanogan County, Washington, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128089\">PDC</a>, <a href=\"http://inciweb.nwcg.gov/incident/7774/\">InciWeb</a>",
           48.778,
           -119.034
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.093,-118.326\"><b>Black Butte Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7770/\">InciWeb</a>",
-          44.093,
-          -118.326
         ]
       ]
     },
-    "title": "121 events (02/Sep/2021 PDT)"
+    "title": "119 events (02/Sep/2021 PDT)"
   },
-  "last_update": "02/Sep/2021 @ 06:01:27 PDT",
+  "last_update": "02/Sep/2021 @ 07:01:23 PDT",
   "neo": {
     "date": "02/Sep/2021 PDT",
-    "last_update": "02/Sep/2021 @ 06:00:41 PDT",
+    "last_update": "02/Sep/2021 @ 07:00:38 PDT",
     "objects": [
       {
         "cat": "02/Sep/2021 @ 18:19:00 ",
@@ -4733,104 +4687,14 @@
       {
         "cat": "02/Sep/2021 @ 21:39:00 ",
         "diameter": "0.08-0.17 miles",
-        "distance": "43,283,642.33 miles",
+        "distance": "43,283,657.75 miles",
         "hazardous": false,
         "name": "Asteroid (2019 PM2)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843536",
-        "velocity": "32,022.92 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 04:34:00 ",
-        "diameter": "0.00-0.00 miles",
-        "distance": "9,142,811.93 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 CC7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54117577",
-        "velocity": "8,247.16 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 21:59:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "17,383,556.60 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 FA)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54131737",
-        "velocity": "30,370.13 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 22:44:00 ",
-        "diameter": "0.10-0.21 miles",
-        "distance": "25,853,719.06 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 JG7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54145570",
-        "velocity": "31,917.20 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 07:48:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "16,612,284.52 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 JL6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54145462",
-        "velocity": "14,598.48 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 10:12:00 ",
-        "diameter": "0.09-0.20 miles",
-        "distance": "12,151,263.21 miles",
-        "hazardous": true,
-        "name": "Asteroid (2021 NQ5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54169406",
-        "velocity": "35,460.54 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 17:24:00 ",
-        "diameter": "0.08-0.18 miles",
-        "distance": "14,959,079.07 miles",
-        "hazardous": true,
-        "name": "Asteroid (2021 NW1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54166600",
-        "velocity": "27,684.87 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 12:57:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "17,265,631.94 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 PF15)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54185145",
-        "velocity": "11,712.45 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 23:49:00 ",
-        "diameter": "0.03-0.06 miles",
-        "distance": "6,249,637.26 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 PZ4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54179895",
-        "velocity": "26,907.40 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 10:16:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "312,159.41 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 QM2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54190791",
-        "velocity": "37,714.85 mph"
-      },
-      {
-        "cat": "02/Sep/2021 @ 01:50:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "1,999,036.54 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 QY1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54190306",
-        "velocity": "11,622.44 mph"
+        "velocity": "32,022.94 mph"
       }
     ],
-    "title": "17 objects making close approach (02/Sep/2021 PDT)"
+    "title": "7 objects making close approach (02/Sep/2021 PDT)"
   },
   "satview": {
     "date": "02/Sep/2021 PDT",
@@ -4900,7 +4764,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Sep/2021 @ 06:00:42 PDT",
+    "last_update": "02/Sep/2021 @ 07:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6440,7 +6304,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Sep/2021 @ 06:00:48 PDT",
+    "last_update": "02/Sep/2021 @ 07:00:44 PDT",
     "launches": {
       "future": [
         {
