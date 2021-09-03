@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Sep/2021 @ 20:00:08 PDT",
+    "last_update": "02/Sep/2021 @ 21:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
     "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -85,24 +85,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5909"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5859",
-        "location": "https://www.google.com/maps/dir/48.763,-119.788/@48.763,-119.788,3z",
-        "name": "Chickadee Creek Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7788/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5859"
       },
       {
         "category": [
@@ -618,24 +600,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f6y0",
-        "location": "http://maps.google.com/maps?q=-24.3791,-67.278",
-        "name": "M 4.2 - 98 km W of San Antonio de los Cobres, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6y0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f71f",
         "location": "http://maps.google.com/maps?q=23.2234,120.6244",
         "name": "M 4.3 - 19 km ENE of Yujing, Taiwan",
@@ -798,6 +762,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f7bl",
+        "location": "http://maps.google.com/maps?q=42.3008,45.9991",
+        "name": "M 4.8 - 18 km SW of Aknada, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bl"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f709",
         "location": "http://maps.google.com/maps?q=-3.8701,-76.2769",
         "name": "M 4.9 - 47 km SSE of Alianza Cristiana, Peru",
@@ -852,9 +834,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f6yk",
+        "location": "http://maps.google.com/maps?q=-1.6445,-15.5715",
+        "name": "M 4.9 - north of Ascension Island",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6yk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f6yi",
-        "location": "http://maps.google.com/maps?q=37.6133,70.3781",
-        "name": "M 5.0 - 57 km NNW of Fayzabad, Afghanistan",
+        "location": "http://maps.google.com/maps?q=37.596,70.3304",
+        "name": "M 5.0 - 55 km E of Chubek, Tajikistan",
         "source": [
           {
             "sid": "USGS",
@@ -1926,24 +1926,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5788",
-        "location": "https://www.google.com/maps/dir/52.3744,-96.4772/@52.3744,-96.4772,3z",
-        "name": "Wildfire MB-EA196, Manitoba, Canada",
-        "source": [
-          {
-            "sid": "MBFIRE",
-            "url": "http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5788"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5912",
         "location": "https://www.google.com/maps/dir/57.6761,-100.0331/@57.6761,-100.0331,3z",
         "name": "Wildfire MB-NO152, Manitoba, Canada",
@@ -2262,11 +2244,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "02/Sep/2021 @ 20:00:37 PDT",
+    "last_update": "02/Sep/2021 @ 21:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=42.3008,45.9991\"><b>M 4.8 - 18 km SW of Aknada, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bl\">USGS</a>",
+          42.3008,
+          45.9991
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.2676,-89.6478\"><b>M 4.4 - 40 km SSE of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7b9\">USGS</a>",
           13.2676,
@@ -2358,14 +2345,14 @@
           23.0681
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.6133,70.3781\"><b>M 5.0 - 57 km NNW of Fayzabad, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6yi\">USGS</a>",
-          37.6133,
-          70.3781
+          "<a href=\"http://maps.google.com/maps?q=37.596,70.3304\"><b>M 5.0 - 55 km E of Chubek, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6yi\">USGS</a>",
+          37.596,
+          70.3304
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3791,-67.278\"><b>M 4.2 - 98 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6y0\">USGS</a>",
-          -24.3791,
-          -67.278
+          "<a href=\"http://maps.google.com/maps?q=-1.6445,-15.5715\"><b>M 4.9 - north of Ascension Island</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f6yk\">USGS</a>",
+          -1.6445,
+          -15.5715
         ]
       ],
       "Floods": [],
@@ -4675,25 +4662,15 @@
           "<a href=\"http://maps.google.com/maps?q=38.811353392,23.324881191\"><b>Wildfire - NW of Chalkida, Stere Ellda - Greece</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127770\">PDC</a>",
           38.811353392,
           23.324881191
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.3744,-96.4772\"><b>Wildfire MB-EA196, Manitoba, Canada</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://www.gov.mb.ca/sd/fire/Fire-Statistic/2021/MBFIRE21.txt\">MBFIRE</a>",
-          52.3744,
-          -96.4772
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.763,-119.788\"><b>Chickadee Creek Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7788/\">InciWeb</a>",
-          48.763,
-          -119.788
         ]
       ]
     },
-    "title": "122 events (02/Sep/2021 PDT)"
+    "title": "121 events (02/Sep/2021 PDT)"
   },
-  "last_update": "02/Sep/2021 @ 20:01:26 PDT",
+  "last_update": "02/Sep/2021 @ 21:01:23 PDT",
   "neo": {
     "date": "03/Sep/2021 PDT",
-    "last_update": "02/Sep/2021 @ 20:00:40 PDT",
+    "last_update": "02/Sep/2021 @ 21:00:37 PDT",
     "objects": [
       {
         "cat": "03/Sep/2021 @ 19:02:00 ",
@@ -4883,7 +4860,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Sep/2021 @ 20:00:40 PDT",
+    "last_update": "02/Sep/2021 @ 21:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6423,7 +6400,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Sep/2021 @ 20:00:47 PDT",
+    "last_update": "02/Sep/2021 @ 21:00:42 PDT",
     "launches": {
       "future": [
         {
