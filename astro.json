@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Sep/2021 @ 01:00:12 PDT",
+    "last_update": "03/Sep/2021 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/Irish_RC8_LHaRGB1024.png",
     "title": "NGC 7023: The Iris Nebula (03/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -654,24 +654,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f703",
-        "location": "http://maps.google.com/maps?q=54.5145,-159.6469",
-        "name": "M 4.6 - 106 km SSE of Sand Point, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f703"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f73x",
         "location": "http://maps.google.com/maps?q=-4.7543,102.4706",
         "name": "M 4.6 - 107 km SSE of Bengkulu, Indonesia",
@@ -798,42 +780,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f709",
-        "location": "http://maps.google.com/maps?q=-3.8701,-76.2769",
-        "name": "M 4.9 - 47 km SSE of Alianza Cristiana, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f709"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f70b",
-        "location": "http://maps.google.com/maps?q=-58.9156,-25.4957",
-        "name": "M 4.9 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f70b"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f7c2",
         "location": "http://maps.google.com/maps?q=-14.3577,-76.4589",
         "name": "M 5.0 - 58 km SSW of Paracas, Peru",
@@ -916,6 +862,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7a5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7dp",
+        "location": "http://maps.google.com/maps?q=-59.9432,-26.6842",
+        "name": "M 5.7 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7dp"
       },
       {
         "category": [
@@ -2208,11 +2172,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "03/Sep/2021 @ 01:00:39 PDT",
+    "last_update": "03/Sep/2021 @ 02:00:33 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.9432,-26.6842\"><b>M 5.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7dp\">USGS</a>",
+          -59.9432,
+          -26.6842
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.67678429,-104.4040742\"><b>M 4.2 - 55 km S of Whites City, New Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/tx2021rgbn\">USGS</a>",
           31.67678429,
@@ -2297,21 +2266,6 @@
           "<a href=\"http://maps.google.com/maps?q=23.2234,120.6244\"><b>M 4.3 - 19 km ENE of Yujing, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f71f\">USGS</a>",
           23.2234,
           120.6244
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.9156,-25.4957\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f70b\">USGS</a>",
-          -58.9156,
-          -25.4957
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.8701,-76.2769\"><b>M 4.9 - 47 km SSE of Alianza Cristiana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f709\">USGS</a>",
-          -3.8701,
-          -76.2769
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.5145,-159.6469\"><b>M 4.6 - 106 km SSE of Sand Point, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f703\">USGS</a>",
-          54.5145,
-          -159.6469
         ]
       ],
       "Floods": [],
@@ -4619,12 +4573,12 @@
         ]
       ]
     },
-    "title": "119 events (03/Sep/2021 PDT)"
+    "title": "117 events (03/Sep/2021 PDT)"
   },
-  "last_update": "03/Sep/2021 @ 01:01:31 PDT",
+  "last_update": "03/Sep/2021 @ 02:01:20 PDT",
   "neo": {
     "date": "03/Sep/2021 PDT",
-    "last_update": "03/Sep/2021 @ 01:00:42 PDT",
+    "last_update": "03/Sep/2021 @ 02:00:36 PDT",
     "objects": [
       {
         "cat": "03/Sep/2021 @ 19:02:00 ",
@@ -4814,7 +4768,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Sep/2021 @ 01:00:43 PDT",
+    "last_update": "03/Sep/2021 @ 02:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6354,7 +6308,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Sep/2021 @ 01:00:49 PDT",
+    "last_update": "03/Sep/2021 @ 02:00:41 PDT",
     "launches": {
       "future": [
         {
