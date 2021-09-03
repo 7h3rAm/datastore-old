@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Sep/2021 @ 17:00:10 PDT",
+    "last_update": "02/Sep/2021 @ 18:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M51-SL14-RGB-196-Final-cC_1024.png",
     "title": "M51: The Whirlpool Galaxy (02/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -602,7 +602,7 @@
         ],
         "eid": "us7000f788",
         "location": "http://maps.google.com/maps?q=36.3401,27.1136",
-        "name": "M 4.1 - Dodecanese Islands, Greece",
+        "name": "M 4.1 - 30 km S of Mandráki, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -862,6 +862,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f77w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7a5",
+        "location": "http://maps.google.com/maps?q=-58.8746,-25.8053",
+        "name": "M 5.6 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7a5"
       },
       {
         "category": [
@@ -1288,24 +1306,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5897"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
-        "eid": "EONET_5787",
-        "location": "https://www.google.com/maps/dir/48.15,-119.134/@48.15,-119.134,3z",
-        "name": "Whitmore Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7776/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5787"
       },
       {
         "category": [
@@ -2208,18 +2208,23 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "02/Sep/2021 @ 17:00:39 PDT",
+    "last_update": "02/Sep/2021 @ 18:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.8746,-25.8053\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7a5\">USGS</a>",
+          -58.8746,
+          -25.8053
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.0708,-176.9728\"><b>M 5.2 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f79x\">USGS</a>",
           -30.0708,
           -176.9728
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - Dodecanese Islands, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - 30 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
           36.3401,
           27.1136
         ],
@@ -4611,20 +4616,15 @@
           "<a href=\"http://maps.google.com/maps?q=48.763,-119.788\"><b>Chickadee Creek Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7788/\">InciWeb</a>",
           48.763,
           -119.788
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.15,-119.134\"><b>Whitmore Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7776/\">InciWeb</a>",
-          48.15,
-          -119.134
         ]
       ]
     },
     "title": "119 events (02/Sep/2021 PDT)"
   },
-  "last_update": "02/Sep/2021 @ 17:01:26 PDT",
+  "last_update": "02/Sep/2021 @ 18:01:20 PDT",
   "neo": {
     "date": "03/Sep/2021 PDT",
-    "last_update": "02/Sep/2021 @ 17:00:42 PDT",
+    "last_update": "02/Sep/2021 @ 18:00:36 PDT",
     "objects": [
       {
         "cat": "03/Sep/2021 @ 19:02:00 ",
@@ -4814,7 +4814,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Sep/2021 @ 17:00:42 PDT",
+    "last_update": "02/Sep/2021 @ 18:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6354,7 +6354,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Sep/2021 @ 17:00:49 PDT",
+    "last_update": "02/Sep/2021 @ 18:00:41 PDT",
     "launches": {
       "future": [
         {
