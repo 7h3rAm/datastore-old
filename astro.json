@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Sep/2021 @ 08:00:15 PDT",
+    "last_update": "03/Sep/2021 @ 09:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/Irish_RC8_LHaRGB1024.png",
     "title": "NGC 7023: The Iris Nebula (03/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -546,6 +546,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5915",
+        "location": "https://www.google.com/maps/dir/47.909,-90.992/@47.909,-90.992,3z",
+        "name": "John Ek and Whelp Fires",
+        "source": [
+          {
+            "sid": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7806/"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5915"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5911",
         "location": "https://www.google.com/maps/dir/40.916,-123.634/@40.916,-123.634,3z",
         "name": "Knob Fire",
@@ -566,7 +584,7 @@
         ],
         "eid": "us7000f788",
         "location": "http://maps.google.com/maps?q=36.3401,27.1136",
-        "name": "M 4.1 - 30 km S of Mandráki, Greece",
+        "name": "M 4.1 - Dodecanese Islands, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -628,6 +646,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f775"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7hv",
+        "location": "http://maps.google.com/maps?q=20.7456,144.906",
+        "name": "M 4.6 - Maug Islands region, Northern Mariana Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7hv"
       },
       {
         "category": [
@@ -2092,11 +2128,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "03/Sep/2021 @ 08:00:44 PDT",
+    "last_update": "03/Sep/2021 @ 09:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=20.7456,144.906\"><b>M 4.6 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7hv\">USGS</a>",
+          20.7456,
+          144.906
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=28.2271,105.0425\"><b>M 4.9 - 40 km SE of Xunchang, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7g2\">USGS</a>",
           28.2271,
@@ -2163,7 +2204,7 @@
           -176.9728
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - 30 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - Dodecanese Islands, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
           36.3401,
           27.1136
         ],
@@ -4322,6 +4363,11 @@
           -91.016
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=47.909,-90.992\"><b>John Ek and Whelp Fires</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7806/\">InciWeb</a>",
+          47.909,
+          -90.992
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=48.94482,-118.21131\"><b>Stevens County (Nine Mine Fire), Washington, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128471\">PDC</a>",
           48.94482,
           -118.21131
@@ -4493,12 +4539,12 @@
         ]
       ]
     },
-    "title": "113 events (03/Sep/2021 PDT)"
+    "title": "115 events (03/Sep/2021 PDT)"
   },
-  "last_update": "03/Sep/2021 @ 08:01:37 PDT",
+  "last_update": "03/Sep/2021 @ 09:01:22 PDT",
   "neo": {
     "date": "03/Sep/2021 PDT",
-    "last_update": "03/Sep/2021 @ 08:00:46 PDT",
+    "last_update": "03/Sep/2021 @ 09:00:40 PDT",
     "objects": [
       {
         "cat": "03/Sep/2021 @ 19:02:00 ",
@@ -4688,7 +4734,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Sep/2021 @ 08:00:46 PDT",
+    "last_update": "03/Sep/2021 @ 09:00:41 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6228,7 +6274,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Sep/2021 @ 08:00:54 PDT",
+    "last_update": "03/Sep/2021 @ 09:00:46 PDT",
     "launches": {
       "future": [
         {
@@ -6243,7 +6289,7 @@
           "description": null,
           "flight": 135,
           "launch": "31/Aug/2021 @ 17:00:00 PDT",
-          "name": "Polar Starlink-1",
+          "name": "Starlink-2.1",
           "upcoming": true,
           "url": null
         },
@@ -6260,14 +6306,6 @@
           "flight": 137,
           "launch": "31/Aug/2021 @ 17:00:00 PDT",
           "name": "Starlink-30 (v1.0)",
-          "upcoming": true,
-          "url": null
-        },
-        {
-          "description": null,
-          "flight": 137,
-          "launch": "31/Aug/2021 @ 17:00:00 PDT",
-          "name": "Starlink-31 (v1.0)",
           "upcoming": true,
           "url": null
         },
@@ -16697,15 +16735,6 @@
         "type_emoji": "🛰️"
       },
       {
-        "customer": "SpaceX",
-        "manufacturer": "SpaceX",
-        "name": "Polar Starlink 1",
-        "nationality": "United States",
-        "orbit": "PO",
-        "type": "Satellite",
-        "type_emoji": "🛰️"
-      },
-      {
         "customer": "Georgia Tech",
         "manufacturer": "Georgia Tech",
         "name": "Prox-1",
@@ -16987,6 +17016,15 @@
       {
         "customer": "SpaceX",
         "manufacturer": "SpaceX",
+        "name": "Starlink-2.1",
+        "nationality": "United States",
+        "orbit": "PO",
+        "type": "Satellite",
+        "type_emoji": "🛰️"
+      },
+      {
+        "customer": "SpaceX",
+        "manufacturer": "SpaceX",
         "name": "Starlink-20",
         "nationality": "United States",
         "orbit": "VLEO",
@@ -17087,15 +17125,6 @@
         "customer": "SpaceX",
         "manufacturer": "SpaceX",
         "name": "Starlink-30",
-        "nationality": "United States",
-        "orbit": "VLEO",
-        "type": "Satellite",
-        "type_emoji": "🛰️"
-      },
-      {
-        "customer": "SpaceX",
-        "manufacturer": "SpaceX",
-        "name": "Starlink-31",
         "nationality": "United States",
         "orbit": "VLEO",
         "type": "Satellite",
