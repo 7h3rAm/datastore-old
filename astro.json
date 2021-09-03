@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Sep/2021 @ 04:00:11 PDT",
+    "last_update": "03/Sep/2021 @ 05:00:10 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/Irish_RC8_LHaRGB1024.png",
     "title": "NGC 7023: The Iris Nebula (03/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -566,7 +566,7 @@
         ],
         "eid": "us7000f788",
         "location": "http://maps.google.com/maps?q=36.3401,27.1136",
-        "name": "M 4.1 - Dodecanese Islands, Greece",
+        "name": "M 4.1 - 30 km S of Mandráki, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -2190,7 +2190,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "03/Sep/2021 @ 04:00:40 PDT",
+    "last_update": "03/Sep/2021 @ 05:00:40 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2256,7 +2256,7 @@
           -176.9728
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - Dodecanese Islands, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.3401,27.1136\"><b>M 4.1 - 30 km S of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f788\">USGS</a>",
           36.3401,
           27.1136
         ],
@@ -4598,10 +4598,10 @@
     },
     "title": "118 events (03/Sep/2021 PDT)"
   },
-  "last_update": "03/Sep/2021 @ 04:01:31 PDT",
+  "last_update": "03/Sep/2021 @ 05:01:29 PDT",
   "neo": {
     "date": "03/Sep/2021 PDT",
-    "last_update": "03/Sep/2021 @ 04:00:43 PDT",
+    "last_update": "03/Sep/2021 @ 05:00:42 PDT",
     "objects": [
       {
         "cat": "03/Sep/2021 @ 19:02:00 ",
@@ -4791,7 +4791,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Sep/2021 @ 04:00:44 PDT",
+    "last_update": "03/Sep/2021 @ 05:00:42 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6331,7 +6331,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Sep/2021 @ 04:00:50 PDT",
+    "last_update": "03/Sep/2021 @ 05:00:47 PDT",
     "launches": {
       "future": [
         {
