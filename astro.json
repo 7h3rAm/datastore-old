@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Sep/2021 @ 08:00:12 PDT",
+    "last_update": "04/Sep/2021 @ 09:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DSC06988copy2_1024.jpg",
     "title": "A Falcon 9 Nebula (04/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -740,24 +740,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7r8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f7hv",
-        "location": "http://maps.google.com/maps?q=20.7456,144.906",
-        "name": "M 4.6 - Maug Islands region, Northern Mariana Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7hv"
       },
       {
         "category": [
@@ -1994,7 +1976,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "04/Sep/2021 @ 08:00:41 PDT",
+    "last_update": "04/Sep/2021 @ 09:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2083,11 +2065,6 @@
           "<a href=\"http://maps.google.com/maps?q=-57.8637,-24.7471\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7kl\">USGS</a>",
           -57.8637,
           -24.7471
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.7456,144.906\"><b>M 4.6 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7hv\">USGS</a>",
-          20.7456,
-          144.906
         ]
       ],
       "Floods": [],
@@ -4405,12 +4382,12 @@
         ]
       ]
     },
-    "title": "108 events (04/Sep/2021 PDT)"
+    "title": "107 events (04/Sep/2021 PDT)"
   },
-  "last_update": "04/Sep/2021 @ 08:01:34 PDT",
+  "last_update": "04/Sep/2021 @ 09:01:24 PDT",
   "neo": {
     "date": "04/Sep/2021 PDT",
-    "last_update": "04/Sep/2021 @ 08:00:43 PDT",
+    "last_update": "04/Sep/2021 @ 09:00:37 PDT",
     "objects": [
       {
         "cat": "04/Sep/2021 @ 22:33:00 ",
@@ -4582,7 +4559,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Sep/2021 @ 08:00:43 PDT",
+    "last_update": "04/Sep/2021 @ 09:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6122,7 +6099,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Sep/2021 @ 08:00:50 PDT",
+    "last_update": "04/Sep/2021 @ 09:00:42 PDT",
     "launches": {
       "future": [
         {
