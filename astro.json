@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Sep/2021 @ 16:00:10 PDT",
+    "last_update": "03/Sep/2021 @ 17:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/Irish_RC8_LHaRGB1024.png",
     "title": "NGC 7023: The Iris Nebula (03/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -582,24 +582,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7n7",
-        "location": "http://maps.google.com/maps?q=54.92,-157.7029",
-        "name": "M 4.2 - 143 km SE of Perryville, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7n7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "tx2021rgbn",
         "location": "http://maps.google.com/maps?q=31.67678429,-104.4040742",
         "name": "M 4.2 - 55 km S of Whites City, New Mexico",
@@ -808,24 +790,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7c2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f79x",
-        "location": "http://maps.google.com/maps?q=-30.0708,-176.9728",
-        "name": "M 5.2 - Kermadec Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f79x"
       },
       {
         "category": [
@@ -2074,7 +2038,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "03/Sep/2021 @ 16:00:39 PDT",
+    "last_update": "03/Sep/2021 @ 17:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2083,11 +2047,6 @@
           "<a href=\"http://maps.google.com/maps?q=46.3125,150.7461\"><b>M 4.4 - 253 km ENE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7pp\">USGS</a>",
           46.3125,
           150.7461
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.92,-157.7029\"><b>M 4.2 - 143 km SE of Perryville, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7n7\">USGS</a>",
-          54.92,
-          -157.7029
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-58.5362,-25.5761\"><b>M 4.5 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7ky\">USGS</a>",
@@ -2163,11 +2122,6 @@
           "<a href=\"http://maps.google.com/maps?q=-58.8746,-25.8053\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7a5\">USGS</a>",
           -58.8746,
           -25.8053
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.0708,-176.9728\"><b>M 5.2 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f79x\">USGS</a>",
-          -30.0708,
-          -176.9728
         ]
       ],
       "Floods": [],
@@ -4470,132 +4424,114 @@
         ]
       ]
     },
-    "title": "112 events (03/Sep/2021 PDT)"
+    "title": "110 events (03/Sep/2021 PDT)"
   },
-  "last_update": "03/Sep/2021 @ 16:01:26 PDT",
+  "last_update": "03/Sep/2021 @ 17:01:21 PDT",
   "neo": {
-    "date": "03/Sep/2021 PDT",
-    "last_update": "03/Sep/2021 @ 16:00:40 PDT",
+    "date": "04/Sep/2021 PDT",
+    "last_update": "03/Sep/2021 @ 17:00:38 PDT",
     "objects": [
       {
-        "cat": "03/Sep/2021 @ 19:02:00 ",
-        "diameter": "0.15-0.34 miles",
-        "distance": "31,685,248.79 miles",
+        "cat": "04/Sep/2021 @ 22:33:00 ",
+        "diameter": "0.15-0.33 miles",
+        "distance": "42,066,358.86 miles",
         "hazardous": false,
-        "name": "Asteroid (2007 YO56)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3398650",
-        "velocity": "43,344.31 mph"
+        "name": "Asteroid (2010 FC6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3512347",
+        "velocity": "59,181.49 mph"
       },
       {
-        "cat": "03/Sep/2021 @ 12:26:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "18,668,236.88 miles",
-        "hazardous": false,
-        "name": "Asteroid (2014 BZ2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3656790",
-        "velocity": "26,889.98 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 13:11:00 ",
-        "diameter": "0.20-0.45 miles",
-        "distance": "30,701,463.14 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 EZ27)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3745502",
-        "velocity": "45,416.21 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 21:51:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "39,593,180.66 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 WU2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3764703",
-        "velocity": "15,384.77 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 18:00:00 ",
-        "diameter": "0.13-0.28 miles",
-        "distance": "15,945,946.19 miles",
+        "cat": "04/Sep/2021 @ 09:25:00 ",
+        "diameter": "0.08-0.18 miles",
+        "distance": "34,906,247.45 miles",
         "hazardous": true,
-        "name": "Asteroid (2018 BP)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3797710",
-        "velocity": "28,803.80 mph"
+        "name": "Asteroid (2015 AH)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3703314",
+        "velocity": "22,825.95 mph"
       },
       {
-        "cat": "03/Sep/2021 @ 00:29:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "15,927,432.72 miles",
+        "cat": "04/Sep/2021 @ 22:04:00 ",
+        "diameter": "0.17-0.38 miles",
+        "distance": "43,038,350.53 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 FF4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016341",
-        "velocity": "15,725.02 mph"
+        "name": "Asteroid (2016 RN40)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3759639",
+        "velocity": "26,978.59 mph"
       },
       {
-        "cat": "03/Sep/2021 @ 00:09:00 ",
+        "cat": "04/Sep/2021 @ 12:23:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "6,136,700.62 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 RP40)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3759645",
+        "velocity": "19,817.52 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 08:32:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "10,107,598.66 miles",
+        "hazardous": false,
+        "name": "Asteroid (2018 ER1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3799826",
+        "velocity": "7,969.70 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 23:50:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "28,448,694.00 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 JO1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3841712",
+        "velocity": "60,979.03 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 09:28:00 ",
+        "diameter": "0.03-0.08 miles",
+        "distance": "23,699,748.58 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 QZ4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843672",
+        "velocity": "56,771.28 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 09:31:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "23,162,889.72 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 SP2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3844004",
+        "velocity": "15,222.52 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 09:11:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "32,777,743.15 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 EE2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54130504",
+        "velocity": "27,764.31 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 04:05:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "10,198,991.94 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 PB10)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54185131",
+        "velocity": "28,027.27 mph"
+      },
+      {
+        "cat": "04/Sep/2021 @ 20:10:00 ",
         "diameter": "0.02-0.05 miles",
-        "distance": "23,788,237.55 miles",
+        "distance": "11,484,701.33 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 GT2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54135136",
-        "velocity": "17,804.08 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 08:16:00 ",
-        "diameter": "0.07-0.15 miles",
-        "distance": "23,674,822.19 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 KK)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54146234",
-        "velocity": "24,074.39 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 00:06:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "29,848,266.08 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 PE7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54184283",
-        "velocity": "10,573.96 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 00:59:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "415,533.54 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 QB3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54191243",
-        "velocity": "14,836.89 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 16:14:00 ",
-        "diameter": "0.11-0.25 miles",
-        "distance": "22,924,281.07 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 QP)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54187632",
-        "velocity": "26,974.86 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 14:38:00 ",
-        "diameter": "0.24-0.53 miles",
-        "distance": "22,289,753.46 miles",
-        "hazardous": false,
-        "name": "Asteroid 217837 (2001 LC)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2217837",
-        "velocity": "51,690.86 mph"
-      },
-      {
-        "cat": "03/Sep/2021 @ 19:09:00 ",
-        "diameter": "0.13-0.28 miles",
-        "distance": "27,770,063.36 miles",
-        "hazardous": false,
-        "name": "Asteroid 369986 (1998 SO)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2369986",
-        "velocity": "59,953.24 mph"
+        "name": "Asteroid (2021 PR6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54184278",
+        "velocity": "11,923.88 mph"
       }
     ],
-    "title": "13 objects making close approach (03/Sep/2021 PDT)"
+    "title": "11 objects making close approach (04/Sep/2021 PDT)"
   },
   "satview": {
     "date": "03/Sep/2021 PDT",
@@ -4665,7 +4601,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Sep/2021 @ 16:00:40 PDT",
+    "last_update": "03/Sep/2021 @ 17:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6205,7 +6141,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Sep/2021 @ 16:00:46 PDT",
+    "last_update": "03/Sep/2021 @ 17:00:44 PDT",
     "launches": {
       "future": [
         {
