@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Sep/2021 @ 01:00:07 PDT",
+    "last_update": "04/Sep/2021 @ 02:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DSC06988copy2_1024.jpg",
     "title": "A Falcon 9 Nebula (04/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -582,6 +582,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f7uv",
+        "location": "http://maps.google.com/maps?q=-23.9582,-66.9096",
+        "name": "M 4.2 - 66 km WNW of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7uv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f7u9",
         "location": "http://maps.google.com/maps?q=28.268,139.3337",
         "name": "M 4.2 - Bonin Islands, Japan region",
@@ -620,7 +638,7 @@
         ],
         "eid": "us7000f7pp",
         "location": "http://maps.google.com/maps?q=46.3125,150.7461",
-        "name": "M 4.4 - 253 km ENE of Kuril’sk, Russia",
+        "name": "M 4.4 - Kuril Islands",
         "source": [
           {
             "sid": "USGS",
@@ -708,24 +726,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7rd",
-        "location": "http://maps.google.com/maps?q=37.7385,77.8451",
-        "name": "M 4.7 - 92 km SE of Shache, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f7kl",
         "location": "http://maps.google.com/maps?q=-57.8637,-24.7471",
         "name": "M 4.7 - South Sandwich Islands region",
@@ -736,6 +736,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7kl"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7rd",
+        "location": "http://maps.google.com/maps?q=37.7385,77.8451",
+        "name": "M 4.7 - southern Xinjiang, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd"
       },
       {
         "category": [
@@ -790,6 +808,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7g2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7uh",
+        "location": "http://maps.google.com/maps?q=-17.2401,167.7321",
+        "name": "M 4.9 - 82 km NW of Port-Vila, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7uh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7ug",
+        "location": "http://maps.google.com/maps?q=-58.9767,-25.5222",
+        "name": "M 4.9 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7ug"
       },
       {
         "category": [
@@ -1926,11 +1980,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "04/Sep/2021 @ 01:00:36 PDT",
+    "last_update": "04/Sep/2021 @ 02:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.9582,-66.9096\"><b>M 4.2 - 66 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7uv\">USGS</a>",
+          -23.9582,
+          -66.9096
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.2401,167.7321\"><b>M 4.9 - 82 km NW of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7uh\">USGS</a>",
+          -17.2401,
+          167.7321
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.9767,-25.5222\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7ug\">USGS</a>",
+          -58.9767,
+          -25.5222
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=28.268,139.3337\"><b>M 4.2 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7u9\">USGS</a>",
           28.268,
@@ -1957,7 +2026,7 @@
           -179.5801
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7385,77.8451\"><b>M 4.7 - 92 km SE of Shache, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7385,77.8451\"><b>M 4.7 - southern Xinjiang, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd\">USGS</a>",
           37.7385,
           77.8451
         ],
@@ -1967,7 +2036,7 @@
           77.8646
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=46.3125,150.7461\"><b>M 4.4 - 253 km ENE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7pp\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=46.3125,150.7461\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7pp\">USGS</a>",
           46.3125,
           150.7461
         ],
@@ -4282,12 +4351,12 @@
         ]
       ]
     },
-    "title": "104 events (04/Sep/2021 PDT)"
+    "title": "107 events (04/Sep/2021 PDT)"
   },
-  "last_update": "04/Sep/2021 @ 01:01:31 PDT",
+  "last_update": "04/Sep/2021 @ 02:01:22 PDT",
   "neo": {
     "date": "04/Sep/2021 PDT",
-    "last_update": "04/Sep/2021 @ 01:00:38 PDT",
+    "last_update": "04/Sep/2021 @ 02:00:37 PDT",
     "objects": [
       {
         "cat": "04/Sep/2021 @ 22:33:00 ",
@@ -4459,7 +4528,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Sep/2021 @ 01:00:38 PDT",
+    "last_update": "04/Sep/2021 @ 02:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5999,7 +6068,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Sep/2021 @ 01:00:45 PDT",
+    "last_update": "04/Sep/2021 @ 02:00:42 PDT",
     "launches": {
       "future": [
         {
