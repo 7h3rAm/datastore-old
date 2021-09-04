@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Sep/2021 @ 15:00:08 PDT",
+    "last_update": "04/Sep/2021 @ 16:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/DSC06988copy2_1024.jpg",
     "title": "A Falcon 9 Nebula (04/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -586,6 +586,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f80v",
+        "location": "http://maps.google.com/maps?q=44.1775,-128.9612",
+        "name": "M 4.0 - off the coast of Oregon",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f80v"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f7xm",
         "location": "http://maps.google.com/maps?q=37.5029,72.0983",
         "name": "M 4.1 - 48 km E of Khorugh, Tajikistan",
@@ -694,24 +712,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7pp",
-        "location": "http://maps.google.com/maps?q=46.3125,150.7461",
-        "name": "M 4.4 - Kuril Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7pp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f7wc",
         "location": "http://maps.google.com/maps?q=26.4805,96.5383",
         "name": "M 4.5 - 40 km NW of Sarupathar, India",
@@ -766,9 +766,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f7rd",
+        "location": "http://maps.google.com/maps?q=37.7385,77.8451",
+        "name": "M 4.7 - 92 km SE of Shache, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f7y6",
         "location": "http://maps.google.com/maps?q=-0.0933,124.3766",
-        "name": "M 4.7 - 162 km ESE of Gorontalo, Indonesia",
+        "name": "M 4.7 - Molucca Sea",
         "source": [
           {
             "sid": "USGS",
@@ -794,24 +812,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7xi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f7rd",
-        "location": "http://maps.google.com/maps?q=37.7385,77.8451",
-        "name": "M 4.7 - southern Xinjiang, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd"
       },
       {
         "category": [
@@ -1976,11 +1976,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "04/Sep/2021 @ 15:00:37 PDT",
+    "last_update": "04/Sep/2021 @ 16:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.1775,-128.9612\"><b>M 4.0 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f80v\">USGS</a>",
+          44.1775,
+          -128.9612
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=73.2717,-73.0249\"><b>M 4.4 - Baffin Bay</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7zq\">USGS</a>",
           73.2717,
@@ -1997,7 +2002,7 @@
           -25.7481
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.0933,124.3766\"><b>M 4.7 - 162 km ESE of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7y6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.0933,124.3766\"><b>M 4.7 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7y6\">USGS</a>",
           -0.0933,
           124.3766
         ],
@@ -2067,7 +2072,7 @@
           -179.5801
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7385,77.8451\"><b>M 4.7 - southern Xinjiang, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7385,77.8451\"><b>M 4.7 - 92 km SE of Shache, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7rd\">USGS</a>",
           37.7385,
           77.8451
         ],
@@ -2075,11 +2080,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.5967,77.8646\"><b>M 4.6 - 87 km WNW of Zangguy, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7r8\">USGS</a>",
           37.5967,
           77.8646
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=46.3125,150.7461\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7pp\">USGS</a>",
-          46.3125,
-          150.7461
         ]
       ],
       "Floods": [],
@@ -4384,10 +4384,10 @@
     },
     "title": "107 events (04/Sep/2021 PDT)"
   },
-  "last_update": "04/Sep/2021 @ 15:01:32 PDT",
+  "last_update": "04/Sep/2021 @ 16:01:20 PDT",
   "neo": {
     "date": "04/Sep/2021 PDT",
-    "last_update": "04/Sep/2021 @ 15:00:39 PDT",
+    "last_update": "04/Sep/2021 @ 16:00:38 PDT",
     "objects": [
       {
         "cat": "04/Sep/2021 @ 22:33:00 ",
@@ -4559,7 +4559,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Sep/2021 @ 15:00:39 PDT",
+    "last_update": "04/Sep/2021 @ 16:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6099,7 +6099,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Sep/2021 @ 15:00:46 PDT",
+    "last_update": "04/Sep/2021 @ 16:00:43 PDT",
     "launches": {
       "future": [
         {
