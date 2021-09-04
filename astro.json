@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Sep/2021 @ 20:00:06 PDT",
+    "last_update": "03/Sep/2021 @ 21:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/Irish_RC8_LHaRGB1024.png",
     "title": "NGC 7023: The Iris Nebula (03/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -690,24 +690,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7bp",
-        "location": "http://maps.google.com/maps?q=53.4535,-163.6001",
-        "name": "M 4.7 - 156 km S of False Pass, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f7rd",
         "location": "http://maps.google.com/maps?q=37.7385,77.8451",
         "name": "M 4.7 - 92 km SE of Shache, China",
@@ -736,24 +718,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7kl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f7bl",
-        "location": "http://maps.google.com/maps?q=42.3008,45.9991",
-        "name": "M 4.8 - 18 km SW of Aknada, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bl"
       },
       {
         "category": [
@@ -870,24 +834,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5889",
-        "location": "https://www.google.com/maps/dir/48.69,-118.359/@48.69,-118.359,3z",
-        "name": "Mack Mountain Fire",
-        "source": [
-          {
-            "sid": "InciWeb",
-            "url": "http://inciweb.nwcg.gov/incident/7814/"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5889"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5873",
         "location": "https://www.google.com/maps/dir/49.820683,-119.71405/@49.820683,-119.71405,3z",
         "name": "Mt Law Fire, British Columbia, Canada",
@@ -960,24 +906,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5832"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🌋",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
-          }
-        ],
-        "eid": "EONET_5882",
-        "location": "https://www.google.com/maps/dir/55.417,-161.894/@55.417,-161.894,3z",
-        "name": "Pavlof Volcano, Alaska",
-        "source": [
-          {
-            "sid": "SIVolcano",
-            "url": "https://volcano.si.edu/volcano.cfm?vn=312030"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5882"
       },
       {
         "category": [
@@ -2038,7 +1966,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "03/Sep/2021 @ 20:00:36 PDT",
+    "last_update": "03/Sep/2021 @ 21:00:38 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2112,16 +2040,6 @@
           "<a href=\"http://maps.google.com/maps?q=-14.3577,-76.4589\"><b>M 5.0 - 58 km SSW of Paracas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7c2\">USGS</a>",
           -14.3577,
           -76.4589
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.4535,-163.6001\"><b>M 4.7 - 156 km S of False Pass, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bp\">USGS</a>",
-          53.4535,
-          -163.6001
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.3008,45.9991\"><b>M 4.8 - 18 km SW of Aknada, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7bl\">USGS</a>",
-          42.3008,
-          45.9991
         ]
       ],
       "Floods": [],
@@ -4088,11 +4006,6 @@
           "<a href=\"http://maps.google.com/maps?q=-37.856,-71.183\"><b>Copahue Volcano, Chile-Argentina</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=357090\">SIVolcano</a>",
           -37.856,
           -71.183
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=55.417,-161.894\"><b>Pavlof Volcano, Alaska</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=312030\">SIVolcano</a>",
-          55.417,
-          -161.894
         ]
       ],
       "Water Color": [],
@@ -4416,20 +4329,15 @@
           "<a href=\"http://maps.google.com/maps?q=48.815,-119.079\"><b>Spur Fire, Okanogan County, Washington, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128090\">PDC</a>, <a href=\"http://inciweb.nwcg.gov/incident/7789/\">InciWeb</a>",
           48.815,
           -119.079
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.69,-118.359\"><b>Mack Mountain Fire</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://inciweb.nwcg.gov/incident/7814/\">InciWeb</a>",
-          48.69,
-          -118.359
         ]
       ]
     },
-    "title": "110 events (03/Sep/2021 PDT)"
+    "title": "106 events (03/Sep/2021 PDT)"
   },
-  "last_update": "03/Sep/2021 @ 20:01:25 PDT",
+  "last_update": "03/Sep/2021 @ 21:01:26 PDT",
   "neo": {
     "date": "04/Sep/2021 PDT",
-    "last_update": "03/Sep/2021 @ 20:00:38 PDT",
+    "last_update": "03/Sep/2021 @ 21:00:39 PDT",
     "objects": [
       {
         "cat": "04/Sep/2021 @ 22:33:00 ",
@@ -4601,7 +4509,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Sep/2021 @ 20:00:38 PDT",
+    "last_update": "03/Sep/2021 @ 21:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6141,7 +6049,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Sep/2021 @ 20:00:44 PDT",
+    "last_update": "03/Sep/2021 @ 21:00:44 PDT",
     "launches": {
       "future": [
         {
