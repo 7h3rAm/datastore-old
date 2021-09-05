@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Sep/2021 @ 06:00:18 PDT",
+    "last_update": "05/Sep/2021 @ 07:00:17 PDT",
     "source": "https://www.youtube.com/embed/tvB0mdkrG3Q?rel=0",
     "title": "Earth and Moon (05/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -802,24 +802,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7xi",
-        "location": "http://maps.google.com/maps?q=-58.0937,-25.3993",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7xi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f86s",
         "location": "http://maps.google.com/maps?q=20.3456,-109.1674",
         "name": "M 4.8 - 292 km SSE of Cabo San Lucas, Mexico",
@@ -830,6 +812,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f86s"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f89g",
+        "location": "http://maps.google.com/maps?q=-14.7458,167.8269",
+        "name": "M 4.8 - 87 km ENE of Port-Olry, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f89g"
       },
       {
         "category": [
@@ -946,24 +946,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f7zj",
-        "location": "http://maps.google.com/maps?q=-6.3993,154.9319",
-        "name": "M 5.3 - 61 km W of Panguna, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7zj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f85f",
         "location": "http://maps.google.com/maps?q=-32.1358,-179.7896",
         "name": "M 5.3 - south of the Kermadec Islands",
@@ -974,6 +956,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f85f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f7zj",
+        "location": "http://maps.google.com/maps?q=-6.3928,154.918",
+        "name": "M 5.4 - 63 km W of Panguna, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7zj"
       },
       {
         "category": [
@@ -1001,7 +1001,7 @@
           }
         ],
         "eid": "us7000f875",
-        "location": "http://maps.google.com/maps?q=-58.7114,-25.1737",
+        "location": "http://maps.google.com/maps?q=-58.7135,-25.1981",
         "name": "M 5.6 - South Sandwich Islands region",
         "source": [
           {
@@ -1994,11 +1994,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "05/Sep/2021 @ 06:00:47 PDT",
+    "last_update": "05/Sep/2021 @ 07:00:46 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.7458,167.8269\"><b>M 4.8 - 87 km ENE of Port-Olry, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f89g\">USGS</a>",
+          -14.7458,
+          167.8269
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.1711,-70.4638\"><b>M 4.1 - 33 km W of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f894\">USGS</a>",
           -20.1711,
@@ -2025,9 +2030,9 @@
           -25.0469
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-58.7114,-25.1737\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f875\">USGS</a>",
-          -58.7114,
-          -25.1737
+          "<a href=\"http://maps.google.com/maps?q=-58.7135,-25.1981\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f875\">USGS</a>",
+          -58.7135,
+          -25.1981
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=9.8547,122.0396\"><b>M 4.6 - 39 km W of Bulata, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f86y\">USGS</a>",
@@ -2100,9 +2105,9 @@
           -73.0249
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.3993,154.9319\"><b>M 5.3 - 61 km W of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7zj\">USGS</a>",
-          -6.3993,
-          154.9319
+          "<a href=\"http://maps.google.com/maps?q=-6.3928,154.918\"><b>M 5.4 - 63 km W of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7zj\">USGS</a>",
+          -6.3928,
+          154.918
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.0885,-25.7481\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7yd\">USGS</a>",
@@ -2118,11 +2123,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.5029,72.0983\"><b>M 4.1 - 48 km E of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7xm\">USGS</a>",
           37.5029,
           72.0983
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.0937,-25.3993\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f7xi\">USGS</a>",
-          -58.0937,
-          -25.3993
         ]
       ],
       "Floods": [],
@@ -4377,20 +4377,20 @@
     },
     "title": "108 events (05/Sep/2021 PDT)"
   },
-  "last_update": "05/Sep/2021 @ 06:01:37 PDT",
-  "last_update_epoch": 1630846897.890488,
+  "last_update": "05/Sep/2021 @ 07:01:33 PDT",
+  "last_update_epoch": 1630850493.38693,
   "neo": {
     "date": "05/Sep/2021 PDT",
-    "last_update": "05/Sep/2021 @ 06:00:49 PDT",
+    "last_update": "05/Sep/2021 @ 07:00:49 PDT",
     "objects": [
       {
         "cat": "05/Sep/2021 @ 16:28:00 ",
         "diameter": "0.27-0.60 miles",
-        "distance": "22,010,282.30 miles",
+        "distance": "22,010,338.08 miles",
         "hazardous": false,
         "name": "Asteroid (2005 TR45)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3293791",
-        "velocity": "29,739.83 mph"
+        "velocity": "29,739.86 mph"
       },
       {
         "cat": "05/Sep/2021 @ 23:28:00 ",
@@ -4458,7 +4458,7 @@
       {
         "cat": "05/Sep/2021 @ 13:33:00 ",
         "diameter": "0.45-1.01 miles",
-        "distance": "16,922,762.23 miles",
+        "distance": "16,922,762.33 miles",
         "hazardous": false,
         "name": "Asteroid (2021 JQ24)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54157354",
@@ -4476,11 +4476,11 @@
       {
         "cat": "05/Sep/2021 @ 07:22:00 ",
         "diameter": "0.17-0.37 miles",
-        "distance": "37,309,646.28 miles",
+        "distance": "37,309,642.98 miles",
         "hazardous": true,
         "name": "Asteroid 363344 (2002 QC7)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2363344",
-        "velocity": "30,877.88 mph"
+        "velocity": "30,877.89 mph"
       }
     ],
     "title": "11 objects making close approach (05/Sep/2021 PDT)"
@@ -4553,7 +4553,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Sep/2021 @ 06:00:50 PDT",
+    "last_update": "05/Sep/2021 @ 07:00:49 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6093,7 +6093,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Sep/2021 @ 06:00:56 PDT",
+    "last_update": "05/Sep/2021 @ 07:00:54 PDT",
     "launches": {
       "future": [
         {
