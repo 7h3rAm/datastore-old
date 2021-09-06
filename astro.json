@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Sep/2021 @ 15:00:09 PDT",
+    "last_update": "06/Sep/2021 @ 16:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -640,24 +640,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f8d3",
-        "location": "http://maps.google.com/maps?q=11.506,-86.7978",
-        "name": "M 4.2 - 43 km SW of Masachapa, Nicaragua",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8d3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8g1",
         "location": "http://maps.google.com/maps?q=-27.6167,-69.2075",
         "name": "M 4.4 - 114 km ESE of Copiapó, Chile",
@@ -722,6 +704,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8i6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f8pj",
+        "location": "http://maps.google.com/maps?q=-8.1655,-76.022",
+        "name": "M 4.5 - 54 km E of Tocache, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8pj"
       },
       {
         "category": [
@@ -1716,11 +1716,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "06/Sep/2021 @ 15:00:38 PDT",
+    "last_update": "06/Sep/2021 @ 16:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.1655,-76.022\"><b>M 4.5 - 54 km E of Tocache, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8pj\">USGS</a>",
+          -8.1655,
+          -76.022
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.1818,131.4446\"><b>M 4.6 - 38 km SSE of Kushima, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8p7\">USGS</a>",
           31.1818,
@@ -1805,11 +1810,6 @@
           "<a href=\"http://maps.google.com/maps?q=21.5378,-100.8985\"><b>M 4.4 - 7 km NNE of San Juan Pan de Arriba, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8ee\">USGS</a>",
           21.5378,
           -100.8985
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=11.506,-86.7978\"><b>M 4.2 - 43 km SW of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8d3\">USGS</a>",
-          11.506,
-          -86.7978
         ]
       ],
       "Floods": [],
@@ -3964,11 +3964,11 @@
     },
     "title": "93 events (06/Sep/2021 PDT)"
   },
-  "last_update": "06/Sep/2021 @ 15:01:31 PDT",
-  "last_update_epoch": 1630965691.895695,
+  "last_update": "06/Sep/2021 @ 16:01:17 PDT",
+  "last_update_epoch": 1630969277.899974,
   "neo": {
     "date": "06/Sep/2021 PDT",
-    "last_update": "06/Sep/2021 @ 15:00:40 PDT",
+    "last_update": "06/Sep/2021 @ 16:00:38 PDT",
     "objects": [
       {
         "cat": "06/Sep/2021 @ 19:51:00 ",
@@ -4131,7 +4131,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Sep/2021 @ 15:00:40 PDT",
+    "last_update": "06/Sep/2021 @ 16:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5671,7 +5671,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Sep/2021 @ 15:00:47 PDT",
+    "last_update": "06/Sep/2021 @ 16:00:43 PDT",
     "launches": {
       "future": [
         {
