@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Sep/2021 @ 16:00:17 PDT",
+    "last_update": "05/Sep/2021 @ 17:00:17 PDT",
     "source": "https://www.youtube.com/embed/tvB0mdkrG3Q?rel=0",
     "title": "Earth and Moon (05/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -964,42 +964,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f81y",
-        "location": "http://maps.google.com/maps?q=-5.5049,154.212",
-        "name": "M 5.0 - 167 km WNW of Panguna, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f81y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f81r",
-        "location": "http://maps.google.com/maps?q=12.2533,144.3448",
-        "name": "M 5.3 - 117 km SSW of Merizo Village, Guam",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f81r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f85f",
         "location": "http://maps.google.com/maps?q=-32.1358,-179.7896",
         "name": "M 5.3 - south of the Kermadec Islands",
@@ -1856,24 +1820,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5792",
-        "location": "https://www.google.com/maps/dir/42.90764,-122.83812/@42.90764,-122.83812,3z",
-        "name": "Wildfires - Douglas County (Devils Knob Complex), Oregon, United States",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127906"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5792"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5829",
         "location": "https://www.google.com/maps/dir/37.52055,14.30792/@37.52055,14.30792,3z",
         "name": "Wildfires - Enna Province, Sicily, Italy",
@@ -2012,7 +1958,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "05/Sep/2021 @ 16:00:46 PDT",
+    "last_update": "05/Sep/2021 @ 17:00:46 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2146,16 +2092,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.3443,130.1141\"><b>M 4.3 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f829\">USGS</a>",
           -6.3443,
           130.1141
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.5049,154.212\"><b>M 5.0 - 167 km WNW of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f81y\">USGS</a>",
-          -5.5049,
-          154.212
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.2533,144.3448\"><b>M 5.3 - 117 km SSW of Merizo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f81r\">USGS</a>",
-          12.2533,
-          144.3448
         ]
       ],
       "Floods": [],
@@ -4390,123 +4326,100 @@
           "<a href=\"http://maps.google.com/maps?q=41.56375,-123.39812\"><b>Wildfires - Siskiyou County (McCash Fire), California, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127908\">PDC</a>",
           41.56375,
           -123.39812
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.90764,-122.83812\"><b>Wildfires - Douglas County (Devils Knob Complex), Oregon, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127906\">PDC</a>",
-          42.90764,
-          -122.83812
         ]
       ]
     },
-    "title": "109 events (05/Sep/2021 PDT)"
+    "title": "106 events (05/Sep/2021 PDT)"
   },
-  "last_update": "05/Sep/2021 @ 16:01:34 PDT",
-  "last_update_epoch": 1630882894.320134,
+  "last_update": "05/Sep/2021 @ 17:01:34 PDT",
+  "last_update_epoch": 1630886494.672172,
   "neo": {
-    "date": "05/Sep/2021 PDT",
-    "last_update": "05/Sep/2021 @ 16:00:49 PDT",
+    "date": "06/Sep/2021 PDT",
+    "last_update": "05/Sep/2021 @ 17:00:46 PDT",
     "objects": [
       {
-        "cat": "05/Sep/2021 @ 16:28:00 ",
-        "diameter": "0.27-0.60 miles",
-        "distance": "22,010,338.08 miles",
+        "cat": "06/Sep/2021 @ 19:51:00 ",
+        "diameter": "0.05-0.11 miles",
+        "distance": "23,644,592.51 miles",
         "hazardous": false,
-        "name": "Asteroid (2005 TR45)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3293791",
-        "velocity": "29,739.86 mph"
+        "name": "Asteroid (2013 CW83)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3626615",
+        "velocity": "32,882.60 mph"
       },
       {
-        "cat": "05/Sep/2021 @ 23:28:00 ",
+        "cat": "06/Sep/2021 @ 20:36:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "6,625,864.96 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 FD157)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3773749",
+        "velocity": "23,767.59 mph"
+      },
+      {
+        "cat": "06/Sep/2021 @ 11:16:00 ",
+        "diameter": "0.05-0.12 miles",
+        "distance": "22,395,557.91 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 DK)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3838833",
+        "velocity": "9,638.06 mph"
+      },
+      {
+        "cat": "06/Sep/2021 @ 15:39:00 ",
+        "diameter": "0.03-0.08 miles",
+        "distance": "16,459,432.19 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 QU)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54051168",
+        "velocity": "37,099.43 mph"
+      },
+      {
+        "cat": "06/Sep/2021 @ 02:18:00 ",
         "diameter": "0.00-0.00 miles",
-        "distance": "5,626,368.20 miles",
+        "distance": "35,146,211.13 miles",
         "hazardous": false,
-        "name": "Asteroid (2012 AQ)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3591894",
-        "velocity": "7,878.38 mph"
+        "name": "Asteroid (2020 RB4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54053937",
+        "velocity": "27,424.37 mph"
       },
       {
-        "cat": "05/Sep/2021 @ 21:55:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "41,707,061.76 miles",
+        "cat": "06/Sep/2021 @ 09:48:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "12,621,967.89 miles",
         "hazardous": false,
-        "name": "Asteroid (2012 BX34)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3596262",
-        "velocity": "32,764.09 mph"
+        "name": "Asteroid (2020 VA4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54087767",
+        "velocity": "8,850.49 mph"
       },
       {
-        "cat": "05/Sep/2021 @ 21:56:00 ",
+        "cat": "06/Sep/2021 @ 08:38:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "12,577,503.44 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 QK2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54190790",
+        "velocity": "14,863.81 mph"
+      },
+      {
+        "cat": "06/Sep/2021 @ 02:13:00 ",
         "diameter": "0.02-0.05 miles",
-        "distance": "3,787,937.96 miles",
+        "distance": "1,667,507.60 miles",
         "hazardous": false,
-        "name": "Asteroid (2015 SW6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3728646",
-        "velocity": "22,175.63 mph"
+        "name": "Asteroid (2021 QM1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54190078",
+        "velocity": "47,445.04 mph"
       },
       {
-        "cat": "05/Sep/2021 @ 00:57:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "4,964,455.27 miles",
+        "cat": "06/Sep/2021 @ 03:03:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "3,417,231.25 miles",
         "hazardous": false,
-        "name": "Asteroid (2016 DY21)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3744993",
-        "velocity": "29,898.04 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 15:23:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "22,958,522.49 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 HU2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3774066",
-        "velocity": "14,701.39 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 03:22:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "13,037,983.49 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 RG6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54054314",
-        "velocity": "31,860.30 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 03:43:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "27,448,035.40 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 EN1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54130487",
-        "velocity": "37,147.09 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 13:33:00 ",
-        "diameter": "0.45-1.01 miles",
-        "distance": "16,922,762.33 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 JQ24)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54157354",
-        "velocity": "23,960.28 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 10:07:00 ",
-        "diameter": "0.22-0.50 miles",
-        "distance": "27,825,457.66 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 PO)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54177599",
-        "velocity": "46,381.00 mph"
-      },
-      {
-        "cat": "05/Sep/2021 @ 07:22:00 ",
-        "diameter": "0.17-0.37 miles",
-        "distance": "37,309,642.98 miles",
-        "hazardous": true,
-        "name": "Asteroid 363344 (2002 QC7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2363344",
-        "velocity": "30,877.89 mph"
+        "name": "Asteroid (2021 QW)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54188099",
+        "velocity": "29,088.63 mph"
       }
     ],
-    "title": "11 objects making close approach (05/Sep/2021 PDT)"
+    "title": "9 objects making close approach (06/Sep/2021 PDT)"
   },
   "satview": {
     "date": "05/Sep/2021 PDT",
@@ -4576,7 +4489,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Sep/2021 @ 16:00:49 PDT",
+    "last_update": "05/Sep/2021 @ 17:00:47 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6116,7 +6029,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Sep/2021 @ 16:00:55 PDT",
+    "last_update": "05/Sep/2021 @ 17:00:52 PDT",
     "launches": {
       "future": [
         {
