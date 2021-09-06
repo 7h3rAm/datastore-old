@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Sep/2021 @ 23:00:10 PDT",
+    "last_update": "06/Sep/2021 @ 00:00:10 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "05/Sep/2021 PDT",
+    "date": "06/Sep/2021 PDT",
     "events": [
       {
         "category": [
@@ -1814,7 +1814,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "05/Sep/2021 @ 23:00:39 PDT",
+    "last_update": "06/Sep/2021 @ 00:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4145,13 +4145,13 @@
         ]
       ]
     },
-    "title": "98 events (05/Sep/2021 PDT)"
+    "title": "98 events (06/Sep/2021 PDT)"
   },
-  "last_update": "05/Sep/2021 @ 23:01:31 PDT",
-  "last_update_epoch": 1630908091.519036,
+  "last_update": "06/Sep/2021 @ 00:01:24 PDT",
+  "last_update_epoch": 1630911684.566318,
   "neo": {
     "date": "06/Sep/2021 PDT",
-    "last_update": "05/Sep/2021 @ 23:00:41 PDT",
+    "last_update": "06/Sep/2021 @ 00:00:37 PDT",
     "objects": [
       {
         "cat": "06/Sep/2021 @ 19:51:00 ",
@@ -4238,7 +4238,7 @@
     "title": "9 objects making close approach (06/Sep/2021 PDT)"
   },
   "satview": {
-    "date": "05/Sep/2021 PDT",
+    "date": "06/Sep/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Sep/2021 @ 15:17:34 PDT.",
@@ -4305,7 +4305,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Sep/2021 @ 23:00:41 PDT",
+    "last_update": "06/Sep/2021 @ 00:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4358,7 +4358,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (05/Sep/2021 PDT)"
+    "title": "10 people in space (06/Sep/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5845,7 +5845,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Sep/2021 @ 23:00:48 PDT",
+    "last_update": "06/Sep/2021 @ 00:00:43 PDT",
     "launches": {
       "future": [
         {
