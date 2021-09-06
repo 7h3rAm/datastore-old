@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Sep/2021 @ 08:00:11 PDT",
+    "last_update": "06/Sep/2021 @ 09:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -676,24 +676,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f8a9",
-        "location": "http://maps.google.com/maps?q=-30.026,-71.6924",
-        "name": "M 4.3 - 34 km WSW of Coquimbo, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8a9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8g1",
         "location": "http://maps.google.com/maps?q=-27.6167,-69.2075",
         "name": "M 4.4 - 114 km ESE of Copiapó, Chile",
@@ -794,24 +776,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f8ag",
-        "location": "http://maps.google.com/maps?q=4.1675,126.8191",
-        "name": "M 4.7 - 203 km SE of Sarangani, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8ag"
       },
       {
         "category": [
@@ -1832,7 +1796,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "06/Sep/2021 @ 08:00:40 PDT",
+    "last_update": "06/Sep/2021 @ 09:00:40 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1931,16 +1895,6 @@
           "<a href=\"http://maps.google.com/maps?q=45.4717,149.6042\"><b>M 4.3 - 138 km E of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8ax\">USGS</a>",
           45.4717,
           149.6042
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=4.1675,126.8191\"><b>M 4.7 - 203 km SE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8ag\">USGS</a>",
-          4.1675,
-          126.8191
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.026,-71.6924\"><b>M 4.3 - 34 km WSW of Coquimbo, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8a9\">USGS</a>",
-          -30.026,
-          -71.6924
         ]
       ],
       "Floods": [],
@@ -4168,13 +4122,13 @@
         ]
       ]
     },
-    "title": "99 events (06/Sep/2021 PDT)"
+    "title": "97 events (06/Sep/2021 PDT)"
   },
-  "last_update": "06/Sep/2021 @ 08:01:31 PDT",
-  "last_update_epoch": 1630940491.474672,
+  "last_update": "06/Sep/2021 @ 09:01:33 PDT",
+  "last_update_epoch": 1630944093.25248,
   "neo": {
     "date": "06/Sep/2021 PDT",
-    "last_update": "06/Sep/2021 @ 08:00:42 PDT",
+    "last_update": "06/Sep/2021 @ 09:00:42 PDT",
     "objects": [
       {
         "cat": "06/Sep/2021 @ 19:51:00 ",
@@ -4337,7 +4291,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Sep/2021 @ 08:00:42 PDT",
+    "last_update": "06/Sep/2021 @ 09:00:42 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5877,7 +5831,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Sep/2021 @ 08:00:49 PDT",
+    "last_update": "06/Sep/2021 @ 09:00:47 PDT",
     "launches": {
       "future": [
         {
