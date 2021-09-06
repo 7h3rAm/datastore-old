@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Sep/2021 @ 05:00:09 PDT",
+    "last_update": "06/Sep/2021 @ 06:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -586,24 +586,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f894",
-        "location": "http://maps.google.com/maps?q=-20.1711,-70.4638",
-        "name": "M 4.1 - 33 km W of Iquique, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f894"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8cs",
         "location": "http://maps.google.com/maps?q=35.9921,27.5225",
         "name": "M 4.1 - 39 km SW of Émponas, Greece",
@@ -766,6 +748,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f8jr",
+        "location": "http://maps.google.com/maps?q=19.2151,-108.3237",
+        "name": "M 4.4 - Revilla Gigedo Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f8i6",
         "location": "http://maps.google.com/maps?q=46.0597,150.6943",
         "name": "M 4.5 - 238 km ENE of Kuril’sk, Russia",
@@ -820,24 +820,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f892",
-        "location": "http://maps.google.com/maps?q=-2.6157,127.4985",
-        "name": "M 4.7 - 141 km NNW of Ambon, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f892"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8ag",
         "location": "http://maps.google.com/maps?q=4.1675,126.8191",
         "name": "M 4.7 - 203 km SE of Sarangani, Philippines",
@@ -848,24 +830,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8ag"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f89g",
-        "location": "http://maps.google.com/maps?q=-14.7458,167.8269",
-        "name": "M 4.8 - 87 km ENE of Port-Olry, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f89g"
       },
       {
         "category": [
@@ -930,7 +894,7 @@
         ],
         "eid": "us7000f8gn",
         "location": "http://maps.google.com/maps?q=53.2087,99.0414",
-        "name": "M 5.2 - 93 km NW of Orlik, Russia",
+        "name": "M 5.2 - Irkutskaya Oblast', Russia",
         "source": [
           {
             "sid": "USGS",
@@ -1868,11 +1832,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "06/Sep/2021 @ 05:00:37 PDT",
+    "last_update": "06/Sep/2021 @ 06:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.2151,-108.3237\"><b>M 4.4 - Revilla Gigedo Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jr\">USGS</a>",
+          19.2151,
+          -108.3237
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=5.4876,126.6751\"><b>M 4.9 - 111 km SSE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jd\">USGS</a>",
           5.4876,
@@ -1899,7 +1868,7 @@
           -25.2141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.2087,99.0414\"><b>M 5.2 - 93 km NW of Orlik, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8gn\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.2087,99.0414\"><b>M 5.2 - Irkutskaya Oblast', Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8gn\">USGS</a>",
           53.2087,
           99.0414
         ],
@@ -1972,21 +1941,6 @@
           "<a href=\"http://maps.google.com/maps?q=-58.6217,-24.8899\"><b>M 4.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f89t\">USGS</a>",
           -58.6217,
           -24.8899
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.7458,167.8269\"><b>M 4.8 - 87 km ENE of Port-Olry, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f89g\">USGS</a>",
-          -14.7458,
-          167.8269
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.1711,-70.4638\"><b>M 4.1 - 33 km W of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f894\">USGS</a>",
-          -20.1711,
-          -70.4638
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-2.6157,127.4985\"><b>M 4.7 - 141 km NNW of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f892\">USGS</a>",
-          -2.6157,
-          127.4985
         ]
       ],
       "Floods": [],
@@ -4214,13 +4168,13 @@
         ]
       ]
     },
-    "title": "101 events (06/Sep/2021 PDT)"
+    "title": "99 events (06/Sep/2021 PDT)"
   },
-  "last_update": "06/Sep/2021 @ 05:01:30 PDT",
-  "last_update_epoch": 1630929690.179672,
+  "last_update": "06/Sep/2021 @ 06:01:25 PDT",
+  "last_update_epoch": 1630933285.222295,
   "neo": {
     "date": "06/Sep/2021 PDT",
-    "last_update": "06/Sep/2021 @ 05:00:38 PDT",
+    "last_update": "06/Sep/2021 @ 06:00:37 PDT",
     "objects": [
       {
         "cat": "06/Sep/2021 @ 19:51:00 ",
@@ -4310,8 +4264,8 @@
     "date": "06/Sep/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Sep/2021 @ 15:17:34 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/09/04/jpg/epic_1b_20210904222223.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 05/Sep/2021 @ 13:48:14 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/09/05/jpg/epic_1b_20210905205302.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -4374,7 +4328,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Sep/2021 @ 05:00:39 PDT",
+    "last_update": "06/Sep/2021 @ 06:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5914,7 +5868,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Sep/2021 @ 05:00:45 PDT",
+    "last_update": "06/Sep/2021 @ 06:00:42 PDT",
     "launches": {
       "future": [
         {
