@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Sep/2021 @ 13:00:08 PDT",
+    "last_update": "06/Sep/2021 @ 14:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -668,24 +668,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8g1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f8c8",
-        "location": "http://maps.google.com/maps?q=-12.5062,167.0147",
-        "name": "M 4.4 - 162 km NNW of Sola, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8c8"
       },
       {
         "category": [
@@ -1752,7 +1734,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "06/Sep/2021 @ 13:00:35 PDT",
+    "last_update": "06/Sep/2021 @ 14:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1846,11 +1828,6 @@
           "<a href=\"http://maps.google.com/maps?q=-59.3913,-25.7551\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8cf\">USGS</a>",
           -59.3913,
           -25.7551
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-12.5062,167.0147\"><b>M 4.4 - 162 km NNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8c8\">USGS</a>",
-          -12.5062,
-          167.0147
         ]
       ],
       "Floods": [],
@@ -4008,13 +3985,13 @@
         ]
       ]
     },
-    "title": "95 events (06/Sep/2021 PDT)"
+    "title": "94 events (06/Sep/2021 PDT)"
   },
-  "last_update": "06/Sep/2021 @ 13:01:21 PDT",
-  "last_update_epoch": 1630958481.134334,
+  "last_update": "06/Sep/2021 @ 14:01:24 PDT",
+  "last_update_epoch": 1630962084.209959,
   "neo": {
     "date": "06/Sep/2021 PDT",
-    "last_update": "06/Sep/2021 @ 13:00:36 PDT",
+    "last_update": "06/Sep/2021 @ 14:00:36 PDT",
     "objects": [
       {
         "cat": "06/Sep/2021 @ 19:51:00 ",
@@ -4177,7 +4154,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Sep/2021 @ 13:00:36 PDT",
+    "last_update": "06/Sep/2021 @ 14:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5717,7 +5694,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Sep/2021 @ 13:00:42 PDT",
+    "last_update": "06/Sep/2021 @ 14:00:42 PDT",
     "launches": {
       "future": [
         {
