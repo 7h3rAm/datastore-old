@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Sep/2021 @ 13:00:08 PDT",
+    "last_update": "07/Sep/2021 @ 14:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/NGC520_HubbleOstling_960.jpg",
     "title": "NGC 520: Colliding Galaxies from Hubble (07/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -830,24 +830,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8zw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f8p7",
-        "location": "http://maps.google.com/maps?q=31.1818,131.4446",
-        "name": "M 4.6 - 38 km SSE of Kushima, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8p7"
       },
       {
         "category": [
@@ -1914,7 +1896,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "07/Sep/2021 @ 13:00:36 PDT",
+    "last_update": "07/Sep/2021 @ 14:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2043,11 +2025,6 @@
           "<a href=\"http://maps.google.com/maps?q=-8.1655,-76.022\"><b>M 4.5 - 54 km E of Tocache, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8pj\">USGS</a>",
           -8.1655,
           -76.022
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.1818,131.4446\"><b>M 4.6 - 38 km SSE of Kushima, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8p7\">USGS</a>",
-          31.1818,
-          131.4446
         ]
       ],
       "Floods": [],
@@ -4260,13 +4237,13 @@
         ]
       ]
     },
-    "title": "104 events (07/Sep/2021 PDT)"
+    "title": "103 events (07/Sep/2021 PDT)"
   },
-  "last_update": "07/Sep/2021 @ 13:01:32 PDT",
-  "last_update_epoch": 1631044892.434899,
+  "last_update": "07/Sep/2021 @ 14:01:25 PDT",
+  "last_update_epoch": 1631048485.706292,
   "neo": {
     "date": "07/Sep/2021 PDT",
-    "last_update": "07/Sep/2021 @ 13:00:39 PDT",
+    "last_update": "07/Sep/2021 @ 14:00:39 PDT",
     "objects": [
       {
         "cat": "07/Sep/2021 @ 17:50:00 ",
@@ -4447,7 +4424,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Sep/2021 @ 13:00:40 PDT",
+    "last_update": "07/Sep/2021 @ 14:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5987,7 +5964,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Sep/2021 @ 13:00:45 PDT",
+    "last_update": "07/Sep/2021 @ 14:00:44 PDT",
     "launches": {
       "future": [
         {
