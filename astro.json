@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Sep/2021 @ 20:00:09 PDT",
+    "last_update": "06/Sep/2021 @ 21:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/FireFlyMilkyWay_Komlev_960.jpg",
     "title": "Firefly Milky Way over Russia (06/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -568,24 +568,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "pr2021249004",
-        "location": "http://maps.google.com/maps?q=18.9366,-68.7371",
-        "name": "M 4.0 - 32 km NNW of Otra Banda, Dominican Republic",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2021249004"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8qc",
         "location": "http://maps.google.com/maps?q=16.8291,-94.4809",
         "name": "M 4.1 - 23 km ESE of Santa María Chimalapa, Mexico",
@@ -768,7 +750,7 @@
         ],
         "eid": "us7000f8jb",
         "location": "http://maps.google.com/maps?q=5.6012,126.0785",
-        "name": "M 4.5 - 59 km SE of Caburan, Philippines",
+        "name": "M 4.5 - Mindanao, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -884,6 +866,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rg"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f8rm",
+        "location": "http://maps.google.com/maps?q=-6.3181,103.5476",
+        "name": "M 4.8 - 213 km WSW of Bandar Lampung, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rm"
       },
       {
         "category": [
@@ -1842,11 +1842,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5830"
       }
     ],
-    "last_update": "06/Sep/2021 @ 20:00:38 PDT",
+    "last_update": "06/Sep/2021 @ 21:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.3181,103.5476\"><b>M 4.8 - 213 km WSW of Bandar Lampung, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rm\">USGS</a>",
+          -6.3181,
+          103.5476
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=5.5158,126.7404\"><b>M 4.8 - 112 km SSE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rg\">USGS</a>",
           5.5158,
@@ -1928,7 +1933,7 @@
           126.6751
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.6012,126.0785\"><b>M 4.5 - 59 km SE of Caburan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.6012,126.0785\"><b>M 4.5 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8jb\">USGS</a>",
           5.6012,
           126.0785
         ],
@@ -1966,11 +1971,6 @@
           "<a href=\"http://maps.google.com/maps?q=-28.4366,-12.6826\"><b>M 5.0 - southern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8fb\">USGS</a>",
           -28.4366,
           -12.6826
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.9366,-68.7371\"><b>M 4.0 - 32 km NNW of Otra Banda, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2021249004\">USGS</a>",
-          18.9366,
-          -68.7371
         ]
       ],
       "Floods": [],
@@ -4125,11 +4125,11 @@
     },
     "title": "100 events (06/Sep/2021 PDT)"
   },
-  "last_update": "06/Sep/2021 @ 20:01:33 PDT",
-  "last_update_epoch": 1630983693.061404,
+  "last_update": "06/Sep/2021 @ 21:01:27 PDT",
+  "last_update_epoch": 1630987287.704778,
   "neo": {
     "date": "07/Sep/2021 PDT",
-    "last_update": "06/Sep/2021 @ 20:00:41 PDT",
+    "last_update": "06/Sep/2021 @ 21:00:39 PDT",
     "objects": [
       {
         "cat": "07/Sep/2021 @ 17:50:00 ",
@@ -4310,7 +4310,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Sep/2021 @ 20:00:42 PDT",
+    "last_update": "06/Sep/2021 @ 21:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5850,7 +5850,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Sep/2021 @ 20:00:49 PDT",
+    "last_update": "06/Sep/2021 @ 21:00:44 PDT",
     "launches": {
       "future": [
         {
