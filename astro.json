@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Sep/2021 @ 08:00:12 PDT",
+    "last_update": "07/Sep/2021 @ 09:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/NGC520_HubbleOstling_960.jpg",
     "title": "NGC 520: Colliding Galaxies from Hubble (07/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -686,6 +686,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8q1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f8v3",
+        "location": "http://maps.google.com/maps?q=-37.9835,-74.1002",
+        "name": "M 4.4 - 57 km SW of Lebu, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3"
       },
       {
         "category": [
@@ -1380,24 +1398,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5803",
-        "location": "https://www.google.com/maps/dir/43.216020669,19.217378153/@43.216020669,19.217378153,3z",
-        "name": "Wildfire - N of Podgorica - Montenegro",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=127987"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5803"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5884",
         "location": "https://www.google.com/maps/dir/38.924589754,-122.604087947/@38.924589754,-122.604087947,3z",
         "name": "Wildfire - N of Santa Rosa, California - United States",
@@ -1896,11 +1896,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "07/Sep/2021 @ 08:00:41 PDT",
+    "last_update": "07/Sep/2021 @ 09:00:39 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-37.9835,-74.1002\"><b>M 4.4 - 57 km SW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3\">USGS</a>",
+          -37.9835,
+          -74.1002
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.1238,73.1811\"><b>M 4.7 - 69 km W of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8um\">USGS</a>",
           38.1238,
@@ -4229,21 +4234,16 @@
           "<a href=\"http://maps.google.com/maps?q=38.97683,23.23897\"><b>Wildfires - Evia Island, Greece</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128052\">PDC</a>",
           38.97683,
           23.23897
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=43.216020669,19.217378153\"><b>Wildfire - N of Podgorica - Montenegro</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=127987\">PDC</a>",
-          43.216020669,
-          19.217378153
         ]
       ]
     },
     "title": "103 events (07/Sep/2021 PDT)"
   },
-  "last_update": "07/Sep/2021 @ 08:01:34 PDT",
-  "last_update_epoch": 1631026894.04266,
+  "last_update": "07/Sep/2021 @ 09:01:29 PDT",
+  "last_update_epoch": 1631030489.855559,
   "neo": {
     "date": "07/Sep/2021 PDT",
-    "last_update": "07/Sep/2021 @ 08:00:42 PDT",
+    "last_update": "07/Sep/2021 @ 09:00:40 PDT",
     "objects": [
       {
         "cat": "07/Sep/2021 @ 17:50:00 ",
@@ -4424,7 +4424,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Sep/2021 @ 08:00:42 PDT",
+    "last_update": "07/Sep/2021 @ 09:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5964,7 +5964,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Sep/2021 @ 08:00:48 PDT",
+    "last_update": "07/Sep/2021 @ 09:00:45 PDT",
     "launches": {
       "future": [
         {
