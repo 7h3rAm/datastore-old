@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Sep/2021 @ 14:00:07 PDT",
+    "last_update": "08/Sep/2021 @ 15:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg",
     "title": "The Deep Sky Toward Andromeda (08/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -640,24 +640,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f92g",
-        "location": "http://maps.google.com/maps?q=36.4146,27.2083",
-        "name": "M 4.3 - 22 km SSE of Mandráki, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f92g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f97d",
         "location": "http://maps.google.com/maps?q=44.3223,17.8828",
         "name": "M 4.3 - 9 km SSW of Željezno Polje, Bosnia and Herzegovina",
@@ -678,7 +660,7 @@
         ],
         "eid": "us7000f957",
         "location": "http://maps.google.com/maps?q=16.6267,-99.7482",
-        "name": "M 4.5 - near the coast of Guerrero, Mexico",
+        "name": "M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -812,6 +794,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f942"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9g6",
+        "location": "http://maps.google.com/maps?q=-38.2881,-93.6237",
+        "name": "M 4.9 - West Chile Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9g6"
       },
       {
         "category": [
@@ -1720,11 +1720,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "08/Sep/2021 @ 14:00:39 PDT",
+    "last_update": "08/Sep/2021 @ 15:00:38 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.2881,-93.6237\"><b>M 4.9 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9g6\">USGS</a>",
+          -38.2881,
+          -93.6237
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.1471,-93.8373\"><b>M 5.6 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ay\">USGS</a>",
           -38.1471,
@@ -1756,7 +1761,7 @@
           -99.8584
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - near the coast of Guerrero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
           16.6267,
           -99.7482
         ],
@@ -1809,11 +1814,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.2863,-67.3089\"><b>M 4.1 - 100 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f938\">USGS</a>",
           -24.2863,
           -67.3089
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.4146,27.2083\"><b>M 4.3 - 22 km SSE of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f92g\">USGS</a>",
-          36.4146,
-          27.2083
         ]
       ],
       "Floods": [],
@@ -4073,11 +4073,11 @@
     },
     "title": "93 events (08/Sep/2021 PDT)"
   },
-  "last_update": "08/Sep/2021 @ 14:01:31 PDT",
-  "last_update_epoch": 1631134891.166749,
+  "last_update": "08/Sep/2021 @ 15:01:22 PDT",
+  "last_update_epoch": 1631138482.477566,
   "neo": {
     "date": "08/Sep/2021 PDT",
-    "last_update": "08/Sep/2021 @ 14:00:41 PDT",
+    "last_update": "08/Sep/2021 @ 15:00:39 PDT",
     "objects": [
       {
         "cat": "08/Sep/2021 @ 04:18:00 ",
@@ -4321,7 +4321,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Sep/2021 @ 14:00:41 PDT",
+    "last_update": "08/Sep/2021 @ 15:00:39 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5861,7 +5861,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Sep/2021 @ 14:00:48 PDT",
+    "last_update": "08/Sep/2021 @ 15:00:44 PDT",
     "launches": {
       "future": [
         {
