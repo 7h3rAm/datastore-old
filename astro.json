@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Sep/2021 @ 22:00:09 PDT",
+    "last_update": "07/Sep/2021 @ 23:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg",
     "title": "The Deep Sky Toward Andromeda (08/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -946,6 +946,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f950",
+        "location": "http://maps.google.com/maps?q=38.1508,73.2564",
+        "name": "M 5.3 - 62 km W of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f950"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f8tc",
         "location": "http://maps.google.com/maps?q=-19.4163,-176.0692",
         "name": "M 6.0 - 185 km WNW of Pangai, Tonga",
@@ -1860,11 +1878,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "07/Sep/2021 @ 22:00:37 PDT",
+    "last_update": "07/Sep/2021 @ 23:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.1508,73.2564\"><b>M 5.3 - 62 km W of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f950\">USGS</a>",
+          38.1508,
+          73.2564
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.0575,-99.8813\"><b>M 4.7 - 2 km NNW of Ocotillo, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f94k\">USGS</a>",
           17.0575,
@@ -4191,13 +4214,13 @@
         ]
       ]
     },
-    "title": "101 events (07/Sep/2021 PDT)"
+    "title": "102 events (07/Sep/2021 PDT)"
   },
-  "last_update": "07/Sep/2021 @ 22:01:26 PDT",
-  "last_update_epoch": 1631077286.141333,
+  "last_update": "07/Sep/2021 @ 23:01:31 PDT",
+  "last_update_epoch": 1631080891.920796,
   "neo": {
     "date": "08/Sep/2021 PDT",
-    "last_update": "07/Sep/2021 @ 22:00:40 PDT",
+    "last_update": "07/Sep/2021 @ 23:00:40 PDT",
     "objects": [
       {
         "cat": "08/Sep/2021 @ 04:18:00 ",
@@ -4423,7 +4446,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Sep/2021 @ 22:00:40 PDT",
+    "last_update": "07/Sep/2021 @ 23:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5963,7 +5986,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Sep/2021 @ 22:00:46 PDT",
+    "last_update": "07/Sep/2021 @ 23:00:45 PDT",
     "launches": {
       "future": [
         {
