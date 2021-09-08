@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Sep/2021 @ 03:00:10 PDT",
+    "last_update": "08/Sep/2021 @ 04:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg",
     "title": "The Deep Sky Toward Andromeda (08/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -568,6 +568,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f96z",
+        "location": "http://maps.google.com/maps?q=-21.6994,-68.3278",
+        "name": "M 4.1 - 103 km NE of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f96z"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f93l",
         "location": "http://maps.google.com/maps?q=17.1297,-99.4066",
         "name": "M 4.2 - 6 km W of El Terrero, Mexico",
@@ -642,7 +660,7 @@
         ],
         "eid": "us7000f8v3",
         "location": "http://maps.google.com/maps?q=-37.9835,-74.1002",
-        "name": "M 4.4 - Off the coast of Bio-Bio, Chile",
+        "name": "M 4.4 - 57 km SW of Lebu, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -650,6 +668,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f957",
+        "location": "http://maps.google.com/maps?q=16.6267,-99.7482",
+        "name": "M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957"
       },
       {
         "category": [
@@ -694,24 +730,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f957",
-        "location": "http://maps.google.com/maps?q=16.6267,-99.7482",
-        "name": "M 4.5 - near the coast of Guerrero, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f93a",
         "location": "http://maps.google.com/maps?q=-7.5379,128.3759",
         "name": "M 4.6 - 186 km NE of Lospalos, Timor Leste",
@@ -748,6 +766,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f96s",
+        "location": "http://maps.google.com/maps?q=16.9087,-99.8584",
+        "name": "M 4.6 - 4 km SW of Los Órganos de San Agustín, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f96s"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f8ul",
         "location": "http://maps.google.com/maps?q=35.3654,141.3938",
         "name": "M 4.6 - 65 km SE of Hasaki, Japan",
@@ -776,6 +812,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93s"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f978",
+        "location": "http://maps.google.com/maps?q=-36.2045,-98.0411",
+        "name": "M 4.6 - southeast of Easter Island",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f978"
       },
       {
         "category": [
@@ -848,24 +902,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f942"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f8tm",
-        "location": "http://maps.google.com/maps?q=-59.4361,-25.9276",
-        "name": "M 4.9 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8tm"
       },
       {
         "category": [
@@ -1806,13 +1842,28 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "08/Sep/2021 @ 03:00:39 PDT",
+    "last_update": "08/Sep/2021 @ 04:00:32 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - near the coast of Guerrero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-36.2045,-98.0411\"><b>M 4.6 - southeast of Easter Island</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f978\">USGS</a>",
+          -36.2045,
+          -98.0411
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.6994,-68.3278\"><b>M 4.1 - 103 km NE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f96z\">USGS</a>",
+          -21.6994,
+          -68.3278
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.9087,-99.8584\"><b>M 4.6 - 4 km SW of Los Órganos de San Agustín, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f96s\">USGS</a>",
+          16.9087,
+          -99.8584
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
           16.6267,
           -99.7482
         ],
@@ -1887,7 +1938,7 @@
           106.1078
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-37.9835,-74.1002\"><b>M 4.4 - Off the coast of Bio-Bio, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-37.9835,-74.1002\"><b>M 4.4 - 57 km SW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3\">USGS</a>",
           -37.9835,
           -74.1002
         ],
@@ -1910,11 +1961,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.1046,31.0176\"><b>M 4.5 - 62 km SE of Tekirova, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8tq\">USGS</a>",
           36.1046,
           31.0176
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.4361,-25.9276\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8tm\">USGS</a>",
-          -59.4361,
-          -25.9276
         ]
       ],
       "Floods": [],
@@ -4122,13 +4168,13 @@
         ]
       ]
     },
-    "title": "98 events (08/Sep/2021 PDT)"
+    "title": "100 events (08/Sep/2021 PDT)"
   },
-  "last_update": "08/Sep/2021 @ 03:01:27 PDT",
-  "last_update_epoch": 1631095287.062469,
+  "last_update": "08/Sep/2021 @ 04:01:19 PDT",
+  "last_update_epoch": 1631098879.124797,
   "neo": {
     "date": "08/Sep/2021 PDT",
-    "last_update": "08/Sep/2021 @ 03:00:42 PDT",
+    "last_update": "08/Sep/2021 @ 04:00:35 PDT",
     "objects": [
       {
         "cat": "08/Sep/2021 @ 04:18:00 ",
@@ -4354,7 +4400,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Sep/2021 @ 03:00:43 PDT",
+    "last_update": "08/Sep/2021 @ 04:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5894,7 +5940,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Sep/2021 @ 03:00:48 PDT",
+    "last_update": "08/Sep/2021 @ 04:00:40 PDT",
     "launches": {
       "future": [
         {
