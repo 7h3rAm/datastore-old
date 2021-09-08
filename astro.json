@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Sep/2021 @ 16:00:09 PDT",
+    "last_update": "07/Sep/2021 @ 17:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/NGC520_HubbleOstling_960.jpg",
     "title": "NGC 520: Colliding Galaxies from Hubble (07/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -660,7 +660,7 @@
         ],
         "eid": "us7000f8v3",
         "location": "http://maps.google.com/maps?q=-37.9835,-74.1002",
-        "name": "M 4.4 - 57 km SW of Lebu, Chile",
+        "name": "M 4.4 - Off the coast of Bio-Bio, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -730,24 +730,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f8r2",
-        "location": "http://maps.google.com/maps?q=-8.7631,120.4416",
-        "name": "M 4.6 - 16 km S of Ruteng, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8r2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f8qn",
         "location": "http://maps.google.com/maps?q=-4.16,140.0111",
         "name": "M 4.6 - 186 km SSW of Abepura, Indonesia",
@@ -802,34 +784,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f8rv",
-        "location": "http://maps.google.com/maps?q=-15.961,-173.8077",
-        "name": "M 4.7 - 1 km WSW of Hihifo, Tonga",
+        "eid": "us7000f8r2",
+        "location": "http://maps.google.com/maps?q=-8.7631,120.4416",
+        "name": "M 4.6 - Flores region, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f8qf",
-        "location": "http://maps.google.com/maps?q=3.1625,126.9011",
-        "name": "M 4.7 - 200 km NW of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8qf"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8r2"
       },
       {
         "category": [
@@ -857,7 +821,7 @@
           }
         ],
         "eid": "us7000f8rg",
-        "location": "http://maps.google.com/maps?q=5.5158,126.7404",
+        "location": "http://maps.google.com/maps?q=5.4902,126.7097",
         "name": "M 4.8 - 112 km SSE of Pondaguitan, Philippines",
         "source": [
           {
@@ -875,8 +839,8 @@
           }
         ],
         "eid": "us7000f8rm",
-        "location": "http://maps.google.com/maps?q=-6.3181,103.5476",
-        "name": "M 4.8 - 213 km WSW of Bandar Lampung, Indonesia",
+        "location": "http://maps.google.com/maps?q=-6.2622,103.5456",
+        "name": "M 4.8 - 211 km WSW of Bandar Lampung, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -884,6 +848,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f8rv",
+        "location": "http://maps.google.com/maps?q=-15.9873,-173.8167",
+        "name": "M 4.8 - 4 km SSW of Hihifo, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rv"
       },
       {
         "category": [
@@ -1842,7 +1824,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "07/Sep/2021 @ 16:00:36 PDT",
+    "last_update": "07/Sep/2021 @ 17:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1863,7 +1845,7 @@
           106.1078
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-37.9835,-74.1002\"><b>M 4.4 - 57 km SW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-37.9835,-74.1002\"><b>M 4.4 - Off the coast of Bio-Bio, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8v3\">USGS</a>",
           -37.9835,
           -74.1002
         ],
@@ -1918,22 +1900,22 @@
           -73.0225
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.961,-173.8077\"><b>M 4.7 - 1 km WSW of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rv\">USGS</a>",
-          -15.961,
-          -173.8077
+          "<a href=\"http://maps.google.com/maps?q=-15.9873,-173.8167\"><b>M 4.8 - 4 km SSW of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rv\">USGS</a>",
+          -15.9873,
+          -173.8167
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.3181,103.5476\"><b>M 4.8 - 213 km WSW of Bandar Lampung, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rm\">USGS</a>",
-          -6.3181,
-          103.5476
+          "<a href=\"http://maps.google.com/maps?q=-6.2622,103.5456\"><b>M 4.8 - 211 km WSW of Bandar Lampung, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rm\">USGS</a>",
+          -6.2622,
+          103.5456
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.5158,126.7404\"><b>M 4.8 - 112 km SSE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rg\">USGS</a>",
-          5.5158,
-          126.7404
+          "<a href=\"http://maps.google.com/maps?q=5.4902,126.7097\"><b>M 4.8 - 112 km SSE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8rg\">USGS</a>",
+          5.4902,
+          126.7097
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7631,120.4416\"><b>M 4.6 - 16 km S of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8r2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.7631,120.4416\"><b>M 4.6 - Flores region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8r2\">USGS</a>",
           -8.7631,
           120.4416
         ],
@@ -1951,11 +1933,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.16,140.0111\"><b>M 4.6 - 186 km SSW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8qn\">USGS</a>",
           -4.16,
           140.0111
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=3.1625,126.9011\"><b>M 4.7 - 200 km NW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f8qf\">USGS</a>",
-          3.1625,
-          126.9011
         ]
       ],
       "Floods": [],
@@ -4168,124 +4145,169 @@
         ]
       ]
     },
-    "title": "100 events (07/Sep/2021 PDT)"
+    "title": "99 events (07/Sep/2021 PDT)"
   },
-  "last_update": "07/Sep/2021 @ 16:01:22 PDT",
-  "last_update_epoch": 1631055682.723451,
+  "last_update": "07/Sep/2021 @ 17:01:19 PDT",
+  "last_update_epoch": 1631059279.425681,
   "neo": {
-    "date": "07/Sep/2021 PDT",
-    "last_update": "07/Sep/2021 @ 16:00:39 PDT",
+    "date": "08/Sep/2021 PDT",
+    "last_update": "07/Sep/2021 @ 17:00:38 PDT",
     "objects": [
       {
-        "cat": "07/Sep/2021 @ 17:50:00 ",
-        "diameter": "0.29-0.65 miles",
-        "distance": "42,143,552.33 miles",
-        "hazardous": false,
-        "name": "Asteroid (2013 NZ23)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3645181",
-        "velocity": "57,572.11 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 09:21:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "33,333,898.26 miles",
-        "hazardous": false,
-        "name": "Asteroid (2015 TM143)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3729284",
-        "velocity": "15,203.55 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 16:47:00 ",
+        "cat": "08/Sep/2021 @ 04:18:00 ",
         "diameter": "0.06-0.14 miles",
-        "distance": "28,914,705.46 miles",
+        "distance": "24,192,981.87 miles",
         "hazardous": false,
-        "name": "Asteroid (2016 GH135)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3750674",
-        "velocity": "34,713.89 mph"
+        "name": "Asteroid (2001 SO263)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3092338",
+        "velocity": "9,590.11 mph"
       },
       {
-        "cat": "07/Sep/2021 @ 23:54:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "17,126,096.38 miles",
+        "cat": "08/Sep/2021 @ 09:13:00 ",
+        "diameter": "0.05-0.11 miles",
+        "distance": "27,944,795.39 miles",
         "hazardous": false,
-        "name": "Asteroid (2017 SH2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3781587",
-        "velocity": "10,405.09 mph"
+        "name": "Asteroid (2010 AO2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3484839",
+        "velocity": "35,929.45 mph"
       },
       {
-        "cat": "07/Sep/2021 @ 06:40:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "23,646,920.78 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 RZ1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843807",
-        "velocity": "33,353.88 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 00:00:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "31,255,570.70 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 BF2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54106569",
-        "velocity": "24,341.89 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 13:43:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "19,121,159.94 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 EC1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54130076",
-        "velocity": "16,388.09 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 14:51:00 ",
-        "diameter": "0.04-0.08 miles",
-        "distance": "28,369,359.20 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 HZ1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54139091",
-        "velocity": "18,547.04 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 21:48:00 ",
-        "diameter": "0.07-0.15 miles",
-        "distance": "43,622,300.78 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 QG5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54191346",
-        "velocity": "8,164.54 mph"
-      },
-      {
-        "cat": "07/Sep/2021 @ 01:45:00 ",
+        "cat": "08/Sep/2021 @ 22:52:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "533,496.15 miles",
+        "distance": "19,181,938.94 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 QH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54189961",
-        "velocity": "17,526.91 mph"
+        "name": "Asteroid (2014 SM1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3689268",
+        "velocity": "31,502.97 mph"
       },
       {
-        "cat": "07/Sep/2021 @ 09:19:00 ",
-        "diameter": "0.16-0.36 miles",
-        "distance": "19,725,938.39 miles",
-        "hazardous": true,
-        "name": "Asteroid 163348 (2002 NN4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2163348",
-        "velocity": "39,591.64 mph"
+        "cat": "08/Sep/2021 @ 20:25:00 ",
+        "diameter": "0.05-0.11 miles",
+        "distance": "22,269,170.07 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 HN)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3752156",
+        "velocity": "28,709.24 mph"
       },
       {
-        "cat": "07/Sep/2021 @ 03:57:00 ",
-        "diameter": "0.17-0.37 miles",
-        "distance": "43,926,918.46 miles",
-        "hazardous": true,
-        "name": "Asteroid 419472 (2010 DW1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2419472",
-        "velocity": "28,815.40 mph"
+        "cat": "08/Sep/2021 @ 06:23:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "45,798,019.78 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 TG4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3785765",
+        "velocity": "19,688.47 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 20:51:00 ",
+        "diameter": "0.02-0.03 miles",
+        "distance": "29,423,713.21 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 BL)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3837925",
+        "velocity": "8,921.92 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 05:03:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "42,583,195.97 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 NC7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843318",
+        "velocity": "27,691.59 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 21:29:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "46,010,737.69 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 PS1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843516",
+        "velocity": "10,348.97 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 08:20:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "22,627,848.87 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 RR2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843828",
+        "velocity": "27,912.45 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 00:11:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "42,316,193.25 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 SJ1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843909",
+        "velocity": "45,404.85 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 05:58:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "41,539,947.48 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 GL3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54135422",
+        "velocity": "15,171.23 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 11:29:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "29,835,961.21 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 HB3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54142541",
+        "velocity": "19,834.67 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 13:21:00 ",
+        "diameter": "0.05-0.12 miles",
+        "distance": "27,966,341.33 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 PL3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54178997",
+        "velocity": "23,306.39 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 00:21:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "23,224,632.99 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 QE)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54186664",
+        "velocity": "5,634.38 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 02:46:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "1,908,221.63 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 QY3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54191338",
+        "velocity": "25,675.63 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 01:53:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "3,024,706.77 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 RB)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54191781",
+        "velocity": "16,636.92 mph"
+      },
+      {
+        "cat": "08/Sep/2021 @ 03:53:00 ",
+        "diameter": "0.11-0.26 miles",
+        "distance": "41,543,873.45 miles",
+        "hazardous": false,
+        "name": "Asteroid 344756 (2003 VO2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2344756",
+        "velocity": "13,087.85 mph"
       }
     ],
-    "title": "12 objects making close approach (07/Sep/2021 PDT)"
+    "title": "17 objects making close approach (08/Sep/2021 PDT)"
   },
   "satview": {
     "date": "07/Sep/2021 PDT",
@@ -4355,7 +4377,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Sep/2021 @ 16:00:40 PDT",
+    "last_update": "07/Sep/2021 @ 17:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5895,7 +5917,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Sep/2021 @ 16:00:45 PDT",
+    "last_update": "07/Sep/2021 @ 17:00:43 PDT",
     "launches": {
       "future": [
         {
