@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Sep/2021 @ 18:00:10 PDT",
+    "last_update": "08/Sep/2021 @ 19:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg",
     "title": "The Deep Sky Toward Andromeda (08/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -604,6 +604,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9is",
+        "location": "http://maps.google.com/maps?q=27.9641,139.8191",
+        "name": "M 4.2 - Bonin Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9is"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f97q",
         "location": "http://maps.google.com/maps?q=18.5179,-106.7403",
         "name": "M 4.3 - 208 km SW of José María Morelos, Mexico",
@@ -614,6 +632,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f97q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9i3",
+        "location": "http://maps.google.com/maps?q=-18.1681,-177.9444",
+        "name": "M 4.3 - 290 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3"
       },
       {
         "category": [
@@ -668,24 +704,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f96s"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f93s",
-        "location": "http://maps.google.com/maps?q=18.6486,145.811",
-        "name": "M 4.6 - Pagan region, Northern Mariana Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93s"
       },
       {
         "category": [
@@ -766,6 +784,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9ij",
+        "location": "http://maps.google.com/maps?q=-38.4294,-93.8419",
+        "name": "M 4.8 - West Chile Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ij"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f93y",
         "location": "http://maps.google.com/maps?q=17.0047,-99.7911",
         "name": "M 4.9 - 1 km WNW of Kilómetro 30, Mexico",
@@ -812,24 +848,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9g6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f93t",
-        "location": "http://maps.google.com/maps?q=36.4642,27.1918",
-        "name": "M 5.0 - 17 km SSE of Mandráki, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93t"
       },
       {
         "category": [
@@ -902,24 +920,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ay"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f93v",
-        "location": "http://maps.google.com/maps?q=16.9816,-99.7726",
-        "name": "M 7.0 - Acapulco, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93v"
       },
       {
         "category": [
@@ -1756,11 +1756,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "08/Sep/2021 @ 18:00:52 PDT",
+    "last_update": "08/Sep/2021 @ 19:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.9641,139.8191\"><b>M 4.2 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9is\">USGS</a>",
+          27.9641,
+          139.8191
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.4294,-93.8419\"><b>M 4.8 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ij\">USGS</a>",
+          -38.4294,
+          -93.8419
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.1681,-177.9444\"><b>M 4.3 - 290 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3\">USGS</a>",
+          -18.1681,
+          -177.9444
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.1504,-93.8965\"><b>M 5.4 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9hs\">USGS</a>",
           -38.1504,
@@ -1845,21 +1860,6 @@
           "<a href=\"http://maps.google.com/maps?q=17.0047,-99.7911\"><b>M 4.9 - 1 km WNW of Kilómetro 30, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93y\">USGS</a>",
           17.0047,
           -99.7911
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.9816,-99.7726\"><b>M 7.0 - Acapulco, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93v\">USGS</a>",
-          16.9816,
-          -99.7726
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.4642,27.1918\"><b>M 5.0 - 17 km SSE of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93t\">USGS</a>",
-          36.4642,
-          27.1918
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.6486,145.811\"><b>M 4.6 - Pagan region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f93s\">USGS</a>",
-          18.6486,
-          145.811
         ]
       ],
       "Floods": [],
@@ -4119,11 +4119,11 @@
     },
     "title": "95 events (08/Sep/2021 PDT)"
   },
-  "last_update": "08/Sep/2021 @ 18:01:37 PDT",
-  "last_update_epoch": 1631149297.332864,
+  "last_update": "08/Sep/2021 @ 19:01:25 PDT",
+  "last_update_epoch": 1631152885.656873,
   "neo": {
     "date": "09/Sep/2021 PDT",
-    "last_update": "08/Sep/2021 @ 18:00:53 PDT",
+    "last_update": "08/Sep/2021 @ 19:00:35 PDT",
     "objects": [
       {
         "cat": "09/Sep/2021 @ 18:04:00 ",
@@ -4367,7 +4367,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Sep/2021 @ 18:00:54 PDT",
+    "last_update": "08/Sep/2021 @ 19:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5907,7 +5907,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Sep/2021 @ 18:01:00 PDT",
+    "last_update": "08/Sep/2021 @ 19:00:41 PDT",
     "launches": {
       "future": [
         {
