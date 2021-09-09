@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Sep/2021 @ 09:00:06 PDT",
+    "last_update": "09/Sep/2021 @ 10:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg",
     "title": "M16 Close Up (09/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -586,24 +586,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "tx2021rqlj",
-        "location": "http://maps.google.com/maps?q=31.67282475,-104.376584",
-        "name": "M 4.2 - 55 km S of Whites City, New Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2021rqlj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f9is",
         "location": "http://maps.google.com/maps?q=27.9641,139.8191",
         "name": "M 4.2 - Bonin Islands, Japan region",
@@ -632,6 +614,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "tx2021rqlj",
+        "location": "http://maps.google.com/maps?q=31.67167072,-104.3773813",
+        "name": "M 4.3 - 55 km S of Whites City, New Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2021rqlj"
       },
       {
         "category": [
@@ -1010,24 +1010,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9jy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9ay",
-        "location": "http://maps.google.com/maps?q=-38.1471,-93.8373",
-        "name": "M 5.6 - West Chile Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ay"
       },
       {
         "category": [
@@ -1904,7 +1886,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "09/Sep/2021 @ 09:00:46 PDT",
+    "last_update": "09/Sep/2021 @ 10:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2020,9 +2002,9 @@
           -94.0378
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=31.67282475,-104.376584\"><b>M 4.2 - 55 km S of Whites City, New Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/tx2021rqlj\">USGS</a>",
-          31.67282475,
-          -104.376584
+          "<a href=\"http://maps.google.com/maps?q=31.67167072,-104.3773813\"><b>M 4.3 - 55 km S of Whites City, New Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/tx2021rqlj\">USGS</a>",
+          31.67167072,
+          -104.3773813
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.1001,-93.8366\"><b>M 4.7 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9gi\">USGS</a>",
@@ -2038,11 +2020,6 @@
           "<a href=\"http://maps.google.com/maps?q=-38.2881,-93.6237\"><b>M 4.9 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9g6\">USGS</a>",
           -38.2881,
           -93.6237
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.1471,-93.8373\"><b>M 5.6 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ay\">USGS</a>",
-          -38.1471,
-          -93.8373
         ]
       ],
       "Floods": [],
@@ -4385,13 +4362,13 @@
         ]
       ]
     },
-    "title": "103 events (09/Sep/2021 PDT)"
+    "title": "102 events (09/Sep/2021 PDT)"
   },
-  "last_update": "09/Sep/2021 @ 09:01:41 PDT",
-  "last_update_epoch": 1631203301.973868,
+  "last_update": "09/Sep/2021 @ 10:01:47 PDT",
+  "last_update_epoch": 1631206907.700048,
   "neo": {
     "date": "09/Sep/2021 PDT",
-    "last_update": "09/Sep/2021 @ 09:00:47 PDT",
+    "last_update": "09/Sep/2021 @ 10:00:38 PDT",
     "objects": [
       {
         "cat": "09/Sep/2021 @ 18:04:00 ",
@@ -4644,7 +4621,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Sep/2021 @ 09:00:47 PDT",
+    "last_update": "09/Sep/2021 @ 10:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6184,7 +6161,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Sep/2021 @ 09:01:00 PDT",
+    "last_update": "09/Sep/2021 @ 10:00:48 PDT",
     "launches": {
       "future": [
         {
