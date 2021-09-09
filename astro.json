@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Sep/2021 @ 21:00:07 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/M31WideField_Ziegenbalg_960.jpg",
-    "title": "The Deep Sky Toward Andromeda (08/Sep/2021 PDT)",
+    "last_update": "08/Sep/2021 @ 22:00:08 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg",
+    "title": "M16 Cose Up (09/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -676,9 +676,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9kk",
+        "location": "http://maps.google.com/maps?q=9.1184,-83.9071",
+        "name": "M 4.4 - 35 km SW of Daniel Flores, Costa Rica",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f957",
         "location": "http://maps.google.com/maps?q=16.6267,-99.7482",
-        "name": "M 4.5 - near the coast of Guerrero, Mexico",
+        "name": "M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -820,6 +838,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9ib",
+        "location": "http://maps.google.com/maps?q=-6.9241,-72.7933",
+        "name": "M 4.8 - 77 km N of Mâncio Lima, Brazil",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ib"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9ij",
         "location": "http://maps.google.com/maps?q=-38.4294,-93.8419",
         "name": "M 4.8 - West Chile Rise",
@@ -874,6 +910,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9k0",
+        "location": "http://maps.google.com/maps?q=-58.788,-25.4225",
+        "name": "M 5.0 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9k0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9hh",
         "location": "http://maps.google.com/maps?q=-38.15,-94.0378",
         "name": "M 5.0 - West Chile Rise",
@@ -910,6 +964,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9kh",
+        "location": "http://maps.google.com/maps?q=29.3815,142.6344",
+        "name": "M 5.4 - Izu Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9hs",
         "location": "http://maps.google.com/maps?q=-38.1504,-93.8965",
         "name": "M 5.4 - West Chile Rise",
@@ -920,6 +992,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9hs"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9jy",
+        "location": "http://maps.google.com/maps?q=-58.6891,-25.1133",
+        "name": "M 5.6 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9jy"
       },
       {
         "category": [
@@ -1774,11 +1864,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "08/Sep/2021 @ 21:00:38 PDT",
+    "last_update": "08/Sep/2021 @ 22:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.1184,-83.9071\"><b>M 4.4 - 35 km SW of Daniel Flores, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kk\">USGS</a>",
+          9.1184,
+          -83.9071
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.3815,142.6344\"><b>M 5.4 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kh\">USGS</a>",
+          29.3815,
+          142.6344
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.788,-25.4225\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9k0\">USGS</a>",
+          -58.788,
+          -25.4225
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.6891,-25.1133\"><b>M 5.6 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9jy\">USGS</a>",
+          -58.6891,
+          -25.1133
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.1397,-94.015\"><b>M 4.6 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9jl\">USGS</a>",
           -38.1397,
@@ -1803,6 +1913,11 @@
           "<a href=\"http://maps.google.com/maps?q=27.9641,139.8191\"><b>M 4.2 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9is\">USGS</a>",
           27.9641,
           139.8191
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.9241,-72.7933\"><b>M 4.8 - 77 km N of Mâncio Lima, Brazil</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ib\">USGS</a>",
+          -6.9241,
+          -72.7933
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.4294,-93.8419\"><b>M 4.8 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ij\">USGS</a>",
@@ -1875,7 +1990,7 @@
           -99.8584
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - near the coast of Guerrero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.6267,-99.7482\"><b>M 4.5 - 14 km WSW of San Andrés Playa Encantada (El Podrido), Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f957\">USGS</a>",
           16.6267,
           -99.7482
         ],
@@ -4140,13 +4255,13 @@
         ]
       ]
     },
-    "title": "96 events (08/Sep/2021 PDT)"
+    "title": "101 events (08/Sep/2021 PDT)"
   },
-  "last_update": "08/Sep/2021 @ 21:01:37 PDT",
-  "last_update_epoch": 1631160097.515431,
+  "last_update": "08/Sep/2021 @ 22:01:21 PDT",
+  "last_update_epoch": 1631163681.033799,
   "neo": {
     "date": "09/Sep/2021 PDT",
-    "last_update": "08/Sep/2021 @ 21:00:39 PDT",
+    "last_update": "08/Sep/2021 @ 22:00:36 PDT",
     "objects": [
       {
         "cat": "09/Sep/2021 @ 18:04:00 ",
@@ -4390,7 +4505,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Sep/2021 @ 21:00:40 PDT",
+    "last_update": "08/Sep/2021 @ 22:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5930,7 +6045,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Sep/2021 @ 21:00:47 PDT",
+    "last_update": "08/Sep/2021 @ 22:00:41 PDT",
     "launches": {
       "future": [
         {
