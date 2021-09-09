@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Sep/2021 @ 04:00:09 PDT",
+    "last_update": "09/Sep/2021 @ 05:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg",
-    "title": "M16 Cose Up (09/Sep/2021 PDT)",
+    "title": "M16 Close Up (09/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -568,6 +568,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9n2",
+        "location": "http://maps.google.com/maps?q=-19.9624,-178.0582",
+        "name": "M 4.1 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9n2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "tx2021rqlj",
         "location": "http://maps.google.com/maps?q=31.67282475,-104.376584",
         "name": "M 4.2 - 55 km S of Whites City, New Mexico",
@@ -632,24 +650,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f97d",
-        "location": "http://maps.google.com/maps?q=44.3223,17.8828",
-        "name": "M 4.3 - 9 km SSW of Željezno Polje, Bosnia and Herzegovina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f97d"
       },
       {
         "category": [
@@ -1882,11 +1882,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "09/Sep/2021 @ 04:00:38 PDT",
+    "last_update": "09/Sep/2021 @ 05:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.9624,-178.0582\"><b>M 4.1 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9n2\">USGS</a>",
+          -19.9624,
+          -178.0582
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.7308,-179.3968\"><b>M 5.3 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9m4\">USGS</a>",
           -21.7308,
@@ -2016,11 +2021,6 @@
           "<a href=\"http://maps.google.com/maps?q=18.5179,-106.7403\"><b>M 4.3 - 208 km SW of José María Morelos, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f97q\">USGS</a>",
           18.5179,
           -106.7403
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.3223,17.8828\"><b>M 4.3 - 9 km SSW of Željezno Polje, Bosnia and Herzegovina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f97d\">USGS</a>",
-          44.3223,
-          17.8828
         ]
       ],
       "Floods": [],
@@ -4280,11 +4280,11 @@
     },
     "title": "102 events (09/Sep/2021 PDT)"
   },
-  "last_update": "09/Sep/2021 @ 04:01:26 PDT",
-  "last_update_epoch": 1631185286.023962,
+  "last_update": "09/Sep/2021 @ 05:01:19 PDT",
+  "last_update_epoch": 1631188879.539316,
   "neo": {
     "date": "09/Sep/2021 PDT",
-    "last_update": "09/Sep/2021 @ 04:00:40 PDT",
+    "last_update": "09/Sep/2021 @ 05:00:36 PDT",
     "objects": [
       {
         "cat": "09/Sep/2021 @ 18:04:00 ",
@@ -4528,7 +4528,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Sep/2021 @ 04:00:40 PDT",
+    "last_update": "09/Sep/2021 @ 05:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6068,7 +6068,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Sep/2021 @ 04:00:46 PDT",
+    "last_update": "09/Sep/2021 @ 05:00:40 PDT",
     "launches": {
       "future": [
         {
