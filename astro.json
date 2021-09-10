@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Sep/2021 @ 17:00:12 PDT",
+    "last_update": "09/Sep/2021 @ 18:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg",
     "title": "M16 Close Up (09/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -586,24 +586,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f9i3",
-        "location": "http://maps.google.com/maps?q=-18.1681,-177.9444",
-        "name": "M 4.3 - 290 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "nc73622771",
         "location": "http://maps.google.com/maps?q=40.3221664,-124.3273315",
         "name": "M 4.3 - 4km W of Petrolia, CA",
@@ -640,6 +622,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9v9",
+        "location": "http://maps.google.com/maps?q=37.642,80.9206",
+        "name": "M 4.5 - 105 km NE of Hotan, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9v9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9un",
         "location": "http://maps.google.com/maps?q=-17.6588,-178.6636",
         "name": "M 4.5 - 218 km ENE of Levuka, Fiji",
@@ -668,6 +668,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9sj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9v7",
+        "location": "http://maps.google.com/maps?q=36.6812,71.0717",
+        "name": "M 4.5 - 29 km SE of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9v7"
       },
       {
         "category": [
@@ -794,6 +812,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ji"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9vi",
+        "location": "http://maps.google.com/maps?q=-26.2276,178.4356",
+        "name": "M 4.7 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vi"
       },
       {
         "category": [
@@ -1814,11 +1850,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "09/Sep/2021 @ 17:00:41 PDT",
+    "last_update": "09/Sep/2021 @ 18:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-26.2276,178.4356\"><b>M 4.7 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vi\">USGS</a>",
+          -26.2276,
+          178.4356
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.642,80.9206\"><b>M 4.5 - 105 km NE of Hotan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9v9\">USGS</a>",
+          37.642,
+          80.9206
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.6812,71.0717\"><b>M 4.5 - 29 km SE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9v7\">USGS</a>",
+          36.6812,
+          71.0717
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=40.3221664,-124.3273315\"><b>M 4.3 - 4km W of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771\">USGS</a>",
           40.3221664,
@@ -1943,11 +1994,6 @@
           "<a href=\"http://maps.google.com/maps?q=-38.4294,-93.8419\"><b>M 4.8 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ij\">USGS</a>",
           -38.4294,
           -93.8419
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1681,-177.9444\"><b>M 4.3 - 290 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9i3\">USGS</a>",
-          -18.1681,
-          -177.9444
         ]
       ],
       "Floods": [],
@@ -4270,13 +4316,13 @@
         ]
       ]
     },
-    "title": "98 events (09/Sep/2021 PDT)"
+    "title": "100 events (09/Sep/2021 PDT)"
   },
-  "last_update": "09/Sep/2021 @ 17:01:30 PDT",
-  "last_update_epoch": 1631232090.482637,
+  "last_update": "09/Sep/2021 @ 18:01:22 PDT",
+  "last_update_epoch": 1631235682.204112,
   "neo": {
     "date": "10/Sep/2021 PDT",
-    "last_update": "09/Sep/2021 @ 17:00:42 PDT",
+    "last_update": "09/Sep/2021 @ 18:00:36 PDT",
     "objects": [
       {
         "cat": "10/Sep/2021 @ 04:52:00 ",
@@ -4493,7 +4539,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Sep/2021 @ 17:00:43 PDT",
+    "last_update": "09/Sep/2021 @ 18:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6033,7 +6079,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Sep/2021 @ 17:00:49 PDT",
+    "last_update": "09/Sep/2021 @ 18:00:41 PDT",
     "launches": {
       "future": [
         {
