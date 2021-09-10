@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Sep/2021 @ 11:00:07 PDT",
+    "last_update": "10/Sep/2021 @ 12:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg",
     "title": "Rosetta's Comet in View (10/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -622,24 +622,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "nc73622771",
-        "location": "http://maps.google.com/maps?q=40.2705,-124.3813333",
-        "name": "M 4.3 - 10km SW of Petrolia, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f9xw",
         "location": "http://maps.google.com/maps?q=53.9318,160.3091",
         "name": "M 4.3 - 138 km SE of Mil’kovo, Russia",
@@ -722,6 +704,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9v9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "nc73622771",
+        "location": "http://maps.google.com/maps?q=40.2705,-124.3813333",
+        "name": "M 4.5 - 10km SW of Petrolia, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771"
       },
       {
         "category": [
@@ -858,7 +858,7 @@
         ],
         "eid": "us7000f9t5",
         "location": "http://maps.google.com/maps?q=53.4726,-163.5308",
-        "name": "M 5.1 - 153 km S of False Pass, Alaska",
+        "name": "M 5.1 - Unimak Island region, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -884,6 +884,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fa3h",
+        "location": "http://maps.google.com/maps?q=-14.716,167.7941",
+        "name": "M 5.2 - 85 km ENE of Port-Olry, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa3h"
       },
       {
         "category": [
@@ -1710,11 +1728,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "10/Sep/2021 @ 11:00:36 PDT",
+    "last_update": "10/Sep/2021 @ 12:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.716,167.7941\"><b>M 5.2 - 85 km ENE of Port-Olry, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa3h\">USGS</a>",
+          -14.716,
+          167.7941
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-60.5762,-26.5402\"><b>M 5.5 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa2u\">USGS</a>",
           -60.5762,
@@ -1801,7 +1824,7 @@
           71.0717
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.2705,-124.3813333\"><b>M 4.3 - 10km SW of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.2705,-124.3813333\"><b>M 4.5 - 10km SW of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771\">USGS</a>",
           40.2705,
           -124.3813333
         ],
@@ -1811,7 +1834,7 @@
           -178.6636
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.4726,-163.5308\"><b>M 5.1 - 153 km S of False Pass, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.4726,-163.5308\"><b>M 5.1 - Unimak Island region, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5\">USGS</a>",
           53.4726,
           -163.5308
         ]
@@ -4216,13 +4239,13 @@
         ]
       ]
     },
-    "title": "92 events (10/Sep/2021 PDT)"
+    "title": "93 events (10/Sep/2021 PDT)"
   },
-  "last_update": "10/Sep/2021 @ 11:01:21 PDT",
-  "last_update_epoch": 1631296881.680929,
+  "last_update": "10/Sep/2021 @ 12:01:21 PDT",
+  "last_update_epoch": 1631300481.438621,
   "neo": {
     "date": "10/Sep/2021 PDT",
-    "last_update": "10/Sep/2021 @ 11:00:37 PDT",
+    "last_update": "10/Sep/2021 @ 12:00:36 PDT",
     "objects": [
       {
         "cat": "10/Sep/2021 @ 04:52:00 ",
@@ -4448,7 +4471,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Sep/2021 @ 11:00:37 PDT",
+    "last_update": "10/Sep/2021 @ 12:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5988,7 +6011,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Sep/2021 @ 11:00:44 PDT",
+    "last_update": "10/Sep/2021 @ 12:00:42 PDT",
     "launches": {
       "future": [
         {
