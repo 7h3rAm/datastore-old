@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Sep/2021 @ 23:00:09 PDT",
+    "last_update": "10/Sep/2021 @ 00:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg",
     "title": "Rosetta's Comet in View (10/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "09/Sep/2021 PDT",
+    "date": "10/Sep/2021 PDT",
     "events": [
       {
         "category": [
@@ -550,6 +550,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9x5",
+        "location": "http://maps.google.com/maps?q=53.1666,-163.4259",
+        "name": "M 4.0 - 187 km S of False Pass, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9x1",
+        "location": "http://maps.google.com/maps?q=-20.6219,-69.3082",
+        "name": "M 4.0 - 98 km ESE of Iquique, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9n2",
         "location": "http://maps.google.com/maps?q=-19.9624,-178.0582",
         "name": "M 4.1 - Fiji region",
@@ -569,8 +605,8 @@
           }
         ],
         "eid": "nc73622771",
-        "location": "http://maps.google.com/maps?q=40.3221664,-124.3273315",
-        "name": "M 4.3 - 4km W of Petrolia, CA",
+        "location": "http://maps.google.com/maps?q=40.2658333,-124.3838333",
+        "name": "M 4.3 - 11km SW of Petrolia, CA",
         "source": [
           {
             "sid": "USGS",
@@ -614,6 +650,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9wy",
+        "location": "http://maps.google.com/maps?q=36.539,70.8408",
+        "name": "M 4.4 - 36 km S of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wy"
       },
       {
         "category": [
@@ -712,24 +766,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f9m6",
-        "location": "http://maps.google.com/maps?q=12.9746,57.552",
-        "name": "M 4.6 - Owen Fracture Zone region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9m6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f9r9",
         "location": "http://maps.google.com/maps?q=-37.9316,-93.9273",
         "name": "M 4.6 - West Chile Rise",
@@ -758,6 +794,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9sk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000f9x2",
+        "location": "http://maps.google.com/maps?q=23.8356,122.0859",
+        "name": "M 4.7 - 51 km ESE of Hualien City, Taiwan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x2"
       },
       {
         "category": [
@@ -866,24 +920,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9lz",
-        "location": "http://maps.google.com/maps?q=-38.2176,-93.727",
-        "name": "M 5.2 - West Chile Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9lz"
       },
       {
         "category": [
@@ -1706,11 +1742,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "09/Sep/2021 @ 23:00:38 PDT",
+    "last_update": "10/Sep/2021 @ 00:00:36 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=53.1666,-163.4259\"><b>M 4.0 - 187 km S of False Pass, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x5\">USGS</a>",
+          53.1666,
+          -163.4259
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.6219,-69.3082\"><b>M 4.0 - 98 km ESE of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x1\">USGS</a>",
+          -20.6219,
+          -69.3082
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.8356,122.0859\"><b>M 4.7 - 51 km ESE of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9x2\">USGS</a>",
+          23.8356,
+          122.0859
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.539,70.8408\"><b>M 4.4 - 36 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wy\">USGS</a>",
+          36.539,
+          70.8408
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-42.8606,-83.6903\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt\">USGS</a>",
           -42.8606,
@@ -1757,9 +1813,9 @@
           71.0717
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.3221664,-124.3273315\"><b>M 4.3 - 4km W of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771\">USGS</a>",
-          40.3221664,
-          -124.3273315
+          "<a href=\"http://maps.google.com/maps?q=40.2658333,-124.3838333\"><b>M 4.3 - 11km SW of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73622771\">USGS</a>",
+          40.2658333,
+          -124.3838333
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-17.6588,-178.6636\"><b>M 4.5 - 218 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9un\">USGS</a>",
@@ -1800,16 +1856,6 @@
           "<a href=\"http://maps.google.com/maps?q=-21.7308,-179.3968\"><b>M 5.3 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9m4\">USGS</a>",
           -21.7308,
           -179.3968
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.2176,-93.727\"><b>M 5.2 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9lz\">USGS</a>",
-          -38.2176,
-          -93.727
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.9746,57.552\"><b>M 4.6 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9m6\">USGS</a>",
-          12.9746,
-          57.552
         ]
       ],
       "Floods": [],
@@ -4132,13 +4178,13 @@
         ]
       ]
     },
-    "title": "92 events (09/Sep/2021 PDT)"
+    "title": "94 events (10/Sep/2021 PDT)"
   },
-  "last_update": "09/Sep/2021 @ 23:01:26 PDT",
-  "last_update_epoch": 1631253686.307216,
+  "last_update": "10/Sep/2021 @ 00:01:19 PDT",
+  "last_update_epoch": 1631257279.598563,
   "neo": {
     "date": "10/Sep/2021 PDT",
-    "last_update": "09/Sep/2021 @ 23:00:38 PDT",
+    "last_update": "10/Sep/2021 @ 00:00:37 PDT",
     "objects": [
       {
         "cat": "10/Sep/2021 @ 04:52:00 ",
@@ -4288,7 +4334,7 @@
     "title": "16 objects making close approach (10/Sep/2021 PDT)"
   },
   "satview": {
-    "date": "09/Sep/2021 PDT",
+    "date": "10/Sep/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 08/Sep/2021 @ 14:49:31 PDT.",
@@ -4355,7 +4401,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Sep/2021 @ 23:00:39 PDT",
+    "last_update": "10/Sep/2021 @ 00:00:37 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4408,7 +4454,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (09/Sep/2021 PDT)"
+    "title": "10 people in space (10/Sep/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5895,7 +5941,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Sep/2021 @ 23:00:45 PDT",
+    "last_update": "10/Sep/2021 @ 00:00:41 PDT",
     "launches": {
       "future": [
         {
