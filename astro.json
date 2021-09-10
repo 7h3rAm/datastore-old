@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Sep/2021 @ 21:00:09 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/M16SHO_1024.jpg",
-    "title": "M16 Close Up (09/Sep/2021 PDT)",
+    "last_update": "09/Sep/2021 @ 22:00:08 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg",
+    "title": "Rosetta's Comet in View (10/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -622,24 +622,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f9kk",
-        "location": "http://maps.google.com/maps?q=9.1184,-83.9071",
-        "name": "M 4.4 - 35 km SW of Daniel Flores, Costa Rica",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000f9v9",
         "location": "http://maps.google.com/maps?q=37.642,80.9206",
         "name": "M 4.5 - 105 km NE of Hotan, China",
@@ -856,6 +838,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000f9t5",
+        "location": "http://maps.google.com/maps?q=53.4726,-163.5308",
+        "name": "M 5.1 - 153 km S of False Pass, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9ne",
         "location": "http://maps.google.com/maps?q=-59.3747,-25.3618",
         "name": "M 5.1 - South Sandwich Islands region",
@@ -874,34 +874,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000f9ky",
-        "location": "http://maps.google.com/maps?q=-58.6817,-24.9328",
-        "name": "M 5.1 - South Sandwich Islands region",
+        "eid": "us7000f9wt",
+        "location": "http://maps.google.com/maps?q=-42.8606,-83.6903",
+        "name": "M 5.1 - West Chile Rise",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ky"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9t5",
-        "location": "http://maps.google.com/maps?q=53.4726,-163.5308",
-        "name": "M 5.1 - Unimak Island region, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt"
       },
       {
         "category": [
@@ -938,42 +920,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9m4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9kh",
-        "location": "http://maps.google.com/maps?q=29.3815,142.6344",
-        "name": "M 5.4 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9l5",
-        "location": "http://maps.google.com/maps?q=-19.1456,-176.4496",
-        "name": "M 5.8 - 232 km WNW of Pangai, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9l5"
       },
       {
         "category": [
@@ -1778,11 +1724,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "09/Sep/2021 @ 21:00:38 PDT",
+    "last_update": "09/Sep/2021 @ 22:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-42.8606,-83.6903\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt\">USGS</a>",
+          -42.8606,
+          -83.6903
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.2139,-69.9241\"><b>M 4.6 - 41 km SE of Calana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wf\">USGS</a>",
           -18.2139,
@@ -1834,7 +1785,7 @@
           -178.6636
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.4726,-163.5308\"><b>M 5.1 - Unimak Island region, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.4726,-163.5308\"><b>M 5.1 - 153 km S of False Pass, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9t5\">USGS</a>",
           53.4726,
           -163.5308
         ],
@@ -1882,26 +1833,6 @@
           "<a href=\"http://maps.google.com/maps?q=5.9097,126.2326\"><b>M 4.5 - 50 km S of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9lc\">USGS</a>",
           5.9097,
           126.2326
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.1456,-176.4496\"><b>M 5.8 - 232 km WNW of Pangai, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9l5\">USGS</a>",
-          -19.1456,
-          -176.4496
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.6817,-24.9328\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9ky\">USGS</a>",
-          -58.6817,
-          -24.9328
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=9.1184,-83.9071\"><b>M 4.4 - 35 km SW of Daniel Flores, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kk\">USGS</a>",
-          9.1184,
-          -83.9071
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.3815,142.6344\"><b>M 5.4 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9kh\">USGS</a>",
-          29.3815,
-          142.6344
         ]
       ],
       "Floods": [],
@@ -4224,13 +4155,13 @@
         ]
       ]
     },
-    "title": "96 events (09/Sep/2021 PDT)"
+    "title": "93 events (09/Sep/2021 PDT)"
   },
-  "last_update": "09/Sep/2021 @ 21:01:29 PDT",
-  "last_update_epoch": 1631246489.243951,
+  "last_update": "09/Sep/2021 @ 22:01:20 PDT",
+  "last_update_epoch": 1631250080.586218,
   "neo": {
     "date": "10/Sep/2021 PDT",
-    "last_update": "09/Sep/2021 @ 21:00:39 PDT",
+    "last_update": "09/Sep/2021 @ 22:00:38 PDT",
     "objects": [
       {
         "cat": "10/Sep/2021 @ 04:52:00 ",
@@ -4447,7 +4378,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Sep/2021 @ 21:00:40 PDT",
+    "last_update": "09/Sep/2021 @ 22:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5987,7 +5918,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Sep/2021 @ 21:00:46 PDT",
+    "last_update": "09/Sep/2021 @ 22:00:43 PDT",
     "launches": {
       "future": [
         {
