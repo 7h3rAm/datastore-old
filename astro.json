@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Sep/2021 @ 09:00:08 PDT",
+    "last_update": "11/Sep/2021 @ 10:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/LastRingPortrait_Cassini_1080.jpg",
     "title": "Saturn at Night (11/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -658,6 +658,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fac1",
+        "location": "http://maps.google.com/maps?q=11.9302,144.3494",
+        "name": "M 4.7 - 151 km SSW of Merizo Village, Guam",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fac1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fa6y",
         "location": "http://maps.google.com/maps?q=30.5181,79.2849",
         "name": "M 4.7 - 17 km NW of Pīpalkoti, India",
@@ -987,7 +1005,7 @@
           }
         ],
         "eid": "EONET_5916",
-        "location": "https://www.google.com/maps/dir/10.8,126.9/11.2,125.9/11.5,124.9/11.9,124.3/12.5,123.3/13,122.8/13.3,122/13.7,121.4/14.1,120.8/14.7,120.1/14.8,119.2/15.3,118.3/16,117.1/16.2,115/16.1,113.7/15.7,112.8/15.6,112/@10.8,126.9,3z",
+        "location": "https://www.google.com/maps/dir/10.8,126.9/11.2,125.9/11.5,124.9/11.9,124.3/12.5,123.3/13,122.8/13.3,122/13.7,121.4/14.1,120.8/14.7,120.1/14.8,119.2/15.3,118.3/16,117.1/16.2,115/16.1,113.7/15.7,112.8/15.6,112/15.8,111.4/15.8,110.7/15.7,109.9/15.6,109.5/15.4,109.1/@10.8,126.9,3z",
         "name": "Tropical Storm Conson",
         "source": [
           {
@@ -1009,7 +1027,7 @@
           }
         ],
         "eid": "EONET_5910",
-        "location": "https://www.google.com/maps/dir/12.3,-24.8/12.3,-27.6/12.5,-29.4/12.8,-30.9/13,-32.3/13.5,-34.2/13.7,-35.8/14.1,-37.5/14.6,-38.9/14.8,-40.7/15,-42/15.5,-43.3/16.3,-44.6/16.8,-45.8/17.4,-47.1/18,-48/18.8,-49/19.5,-49.7/20.5,-50.6/21,-51.4/21.5,-52.4/22.1,-52.9/22.5,-53.9/23.1,-54.4/23.8,-55.1/24.4,-55.6/25.1,-56.3/25.8,-56.8/26.5,-57.3/27.7,-58.3/28.9,-59.2/29.7,-60.3/30.9,-61.1/32,-61.6/33.9,-62.2/35.5,-62.3/37.7,-61.8/@12.3,-24.8,3z",
+        "location": "https://www.google.com/maps/dir/12.3,-24.8/12.3,-27.6/12.5,-29.4/12.8,-30.9/13,-32.3/13.5,-34.2/13.7,-35.8/14.1,-37.5/14.6,-38.9/14.8,-40.7/15,-42/15.5,-43.3/16.3,-44.6/16.8,-45.8/17.4,-47.1/18,-48/18.8,-49/19.5,-49.7/20.5,-50.6/21,-51.4/21.5,-52.4/22.1,-52.9/22.5,-53.9/23.1,-54.4/23.8,-55.1/24.4,-55.6/25.1,-56.3/25.8,-56.8/26.5,-57.3/27.7,-58.3/28.9,-59.2/29.7,-60.3/30.9,-61.1/32,-61.6/33.9,-62.2/35.5,-62.3/37.7,-61.8/40,-60.5/43.5,-58.2/46.8,-54.9/50.7,-51.7/54,-48.2/@12.3,-24.8,3z",
         "name": "Tropical Storm Larry",
         "source": [
           {
@@ -1053,7 +1071,7 @@
           }
         ],
         "eid": "EONET_5923",
-        "location": "https://www.google.com/maps/dir/18.7,-107.3/19.7,-107.6/20.2,-107.8/20.9,-108.1/21.8,-108.6/22.7,-109.3/23.4,-110.3/@18.7,-107.3,3z",
+        "location": "https://www.google.com/maps/dir/18.7,-107.3/19.7,-107.6/20.2,-107.8/20.9,-108.1/21.8,-108.6/22.7,-109.3/23.4,-110.3/23.9,-111.1/24.5,-112.2/24.7,-113/24.5,-113.7/@18.7,-107.3,3z",
         "name": "Tropical Storm Olaf",
         "source": [
           {
@@ -1097,7 +1115,7 @@
           }
         ],
         "eid": "EONET_5917",
-        "location": "https://www.google.com/maps/dir/14.8,137.9/15.2,137.3/15.6,136.6/16.1,135.7/16.3,134.6/16.3,133.5/16,132.3/15.6,131.3/15.5,130.3/15.3,129.1/15.5,128.1/15.7,127.2/16.1,126/16.6,125/17.1,124.1/17.9,123.4/@14.8,137.9,3z",
+        "location": "https://www.google.com/maps/dir/14.8,137.9/15.2,137.3/15.6,136.6/16.1,135.7/16.3,134.6/16.3,133.5/16,132.3/15.6,131.3/15.5,130.3/15.3,129.1/15.5,128.1/15.7,127.2/16.1,126/16.6,125/17.1,124.1/17.9,123.4/18.7,122.8/19.5,122.3/20.4,121.9/21.1,121.6/21.8,121.8/@14.8,137.9,3z",
         "name": "Typhoon Chanthu",
         "source": [
           {
@@ -1728,11 +1746,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "11/Sep/2021 @ 09:00:37 PDT",
+    "last_update": "11/Sep/2021 @ 10:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.9302,144.3494\"><b>M 4.7 - 151 km SSW of Merizo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fac1\">USGS</a>",
+          11.9302,
+          144.3494
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.3263,27.0406\"><b>M 4.4 - 32 km SSW of Mandráki, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fabg\">USGS</a>",
           36.3263,
@@ -3686,6 +3709,26 @@
           -110.3
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=23.9,-111.1\"><b>Tropical Storm Olaf</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000825&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1521.tcw\">JTWC</a>",
+          23.9,
+          -111.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=24.5,-112.2\"><b>Tropical Storm Olaf</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000825&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1521.tcw\">JTWC</a>",
+          24.5,
+          -112.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=24.7,-113\"><b>Tropical Storm Olaf</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000825&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1521.tcw\">JTWC</a>",
+          24.7,
+          -113
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=24.5,-113.7\"><b>Tropical Storm Olaf</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000825&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep1521.tcw\">JTWC</a>",
+          24.5,
+          -113.7
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=14.8,137.9\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
           14.8,
           137.9
@@ -3764,6 +3807,31 @@
           "<a href=\"http://maps.google.com/maps?q=17.9,123.4\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
           17.9,
           123.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.7,122.8\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
+          18.7,
+          122.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.5,122.3\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
+          19.5,
+          122.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=20.4,121.9\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
+          20.4,
+          121.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=21.1,121.6\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
+          21.1,
+          121.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=21.8,121.8\"><b>Typhoon Chanthu</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/148814/rapid-intensification-for-typhoon-chanthu\">EO</a>, <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000824&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1921.tcw\">JTWC</a>",
+          21.8,
+          121.8
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=10.8,126.9\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
@@ -3849,6 +3917,31 @@
           "<a href=\"http://maps.google.com/maps?q=15.6,112\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
           15.6,
           112
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.8,111.4\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.8,
+          111.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.8,110.7\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.8,
+          110.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.7,109.9\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.7,
+          109.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.6,109.5\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.6,
+          109.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.4,109.1\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.4,
+          109.1
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=12.3,-24.8\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
@@ -4034,6 +4127,31 @@
           "<a href=\"http://maps.google.com/maps?q=37.7,-61.8\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
           37.7,
           -61.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=40,-60.5\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          40,
+          -60.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=43.5,-58.2\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          43.5,
+          -58.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=46.8,-54.9\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          46.8,
+          -54.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=50.7,-51.7\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          50.7,
+          -51.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=54,-48.2\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
+          54,
+          -48.2
         ]
       ],
       "Snow": [],
@@ -4289,13 +4407,13 @@
         ]
       ]
     },
-    "title": "93 events (11/Sep/2021 PDT)"
+    "title": "94 events (11/Sep/2021 PDT)"
   },
-  "last_update": "11/Sep/2021 @ 09:01:29 PDT",
-  "last_update_epoch": 1631376089.400602,
+  "last_update": "11/Sep/2021 @ 10:01:30 PDT",
+  "last_update_epoch": 1631379690.17628,
   "neo": {
     "date": "11/Sep/2021 PDT",
-    "last_update": "11/Sep/2021 @ 09:00:42 PDT",
+    "last_update": "11/Sep/2021 @ 10:00:41 PDT",
     "objects": [
       {
         "cat": "11/Sep/2021 @ 06:14:00 ",
@@ -4584,7 +4702,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Sep/2021 @ 09:00:42 PDT",
+    "last_update": "11/Sep/2021 @ 10:00:42 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6124,7 +6242,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Sep/2021 @ 09:00:48 PDT",
+    "last_update": "11/Sep/2021 @ 10:00:47 PDT",
     "launches": {
       "future": [
         {
