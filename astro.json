@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Sep/2021 @ 20:00:08 PDT",
+    "last_update": "10/Sep/2021 @ 21:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg",
     "title": "Rosetta's Comet in View (10/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -49,24 +49,6 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5909"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🌋",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
-          }
-        ],
-        "eid": "EONET_5880",
-        "location": "https://www.google.com/maps/dir/48.98,153.48/@48.98,153.48,3z",
-        "name": "Chirinkotan Volcano, Russia",
-        "source": [
-          {
-            "sid": "SIVolcano",
-            "url": "https://volcano.si.edu/volcano.cfm?vn=290260"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5880"
       },
       {
         "category": [
@@ -604,6 +586,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fa7f",
+        "location": "http://maps.google.com/maps?q=0.4613,126.3278",
+        "name": "M 4.1 - 123 km WSW of Ternate, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa7f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9y3",
         "location": "http://maps.google.com/maps?q=53.4676,-163.5766",
         "name": "M 4.1 - 154 km S of False Pass, Alaska",
@@ -686,24 +686,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9wf",
-        "location": "http://maps.google.com/maps?q=-18.2139,-69.9241",
-        "name": "M 4.6 - 41 km SE of Calana, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wf"
       },
       {
         "category": [
@@ -830,6 +812,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fa7j",
+        "location": "http://maps.google.com/maps?q=14.1342,92.908",
+        "name": "M 5.2 - 270 km N of Bamboo Flat, India",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa7j"
       },
       {
         "category": [
@@ -1674,11 +1674,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "10/Sep/2021 @ 20:00:37 PDT",
+    "last_update": "10/Sep/2021 @ 21:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.1342,92.908\"><b>M 5.2 - 270 km N of Bamboo Flat, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa7j\">USGS</a>",
+          14.1342,
+          92.908
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=0.4613,126.3278\"><b>M 4.1 - 123 km WSW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa7f\">USGS</a>",
+          0.4613,
+          126.3278
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.5399,72.2862\"><b>M 4.0 - 65 km E of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa75\">USGS</a>",
           37.5399,
@@ -1763,11 +1773,6 @@
           "<a href=\"http://maps.google.com/maps?q=-42.8606,-83.6903\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wt\">USGS</a>",
           -42.8606,
           -83.6903
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.2139,-69.9241\"><b>M 4.6 - 41 km SE of Calana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9wf\">USGS</a>",
-          -18.2139,
-          -69.9241
         ]
       ],
       "Floods": [],
@@ -3944,11 +3949,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.247,140.874\"><b>Nishinoshima Volcano, Japan</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=284096\">SIVolcano</a>",
           27.247,
           140.874
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=48.98,153.48\"><b>Chirinkotan Volcano, Russia</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=290260\">SIVolcano</a>",
-          48.98,
-          153.48
         ]
       ],
       "Water Color": [],
@@ -4172,11 +4172,11 @@
     },
     "title": "90 events (10/Sep/2021 PDT)"
   },
-  "last_update": "10/Sep/2021 @ 20:01:28 PDT",
-  "last_update_epoch": 1631329288.45264,
+  "last_update": "10/Sep/2021 @ 21:01:19 PDT",
+  "last_update_epoch": 1631332879.076029,
   "neo": {
     "date": "11/Sep/2021 PDT",
-    "last_update": "10/Sep/2021 @ 20:00:38 PDT",
+    "last_update": "10/Sep/2021 @ 21:00:35 PDT",
     "objects": [
       {
         "cat": "11/Sep/2021 @ 06:14:00 ",
@@ -4438,7 +4438,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Sep/2021 @ 20:00:38 PDT",
+    "last_update": "10/Sep/2021 @ 21:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5978,7 +5978,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Sep/2021 @ 20:00:45 PDT",
+    "last_update": "10/Sep/2021 @ 21:00:41 PDT",
     "launches": {
       "future": [
         {
