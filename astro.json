@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Sep/2021 @ 13:00:07 PDT",
+    "last_update": "11/Sep/2021 @ 14:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/LastRingPortrait_Cassini_1080.jpg",
     "title": "Saturn at Night (11/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -748,42 +748,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fa4s",
-        "location": "http://maps.google.com/maps?q=45.515,151.8135",
-        "name": "M 4.8 - Kuril Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4s"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fa4v",
-        "location": "http://maps.google.com/maps?q=45.5571,151.8745",
-        "name": "M 4.9 - Kuril Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4v"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000faa3",
         "location": "http://maps.google.com/maps?q=-38.49,-92.6029",
         "name": "M 4.9 - West Chile Rise",
@@ -794,24 +758,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000faa3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fa4u",
-        "location": "http://maps.google.com/maps?q=-4.638,153.2894",
-        "name": "M 5.0 - 117 km ESE of Kokopo, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4u"
       },
       {
         "category": [
@@ -1586,24 +1532,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5829",
-        "location": "https://www.google.com/maps/dir/37.52055,14.30792/@37.52055,14.30792,3z",
-        "name": "Wildfires - Enna Province, Sicily, Italy",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=128325"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5829"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5862",
         "location": "https://www.google.com/maps/dir/47.56328,-91.62542/@47.56328,-91.62542,3z",
         "name": "Wildfires - Lake County (Greenwood Fire), Minnesota, United States",
@@ -1670,7 +1598,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "11/Sep/2021 @ 13:00:36 PDT",
+    "last_update": "11/Sep/2021 @ 14:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1759,21 +1687,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.1015,-67.2108\"><b>M 4.8 - 91 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa59\">USGS</a>",
           -24.1015,
           -67.2108
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=45.5571,151.8745\"><b>M 4.9 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4v\">USGS</a>",
-          45.5571,
-          151.8745
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.638,153.2894\"><b>M 5.0 - 117 km ESE of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4u\">USGS</a>",
-          -4.638,
-          153.2894
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=45.515,151.8135\"><b>M 4.8 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4s\">USGS</a>",
-          45.515,
-          151.8135
         ]
       ],
       "Floods": [],
@@ -4303,21 +4216,16 @@
           "<a href=\"http://maps.google.com/maps?q=36.70731,4.84825\"><b>Wildfire - W of Bejaia, Bjaa - Algeria</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128344\">PDC</a>",
           36.70731,
           4.84825
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.52055,14.30792\"><b>Wildfires - Enna Province, Sicily, Italy</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128325\">PDC</a>",
-          37.52055,
-          14.30792
         ]
       ]
     },
-    "title": "90 events (11/Sep/2021 PDT)"
+    "title": "86 events (11/Sep/2021 PDT)"
   },
-  "last_update": "11/Sep/2021 @ 13:01:24 PDT",
-  "last_update_epoch": 1631390484.496122,
+  "last_update": "11/Sep/2021 @ 14:01:22 PDT",
+  "last_update_epoch": 1631394082.161066,
   "neo": {
     "date": "11/Sep/2021 PDT",
-    "last_update": "11/Sep/2021 @ 13:00:41 PDT",
+    "last_update": "11/Sep/2021 @ 14:00:40 PDT",
     "objects": [
       {
         "cat": "11/Sep/2021 @ 06:14:00 ",
@@ -4606,7 +4514,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Sep/2021 @ 13:00:41 PDT",
+    "last_update": "11/Sep/2021 @ 14:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6146,7 +6054,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Sep/2021 @ 13:00:47 PDT",
+    "last_update": "11/Sep/2021 @ 14:00:45 PDT",
     "launches": {
       "future": [
         {
