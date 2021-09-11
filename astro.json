@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Sep/2021 @ 17:00:07 PDT",
+    "last_update": "10/Sep/2021 @ 18:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/67P_210907_1024.jpg",
     "title": "Rosetta's Comet in View (10/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -730,6 +730,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fa6y",
+        "location": "http://maps.google.com/maps?q=30.5181,79.2849",
+        "name": "M 4.7 - 17 km NW of Pīpalkoti, India",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa6y"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000f9x2",
         "location": "http://maps.google.com/maps?q=23.8356,122.0859",
         "name": "M 4.7 - 51 km ESE of Hualien City, Taiwan",
@@ -758,24 +776,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9w1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9vi",
-        "location": "http://maps.google.com/maps?q=-26.2276,178.4356",
-        "name": "M 4.7 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vi"
       },
       {
         "category": [
@@ -848,24 +848,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa4u"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000f9vl",
-        "location": "http://maps.google.com/maps?q=16.8112,-61.1489",
-        "name": "M 5.0 - 53 km NE of Anse-Bertrand, Guadeloupe",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vl"
       },
       {
         "category": [
@@ -1728,11 +1710,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "10/Sep/2021 @ 17:00:35 PDT",
+    "last_update": "10/Sep/2021 @ 18:00:35 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.5181,79.2849\"><b>M 4.7 - 17 km NW of Pīpalkoti, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa6y\">USGS</a>",
+          30.5181,
+          79.2849
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.1015,-67.2108\"><b>M 4.8 - 91 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa59\">USGS</a>",
           -24.1015,
@@ -1827,16 +1814,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.5689,101.7007\"><b>M 4.4 - 105 km SW of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vv\">USGS</a>",
           -4.5689,
           101.7007
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.8112,-61.1489\"><b>M 5.0 - 53 km NE of Anse-Bertrand, Guadeloupe</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vl\">USGS</a>",
-          16.8112,
-          -61.1489
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-26.2276,178.4356\"><b>M 4.7 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000f9vi\">USGS</a>",
-          -26.2276,
-          178.4356
         ]
       ],
       "Floods": [],
@@ -4239,13 +4216,13 @@
         ]
       ]
     },
-    "title": "93 events (10/Sep/2021 PDT)"
+    "title": "92 events (10/Sep/2021 PDT)"
   },
-  "last_update": "10/Sep/2021 @ 17:01:19 PDT",
-  "last_update_epoch": 1631318479.1653,
+  "last_update": "10/Sep/2021 @ 18:01:21 PDT",
+  "last_update_epoch": 1631322081.004314,
   "neo": {
     "date": "11/Sep/2021 PDT",
-    "last_update": "10/Sep/2021 @ 17:00:36 PDT",
+    "last_update": "10/Sep/2021 @ 18:00:35 PDT",
     "objects": [
       {
         "cat": "11/Sep/2021 @ 06:14:00 ",
@@ -4507,7 +4484,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Sep/2021 @ 17:00:36 PDT",
+    "last_update": "10/Sep/2021 @ 18:00:36 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6047,7 +6024,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Sep/2021 @ 17:00:42 PDT",
+    "last_update": "10/Sep/2021 @ 18:00:40 PDT",
     "launches": {
       "future": [
         {
