@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Sep/2021 @ 08:00:13 PDT",
+    "last_update": "12/Sep/2021 @ 09:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/AuroraIceland_Necchi_960.jpg",
     "title": "A Spiral Aurora over Iceland (12/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -947,7 +947,7 @@
           }
         ],
         "eid": "EONET_5916",
-        "location": "https://www.google.com/maps/dir/10.8,126.9/11.2,125.9/11.5,124.9/11.9,124.3/12.5,123.3/13,122.8/13.3,122/13.7,121.4/14.1,120.8/14.7,120.1/14.8,119.2/15.3,118.3/16,117.1/16.2,115/16.1,113.7/15.7,112.8/15.6,112/15.8,111.4/15.8,110.7/15.7,109.9/15.6,109.5/15.4,109.1/@10.8,126.9,3z",
+        "location": "https://www.google.com/maps/dir/10.8,126.9/11.2,125.9/11.5,124.9/11.9,124.3/12.5,123.3/13,122.8/13.3,122/13.7,121.4/14.1,120.8/14.7,120.1/14.8,119.2/15.3,118.3/16,117.1/16.2,115/16.1,113.7/15.7,112.8/15.6,112/15.8,111.4/15.8,110.7/15.7,109.9/15.6,109.5/15.4,109.1/15.2,109.1/15.3,109.1/15.3,109.2/15.3,109.2/@10.8,126.9,3z",
         "name": "Tropical Storm Conson",
         "source": [
           {
@@ -1004,6 +1004,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5924"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_5927",
+        "location": "https://www.google.com/maps/dir/20.5,-94.8/@20.5,-94.8,3z",
+        "name": "Tropical Storm Nicholas",
+        "source": [
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2021/NICHOLAS.shtml"
+          }
+        ],
+        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5927"
       },
       {
         "category": [
@@ -1616,7 +1634,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "12/Sep/2021 @ 08:00:42 PDT",
+    "last_update": "12/Sep/2021 @ 09:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3519,6 +3537,11 @@
       ],
       "Severe Storms": [
         [
+          "<a href=\"http://maps.google.com/maps?q=20.5,-94.8\"><b>Tropical Storm Nicholas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.nhc.noaa.gov/archive/2021/NICHOLAS.shtml\">NOAA_NHC</a>",
+          20.5,
+          -94.8
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=29,-86.3\"><b>Tropical Storm Mindy</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000826&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/MINDY.shtml\">NOAA_NHC</a>",
           29,
           -86.3
@@ -3802,6 +3825,26 @@
           "<a href=\"http://maps.google.com/maps?q=15.4,109.1\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
           15.4,
           109.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.2,109.1\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.2,
+          109.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.3,109.1\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.3,
+          109.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.3,109.2\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.3,
+          109.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.3,109.2\"><b>Tropical Storm Conson</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000823&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp1821.tcw\">JTWC</a>",
+          15.3,
+          109.2
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=12.3,-24.8\"><b>Tropical Storm Larry</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000821&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.nhc.noaa.gov/archive/2021/LARRY.shtml\">NOAA_NHC</a>",
@@ -4242,13 +4285,13 @@
         ]
       ]
     },
-    "title": "87 events (12/Sep/2021 PDT)"
+    "title": "88 events (12/Sep/2021 PDT)"
   },
-  "last_update": "12/Sep/2021 @ 08:01:40 PDT",
-  "last_update_epoch": 1631458900.026358,
+  "last_update": "12/Sep/2021 @ 09:01:21 PDT",
+  "last_update_epoch": 1631462481.718226,
   "neo": {
     "date": "12/Sep/2021 PDT",
-    "last_update": "12/Sep/2021 @ 08:00:46 PDT",
+    "last_update": "12/Sep/2021 @ 09:00:34 PDT",
     "objects": [
       {
         "cat": "12/Sep/2021 @ 19:20:00 ",
@@ -4483,7 +4526,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Sep/2021 @ 08:00:46 PDT",
+    "last_update": "12/Sep/2021 @ 09:00:34 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6023,7 +6066,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Sep/2021 @ 08:00:54 PDT",
+    "last_update": "12/Sep/2021 @ 09:00:39 PDT",
     "launches": {
       "future": [
         {
