@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Sep/2021 @ 17:00:07 PDT",
+    "last_update": "11/Sep/2021 @ 18:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/LastRingPortrait_Cassini_1080.jpg",
     "title": "Saturn at Night (11/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -722,24 +722,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fac1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fa6y",
-        "location": "http://maps.google.com/maps?q=30.5181,79.2849",
-        "name": "M 4.7 - 17 km NW of Pīpalkoti, India",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa6y"
       },
       {
         "category": [
@@ -1616,7 +1598,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "11/Sep/2021 @ 17:00:36 PDT",
+    "last_update": "11/Sep/2021 @ 18:00:39 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1710,11 +1692,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.5399,72.2862\"><b>M 4.0 - 65 km E of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa75\">USGS</a>",
           37.5399,
           72.2862
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.5181,79.2849\"><b>M 4.7 - 17 km NW of Pīpalkoti, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa6y\">USGS</a>",
-          30.5181,
-          79.2849
         ]
       ],
       "Floods": [],
@@ -4242,13 +4219,13 @@
         ]
       ]
     },
-    "title": "87 events (11/Sep/2021 PDT)"
+    "title": "86 events (11/Sep/2021 PDT)"
   },
-  "last_update": "11/Sep/2021 @ 17:01:24 PDT",
-  "last_update_epoch": 1631404884.826687,
+  "last_update": "11/Sep/2021 @ 18:01:22 PDT",
+  "last_update_epoch": 1631408482.937602,
   "neo": {
     "date": "12/Sep/2021 PDT",
-    "last_update": "11/Sep/2021 @ 17:00:39 PDT",
+    "last_update": "11/Sep/2021 @ 18:00:39 PDT",
     "objects": [
       {
         "cat": "12/Sep/2021 @ 19:20:00 ",
@@ -4483,7 +4460,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Sep/2021 @ 17:00:40 PDT",
+    "last_update": "11/Sep/2021 @ 18:00:40 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6023,7 +6000,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Sep/2021 @ 17:00:46 PDT",
+    "last_update": "11/Sep/2021 @ 18:00:44 PDT",
     "launches": {
       "future": [
         {
