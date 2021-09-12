@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Sep/2021 @ 21:00:08 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/LastRingPortrait_Cassini_1080.jpg",
-    "title": "Saturn at Night (11/Sep/2021 PDT)",
+    "last_update": "11/Sep/2021 @ 22:00:08 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/AuroraIceland_Necchi_960.jpg",
+    "title": "A Spiral Aurora over Iceland (12/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -552,7 +552,7 @@
         ],
         "eid": "us7000fack",
         "location": "http://maps.google.com/maps?q=-18.5379,-71.458",
-        "name": "M 4.0 - Off the coast of Tarapaca, Chile",
+        "name": "M 4.0 - 99 km S of Pacocha, Peru",
         "source": [
           {
             "sid": "USGS",
@@ -766,6 +766,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fafu",
+        "location": "http://maps.google.com/maps?q=-62.3889,-58.0585",
+        "name": "M 4.8 - South Shetland Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fafu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000faa3",
         "location": "http://maps.google.com/maps?q=-38.49,-92.6029",
         "name": "M 4.9 - West Chile Rise",
@@ -776,24 +794,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000faa3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fa83",
-        "location": "http://maps.google.com/maps?q=-6.3923,151.0442",
-        "name": "M 5.0 - 136 km SE of Kimbe, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa83"
       },
       {
         "category": [
@@ -1616,11 +1616,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "11/Sep/2021 @ 21:00:38 PDT",
+    "last_update": "11/Sep/2021 @ 22:00:37 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-62.3889,-58.0585\"><b>M 4.8 - South Shetland Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fafu\">USGS</a>",
+          -62.3889,
+          -58.0585
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-12.5045,166.2204\"><b>M 5.3 - 202 km SSE of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fafg\">USGS</a>",
           -12.5045,
@@ -1657,7 +1662,7 @@
           54.5092
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.5379,-71.458\"><b>M 4.0 - Off the coast of Tarapaca, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fack\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.5379,-71.458\"><b>M 4.0 - 99 km S of Pacocha, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fack\">USGS</a>",
           -18.5379,
           -71.458
         ],
@@ -1710,11 +1715,6 @@
           "<a href=\"http://maps.google.com/maps?q=-56.0474,-27.9317\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa9c\">USGS</a>",
           -56.0474,
           -27.9317
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.3923,151.0442\"><b>M 5.0 - 136 km SE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fa83\">USGS</a>",
-          -6.3923,
-          151.0442
         ]
       ],
       "Floods": [],
@@ -4244,11 +4244,11 @@
     },
     "title": "87 events (11/Sep/2021 PDT)"
   },
-  "last_update": "11/Sep/2021 @ 21:01:24 PDT",
-  "last_update_epoch": 1631419284.360686,
+  "last_update": "11/Sep/2021 @ 22:01:22 PDT",
+  "last_update_epoch": 1631422882.724703,
   "neo": {
     "date": "12/Sep/2021 PDT",
-    "last_update": "11/Sep/2021 @ 21:00:42 PDT",
+    "last_update": "11/Sep/2021 @ 22:00:40 PDT",
     "objects": [
       {
         "cat": "12/Sep/2021 @ 19:20:00 ",
@@ -4483,7 +4483,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Sep/2021 @ 21:00:42 PDT",
+    "last_update": "11/Sep/2021 @ 22:00:41 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -6023,7 +6023,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Sep/2021 @ 21:00:48 PDT",
+    "last_update": "11/Sep/2021 @ 22:00:45 PDT",
     "launches": {
       "future": [
         {
