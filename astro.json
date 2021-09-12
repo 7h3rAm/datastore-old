@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Sep/2021 @ 23:00:10 PDT",
+    "last_update": "12/Sep/2021 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/AuroraIceland_Necchi_960.jpg",
     "title": "A Spiral Aurora over Iceland (12/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "11/Sep/2021 PDT",
+    "date": "12/Sep/2021 PDT",
     "events": [
       {
         "category": [
@@ -676,6 +676,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fagu",
+        "location": "http://maps.google.com/maps?q=36.2156,70.5232",
+        "name": "M 4.4 - 71 km SE of Farkhār, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fagu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fab2",
         "location": "http://maps.google.com/maps?q=-18.4466,-71.3753",
         "name": "M 4.4 - 88 km S of Pacocha, Peru",
@@ -1262,24 +1280,6 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
-        "eid": "EONET_5827",
-        "location": "https://www.google.com/maps/dir/41.975235893,12.807477192/@41.975235893,12.807477192,3z",
-        "name": "Wildfire - E of Rome, Lazio - Italy",
-        "source": [
-          {
-            "sid": "PDC",
-            "url": "http://emops.pdc.org/emops/?hazard_id=128408"
-          }
-        ],
-        "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5827"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔥",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
-          }
-        ],
         "eid": "EONET_5865",
         "location": "https://www.google.com/maps/dir/43.28362333,6.449664955/@43.28362333,6.449664955,3z",
         "name": "Wildfire - E of Toulon, Provence-Alpes-Cte-dAzur - France",
@@ -1634,11 +1634,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "11/Sep/2021 @ 23:00:39 PDT",
+    "last_update": "12/Sep/2021 @ 00:00:34 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.2156,70.5232\"><b>M 4.4 - 71 km SE of Farkhār, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fagu\">USGS</a>",
+          36.2156,
+          70.5232
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=29.8962,139.0207\"><b>M 5.1 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fagp\">USGS</a>",
           29.8962,
@@ -4257,21 +4262,16 @@
           "<a href=\"http://maps.google.com/maps?q=48.94482,-118.21131\"><b>Stevens County (Nine Mine Fire), Washington, United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128471\">PDC</a>",
           48.94482,
           -118.21131
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.975235893,12.807477192\"><b>Wildfire - E of Rome, Lazio - Italy</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=128408\">PDC</a>",
-          41.975235893,
-          12.807477192
         ]
       ]
     },
-    "title": "88 events (11/Sep/2021 PDT)"
+    "title": "88 events (12/Sep/2021 PDT)"
   },
-  "last_update": "11/Sep/2021 @ 23:01:21 PDT",
-  "last_update_epoch": 1631426481.452151,
+  "last_update": "12/Sep/2021 @ 00:01:15 PDT",
+  "last_update_epoch": 1631430075.29497,
   "neo": {
     "date": "12/Sep/2021 PDT",
-    "last_update": "11/Sep/2021 @ 23:00:39 PDT",
+    "last_update": "12/Sep/2021 @ 00:00:38 PDT",
     "objects": [
       {
         "cat": "12/Sep/2021 @ 19:20:00 ",
@@ -4439,7 +4439,7 @@
     "title": "18 objects making close approach (12/Sep/2021 PDT)"
   },
   "satview": {
-    "date": "11/Sep/2021 PDT",
+    "date": "12/Sep/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 10/Sep/2021 @ 14:58:52 PDT.",
@@ -4506,7 +4506,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Sep/2021 @ 23:00:40 PDT",
+    "last_update": "12/Sep/2021 @ 00:00:38 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4559,7 +4559,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Thomas+Pesquet"
       }
     ],
-    "title": "10 people in space (11/Sep/2021 PDT)"
+    "title": "10 people in space (12/Sep/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6046,7 +6046,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Sep/2021 @ 23:00:46 PDT",
+    "last_update": "12/Sep/2021 @ 00:00:43 PDT",
     "launches": {
       "future": [
         {
