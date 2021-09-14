@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Sep/2021 @ 14:00:05 PDT",
+    "last_update": "14/Sep/2021 @ 15:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/MarsPanCompressed_Curiosity_1080.jpg",
     "title": "Mars Panorama 360 from Curiosity (14/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -530,7 +530,7 @@
         ],
         "eid": "us7000fb0d",
         "location": "http://maps.google.com/maps?q=37.7279,20.377",
-        "name": "M 4.5 - 35 km WSW of Katastárion, Greece",
+        "name": "M 4.5 - Ionian Sea",
         "source": [
           {
             "sid": "USGS",
@@ -602,7 +602,7 @@
         ],
         "eid": "ak021bt4ffvw",
         "location": "http://maps.google.com/maps?q=64.4374,-146.737",
-        "name": "M 4.9 - 9 km NW of Harding-Birch Lakes, Alaska",
+        "name": "M 4.9 - Central Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -1310,7 +1310,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "14/Sep/2021 @ 14:00:08 PDT",
+    "last_update": "14/Sep/2021 @ 15:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1336,7 +1336,7 @@
           80.9049
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - 35 km WSW of Katastárion, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - Ionian Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
           37.7279,
           20.377
         ],
@@ -1351,7 +1351,7 @@
           -173.8958
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=64.4374,-146.737\"><b>M 4.9 - 9 km NW of Harding-Birch Lakes, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021bt4ffvw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=64.4374,-146.737\"><b>M 4.9 - Central Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021bt4ffvw\">USGS</a>",
           64.4374,
           -146.737
         ],
@@ -3988,11 +3988,11 @@
     },
     "title": "70 events (14/Sep/2021 PDT)"
   },
-  "last_update": "14/Sep/2021 @ 14:00:54 PDT",
-  "last_update_epoch": 1631653254.577332,
+  "last_update": "14/Sep/2021 @ 15:00:34 PDT",
+  "last_update_epoch": 1631656834.122724,
   "neo": {
     "date": "14/Sep/2021 PDT",
-    "last_update": "14/Sep/2021 @ 14:00:18 PDT",
+    "last_update": "14/Sep/2021 @ 15:00:08 PDT",
     "objects": [
       {
         "cat": "14/Sep/2021 @ 11:48:00 ",
@@ -4227,7 +4227,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Sep/2021 @ 14:00:28 PDT",
+    "last_update": "14/Sep/2021 @ 15:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5767,7 +5767,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Sep/2021 @ 14:00:34 PDT",
+    "last_update": "14/Sep/2021 @ 15:00:13 PDT",
     "launches": {
       "future": [
         {
