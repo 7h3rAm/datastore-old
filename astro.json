@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Sep/2021 @ 21:00:14 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/MarsPanCompressed_Curiosity_1080.jpg",
-    "title": "Mars Panorama 360 from Curiosity (14/Sep/2021 PDT)",
+    "last_update": "14/Sep/2021 @ 22:00:04 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/StormPaths_NHC_1080.jpg",
+    "title": "Cyclone Paths on Planet Earth (15/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -438,6 +438,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fba9",
+        "location": "http://maps.google.com/maps?q=-31.7552,-72.0272",
+        "name": "M 4.1 - 82 km W of Illapel, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fba9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fb95",
         "location": "http://maps.google.com/maps?q=-31.8164,-72.0397",
         "name": "M 4.1 - 84 km WSW of Illapel, Chile",
@@ -528,16 +546,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fay1",
-        "location": "http://maps.google.com/maps?q=-31.6962,-72.0903",
-        "name": "M 4.4 - 87 km W of Illapel, Chile",
+        "eid": "us7000fb0d",
+        "location": "http://maps.google.com/maps?q=37.7279,20.377",
+        "name": "M 4.5 - Ionian Sea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fay1"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d"
       },
       {
         "category": [
@@ -546,16 +564,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fb0d",
-        "location": "http://maps.google.com/maps?q=37.7279,20.377",
-        "name": "M 4.5 - 35 km WSW of Katastárion, Greece",
+        "eid": "us7000fbah",
+        "location": "http://maps.google.com/maps?q=58.6951,-31.8506",
+        "name": "M 4.6 - Reykjanes Ridge",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbah"
       },
       {
         "category": [
@@ -602,7 +620,7 @@
         ],
         "eid": "ak021bt4ffvw",
         "location": "http://maps.google.com/maps?q=64.4374,-146.737",
-        "name": "M 4.9 - 9 km NW of Harding-Birch Lakes, Alaska",
+        "name": "M 4.9 - Central Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -664,6 +682,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb83"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fbav",
+        "location": "http://maps.google.com/maps?q=-58.9442,-23.7408",
+        "name": "M 5.2 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbav"
       },
       {
         "category": [
@@ -1310,11 +1346,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "14/Sep/2021 @ 21:00:19 PDT",
+    "last_update": "14/Sep/2021 @ 22:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.9442,-23.7408\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbav\">USGS</a>",
+          -58.9442,
+          -23.7408
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-31.7552,-72.0272\"><b>M 4.1 - 82 km W of Illapel, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fba9\">USGS</a>",
+          -31.7552,
+          -72.0272
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=58.6951,-31.8506\"><b>M 4.6 - Reykjanes Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbah\">USGS</a>",
+          58.6951,
+          -31.8506
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-58.3993,-25.5719\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb9q\">USGS</a>",
           -58.3993,
@@ -1366,7 +1417,7 @@
           80.9049
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - 35 km WSW of Katastárion, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - Ionian Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
           37.7279,
           20.377
         ],
@@ -1381,14 +1432,9 @@
           -173.8958
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=64.4374,-146.737\"><b>M 4.9 - 9 km NW of Harding-Birch Lakes, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021bt4ffvw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=64.4374,-146.737\"><b>M 4.9 - Central Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021bt4ffvw\">USGS</a>",
           64.4374,
           -146.737
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-31.6962,-72.0903\"><b>M 4.4 - 87 km W of Illapel, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fay1\">USGS</a>",
-          -31.6962,
-          -72.0903
         ]
       ],
       "Floods": [],
@@ -3986,13 +4032,13 @@
         ]
       ]
     },
-    "title": "70 events (14/Sep/2021 PDT)"
+    "title": "72 events (14/Sep/2021 PDT)"
   },
-  "last_update": "14/Sep/2021 @ 21:00:49 PDT",
-  "last_update_epoch": 1631678449.089895,
+  "last_update": "14/Sep/2021 @ 22:00:36 PDT",
+  "last_update_epoch": 1631682036.786568,
   "neo": {
     "date": "15/Sep/2021 PDT",
-    "last_update": "14/Sep/2021 @ 21:00:21 PDT",
+    "last_update": "14/Sep/2021 @ 22:00:08 PDT",
     "objects": [
       {
         "cat": "15/Sep/2021 @ 12:42:00 ",
@@ -4182,7 +4228,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Sep/2021 @ 21:00:22 PDT",
+    "last_update": "14/Sep/2021 @ 22:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5722,7 +5768,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Sep/2021 @ 21:00:28 PDT",
+    "last_update": "14/Sep/2021 @ 22:00:14 PDT",
     "launches": {
       "future": [
         {
