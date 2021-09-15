@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Sep/2021 @ 02:00:06 PDT",
+    "last_update": "15/Sep/2021 @ 03:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/StormPaths_NHC_1080.jpg",
     "title": "Cyclone Paths on Planet Earth (15/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -548,7 +548,7 @@
         ],
         "eid": "us7000fb0d",
         "location": "http://maps.google.com/maps?q=37.7279,20.377",
-        "name": "M 4.5 - 35 km WSW of Katastárion, Greece",
+        "name": "M 4.5 - Ionian Sea",
         "source": [
           {
             "sid": "USGS",
@@ -636,6 +636,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fbcx",
+        "location": "http://maps.google.com/maps?q=-32.1037,-72.2563",
+        "name": "M 5.0 - 104 km WNW of La Ligua, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbcx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fb7t",
         "location": "http://maps.google.com/maps?q=-10.6205,165.9456",
         "name": "M 5.1 - 19 km NE of Lata, Solomon Islands",
@@ -700,6 +718,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbav"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fbdg",
+        "location": "http://maps.google.com/maps?q=-1.3371,-15.9139",
+        "name": "M 5.2 - north of Ascension Island",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbdg"
       },
       {
         "category": [
@@ -1346,11 +1382,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "15/Sep/2021 @ 02:00:09 PDT",
+    "last_update": "15/Sep/2021 @ 03:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-1.3371,-15.9139\"><b>M 5.2 - north of Ascension Island</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbdg\">USGS</a>",
+          -1.3371,
+          -15.9139
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-32.1037,-72.2563\"><b>M 5.0 - 104 km WNW of La Ligua, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbcx\">USGS</a>",
+          -32.1037,
+          -72.2563
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.6772,-26.3187\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fbc9\">USGS</a>",
           -59.6772,
@@ -1422,7 +1468,7 @@
           80.9049
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - 35 km WSW of Katastárion, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7279,20.377\"><b>M 4.5 - Ionian Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fb0d\">USGS</a>",
           37.7279,
           20.377
         ],
@@ -4032,13 +4078,13 @@
         ]
       ]
     },
-    "title": "72 events (15/Sep/2021 PDT)"
+    "title": "74 events (15/Sep/2021 PDT)"
   },
-  "last_update": "15/Sep/2021 @ 02:00:41 PDT",
-  "last_update_epoch": 1631696441.65518,
+  "last_update": "15/Sep/2021 @ 03:00:41 PDT",
+  "last_update_epoch": 1631700041.606798,
   "neo": {
     "date": "15/Sep/2021 PDT",
-    "last_update": "15/Sep/2021 @ 02:00:09 PDT",
+    "last_update": "15/Sep/2021 @ 03:00:10 PDT",
     "objects": [
       {
         "cat": "15/Sep/2021 @ 12:42:00 ",
@@ -4228,7 +4274,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Sep/2021 @ 02:00:09 PDT",
+    "last_update": "15/Sep/2021 @ 03:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5768,7 +5814,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Sep/2021 @ 02:00:16 PDT",
+    "last_update": "15/Sep/2021 @ 03:00:16 PDT",
     "launches": {
       "future": [
         {
