@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Sep/2021 @ 11:00:16 PDT",
+    "last_update": "19/Sep/2021 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/saturn2004to2015_peach_960.jpg",
     "title": "Rings and Seasons of Saturn (19/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -560,24 +560,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fcgu",
-        "location": "http://maps.google.com/maps?q=-8.4439,127.8745",
-        "name": "M 4.6 - 96 km E of Lospalos, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fcgu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fcjr",
         "location": "http://maps.google.com/maps?q=-15.8115,-72.0314",
         "name": "M 4.7 - 12 km SE of Huambo, Peru",
@@ -1034,7 +1016,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "19/Sep/2021 @ 11:00:18 PDT",
+    "last_update": "19/Sep/2021 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1128,11 +1110,6 @@
           "<a href=\"http://maps.google.com/maps?q=34.2903,141.1386\"><b>M 4.6 - 121 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fchw\">USGS</a>",
           34.2903,
           141.1386
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-8.4439,127.8745\"><b>M 4.6 - 96 km E of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fcgu\">USGS</a>",
-          -8.4439,
-          127.8745
         ]
       ],
       "Floods": [],
@@ -3350,13 +3327,13 @@
         ]
       ]
     },
-    "title": "56 events (19/Sep/2021 PDT)"
+    "title": "55 events (19/Sep/2021 PDT)"
   },
-  "last_update": "19/Sep/2021 @ 11:01:00 PDT",
-  "last_update_epoch": 1632074460.43639,
+  "last_update": "19/Sep/2021 @ 12:00:35 PDT",
+  "last_update_epoch": 1632078035.795738,
   "neo": {
     "date": "19/Sep/2021 PDT",
-    "last_update": "19/Sep/2021 @ 11:00:21 PDT",
+    "last_update": "19/Sep/2021 @ 12:00:05 PDT",
     "objects": [
       {
         "cat": "19/Sep/2021 @ 01:00:00 ",
@@ -3573,7 +3550,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Sep/2021 @ 11:00:21 PDT",
+    "last_update": "19/Sep/2021 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5098,7 +5075,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Sep/2021 @ 11:00:27 PDT",
+    "last_update": "19/Sep/2021 @ 12:00:14 PDT",
     "launches": {
       "future": [
         {
