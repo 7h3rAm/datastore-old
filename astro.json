@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Sep/2021 @ 13:00:03 PDT",
+    "last_update": "21/Sep/2021 @ 14:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/SunSpotHill_Coy_960.jpg",
     "title": "Sun Spot Hill (21/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -561,7 +561,7 @@
           }
         ],
         "eid": "us7000fd1q",
-        "location": "http://maps.google.com/maps?q=-3.0144,128.0144",
+        "location": "http://maps.google.com/maps?q=-3.021,128.0105",
         "name": "M 4.9 - 77 km NNW of Ambon, Indonesia",
         "source": [
           {
@@ -642,24 +642,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd3f"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fczf",
-        "location": "http://maps.google.com/maps?q=46.4061,152.4112",
-        "name": "M 6.0 - Kuril Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fczf"
       },
       {
         "category": [
@@ -1006,7 +988,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "21/Sep/2021 @ 13:00:05 PDT",
+    "last_update": "21/Sep/2021 @ 14:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1082,19 +1064,14 @@
           -175.2971
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.0144,128.0144\"><b>M 4.9 - 77 km NNW of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1q\">USGS</a>",
-          -3.0144,
-          128.0144
+          "<a href=\"http://maps.google.com/maps?q=-3.021,128.0105\"><b>M 4.9 - 77 km NNW of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1q\">USGS</a>",
+          -3.021,
+          128.0105
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=1.8225,125.8916\"><b>M 4.9 - 108 km ENE of Laikit, Laikit II (Dimembe), Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1i\">USGS</a>",
           1.8225,
           125.8916
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=46.4061,152.4112\"><b>M 6.0 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fczf\">USGS</a>",
-          46.4061,
-          152.4112
         ]
       ],
       "Floods": [],
@@ -3352,13 +3329,13 @@
         ]
       ]
     },
-    "title": "54 events (21/Sep/2021 PDT)"
+    "title": "53 events (21/Sep/2021 PDT)"
   },
-  "last_update": "21/Sep/2021 @ 13:00:07 PDT",
-  "last_update_epoch": 1632254407.340453,
+  "last_update": "21/Sep/2021 @ 14:00:08 PDT",
+  "last_update_epoch": 1632258008.153366,
   "neo": {
     "date": "21/Sep/2021 PDT",
-    "last_update": "21/Sep/2021 @ 13:00:07 PDT",
+    "last_update": "21/Sep/2021 @ 14:00:07 PDT",
     "objects": [
       {
         "cat": "21/Sep/2021 @ 02:36:00 ",
@@ -3548,7 +3525,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Sep/2021 @ 13:00:07 PDT",
+    "last_update": "21/Sep/2021 @ 14:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
