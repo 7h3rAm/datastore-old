@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Sep/2021 @ 15:00:05 PDT",
+    "last_update": "21/Sep/2021 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/SunSpotHill_Coy_960.jpg",
     "title": "Sun Spot Hill (21/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -462,6 +462,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd52"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fd80",
+        "location": "http://maps.google.com/maps?q=43.5578,146.0927",
+        "name": "M 4.5 - 49 km ENE of Nemuro, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd80"
       },
       {
         "category": [
@@ -988,11 +1006,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "21/Sep/2021 @ 15:00:07 PDT",
+    "last_update": "21/Sep/2021 @ 16:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=43.5578,146.0927\"><b>M 4.5 - 49 km ENE of Nemuro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd80\">USGS</a>",
+          43.5578,
+          146.0927
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=9.787,93.7182\"><b>M 4.7 - 233 km SSE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd7f\">USGS</a>",
           9.787,
@@ -3329,13 +3352,13 @@
         ]
       ]
     },
-    "title": "53 events (21/Sep/2021 PDT)"
+    "title": "54 events (21/Sep/2021 PDT)"
   },
-  "last_update": "21/Sep/2021 @ 15:00:09 PDT",
-  "last_update_epoch": 1632261609.056463,
+  "last_update": "21/Sep/2021 @ 16:00:08 PDT",
+  "last_update_epoch": 1632265208.019665,
   "neo": {
     "date": "21/Sep/2021 PDT",
-    "last_update": "21/Sep/2021 @ 15:00:08 PDT",
+    "last_update": "21/Sep/2021 @ 16:00:07 PDT",
     "objects": [
       {
         "cat": "21/Sep/2021 @ 02:36:00 ",
@@ -3525,7 +3548,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Sep/2021 @ 15:00:09 PDT",
+    "last_update": "21/Sep/2021 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
