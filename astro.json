@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Sep/2021 @ 16:00:04 PDT",
+    "last_update": "21/Sep/2021 @ 17:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/SunSpotHill_Coy_960.jpg",
     "title": "Sun Spot Hill (21/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -560,24 +560,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fd1i",
-        "location": "http://maps.google.com/maps?q=1.8225,125.8916",
-        "name": "M 4.9 - 108 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1i"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fd1q",
         "location": "http://maps.google.com/maps?q=-3.021,128.0105",
         "name": "M 4.9 - 77 km NNW of Ambon, Indonesia",
@@ -668,9 +650,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fd9v",
+        "location": "http://maps.google.com/maps?q=-37.4883,146.3641",
+        "name": "M 5.8 - 38 km S of Mount Buller, Australia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd9v"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fd4k",
         "location": "http://maps.google.com/maps?q=-36.7883,-73.9567",
-        "name": "M 6.4 - 75 km W of Talcahuano, Chile",
+        "name": "M 6.4 - Near the coast of Bio-Bio, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -1006,11 +1006,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "21/Sep/2021 @ 16:00:06 PDT",
+    "last_update": "21/Sep/2021 @ 17:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-37.4883,146.3641\"><b>M 5.8 - 38 km S of Mount Buller, Australia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd9v\">USGS</a>",
+          -37.4883,
+          146.3641
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=43.5578,146.0927\"><b>M 4.5 - 49 km ENE of Nemuro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd80\">USGS</a>",
           43.5578,
@@ -1057,7 +1062,7 @@
           126.7495
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-36.7883,-73.9567\"><b>M 6.4 - 75 km W of Talcahuano, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd4k\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-36.7883,-73.9567\"><b>M 6.4 - Near the coast of Bio-Bio, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd4k\">USGS</a>",
           -36.7883,
           -73.9567
         ],
@@ -1090,11 +1095,6 @@
           "<a href=\"http://maps.google.com/maps?q=-3.021,128.0105\"><b>M 4.9 - 77 km NNW of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1q\">USGS</a>",
           -3.021,
           128.0105
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=1.8225,125.8916\"><b>M 4.9 - 108 km ENE of Laikit, Laikit II (Dimembe), Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd1i\">USGS</a>",
-          1.8225,
-          125.8916
         ]
       ],
       "Floods": [],
@@ -3354,131 +3354,104 @@
     },
     "title": "54 events (21/Sep/2021 PDT)"
   },
-  "last_update": "21/Sep/2021 @ 16:00:08 PDT",
-  "last_update_epoch": 1632265208.019665,
+  "last_update": "21/Sep/2021 @ 17:00:09 PDT",
+  "last_update_epoch": 1632268809.825135,
   "neo": {
-    "date": "21/Sep/2021 PDT",
-    "last_update": "21/Sep/2021 @ 16:00:07 PDT",
+    "date": "22/Sep/2021 PDT",
+    "last_update": "21/Sep/2021 @ 17:00:09 PDT",
     "objects": [
       {
-        "cat": "21/Sep/2021 @ 02:36:00 ",
-        "diameter": "0.07-0.16 miles",
-        "distance": "32,299,870.57 miles",
+        "cat": "22/Sep/2021 @ 10:52:00 ",
+        "diameter": "0.05-0.11 miles",
+        "distance": "8,878,195.42 miles",
         "hazardous": false,
-        "name": "Asteroid (2006 HJ18)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3330447",
-        "velocity": "41,298.20 mph"
+        "name": "Asteroid (2007 RY19)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3384484",
+        "velocity": "25,360.35 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 22:13:00 ",
-        "diameter": "0.15-0.33 miles",
-        "distance": "31,169,949.91 miles",
+        "cat": "22/Sep/2021 @ 12:52:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "29,971,698.07 miles",
         "hazardous": false,
-        "name": "Asteroid (2006 SD6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3342321",
-        "velocity": "45,352.73 mph"
+        "name": "Asteroid (2009 DJ46)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3449053",
+        "velocity": "40,370.40 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 03:31:00 ",
-        "diameter": "0.08-0.17 miles",
-        "distance": "42,369,118.78 miles",
-        "hazardous": false,
-        "name": "Asteroid (2007 AM)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3365921",
-        "velocity": "26,929.08 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 11:55:00 ",
-        "diameter": "0.02-0.03 miles",
-        "distance": "30,655,767.78 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 SS10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3781651",
-        "velocity": "45,047.75 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 21:54:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "17,744,949.80 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 DH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3838853",
-        "velocity": "25,069.91 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 00:52:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "18,703,754.70 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 RH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843785",
-        "velocity": "19,584.66 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 14:54:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "10,570,164.74 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 WY)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54088822",
-        "velocity": "10,135.27 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 22:29:00 ",
-        "diameter": "0.02-0.03 miles",
-        "distance": "5,209,564.87 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 RH4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54193832",
-        "velocity": "14,712.62 mph"
-      },
-      {
-        "cat": "21/Sep/2021 @ 11:49:00 ",
+        "cat": "22/Sep/2021 @ 03:57:00 ",
         "diameter": "0.00-0.01 miles",
-        "distance": "298,483.97 miles",
+        "distance": "31,588,971.01 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 RN16)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54196855",
-        "velocity": "21,783.99 mph"
+        "name": "Asteroid (2012 FT35)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3601673",
+        "velocity": "24,325.27 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 11:12:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "3,751,470.55 miles",
+        "cat": "22/Sep/2021 @ 23:41:00 ",
+        "diameter": "0.02-0.03 miles",
+        "distance": "34,157,861.19 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 RP9)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54195853",
-        "velocity": "40,276.54 mph"
+        "name": "Asteroid (2018 LX5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3825245",
+        "velocity": "23,739.71 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 03:33:00 ",
+        "cat": "22/Sep/2021 @ 01:49:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "24,348,806.81 miles",
+        "hazardous": false,
+        "name": "Asteroid (2018 RY3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3827429",
+        "velocity": "60,638.08 mph"
+      },
+      {
+        "cat": "22/Sep/2021 @ 17:13:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "1,822,082.84 miles",
+        "distance": "31,778,147.28 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 RV19)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54198193",
-        "velocity": "21,272.65 mph"
+        "name": "Asteroid (2019 SM2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3844002",
+        "velocity": "28,813.92 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 15:35:00 ",
-        "diameter": "0.05-0.10 miles",
-        "distance": "20,688,137.19 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 RV6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54194964",
-        "velocity": "19,844.94 mph"
+        "cat": "22/Sep/2021 @ 23:44:00 ",
+        "diameter": "0.16-0.35 miles",
+        "distance": "46,269,383.75 miles",
+        "hazardous": true,
+        "name": "Asteroid (2020 OT6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54049873",
+        "velocity": "23,408.96 mph"
       },
       {
-        "cat": "21/Sep/2021 @ 04:40:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "1,965,695.96 miles",
+        "cat": "22/Sep/2021 @ 14:42:00 ",
+        "diameter": "0.08-0.18 miles",
+        "distance": "930,867.03 miles",
+        "hazardous": true,
+        "name": "Asteroid (2021 NY1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54166827",
+        "velocity": "20,924.35 mph"
+      },
+      {
+        "cat": "22/Sep/2021 @ 10:48:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "4,421,110.20 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 RX9)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54195862",
-        "velocity": "32,660.09 mph"
+        "name": "Asteroid (2021 RS)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54192165",
+        "velocity": "7,505.21 mph"
+      },
+      {
+        "cat": "22/Sep/2021 @ 08:22:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "3,616,340.34 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 SO)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54198830",
+        "velocity": "12,783.21 mph"
       }
     ],
-    "title": "13 objects making close approach (21/Sep/2021 PDT)"
+    "title": "10 objects making close approach (22/Sep/2021 PDT)"
   },
   "satview": {
     "date": "21/Sep/2021 PDT",
@@ -3548,7 +3521,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Sep/2021 @ 16:00:08 PDT",
+    "last_update": "21/Sep/2021 @ 17:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
