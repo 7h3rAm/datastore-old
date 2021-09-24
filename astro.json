@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Sep/2021 @ 21:00:08 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2109/Cohea_APOD_HarvestMoon1067.jpg",
-    "title": "Harvest Moon Trail (23/Sep/2021 PDT)",
+    "last_update": "23/Sep/2021 @ 22:00:05 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2109/IMG_9365-Aug1314-2021-282-meteors1024.jpg",
+    "title": "Perseid Outburst at Westmeath Lookout (24/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -408,24 +408,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fdqr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fdq8",
-        "location": "http://maps.google.com/maps?q=28.1118,139.7827",
-        "name": "M 4.1 - Bonin Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fdq8"
       },
       {
         "category": [
@@ -1042,7 +1024,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5919"
       }
     ],
-    "last_update": "23/Sep/2021 @ 21:00:10 PDT",
+    "last_update": "23/Sep/2021 @ 22:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1126,11 +1108,6 @@
           "<a href=\"http://maps.google.com/maps?q=-36.3688,178.3401\"><b>M 4.1 - 204 km NNE of Opotiki, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fdqr\">USGS</a>",
           -36.3688,
           178.3401
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.1118,139.7827\"><b>M 4.1 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fdq8\">USGS</a>",
-          28.1118,
-          139.7827
         ]
       ],
       "Floods": [],
@@ -3238,13 +3215,13 @@
         ]
       ]
     },
-    "title": "56 events (23/Sep/2021 PDT)"
+    "title": "55 events (23/Sep/2021 PDT)"
   },
-  "last_update": "23/Sep/2021 @ 21:00:46 PDT",
-  "last_update_epoch": 1632456046.226159,
+  "last_update": "23/Sep/2021 @ 22:00:36 PDT",
+  "last_update_epoch": 1632459636.572301,
   "neo": {
     "date": "24/Sep/2021 PDT",
-    "last_update": "23/Sep/2021 @ 21:00:11 PDT",
+    "last_update": "23/Sep/2021 @ 22:00:08 PDT",
     "objects": [
       {
         "cat": "24/Sep/2021 @ 03:26:00 ",
@@ -3434,7 +3411,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Sep/2021 @ 21:00:11 PDT",
+    "last_update": "23/Sep/2021 @ 22:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4959,7 +4936,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Sep/2021 @ 21:00:21 PDT",
+    "last_update": "23/Sep/2021 @ 22:00:13 PDT",
     "launches": {
       "future": [
         {
