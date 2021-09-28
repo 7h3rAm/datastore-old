@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Sep/2021 @ 10:00:05 PDT",
+    "last_update": "28/Sep/2021 @ 11:00:04 PDT",
     "source": "https://www.youtube.com/embed/tLC6Sy8f06s?rel=0",
     "title": "Night of the Perseids (28/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,24 +475,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fex1",
-        "location": "http://maps.google.com/maps?q=30.9347,-114.1008",
-        "name": "M 4.4 - 68 km SW of Puerto Peñasco, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fex1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000ff1f",
         "location": "http://maps.google.com/maps?q=-23.7592,-67.8277",
         "name": "M 4.5 - 101 km SSE of San Pedro de Atacama, Chile",
@@ -503,24 +485,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ff1f"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fexf",
-        "location": "http://maps.google.com/maps?q=-24.1912,-67.1409",
-        "name": "M 4.5 - 83 km W of San Antonio de los Cobres, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fexf"
       },
       {
         "category": [
@@ -619,8 +583,26 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fpur",
+        "location": "http://maps.google.com/maps?q=-24.6204,-178.865",
+        "name": "M 4.9 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fpur"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ff8l",
-        "location": "http://maps.google.com/maps?q=10.4573,139.0239",
+        "location": "http://maps.google.com/maps?q=10.4589,139.0228",
         "name": "M 5.2 - 143 km NE of Colonia, Micronesia",
         "source": [
           {
@@ -975,15 +957,20 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5912"
       }
     ],
-    "last_update": "28/Sep/2021 @ 10:00:07 PDT",
+    "last_update": "28/Sep/2021 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=10.4573,139.0239\"><b>M 5.2 - 143 km NE of Colonia, Micronesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ff8l\">USGS</a>",
-          10.4573,
-          139.0239
+          "<a href=\"http://maps.google.com/maps?q=-24.6204,-178.865\"><b>M 4.9 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fpur\">USGS</a>",
+          -24.6204,
+          -178.865
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=10.4589,139.0228\"><b>M 5.2 - 143 km NE of Colonia, Micronesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ff8l\">USGS</a>",
+          10.4589,
+          139.0228
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.2992,25.314\"><b>M 4.7 - 3 km S of Káto Goúves, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ff84\">USGS</a>",
@@ -1054,16 +1041,6 @@
           "<a href=\"http://maps.google.com/maps?q=35.2448,25.2176\"><b>M 4.7 - 4 km ENE of Ano Arhanes, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000feyd\">USGS</a>",
           35.2448,
           25.2176
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.1912,-67.1409\"><b>M 4.5 - 83 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fexf\">USGS</a>",
-          -24.1912,
-          -67.1409
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.9347,-114.1008\"><b>M 4.4 - 68 km SW of Puerto Peñasco, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fex1\">USGS</a>",
-          30.9347,
-          -114.1008
         ]
       ],
       "Floods": [],
@@ -3316,13 +3293,13 @@
         ]
       ]
     },
-    "title": "52 events (28/Sep/2021 PDT)"
+    "title": "51 events (28/Sep/2021 PDT)"
   },
-  "last_update": "28/Sep/2021 @ 10:00:40 PDT",
-  "last_update_epoch": 1632848440.70209,
+  "last_update": "28/Sep/2021 @ 11:00:34 PDT",
+  "last_update_epoch": 1632852034.904871,
   "neo": {
     "date": "28/Sep/2021 PDT",
-    "last_update": "28/Sep/2021 @ 10:00:07 PDT",
+    "last_update": "28/Sep/2021 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "28/Sep/2021 @ 22:56:00 ",
@@ -3521,7 +3498,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Sep/2021 @ 10:00:08 PDT",
+    "last_update": "28/Sep/2021 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5046,7 +5023,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Sep/2021 @ 10:00:14 PDT",
+    "last_update": "28/Sep/2021 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
