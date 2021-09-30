@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Sep/2021 @ 10:00:05 PDT",
+    "last_update": "30/Sep/2021 @ 11:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2109/NebulaeTriangulumM33-1179.jpg",
     "title": "The Hydrogen Clouds of M33 (30/Sep/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us6000fqfp",
         "location": "http://maps.google.com/maps?q=-21.1086,-68.8336",
-        "name": "M 4.3 - 149 km N of Calama, Chile",
+        "name": "M 4.3 - Chile-Bolivia border region",
         "source": [
           {
             "sid": "USGS",
@@ -665,24 +665,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fqds"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fq75",
-        "location": "http://maps.google.com/maps?q=-22.8358,171.7233",
-        "name": "M 4.8 - southeast of the Loyalty Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fq75"
       },
       {
         "category": [
@@ -971,7 +953,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "30/Sep/2021 @ 10:00:07 PDT",
+    "last_update": "30/Sep/2021 @ 11:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -987,7 +969,7 @@
           179.9475
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.1086,-68.8336\"><b>M 4.3 - 149 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fqfp\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.1086,-68.8336\"><b>M 4.3 - Chile-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fqfp\">USGS</a>",
           -21.1086,
           -68.8336
         ],
@@ -1070,11 +1052,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.7044,127.679\"><b>M 4.5 - 124 km NNW of Nago, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fq9j\">USGS</a>",
           27.7044,
           127.679
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.8358,171.7233\"><b>M 4.8 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fq75\">USGS</a>",
-          -22.8358,
-          171.7233
         ]
       ],
       "Floods": [],
@@ -3367,13 +3344,13 @@
         ]
       ]
     },
-    "title": "52 events (30/Sep/2021 PDT)"
+    "title": "51 events (30/Sep/2021 PDT)"
   },
-  "last_update": "30/Sep/2021 @ 10:00:36 PDT",
-  "last_update_epoch": 1633021236.149699,
+  "last_update": "30/Sep/2021 @ 11:00:31 PDT",
+  "last_update_epoch": 1633024831.395309,
   "neo": {
     "date": "30/Sep/2021 PDT",
-    "last_update": "30/Sep/2021 @ 10:00:08 PDT",
+    "last_update": "30/Sep/2021 @ 11:00:08 PDT",
     "objects": [
       {
         "cat": "30/Sep/2021 @ 07:25:00 ",
@@ -3509,7 +3486,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Sep/2021 @ 10:00:09 PDT",
+    "last_update": "30/Sep/2021 @ 11:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5034,7 +5011,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Sep/2021 @ 10:00:15 PDT",
+    "last_update": "30/Sep/2021 @ 11:00:14 PDT",
     "launches": {
       "future": [
         {
