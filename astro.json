@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Oct/2021 @ 01:00:06 PDT",
+    "last_update": "02/Oct/2021 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/ArcsOfLightAndDust1024.jpg",
     "title": "A Light and Dusty Night (02/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -341,6 +341,24 @@
           }
         ],
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5934"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fr20",
+        "location": "http://maps.google.com/maps?q=35.256,27.7732",
+        "name": "M 4.0 - 58 km ESE of Karpathos, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fr20"
       },
       {
         "category": [
@@ -917,11 +935,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "02/Oct/2021 @ 01:00:07 PDT",
+    "last_update": "02/Oct/2021 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.256,27.7732\"><b>M 4.0 - 58 km ESE of Karpathos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fr20\">USGS</a>",
+          35.256,
+          27.7732
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.5709,174.6606\"><b>M 4.7 - Vanuatu region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fr0v\">USGS</a>",
           -21.5709,
@@ -3443,13 +3466,13 @@
         ]
       ]
     },
-    "title": "49 events (02/Oct/2021 PDT)"
+    "title": "50 events (02/Oct/2021 PDT)"
   },
-  "last_update": "02/Oct/2021 @ 01:00:38 PDT",
-  "last_update_epoch": 1633161638.096932,
+  "last_update": "02/Oct/2021 @ 02:00:37 PDT",
+  "last_update_epoch": 1633165237.773489,
   "neo": {
     "date": "02/Oct/2021 PDT",
-    "last_update": "02/Oct/2021 @ 01:00:09 PDT",
+    "last_update": "02/Oct/2021 @ 02:00:07 PDT",
     "objects": [
       {
         "cat": "02/Oct/2021 @ 09:35:00 ",
@@ -3576,7 +3599,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Oct/2021 @ 01:00:09 PDT",
+    "last_update": "02/Oct/2021 @ 02:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5101,7 +5124,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Oct/2021 @ 01:00:17 PDT",
+    "last_update": "02/Oct/2021 @ 02:00:14 PDT",
     "launches": {
       "future": [
         {
