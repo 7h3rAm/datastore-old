@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Oct/2021 @ 03:00:06 PDT",
+    "last_update": "03/Oct/2021 @ 04:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/teapotsirds_winfree_960.jpg",
     "title": "The Holographic Principle and a Teapot (03/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -623,6 +623,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fraj",
+        "location": "http://maps.google.com/maps?q=-19.1495,169.1546",
+        "name": "M 4.9 - 45 km NNW of Isangel, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fraj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fr98",
         "location": "http://maps.google.com/maps?q=-33.6638,-179.3408",
         "name": "M 5.1 - south of the Kermadec Islands",
@@ -939,11 +957,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "03/Oct/2021 @ 03:00:08 PDT",
+    "last_update": "03/Oct/2021 @ 04:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.1495,169.1546\"><b>M 4.9 - 45 km NNW of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fraj\">USGS</a>",
+          -19.1495,
+          169.1546
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.3564,141.6277\"><b>M 4.6 - 148 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000frae\">USGS</a>",
           34.3564,
@@ -3620,13 +3643,13 @@
         ]
       ]
     },
-    "title": "50 events (03/Oct/2021 PDT)"
+    "title": "51 events (03/Oct/2021 PDT)"
   },
-  "last_update": "03/Oct/2021 @ 03:00:39 PDT",
-  "last_update_epoch": 1633255239.827712,
+  "last_update": "03/Oct/2021 @ 04:00:36 PDT",
+  "last_update_epoch": 1633258836.450079,
   "neo": {
     "date": "03/Oct/2021 PDT",
-    "last_update": "03/Oct/2021 @ 03:00:12 PDT",
+    "last_update": "03/Oct/2021 @ 04:00:11 PDT",
     "objects": [
       {
         "cat": "03/Oct/2021 @ 06:07:00 ",
@@ -3834,7 +3857,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Oct/2021 @ 03:00:12 PDT",
+    "last_update": "03/Oct/2021 @ 04:00:11 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5359,7 +5382,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Oct/2021 @ 03:00:18 PDT",
+    "last_update": "03/Oct/2021 @ 04:00:16 PDT",
     "launches": {
       "future": [
         {
