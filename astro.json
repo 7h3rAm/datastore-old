@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Oct/2021 @ 04:00:07 PDT",
+    "last_update": "04/Oct/2021 @ 05:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC4676_HubbleOstling_960.jpg",
     "title": "NGC 4676: When Mice Collide (04/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3507,8 +3507,8 @@
     },
     "title": "45 events (04/Oct/2021 PDT)"
   },
-  "last_update": "04/Oct/2021 @ 04:00:42 PDT",
-  "last_update_epoch": 1633345242.053067,
+  "last_update": "04/Oct/2021 @ 05:00:06 PDT",
+  "last_update_epoch": 1633348806.958245,
   "neo": {
     "date": "04/Oct/2021 PDT",
     "last_update": "04/Oct/2021 @ 04:00:12 PDT",
