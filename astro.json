@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Oct/2021 @ 01:00:04 PDT",
+    "last_update": "07/Oct/2021 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC6559Sartori1024.jpg",
     "title": "NGC 6559: East of the Lagoon (07/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -373,7 +373,7 @@
         ],
         "eid": "us6000fsap",
         "location": "http://maps.google.com/maps?q=-7.0277,129.2527",
-        "name": "M 4.2 - Kepulauan Babar, Indonesia",
+        "name": "M 4.2 - 298 km NE of Lospalos, Timor Leste",
         "source": [
           {
             "sid": "USGS",
@@ -551,24 +551,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fs8m",
-        "location": "http://maps.google.com/maps?q=31.2593,131.471",
-        "name": "M 5.4 - 33 km SE of Kushima, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fs8m"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "usd000g72h",
         "location": "http://maps.google.com/maps?q=-15.442,-173.3277",
         "name": "M 5.4 - 75 km NE of Hihifo, Tonga",
@@ -589,7 +571,7 @@
         ],
         "eid": "us6000fsg9",
         "location": "http://maps.google.com/maps?q=30.2203,68.0142",
-        "name": "M 5.9 - 15 km NNE of Harnai, Pakistan",
+        "name": "M 5.9 - Pakistan",
         "source": [
           {
             "sid": "USGS",
@@ -831,7 +813,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "07/Oct/2021 @ 01:00:06 PDT",
+    "last_update": "07/Oct/2021 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -872,7 +854,7 @@
           146.3141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=30.2203,68.0142\"><b>M 5.9 - 15 km NNE of Harnai, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsg9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=30.2203,68.0142\"><b>M 5.9 - Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsg9\">USGS</a>",
           30.2203,
           68.0142
         ],
@@ -892,14 +874,9 @@
           -173.3277
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-7.0277,129.2527\"><b>M 4.2 - Kepulauan Babar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsap\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-7.0277,129.2527\"><b>M 4.2 - 298 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsap\">USGS</a>",
           -7.0277,
           129.2527
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.2593,131.471\"><b>M 5.4 - 33 km SE of Kushima, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fs8m\">USGS</a>",
-          31.2593,
-          131.471
         ]
       ],
       "Floods": [],
@@ -3602,13 +3579,13 @@
         ]
       ]
     },
-    "title": "44 events (07/Oct/2021 PDT)"
+    "title": "43 events (07/Oct/2021 PDT)"
   },
-  "last_update": "07/Oct/2021 @ 01:00:39 PDT",
-  "last_update_epoch": 1633593639.271709,
+  "last_update": "07/Oct/2021 @ 02:00:07 PDT",
+  "last_update_epoch": 1633597207.844758,
   "neo": {
     "date": "07/Oct/2021 PDT",
-    "last_update": "07/Oct/2021 @ 01:00:07 PDT",
+    "last_update": "07/Oct/2021 @ 02:00:07 PDT",
     "objects": [
       {
         "cat": "07/Oct/2021 @ 13:37:00 ",
@@ -3816,7 +3793,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Oct/2021 @ 01:00:07 PDT",
+    "last_update": "07/Oct/2021 @ 02:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
