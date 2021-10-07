@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Oct/2021 @ 11:00:04 PDT",
+    "last_update": "07/Oct/2021 @ 12:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC6559Sartori1024.jpg",
     "title": "NGC 6559: East of the Lagoon (07/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -389,24 +389,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fse3",
-        "location": "http://maps.google.com/maps?q=-21.5357,-68.9994",
-        "name": "M 4.3 - 102 km N of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fse3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fsj9",
         "location": "http://maps.google.com/maps?q=-2.4287,-78.7198",
         "name": "M 4.3 - 28 km ENE of Cañar, Ecuador",
@@ -417,6 +399,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsj9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fsr1",
+        "location": "http://maps.google.com/maps?q=17.0727,-60.3452",
+        "name": "M 4.4 - 115 km NE of Beauséjour, Guadeloupe",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsr1"
       },
       {
         "category": [
@@ -543,6 +543,60 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsh2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fsrb",
+        "location": "http://maps.google.com/maps?q=13.8683,120.7093",
+        "name": "M 5.2 - 2 km NNE of Hukay, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsrb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fsr4",
+        "location": "http://maps.google.com/maps?q=-55.7407,-26.4999",
+        "name": "M 5.5 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsr4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fsrg",
+        "location": "http://maps.google.com/maps?q=22.312,94.7455",
+        "name": "M 5.6 - 46 km WNW of Monywa, Myanmar",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsrg"
       },
       {
         "category": [
@@ -773,11 +827,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "07/Oct/2021 @ 11:00:06 PDT",
+    "last_update": "07/Oct/2021 @ 12:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.312,94.7455\"><b>M 5.6 - 46 km WNW of Monywa, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsrg\">USGS</a>",
+          22.312,
+          94.7455
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.8683,120.7093\"><b>M 5.2 - 2 km NNE of Hukay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsrb\">USGS</a>",
+          13.8683,
+          120.7093
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-55.7407,-26.4999\"><b>M 5.5 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsr4\">USGS</a>",
+          -55.7407,
+          -26.4999
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=17.0727,-60.3452\"><b>M 4.4 - 115 km NE of Beauséjour, Guadeloupe</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsr1\">USGS</a>",
+          17.0727,
+          -60.3452
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.8288,137.9307\"><b>M 4.1 - 279 km SE of Shingū, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsq1\">USGS</a>",
           31.8288,
@@ -837,11 +911,6 @@
           "<a href=\"http://maps.google.com/maps?q=43.7034,16.8607\"><b>M 4.9 - 7 km S of Orguz, Bosnia and Herzegovina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsew\">USGS</a>",
           43.7034,
           16.8607
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.5357,-68.9994\"><b>M 4.3 - 102 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fse3\">USGS</a>",
-          -21.5357,
-          -68.9994
         ]
       ],
       "Floods": [],
@@ -3369,13 +3438,13 @@
         ]
       ]
     },
-    "title": "41 events (07/Oct/2021 PDT)"
+    "title": "44 events (07/Oct/2021 PDT)"
   },
-  "last_update": "07/Oct/2021 @ 11:00:42 PDT",
-  "last_update_epoch": 1633629642.205855,
+  "last_update": "07/Oct/2021 @ 12:00:35 PDT",
+  "last_update_epoch": 1633633235.564383,
   "neo": {
     "date": "07/Oct/2021 PDT",
-    "last_update": "07/Oct/2021 @ 11:00:07 PDT",
+    "last_update": "07/Oct/2021 @ 12:00:07 PDT",
     "objects": [
       {
         "cat": "07/Oct/2021 @ 13:37:00 ",
@@ -3583,7 +3652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Oct/2021 @ 11:00:08 PDT",
+    "last_update": "07/Oct/2021 @ 12:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5123,7 +5192,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Oct/2021 @ 11:00:17 PDT",
+    "last_update": "07/Oct/2021 @ 12:00:15 PDT",
     "launches": {
       "future": [
         {
