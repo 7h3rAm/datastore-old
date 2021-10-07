@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Oct/2021 @ 12:00:05 PDT",
+    "last_update": "07/Oct/2021 @ 13:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC6559Sartori1024.jpg",
     "title": "NGC 6559: East of the Lagoon (07/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -515,24 +515,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fsew",
-        "location": "http://maps.google.com/maps?q=43.7034,16.8607",
-        "name": "M 4.9 - 7 km S of Orguz, Bosnia and Herzegovina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsew"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fsh2",
         "location": "http://maps.google.com/maps?q=-25.228,-64.5252",
         "name": "M 5.0 - 21 km NE of El Galpón, Argentina",
@@ -827,7 +809,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5930"
       }
     ],
-    "last_update": "07/Oct/2021 @ 12:00:07 PDT",
+    "last_update": "07/Oct/2021 @ 13:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -906,11 +888,6 @@
           "<a href=\"http://maps.google.com/maps?q=30.2203,68.0142\"><b>M 5.9 - 15 km NNE of Harnai, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsg9\">USGS</a>",
           30.2203,
           68.0142
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=43.7034,16.8607\"><b>M 4.9 - 7 km S of Orguz, Bosnia and Herzegovina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fsew\">USGS</a>",
-          43.7034,
-          16.8607
         ]
       ],
       "Floods": [],
@@ -3438,13 +3415,13 @@
         ]
       ]
     },
-    "title": "44 events (07/Oct/2021 PDT)"
+    "title": "43 events (07/Oct/2021 PDT)"
   },
-  "last_update": "07/Oct/2021 @ 12:00:35 PDT",
-  "last_update_epoch": 1633633235.564383,
+  "last_update": "07/Oct/2021 @ 13:00:36 PDT",
+  "last_update_epoch": 1633636836.331772,
   "neo": {
     "date": "07/Oct/2021 PDT",
-    "last_update": "07/Oct/2021 @ 12:00:07 PDT",
+    "last_update": "07/Oct/2021 @ 13:00:07 PDT",
     "objects": [
       {
         "cat": "07/Oct/2021 @ 13:37:00 ",
@@ -3588,8 +3565,8 @@
     "date": "07/Oct/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 03/Oct/2021 @ 15:36:18 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/10/03/jpg/epic_1b_20211003224107.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 05/Oct/2021 @ 15:08:17 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2021/10/05/jpg/epic_1b_20211005221306.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3652,7 +3629,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Oct/2021 @ 12:00:08 PDT",
+    "last_update": "07/Oct/2021 @ 13:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5192,7 +5169,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Oct/2021 @ 12:00:15 PDT",
+    "last_update": "07/Oct/2021 @ 13:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -16726,14 +16703,14 @@
           -158.2931152172301
         ],
         [
-          "<a href=\"https://www.n2yo.com/satellite/?s=44252\"><b>STARLINK-71</b></a><br/><b>Launch</b>: 24/May/2019 PDT<br/><b>Height</b>: 314.88 miles<br/><b>Velocity</b>: 17,030.88 mph",
-          14.99146422051835,
-          83.70896350398894
+          "<a href=\"https://www.n2yo.com/satellite/?s=44252\"><b>STARLINK-71</b></a><br/><b>Launch</b>: 24/May/2019 PDT<br/><b>Height</b>: 315.46 miles<br/><b>Velocity</b>: 17,031.05 mph",
+          23.060805433113895,
+          -81.34472264465276
         ],
         [
-          "<a href=\"https://www.n2yo.com/satellite/?s=44257\"><b>STARLINK-43</b></a><br/><b>Launch</b>: 24/May/2019 PDT<br/><b>Height</b>: 262.40 miles<br/><b>Velocity</b>: 17,131.27 mph",
-          -38.72830103587531,
-          105.28256205111438
+          "<a href=\"https://www.n2yo.com/satellite/?s=44257\"><b>STARLINK-43</b></a><br/><b>Launch</b>: 24/May/2019 PDT<br/><b>Height</b>: 256.67 miles<br/><b>Velocity</b>: 17,143.09 mph",
+          -1.6594658775851507,
+          -51.78859826436764
         ],
         [
           "<a href=\"https://www.n2yo.com/satellite/?s=44238\"><b>STARLINK-24</b></a><br/><b>Launch</b>: 24/May/2019 PDT<br/><b>Height</b>: 331.32 miles<br/><b>Velocity</b>: 16,990.29 mph",
@@ -23376,9 +23353,9 @@
           168.36472639121888
         ],
         [
-          "<a href=\"https://www.n2yo.com/satellite/?s=48310\"><b>STARLINK-2536</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 344.47 miles<br/><b>Velocity</b>: 16,965.80 mph",
-          -24.145027176157953,
-          -163.08588918320063
+          "<a href=\"https://www.n2yo.com/satellite/?s=48310\"><b>STARLINK-2536</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 342.54 miles<br/><b>Velocity</b>: 16,969.89 mph",
+          -12.35491549687355,
+          30.7237134021004
         ],
         [
           "<a href=\"https://www.n2yo.com/satellite/?s=48284\"><b>STARLINK-2564</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 340.38 miles<br/><b>Velocity</b>: 16,983.34 mph",
@@ -23581,9 +23558,9 @@
           43.23473745915412
         ],
         [
-          "<a href=\"https://www.n2yo.com/satellite/?s=48311\"><b>STARLINK-2534</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 341.26 miles<br/><b>Velocity</b>: 16,974.35 mph",
-          -8.651355541890654,
-          -150.02106272818972
+          "<a href=\"https://www.n2yo.com/satellite/?s=48311\"><b>STARLINK-2534</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 345.90 miles<br/><b>Velocity</b>: 16,961.59 mph",
+          -27.615708570211872,
+          44.33727444955146
         ],
         [
           "<a href=\"https://www.n2yo.com/satellite/?s=48326\"><b>STARLINK-2498</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 347.27 miles<br/><b>Velocity</b>: 16,959.50 mph",
@@ -23606,9 +23583,9 @@
           -149.69600576517033
         ],
         [
-          "<a href=\"https://www.n2yo.com/satellite/?s=48309\"><b>STARLINK-2517</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 348.11 miles<br/><b>Velocity</b>: 16,957.81 mph",
-          -38.39489950414394,
-          -179.82472714527745
+          "<a href=\"https://www.n2yo.com/satellite/?s=48309\"><b>STARLINK-2517</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 340.63 miles<br/><b>Velocity</b>: 16,976.27 mph",
+          3.7916247991920704,
+          18.471725485860514
         ],
         [
           "<a href=\"https://www.n2yo.com/satellite/?s=48325\"><b>STARLINK-2495</b></a><br/><b>Launch</b>: 29/Apr/2021 PDT<br/><b>Height</b>: 350.55 miles<br/><b>Velocity</b>: 16,952.40 mph",
@@ -25336,14 +25313,14 @@
         },
         {
           "epoch": 1558681200.0,
-          "height": "314.88 miles",
-          "latitude": 14.99146422051835,
+          "height": "315.46 miles",
+          "latitude": 23.060805433113895,
           "launch": "24/May/2019 PDT",
-          "location": "http://maps.google.com/maps?q=14.99146422051835,83.70896350398894",
-          "longitude": 83.70896350398894,
+          "location": "http://maps.google.com/maps?q=23.060805433113895,-81.34472264465276",
+          "longitude": -81.34472264465276,
           "name": "STARLINK-71",
           "url": "https://www.n2yo.com/satellite/?s=44252",
-          "velocity": "17,030.88 mph"
+          "velocity": "17,031.05 mph"
         },
         {
           "epoch": 1558681200.0,
@@ -25402,14 +25379,14 @@
         },
         {
           "epoch": 1558681200.0,
-          "height": "262.40 miles",
-          "latitude": -38.72830103587531,
+          "height": "256.67 miles",
+          "latitude": -1.6594658775851507,
           "launch": "24/May/2019 PDT",
-          "location": "http://maps.google.com/maps?q=-38.72830103587531,105.28256205111438",
-          "longitude": 105.28256205111438,
+          "location": "http://maps.google.com/maps?q=-1.6594658775851507,-51.78859826436764",
+          "longitude": -51.78859826436764,
           "name": "STARLINK-43",
           "url": "https://www.n2yo.com/satellite/?s=44257",
-          "velocity": "17,131.27 mph"
+          "velocity": "17,143.09 mph"
         },
         {
           "epoch": 1558681200.0,
@@ -40989,14 +40966,14 @@
         },
         {
           "epoch": 1619679600.0,
-          "height": "344.47 miles",
-          "latitude": -24.145027176157953,
+          "height": "342.54 miles",
+          "latitude": -12.35491549687355,
           "launch": "29/Apr/2021 PDT",
-          "location": "http://maps.google.com/maps?q=-24.145027176157953,-163.08588918320063",
-          "longitude": -163.08588918320063,
+          "location": "http://maps.google.com/maps?q=-12.35491549687355,30.7237134021004",
+          "longitude": 30.7237134021004,
           "name": "STARLINK-2536",
           "url": "https://www.n2yo.com/satellite/?s=48310",
-          "velocity": "16,965.80 mph"
+          "velocity": "16,969.89 mph"
         },
         {
           "epoch": 1619679600.0,
@@ -41440,14 +41417,14 @@
         },
         {
           "epoch": 1619679600.0,
-          "height": "341.26 miles",
-          "latitude": -8.651355541890654,
+          "height": "345.90 miles",
+          "latitude": -27.615708570211872,
           "launch": "29/Apr/2021 PDT",
-          "location": "http://maps.google.com/maps?q=-8.651355541890654,-150.02106272818972",
-          "longitude": -150.02106272818972,
+          "location": "http://maps.google.com/maps?q=-27.615708570211872,44.33727444955146",
+          "longitude": 44.33727444955146,
           "name": "STARLINK-2534",
           "url": "https://www.n2yo.com/satellite/?s=48311",
-          "velocity": "16,974.35 mph"
+          "velocity": "16,961.59 mph"
         },
         {
           "epoch": 1619679600.0,
@@ -41495,14 +41472,14 @@
         },
         {
           "epoch": 1619679600.0,
-          "height": "348.11 miles",
-          "latitude": -38.39489950414394,
+          "height": "340.63 miles",
+          "latitude": 3.7916247991920704,
           "launch": "29/Apr/2021 PDT",
-          "location": "http://maps.google.com/maps?q=-38.39489950414394,-179.82472714527745",
-          "longitude": -179.82472714527745,
+          "location": "http://maps.google.com/maps?q=3.7916247991920704,18.471725485860514",
+          "longitude": 18.471725485860514,
           "name": "STARLINK-2517",
           "url": "https://www.n2yo.com/satellite/?s=48309",
-          "velocity": "16,957.81 mph"
+          "velocity": "16,976.27 mph"
         },
         {
           "epoch": 1619679600.0,
