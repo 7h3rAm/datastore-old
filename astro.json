@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Oct/2021 @ 11:00:04 PDT",
+    "last_update": "09/Oct/2021 @ 12:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/peg51_desmars_ex1024.jpg",
     "title": "50 Light-years to 51 Pegasi (09/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -389,24 +389,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000ft2l",
-        "location": "http://maps.google.com/maps?q=-56.5758,-69.3317",
-        "name": "M 4.3 - 206 km SSW of Ushuaia, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ft2l"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000ft4r",
         "location": "http://maps.google.com/maps?q=-7.3629,128.8688",
         "name": "M 4.3 - 242 km ENE of Lospalos, Timor Leste",
@@ -605,6 +587,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000ftcj",
+        "location": "http://maps.google.com/maps?q=-15.6589,-71.8162",
+        "name": "M 4.6 - 5 km WSW of Maca, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftcj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000ftat",
         "location": "http://maps.google.com/maps?q=-4.0669,134.0372",
         "name": "M 4.7 - 180 km WSW of Nabire, Indonesia",
@@ -633,24 +633,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ft78"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "pr2021281003",
-        "location": "http://maps.google.com/maps?q=18.0105,-65.3871",
-        "name": "M 4.8 - 13 km SE of Esperanza, Puerto Rico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2021281003"
       },
       {
         "category": [
@@ -1061,11 +1043,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5945"
       }
     ],
-    "last_update": "09/Oct/2021 @ 11:00:05 PDT",
+    "last_update": "09/Oct/2021 @ 12:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.6589,-71.8162\"><b>M 4.6 - 5 km WSW of Maca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftcj\">USGS</a>",
+          -15.6589,
+          -71.8162
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=51.6781,178.4092\"><b>M 4.0 - Rat Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftbx\">USGS</a>",
           51.6781,
@@ -1195,16 +1182,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.8301,130.245\"><b>M 4.4 - Pulau Pulau Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ft3j\">USGS</a>",
           -7.8301,
           130.245
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.0105,-65.3871\"><b>M 4.8 - 13 km SE of Esperanza, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2021281003\">USGS</a>",
-          18.0105,
-          -65.3871
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-56.5758,-69.3317\"><b>M 4.3 - 206 km SSW of Ushuaia, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ft2l\">USGS</a>",
-          -56.5758,
-          -69.3317
         ]
       ],
       "Floods": [],
@@ -3612,13 +3589,13 @@
         ]
       ]
     },
-    "title": "57 events (09/Oct/2021 PDT)"
+    "title": "56 events (09/Oct/2021 PDT)"
   },
-  "last_update": "09/Oct/2021 @ 11:00:40 PDT",
-  "last_update_epoch": 1633802440.451139,
+  "last_update": "09/Oct/2021 @ 12:00:35 PDT",
+  "last_update_epoch": 1633806035.647498,
   "neo": {
     "date": "09/Oct/2021 PDT",
-    "last_update": "09/Oct/2021 @ 11:00:06 PDT",
+    "last_update": "09/Oct/2021 @ 12:00:07 PDT",
     "objects": [
       {
         "cat": "09/Oct/2021 @ 18:44:00 ",
@@ -3817,7 +3794,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Oct/2021 @ 11:00:06 PDT",
+    "last_update": "09/Oct/2021 @ 12:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5357,7 +5334,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Oct/2021 @ 11:00:14 PDT",
+    "last_update": "09/Oct/2021 @ 12:00:12 PDT",
     "launches": {
       "future": [
         {
