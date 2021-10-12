@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Oct/2021 @ 18:00:03 PDT",
+    "last_update": "11/Oct/2021 @ 19:00:03 PDT",
     "source": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0",
     "title": "Juno Flyby of Ganymede and Jupiter (11/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -381,6 +381,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021d206f9o"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000ftvk",
+        "location": "http://maps.google.com/maps?q=14.7623,-92.3618",
+        "name": "M 4.1 - 5 km WSW of Congregación Reforma, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftvk"
       },
       {
         "category": [
@@ -827,11 +845,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5945"
       }
     ],
-    "last_update": "11/Oct/2021 @ 18:00:05 PDT",
+    "last_update": "11/Oct/2021 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.7623,-92.3618\"><b>M 4.1 - 5 km WSW of Congregación Reforma, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftvk\">USGS</a>",
+          14.7623,
+          -92.3618
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=6.1463,126.9455\"><b>M 5.0 - 88 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000ftv3\">USGS</a>",
           6.1463,
@@ -3313,13 +3336,13 @@
         ]
       ]
     },
-    "title": "44 events (11/Oct/2021 PDT)"
+    "title": "45 events (11/Oct/2021 PDT)"
   },
-  "last_update": "11/Oct/2021 @ 18:00:42 PDT",
-  "last_update_epoch": 1634000442.046273,
+  "last_update": "11/Oct/2021 @ 19:00:38 PDT",
+  "last_update_epoch": 1634004038.110015,
   "neo": {
     "date": "12/Oct/2021 PDT",
-    "last_update": "11/Oct/2021 @ 18:00:06 PDT",
+    "last_update": "11/Oct/2021 @ 19:00:06 PDT",
     "objects": [
       {
         "cat": "12/Oct/2021 @ 00:44:00 ",
@@ -3518,7 +3541,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Oct/2021 @ 18:00:06 PDT",
+    "last_update": "11/Oct/2021 @ 19:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5058,7 +5081,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Oct/2021 @ 18:00:13 PDT",
+    "last_update": "11/Oct/2021 @ 19:00:12 PDT",
     "launches": {
       "future": [
         {
