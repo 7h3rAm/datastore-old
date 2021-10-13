@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Oct/2021 @ 15:00:06 PDT",
+    "last_update": "13/Oct/2021 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC7822_Yizhou_960.jpg",
     "title": "NGC 7822: Cosmic Question Mark (13/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -415,6 +415,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fucv",
+        "location": "http://maps.google.com/maps?q=-24.5659,-67.9357",
+        "name": "M 4.4 - 168 km WSW of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fuaq",
         "location": "http://maps.google.com/maps?q=4.4355,123.3338",
         "name": "M 4.4 - 217 km SSW of Palimbang, Philippines",
@@ -433,6 +451,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fucx",
+        "location": "http://maps.google.com/maps?q=-15.7544,167.9354",
+        "name": "M 4.4 - 67 km ENE of Norsup, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fu5q",
         "location": "http://maps.google.com/maps?q=41.852,83.7609",
         "name": "M 4.4 - 70 km ENE of Kuqa, China",
@@ -443,6 +479,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu5q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fud0",
+        "location": "http://maps.google.com/maps?q=-14.148,167.3859",
+        "name": "M 4.5 - 35 km SSW of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0"
       },
       {
         "category": [
@@ -849,11 +903,26 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "13/Oct/2021 @ 15:00:08 PDT",
+    "last_update": "13/Oct/2021 @ 16:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.148,167.3859\"><b>M 4.5 - 35 km SSW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0\">USGS</a>",
+          -14.148,
+          167.3859
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.7544,167.9354\"><b>M 4.4 - 67 km ENE of Norsup, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucx\">USGS</a>",
+          -15.7544,
+          167.9354
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.5659,-67.9357\"><b>M 4.4 - 168 km WSW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucv\">USGS</a>",
+          -24.5659,
+          -67.9357
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=4.4355,123.3338\"><b>M 4.4 - 217 km SSW of Palimbang, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuaq\">USGS</a>",
           4.4355,
@@ -3175,13 +3244,13 @@
         ]
       ]
     },
-    "title": "45 events (13/Oct/2021 PDT)"
+    "title": "48 events (13/Oct/2021 PDT)"
   },
-  "last_update": "13/Oct/2021 @ 15:00:39 PDT",
-  "last_update_epoch": 1634162439.931672,
+  "last_update": "13/Oct/2021 @ 16:00:36 PDT",
+  "last_update_epoch": 1634166036.897269,
   "neo": {
     "date": "13/Oct/2021 PDT",
-    "last_update": "13/Oct/2021 @ 15:00:09 PDT",
+    "last_update": "13/Oct/2021 @ 16:00:05 PDT",
     "objects": [
       {
         "cat": "13/Oct/2021 @ 13:31:00 ",
@@ -3362,7 +3431,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Oct/2021 @ 15:00:09 PDT",
+    "last_update": "13/Oct/2021 @ 16:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4902,7 +4971,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Oct/2021 @ 15:00:15 PDT",
+    "last_update": "13/Oct/2021 @ 16:00:12 PDT",
     "launches": {
       "future": [
         {
