@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Oct/2021 @ 18:00:04 PDT",
+    "last_update": "13/Oct/2021 @ 19:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC7822_Yizhou_960.jpg",
     "title": "NGC 7822: Cosmic Question Mark (13/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,6 +523,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fu6i",
+        "location": "http://maps.google.com/maps?q=-9.2013,-78.8562",
+        "name": "M 4.6 - 32 km SW of Puerto Santa, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6i"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fuaw",
         "location": "http://maps.google.com/maps?q=-62.9348,-161.209",
         "name": "M 4.6 - Pacific-Antarctic Ridge",
@@ -551,24 +569,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu72"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fu6i",
-        "location": "http://maps.google.com/maps?q=-9.2013,-78.8562",
-        "name": "M 4.6 - near the coast of northern Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6i"
       },
       {
         "category": [
@@ -705,7 +705,7 @@
         ],
         "eid": "us6000fu6b",
         "location": "http://maps.google.com/maps?q=-50.3173,-72.2374",
-        "name": "M 5.4 - 3 km NE of El Calafate, Argentina",
+        "name": "M 5.4 - southern Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -921,7 +921,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "13/Oct/2021 @ 18:00:05 PDT",
+    "last_update": "13/Oct/2021 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -977,12 +977,12 @@
           -25.1477
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-9.2013,-78.8562\"><b>M 4.6 - near the coast of northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6i\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-9.2013,-78.8562\"><b>M 4.6 - 32 km SW of Puerto Santa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6i\">USGS</a>",
           -9.2013,
           -78.8562
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-50.3173,-72.2374\"><b>M 5.4 - 3 km NE of El Calafate, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6b\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-50.3173,-72.2374\"><b>M 5.4 - southern Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6b\">USGS</a>",
           -50.3173,
           -72.2374
         ],
@@ -3269,11 +3269,11 @@
     },
     "title": "49 events (13/Oct/2021 PDT)"
   },
-  "last_update": "13/Oct/2021 @ 18:00:41 PDT",
-  "last_update_epoch": 1634173241.732229,
+  "last_update": "13/Oct/2021 @ 19:00:34 PDT",
+  "last_update_epoch": 1634176834.90137,
   "neo": {
     "date": "14/Oct/2021 PDT",
-    "last_update": "13/Oct/2021 @ 18:00:06 PDT",
+    "last_update": "13/Oct/2021 @ 19:00:06 PDT",
     "objects": [
       {
         "cat": "14/Oct/2021 @ 23:11:00 ",
@@ -3499,7 +3499,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Oct/2021 @ 18:00:12 PDT",
+    "last_update": "13/Oct/2021 @ 19:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5039,7 +5039,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Oct/2021 @ 18:00:18 PDT",
+    "last_update": "13/Oct/2021 @ 19:00:14 PDT",
     "launches": {
       "future": [
         {
