@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Oct/2021 @ 06:00:05 PDT",
+    "last_update": "14/Oct/2021 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg",
     "title": "NGC 7293: The Helix Nebula (14/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -795,7 +795,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "14/Oct/2021 @ 06:00:07 PDT",
+    "last_update": "14/Oct/2021 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3163,11 +3163,11 @@
     },
     "title": "42 events (14/Oct/2021 PDT)"
   },
-  "last_update": "14/Oct/2021 @ 06:00:40 PDT",
-  "last_update_epoch": 1634216440.049587,
+  "last_update": "14/Oct/2021 @ 07:00:33 PDT",
+  "last_update_epoch": 1634220033.739844,
   "neo": {
     "date": "14/Oct/2021 PDT",
-    "last_update": "14/Oct/2021 @ 06:00:08 PDT",
+    "last_update": "14/Oct/2021 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "14/Oct/2021 @ 23:11:00 ",
@@ -3217,11 +3217,11 @@
       {
         "cat": "14/Oct/2021 @ 16:36:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "1,635,200.84 miles",
+        "distance": "1,635,216.67 miles",
         "hazardous": false,
         "name": "Asteroid (2021 SM1)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54200298",
-        "velocity": "16,151.81 mph"
+        "velocity": "16,151.96 mph"
       },
       {
         "cat": "14/Oct/2021 @ 17:56:00 ",
@@ -3393,7 +3393,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Oct/2021 @ 06:00:08 PDT",
+    "last_update": "14/Oct/2021 @ 07:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4933,7 +4933,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Oct/2021 @ 06:00:15 PDT",
+    "last_update": "14/Oct/2021 @ 07:00:13 PDT",
     "launches": {
       "future": [
         {
