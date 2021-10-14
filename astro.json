@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Oct/2021 @ 15:00:06 PDT",
+    "last_update": "14/Oct/2021 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg",
     "title": "NGC 7293: The Helix Nebula (14/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -379,6 +379,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fupz",
+        "location": "http://maps.google.com/maps?q=51.8119,176.7633",
+        "name": "M 4.1 - Rat Islands, Aleutian Islands, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fudy",
         "location": "http://maps.google.com/maps?q=33.7795,91.9605",
         "name": "M 4.3 - 255 km N of Nagqu, China",
@@ -415,16 +433,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fucv",
-        "location": "http://maps.google.com/maps?q=-24.5659,-67.9357",
-        "name": "M 4.4 - 168 km WSW of San Antonio de los Cobres, Argentina",
+        "eid": "us6000fupt",
+        "location": "http://maps.google.com/maps?q=44.1818,120.19",
+        "name": "M 4.4 - 178 km WNW of Tongliao, China",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucv"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupt"
       },
       {
         "category": [
@@ -433,16 +451,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fucx",
-        "location": "http://maps.google.com/maps?q=-15.7544,167.9354",
-        "name": "M 4.4 - 67 km ENE of Norsup, Vanuatu",
+        "eid": "us6000fukq",
+        "location": "http://maps.google.com/maps?q=1.1921,126.2553",
+        "name": "M 4.4 - Molucca Sea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucx"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq"
       },
       {
         "category": [
@@ -497,24 +515,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuhd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fud0",
-        "location": "http://maps.google.com/maps?q=-14.148,167.3859",
-        "name": "M 4.5 - 35 km SSW of Sola, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0"
       },
       {
         "category": [
@@ -831,15 +831,25 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "14/Oct/2021 @ 15:00:08 PDT",
+    "last_update": "14/Oct/2021 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=51.8119,176.7633\"><b>M 4.1 - Rat Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz\">USGS</a>",
+          51.8119,
+          176.7633
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=6.7359,127.3306\"><b>M 4.9 - 102 km ESE of Manay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupv\">USGS</a>",
           6.7359,
           127.3306
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.1818,120.19\"><b>M 4.4 - 178 km WNW of Tongliao, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupt\">USGS</a>",
+          44.1818,
+          120.19
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.1103,130.0229\"><b>M 4.7 - Pulau Pulau Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupd\">USGS</a>",
@@ -850,6 +860,11 @@
           "<a href=\"http://maps.google.com/maps?q=-27.57,-70.9893\"><b>M 4.3 - 68 km WSW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fumx\">USGS</a>",
           -27.57,
           -70.9893
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=1.1921,126.2553\"><b>M 4.4 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq\">USGS</a>",
+          1.1921,
+          126.2553
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=1.2099,126.1761\"><b>M 5.6 - 137 km ESE of Laikit, Laikit II (Dimembe), Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuke\">USGS</a>",
@@ -890,21 +905,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.7795,91.9605\"><b>M 4.3 - 255 km N of Nagqu, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fudy\">USGS</a>",
           33.7795,
           91.9605
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.148,167.3859\"><b>M 4.5 - 35 km SSW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0\">USGS</a>",
-          -14.148,
-          167.3859
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.7544,167.9354\"><b>M 4.4 - 67 km ENE of Norsup, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucx\">USGS</a>",
-          -15.7544,
-          167.9354
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.5659,-67.9357\"><b>M 4.4 - 168 km WSW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fucv\">USGS</a>",
-          -24.5659,
-          -67.9357
         ]
       ],
       "Floods": [],
@@ -3209,11 +3209,11 @@
     },
     "title": "44 events (14/Oct/2021 PDT)"
   },
-  "last_update": "14/Oct/2021 @ 15:00:39 PDT",
-  "last_update_epoch": 1634248839.526526,
+  "last_update": "14/Oct/2021 @ 16:00:32 PDT",
+  "last_update_epoch": 1634252432.472878,
   "neo": {
     "date": "14/Oct/2021 PDT",
-    "last_update": "14/Oct/2021 @ 15:00:10 PDT",
+    "last_update": "14/Oct/2021 @ 16:00:06 PDT",
     "objects": [
       {
         "cat": "14/Oct/2021 @ 23:11:00 ",
@@ -3439,7 +3439,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Oct/2021 @ 15:00:11 PDT",
+    "last_update": "14/Oct/2021 @ 16:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4979,7 +4979,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Oct/2021 @ 15:00:18 PDT",
+    "last_update": "14/Oct/2021 @ 16:00:12 PDT",
     "launches": {
       "future": [
         {
