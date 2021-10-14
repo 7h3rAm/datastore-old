@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Oct/2021 @ 10:00:06 PDT",
+    "last_update": "14/Oct/2021 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg",
     "title": "NGC 7293: The Helix Nebula (14/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -415,24 +415,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fuaq",
-        "location": "http://maps.google.com/maps?q=4.4355,123.3338",
-        "name": "M 4.4 - 217 km SSW of Palimbang, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuaq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fucx",
         "location": "http://maps.google.com/maps?q=-15.7544,167.9354",
         "name": "M 4.4 - 67 km ENE of Norsup, Vanuatu",
@@ -533,24 +515,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fuaw",
-        "location": "http://maps.google.com/maps?q=-62.9348,-161.209",
-        "name": "M 4.6 - Pacific-Antarctic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuaw"
       },
       {
         "category": [
@@ -831,7 +795,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "14/Oct/2021 @ 10:00:07 PDT",
+    "last_update": "14/Oct/2021 @ 11:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -895,16 +859,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.0781,21.7341\"><b>M 4.4 - 82 km SSW of Koróni, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fub1\">USGS</a>",
           36.0781,
           21.7341
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=4.4355,123.3338\"><b>M 4.4 - 217 km SSW of Palimbang, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuaq\">USGS</a>",
-          4.4355,
-          123.3338
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-62.9348,-161.209\"><b>M 4.6 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuaw\">USGS</a>",
-          -62.9348,
-          -161.209
         ]
       ],
       "Floods": [],
@@ -3207,13 +3161,13 @@
         ]
       ]
     },
-    "title": "44 events (14/Oct/2021 PDT)"
+    "title": "42 events (14/Oct/2021 PDT)"
   },
-  "last_update": "14/Oct/2021 @ 10:00:37 PDT",
-  "last_update_epoch": 1634230837.035767,
+  "last_update": "14/Oct/2021 @ 11:00:32 PDT",
+  "last_update_epoch": 1634234432.363735,
   "neo": {
     "date": "14/Oct/2021 PDT",
-    "last_update": "14/Oct/2021 @ 10:00:09 PDT",
+    "last_update": "14/Oct/2021 @ 11:00:07 PDT",
     "objects": [
       {
         "cat": "14/Oct/2021 @ 23:11:00 ",
@@ -3439,7 +3393,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Oct/2021 @ 10:00:09 PDT",
+    "last_update": "14/Oct/2021 @ 11:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4979,7 +4933,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Oct/2021 @ 10:00:16 PDT",
+    "last_update": "14/Oct/2021 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
