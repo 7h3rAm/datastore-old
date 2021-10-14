@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Oct/2021 @ 21:00:08 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2110/NGC7822_Yizhou_960.jpg",
-    "title": "NGC 7822: Cosmic Question Mark (13/Oct/2021 PDT)",
+    "last_update": "13/Oct/2021 @ 22:00:06 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg",
+    "title": "NGC 7293: The Helix Nebula (14/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -379,24 +379,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fu54",
-        "location": "http://maps.google.com/maps?q=30.653,138.635",
-        "name": "M 4.1 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu54"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fudy",
         "location": "http://maps.google.com/maps?q=33.7795,91.9605",
         "name": "M 4.3 - 255 km N of Nagqu, China",
@@ -487,6 +469,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "pr2021287001",
+        "location": "http://maps.google.com/maps?q=18.3885,-68.221",
+        "name": "M 4.5 - 28 km SE of Punta Cana, Dominican Republic",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2021287001"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fufg",
         "location": "http://maps.google.com/maps?q=-16.3201,-73.1125",
         "name": "M 4.5 - 32 km S of Urasqui, Peru",
@@ -515,24 +515,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fud0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fufc",
-        "location": "http://maps.google.com/maps?q=18.4056,-68.2769",
-        "name": "M 4.6 - 23 km SE of Punta Cana, Dominican Republic",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fufc"
       },
       {
         "category": [
@@ -695,6 +677,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu6r"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fufn",
+        "location": "http://maps.google.com/maps?q=-36.3642,52.4068",
+        "name": "M 5.3 - Southwest Indian Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fufn"
       },
       {
         "category": [
@@ -921,20 +921,25 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "13/Oct/2021 @ 21:00:10 PDT",
+    "last_update": "13/Oct/2021 @ 22:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-36.3642,52.4068\"><b>M 5.3 - Southwest Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fufn\">USGS</a>",
+          -36.3642,
+          52.4068
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-16.3201,-73.1125\"><b>M 4.5 - 32 km S of Urasqui, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fufg\">USGS</a>",
           -16.3201,
           -73.1125
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=18.4056,-68.2769\"><b>M 4.6 - 23 km SE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fufc\">USGS</a>",
-          18.4056,
-          -68.2769
+          "<a href=\"http://maps.google.com/maps?q=18.3885,-68.221\"><b>M 4.5 - 28 km SE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2021287001\">USGS</a>",
+          18.3885,
+          -68.221
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=33.7795,91.9605\"><b>M 4.3 - 255 km N of Nagqu, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fudy\">USGS</a>",
@@ -1015,11 +1020,6 @@
           "<a href=\"http://maps.google.com/maps?q=-9.0481,110.9264\"><b>M 4.9 - 130 km S of Jatiroto, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu52\">USGS</a>",
           -9.0481,
           110.9264
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.653,138.635\"><b>M 4.1 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fu54\">USGS</a>",
-          30.653,
-          138.635
         ]
       ],
       "Floods": [],
@@ -3269,11 +3269,11 @@
     },
     "title": "49 events (13/Oct/2021 PDT)"
   },
-  "last_update": "13/Oct/2021 @ 21:00:44 PDT",
-  "last_update_epoch": 1634184044.496798,
+  "last_update": "13/Oct/2021 @ 22:00:40 PDT",
+  "last_update_epoch": 1634187640.84663,
   "neo": {
     "date": "14/Oct/2021 PDT",
-    "last_update": "13/Oct/2021 @ 21:00:10 PDT",
+    "last_update": "13/Oct/2021 @ 22:00:09 PDT",
     "objects": [
       {
         "cat": "14/Oct/2021 @ 23:11:00 ",
@@ -3499,7 +3499,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Oct/2021 @ 21:00:11 PDT",
+    "last_update": "13/Oct/2021 @ 22:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5039,7 +5039,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Oct/2021 @ 21:00:18 PDT",
+    "last_update": "13/Oct/2021 @ 22:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -16184,12 +16184,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "166,372,222.26 miles",
+      "earth_distance": "169,696,539.05 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "231,134,447.26 miles",
+      "mars_distance": "230,944,309.19 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,562.13 mph",
+      "speed": "5,557.55 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
