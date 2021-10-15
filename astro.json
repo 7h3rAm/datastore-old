@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Oct/2021 @ 13:00:04 PDT",
+    "last_update": "15/Oct/2021 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg",
     "title": "NGC 289: Swirl in the Southern Sky (15/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -417,7 +417,7 @@
         ],
         "eid": "us6000fupz",
         "location": "http://maps.google.com/maps?q=51.8119,176.7633",
-        "name": "M 4.1 - 269 km ESE of Attu Station, Alaska",
+        "name": "M 4.1 - Rat Islands, Aleutian Islands, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -577,24 +577,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fusk",
-        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
-        "name": "M 4.5 - 291 km NW of Manado, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fuzi",
         "location": "http://maps.google.com/maps?q=9.9933,41.6294",
         "name": "M 4.5 - 51 km NNW of Dire Dawa, Ethiopia",
@@ -605,6 +587,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuzi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fusk",
+        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
+        "name": "M 4.5 - Celebes Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
       },
       {
         "category": [
@@ -649,16 +649,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fupd",
-        "location": "http://maps.google.com/maps?q=-7.1103,130.0229",
-        "name": "M 4.7 - Pulau Pulau Tanimbar, Indonesia",
+        "eid": "us6000fv0u",
+        "location": "http://maps.google.com/maps?q=-8.3484,115.461",
+        "name": "M 4.8 - 16 km NNE of Banjar Wangsian, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupd"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fv0u"
       },
       {
         "category": [
@@ -705,7 +705,7 @@
         ],
         "eid": "us6000furk",
         "location": "http://maps.google.com/maps?q=-8.8768,158.4815",
-        "name": "M 6.4 - 146 km WSW of Buala, Solomon Islands",
+        "name": "M 6.4 - Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -921,11 +921,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "15/Oct/2021 @ 13:00:06 PDT",
+    "last_update": "15/Oct/2021 @ 14:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.3484,115.461\"><b>M 4.8 - 16 km NNE of Banjar Wangsian, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fv0u\">USGS</a>",
+          -8.3484,
+          115.461
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.1528,-85.131\"><b>M 4.6 - 109 km NE of Savannah Bight, Honduras</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuzs\">USGS</a>",
           17.1528,
@@ -982,7 +987,7 @@
           -68.9389
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - 291 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
           3.6021,
           123.2846
         ],
@@ -992,7 +997,7 @@
           -157.1923
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - 146 km WSW of Buala, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
           -8.8768,
           158.4815
         ],
@@ -1002,7 +1007,7 @@
           -69.9868
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=51.8119,176.7633\"><b>M 4.1 - 269 km ESE of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=51.8119,176.7633\"><b>M 4.1 - Rat Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz\">USGS</a>",
           51.8119,
           176.7633
         ],
@@ -1015,11 +1020,6 @@
           "<a href=\"http://maps.google.com/maps?q=44.1818,120.19\"><b>M 4.4 - 178 km WNW of Tongliao, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupt\">USGS</a>",
           44.1818,
           120.19
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.1103,130.0229\"><b>M 4.7 - Pulau Pulau Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupd\">USGS</a>",
-          -7.1103,
-          130.0229
         ]
       ],
       "Floods": [],
@@ -3344,11 +3344,11 @@
     },
     "title": "49 events (15/Oct/2021 PDT)"
   },
-  "last_update": "15/Oct/2021 @ 13:00:36 PDT",
-  "last_update_epoch": 1634328036.408403,
+  "last_update": "15/Oct/2021 @ 14:00:37 PDT",
+  "last_update_epoch": 1634331637.054349,
   "neo": {
     "date": "15/Oct/2021 PDT",
-    "last_update": "15/Oct/2021 @ 13:00:10 PDT",
+    "last_update": "15/Oct/2021 @ 14:00:09 PDT",
     "objects": [
       {
         "cat": "15/Oct/2021 @ 04:21:00 ",
@@ -3619,7 +3619,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Oct/2021 @ 13:00:11 PDT",
+    "last_update": "15/Oct/2021 @ 14:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5174,7 +5174,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Oct/2021 @ 13:00:17 PDT",
+    "last_update": "15/Oct/2021 @ 14:00:14 PDT",
     "launches": {
       "future": [
         {
