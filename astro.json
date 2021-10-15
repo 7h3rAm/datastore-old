@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Oct/2021 @ 08:00:12 PDT",
+    "last_update": "15/Oct/2021 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg",
     "title": "NGC 289: Swirl in the Southern Sky (15/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -379,6 +379,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "ak021d8c9l7s",
+        "location": "http://maps.google.com/maps?q=55.1879,-157.1923",
+        "name": "M 4.0 - 144 km SSE of Chignik, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021d8c9l7s"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000futq",
         "location": "http://maps.google.com/maps?q=18.845,-74.1514",
         "name": "M 4.0 - 21 km N of Jérémie, Haiti",
@@ -433,24 +451,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak021d8c9l7s",
-        "location": "http://maps.google.com/maps?q=55.2385,-157.3258",
-        "name": "M 4.3 - 135 km SSE of Chignik, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021d8c9l7s"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fumx",
         "location": "http://maps.google.com/maps?q=-27.57,-70.9893",
         "name": "M 4.3 - 68 km WSW of Copiapó, Chile",
@@ -479,24 +479,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000futa"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fukq",
-        "location": "http://maps.google.com/maps?q=1.1921,126.2553",
-        "name": "M 4.4 - 133 km WNW of Ternate, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq"
       },
       {
         "category": [
@@ -641,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fuke",
-        "location": "http://maps.google.com/maps?q=1.2096,126.1715",
-        "name": "M 5.5 - 136 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuke"
       },
       {
         "category": [
@@ -885,7 +849,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "15/Oct/2021 @ 08:00:14 PDT",
+    "last_update": "15/Oct/2021 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -926,9 +890,9 @@
           123.2846
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=55.2385,-157.3258\"><b>M 4.3 - 135 km SSE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021d8c9l7s\">USGS</a>",
-          55.2385,
-          -157.3258
+          "<a href=\"http://maps.google.com/maps?q=55.1879,-157.1923\"><b>M 4.0 - 144 km SSE of Chignik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021d8c9l7s\">USGS</a>",
+          55.1879,
+          -157.1923
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - 146 km WSW of Buala, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
@@ -964,16 +928,6 @@
           "<a href=\"http://maps.google.com/maps?q=-27.57,-70.9893\"><b>M 4.3 - 68 km WSW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fumx\">USGS</a>",
           -27.57,
           -70.9893
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=1.1921,126.2553\"><b>M 4.4 - 133 km WNW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq\">USGS</a>",
-          1.1921,
-          126.2553
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=1.2096,126.1715\"><b>M 5.5 - 136 km ESE of Laikit, Laikit II (Dimembe), Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuke\">USGS</a>",
-          1.2096,
-          126.1715
         ]
       ],
       "Floods": [],
@@ -3296,13 +3250,13 @@
         ]
       ]
     },
-    "title": "47 events (15/Oct/2021 PDT)"
+    "title": "45 events (15/Oct/2021 PDT)"
   },
-  "last_update": "15/Oct/2021 @ 08:00:41 PDT",
-  "last_update_epoch": 1634310041.042194,
+  "last_update": "15/Oct/2021 @ 09:00:32 PDT",
+  "last_update_epoch": 1634313632.492086,
   "neo": {
     "date": "15/Oct/2021 PDT",
-    "last_update": "15/Oct/2021 @ 08:00:15 PDT",
+    "last_update": "15/Oct/2021 @ 09:00:06 PDT",
     "objects": [
       {
         "cat": "15/Oct/2021 @ 04:21:00 ",
@@ -3573,7 +3527,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Oct/2021 @ 08:00:16 PDT",
+    "last_update": "15/Oct/2021 @ 09:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5113,7 +5067,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Oct/2021 @ 08:00:21 PDT",
+    "last_update": "15/Oct/2021 @ 09:00:12 PDT",
     "launches": {
       "future": [
         {
