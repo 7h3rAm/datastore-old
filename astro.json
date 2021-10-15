@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Oct/2021 @ 23:00:04 PDT",
+    "last_update": "15/Oct/2021 @ 00:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg",
     "title": "NGC 289: Swirl in the Southern Sky (15/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "14/Oct/2021 PDT",
+    "date": "15/Oct/2021 PDT",
     "events": [
       {
         "category": [
@@ -381,7 +381,7 @@
         ],
         "eid": "us6000fupz",
         "location": "http://maps.google.com/maps?q=51.8119,176.7633",
-        "name": "M 4.1 - 269 km ESE of Attu Station, Alaska",
+        "name": "M 4.1 - Rat Islands, Aleutian Islands, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -451,16 +451,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fukq",
-        "location": "http://maps.google.com/maps?q=1.1921,126.2553",
-        "name": "M 4.4 - 133 km WNW of Ternate, Indonesia",
+        "eid": "us6000futa",
+        "location": "http://maps.google.com/maps?q=-31.6875,-72.1417",
+        "name": "M 4.3 - 92 km W of Illapel, Chile",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000futa"
       },
       {
         "category": [
@@ -487,6 +487,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fukq",
+        "location": "http://maps.google.com/maps?q=1.1921,126.2553",
+        "name": "M 4.4 - Molucca Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fusp",
         "location": "http://maps.google.com/maps?q=-24.4347,-68.9389",
         "name": "M 4.5 - 171 km ESE of Antofagasta, Chile",
@@ -497,24 +515,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fusk",
-        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
-        "name": "M 4.5 - 291 km NW of Manado, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
       },
       {
         "category": [
@@ -541,16 +541,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fuha",
-        "location": "http://maps.google.com/maps?q=-24.3206,-179.7496",
-        "name": "M 4.6 - south of the Fiji Islands",
+        "eid": "us6000fusk",
+        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
+        "name": "M 4.5 - Celebes Sea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuha"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fute",
+        "location": "http://maps.google.com/maps?q=-8.5508,32.1898",
+        "name": "M 4.7 - 15 km E of Laela, Tanzania",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fute"
       },
       {
         "category": [
@@ -615,7 +633,7 @@
         ],
         "eid": "us6000furk",
         "location": "http://maps.google.com/maps?q=-8.8768,158.4815",
-        "name": "M 6.4 - 146 km WSW of Buala, Solomon Islands",
+        "name": "M 6.4 - Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -831,18 +849,28 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "14/Oct/2021 @ 23:00:06 PDT",
+    "last_update": "15/Oct/2021 @ 00:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.5508,32.1898\"><b>M 4.7 - 15 km E of Laela, Tanzania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fute\">USGS</a>",
+          -8.5508,
+          32.1898
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-31.6875,-72.1417\"><b>M 4.3 - 92 km W of Illapel, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000futa\">USGS</a>",
+          -31.6875,
+          -72.1417
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.4347,-68.9389\"><b>M 4.5 - 171 km ESE of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusp\">USGS</a>",
           -24.4347,
           -68.9389
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - 291 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
           3.6021,
           123.2846
         ],
@@ -852,7 +880,7 @@
           -157.3258
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - 146 km WSW of Buala, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
           -8.8768,
           158.4815
         ],
@@ -862,7 +890,7 @@
           -69.9868
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=51.8119,176.7633\"><b>M 4.1 - 269 km ESE of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=51.8119,176.7633\"><b>M 4.1 - Rat Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz\">USGS</a>",
           51.8119,
           176.7633
         ],
@@ -887,7 +915,7 @@
           -70.9893
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=1.1921,126.2553\"><b>M 4.4 - 133 km WNW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=1.1921,126.2553\"><b>M 4.4 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fukq\">USGS</a>",
           1.1921,
           126.2553
         ],
@@ -900,11 +928,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.0204,126.0136\"><b>M 4.5 - 35 km ESE of Lamitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuhd\">USGS</a>",
           6.0204,
           126.0136
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.3206,-179.7496\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuha\">USGS</a>",
-          -24.3206,
-          -179.7496
         ]
       ],
       "Floods": [],
@@ -3207,13 +3230,13 @@
         ]
       ]
     },
-    "title": "44 events (14/Oct/2021 PDT)"
+    "title": "45 events (15/Oct/2021 PDT)"
   },
-  "last_update": "14/Oct/2021 @ 23:00:40 PDT",
-  "last_update_epoch": 1634277640.392145,
+  "last_update": "15/Oct/2021 @ 00:00:38 PDT",
+  "last_update_epoch": 1634281238.064139,
   "neo": {
     "date": "15/Oct/2021 PDT",
-    "last_update": "14/Oct/2021 @ 23:00:06 PDT",
+    "last_update": "15/Oct/2021 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "15/Oct/2021 @ 04:21:00 ",
@@ -3417,7 +3440,7 @@
     "title": "22 objects making close approach (15/Oct/2021 PDT)"
   },
   "satview": {
-    "date": "14/Oct/2021 PDT",
+    "date": "15/Oct/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 12/Oct/2021 @ 09:44:09 PDT.",
@@ -3484,7 +3507,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Oct/2021 @ 23:00:07 PDT",
+    "last_update": "15/Oct/2021 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3537,7 +3560,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Yulia+Pereslid"
       }
     ],
-    "title": "10 people in space (14/Oct/2021 PDT)"
+    "title": "10 people in space (15/Oct/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5024,7 +5047,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Oct/2021 @ 23:00:15 PDT",
+    "last_update": "15/Oct/2021 @ 00:00:14 PDT",
     "launches": {
       "future": [
         {
