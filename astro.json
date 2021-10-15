@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Oct/2021 @ 17:00:04 PDT",
+    "last_update": "14/Oct/2021 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Helix_Oxygen_crop2_1024.jpg",
     "title": "NGC 7293: The Helix Nebula (14/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -389,24 +389,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fupz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fudy",
-        "location": "http://maps.google.com/maps?q=33.7795,91.9605",
-        "name": "M 4.3 - 255 km N of Nagqu, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fudy"
       },
       {
         "category": [
@@ -831,7 +813,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "14/Oct/2021 @ 17:00:11 PDT",
+    "last_update": "14/Oct/2021 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -900,11 +882,6 @@
           "<a href=\"http://maps.google.com/maps?q=18.3885,-68.221\"><b>M 4.5 - 28 km SE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2021287001\">USGS</a>",
           18.3885,
           -68.221
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.7795,91.9605\"><b>M 4.3 - 255 km N of Nagqu, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fudy\">USGS</a>",
-          33.7795,
-          91.9605
         ]
       ],
       "Floods": [],
@@ -3207,13 +3184,13 @@
         ]
       ]
     },
-    "title": "44 events (14/Oct/2021 PDT)"
+    "title": "43 events (14/Oct/2021 PDT)"
   },
-  "last_update": "14/Oct/2021 @ 17:00:41 PDT",
-  "last_update_epoch": 1634256041.88463,
+  "last_update": "14/Oct/2021 @ 18:00:32 PDT",
+  "last_update_epoch": 1634259632.508761,
   "neo": {
     "date": "15/Oct/2021 PDT",
-    "last_update": "14/Oct/2021 @ 17:00:12 PDT",
+    "last_update": "14/Oct/2021 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "15/Oct/2021 @ 04:21:00 ",
@@ -3484,7 +3461,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Oct/2021 @ 17:00:12 PDT",
+    "last_update": "14/Oct/2021 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5024,7 +5001,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Oct/2021 @ 17:00:18 PDT",
+    "last_update": "14/Oct/2021 @ 18:00:13 PDT",
     "launches": {
       "future": [
         {
