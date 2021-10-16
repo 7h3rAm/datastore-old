@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Oct/2021 @ 17:00:04 PDT",
+    "last_update": "15/Oct/2021 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/NGC289Selby1024.jpg",
     "title": "NGC 289: Swirl in the Southern Sky (15/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fusk",
+        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
+        "name": "M 4.5 - 291 km NW of Manado, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fuzi",
         "location": "http://maps.google.com/maps?q=9.9933,41.6294",
         "name": "M 4.5 - 51 km NNW of Dire Dawa, Ethiopia",
@@ -605,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fuzi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fusk",
-        "location": "http://maps.google.com/maps?q=3.6021,123.2846",
-        "name": "M 4.5 - Celebes Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk"
       },
       {
         "category": [
@@ -659,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fute"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fv2x",
+        "location": "http://maps.google.com/maps?q=-0.328,29.8201",
+        "name": "M 4.7 - 58 km NNW of Rukungiri, Uganda",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fv2x"
       },
       {
         "category": [
@@ -723,7 +741,7 @@
         ],
         "eid": "us6000furk",
         "location": "http://maps.google.com/maps?q=-8.8768,158.4815",
-        "name": "M 6.4 - Solomon Islands",
+        "name": "M 6.4 - 146 km WSW of Buala, Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -939,11 +957,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "15/Oct/2021 @ 17:00:06 PDT",
+    "last_update": "15/Oct/2021 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-0.328,29.8201\"><b>M 4.7 - 58 km NNW of Rukungiri, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fv2x\">USGS</a>",
+          -0.328,
+          29.8201
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.8943,26.3729\"><b>M 4.1 - 35 km SSE of Palekastro, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fv2i\">USGS</a>",
           34.8943,
@@ -1025,7 +1048,7 @@
           -68.9389
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.6021,123.2846\"><b>M 4.5 - 291 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fusk\">USGS</a>",
           3.6021,
           123.2846
         ],
@@ -1035,7 +1058,7 @@
           -157.1923
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.8768,158.4815\"><b>M 6.4 - 146 km WSW of Buala, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000furk\">USGS</a>",
           -8.8768,
           158.4815
         ],
@@ -3365,13 +3388,13 @@
         ]
       ]
     },
-    "title": "50 events (15/Oct/2021 PDT)"
+    "title": "51 events (15/Oct/2021 PDT)"
   },
-  "last_update": "15/Oct/2021 @ 17:00:37 PDT",
-  "last_update_epoch": 1634342437.239404,
+  "last_update": "15/Oct/2021 @ 18:00:35 PDT",
+  "last_update_epoch": 1634346035.837728,
   "neo": {
     "date": "16/Oct/2021 PDT",
-    "last_update": "15/Oct/2021 @ 17:00:07 PDT",
+    "last_update": "15/Oct/2021 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "16/Oct/2021 @ 05:58:00 ",
@@ -3507,7 +3530,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Oct/2021 @ 17:00:07 PDT",
+    "last_update": "15/Oct/2021 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5062,7 +5085,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Oct/2021 @ 17:00:16 PDT",
+    "last_update": "15/Oct/2021 @ 18:00:14 PDT",
     "launches": {
       "future": [
         {
