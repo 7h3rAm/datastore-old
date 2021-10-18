@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Oct/2021 @ 01:00:05 PDT",
+    "last_update": "18/Oct/2021 @ 02:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/EarthshineSky_Giannobile_1212.jpg",
     "title": "Earthshine Moon over Sicily (18/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -793,6 +793,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fvl5",
+        "location": "http://maps.google.com/maps?q=54.0069,158.6314",
+        "name": "M 5.2 - 76 km S of Mil’kovo, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvl5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fvkf",
         "location": "http://maps.google.com/maps?q=-13.7397,166.9399",
         "name": "M 6.1 - 67 km WNW of Sola, Vanuatu",
@@ -1011,11 +1029,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "18/Oct/2021 @ 01:00:06 PDT",
+    "last_update": "18/Oct/2021 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=54.0069,158.6314\"><b>M 5.2 - 76 km S of Mil’kovo, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvl5\">USGS</a>",
+          54.0069,
+          158.6314
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-13.7397,166.9399\"><b>M 6.1 - 67 km WNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvkf\">USGS</a>",
           -13.7397,
@@ -3567,13 +3590,13 @@
         ]
       ]
     },
-    "title": "54 events (18/Oct/2021 PDT)"
+    "title": "55 events (18/Oct/2021 PDT)"
   },
-  "last_update": "18/Oct/2021 @ 01:00:37 PDT",
-  "last_update_epoch": 1634544037.380625,
+  "last_update": "18/Oct/2021 @ 02:00:39 PDT",
+  "last_update_epoch": 1634547639.084392,
   "neo": {
     "date": "18/Oct/2021 PDT",
-    "last_update": "18/Oct/2021 @ 01:00:09 PDT",
+    "last_update": "18/Oct/2021 @ 02:00:09 PDT",
     "objects": [
       {
         "cat": "18/Oct/2021 @ 03:12:00 ",
@@ -3799,7 +3822,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Oct/2021 @ 01:00:10 PDT",
+    "last_update": "18/Oct/2021 @ 02:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5339,7 +5362,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Oct/2021 @ 01:00:16 PDT",
+    "last_update": "18/Oct/2021 @ 02:00:14 PDT",
     "launches": {
       "future": [
         {
