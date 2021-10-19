@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Oct/2021 @ 01:00:05 PDT",
+    "last_update": "19/Oct/2021 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Palomar6_Hubble_960.jpg",
     "title": "Palomar 6: Globular Star Cluster (19/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -379,6 +379,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fvli",
+        "location": "http://maps.google.com/maps?q=-28.4886,-62.8535",
+        "name": "M 4.1 - 3 km SSW of Añatuya, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvli"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fvqs",
         "location": "http://maps.google.com/maps?q=14.6042,-93.6789",
         "name": "M 4.2 - 108 km SSW of La Esperanza (El Zapotal), Mexico",
@@ -461,24 +479,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvpt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fvsc",
-        "location": "http://maps.google.com/maps?q=27.9554,85.8716",
-        "name": "M 4.3 - 8 km W of Kodāri̇̄, Nepal",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvsc"
       },
       {
         "category": [
@@ -641,24 +641,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvra"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fvl5",
-        "location": "http://maps.google.com/maps?q=54.0003,158.6353",
-        "name": "M 5.3 - 77 km S of Mil’kovo, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvl5"
       },
       {
         "category": [
@@ -867,7 +849,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "19/Oct/2021 @ 01:00:07 PDT",
+    "last_update": "19/Oct/2021 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -948,14 +930,9 @@
           -88.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=54.0003,158.6353\"><b>M 5.3 - 77 km S of Mil’kovo, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvl5\">USGS</a>",
-          54.0003,
-          158.6353
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.9554,85.8716\"><b>M 4.3 - 8 km W of Kodāri̇̄, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvsc\">USGS</a>",
-          27.9554,
-          85.8716
+          "<a href=\"http://maps.google.com/maps?q=-28.4886,-62.8535\"><b>M 4.1 - 3 km SSW of Añatuya, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvli\">USGS</a>",
+          -28.4886,
+          -62.8535
         ]
       ],
       "Floods": [],
@@ -3387,13 +3364,13 @@
         ]
       ]
     },
-    "title": "46 events (19/Oct/2021 PDT)"
+    "title": "45 events (19/Oct/2021 PDT)"
   },
-  "last_update": "19/Oct/2021 @ 01:00:46 PDT",
-  "last_update_epoch": 1634630446.582961,
+  "last_update": "19/Oct/2021 @ 02:00:10 PDT",
+  "last_update_epoch": 1634634010.888635,
   "neo": {
     "date": "19/Oct/2021 PDT",
-    "last_update": "19/Oct/2021 @ 01:00:10 PDT",
+    "last_update": "19/Oct/2021 @ 02:00:10 PDT",
     "objects": [
       {
         "cat": "19/Oct/2021 @ 17:26:00 ",
@@ -3655,7 +3632,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Oct/2021 @ 01:00:11 PDT",
+    "last_update": "19/Oct/2021 @ 02:00:10 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
