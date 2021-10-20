@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Oct/2021 @ 18:00:04 PDT",
+    "last_update": "19/Oct/2021 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Palomar6_Hubble_960.jpg",
     "title": "Palomar 6: Globular Star Cluster (19/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -515,24 +515,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fvsf",
-        "location": "http://maps.google.com/maps?q=-57.9499,-25.5233",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvsf"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fw0b",
         "location": "http://maps.google.com/maps?q=50.2508,178.7926",
         "name": "M 4.9 - Rat Islands, Aleutian Islands, Alaska",
@@ -801,7 +783,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "19/Oct/2021 @ 18:00:06 PDT",
+    "last_update": "19/Oct/2021 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -870,11 +852,6 @@
           "<a href=\"http://maps.google.com/maps?q=9.4901,-85.9802\"><b>M 4.4 - 65 km SW of Sámara, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvti\">USGS</a>",
           9.4901,
           -85.9802
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.9499,-25.5233\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvsf\">USGS</a>",
-          -57.9499,
-          -25.5233
         ]
       ],
       "Floods": [],
@@ -3161,13 +3138,13 @@
         ]
       ]
     },
-    "title": "43 events (19/Oct/2021 PDT)"
+    "title": "42 events (19/Oct/2021 PDT)"
   },
-  "last_update": "19/Oct/2021 @ 18:00:35 PDT",
-  "last_update_epoch": 1634691635.66887,
+  "last_update": "19/Oct/2021 @ 19:00:39 PDT",
+  "last_update_epoch": 1634695239.559294,
   "neo": {
     "date": "20/Oct/2021 PDT",
-    "last_update": "19/Oct/2021 @ 18:00:06 PDT",
+    "last_update": "19/Oct/2021 @ 19:00:06 PDT",
     "objects": [
       {
         "cat": "20/Oct/2021 @ 18:52:00 ",
@@ -3357,7 +3334,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Oct/2021 @ 18:00:07 PDT",
+    "last_update": "19/Oct/2021 @ 19:00:06 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4897,7 +4874,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Oct/2021 @ 18:00:13 PDT",
+    "last_update": "19/Oct/2021 @ 19:00:13 PDT",
     "launches": {
       "future": [
         {
