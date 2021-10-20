@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Oct/2021 @ 08:00:07 PDT",
+    "last_update": "20/Oct/2021 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_960.jpg",
     "title": "Lucy Launches to Eight Asteroids (20/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -443,24 +443,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fvvz",
-        "location": "http://maps.google.com/maps?q=41.6494,142.7759",
-        "name": "M 4.5 - 83 km SSE of Shizunai-furukawachō, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvvz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fw02",
         "location": "http://maps.google.com/maps?q=41.5739,142.9269",
         "name": "M 4.5 - 96 km SSE of Shizunai-furukawachō, Japan",
@@ -819,7 +801,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "20/Oct/2021 @ 08:00:09 PDT",
+    "last_update": "20/Oct/2021 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -888,11 +870,6 @@
           "<a href=\"http://maps.google.com/maps?q=58.8598,-142.8806\"><b>M 4.3 - 195 km WSW of Yakutat, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvy5\">USGS</a>",
           58.8598,
           -142.8806
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.6494,142.7759\"><b>M 4.5 - 83 km SSE of Shizunai-furukawachō, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvvz\">USGS</a>",
-          41.6494,
-          142.7759
         ]
       ],
       "Floods": [],
@@ -3184,13 +3161,13 @@
         ]
       ]
     },
-    "title": "44 events (20/Oct/2021 PDT)"
+    "title": "43 events (20/Oct/2021 PDT)"
   },
-  "last_update": "20/Oct/2021 @ 08:00:45 PDT",
-  "last_update_epoch": 1634742045.601917,
+  "last_update": "20/Oct/2021 @ 09:00:40 PDT",
+  "last_update_epoch": 1634745640.133918,
   "neo": {
     "date": "20/Oct/2021 PDT",
-    "last_update": "20/Oct/2021 @ 08:00:10 PDT",
+    "last_update": "20/Oct/2021 @ 09:00:06 PDT",
     "objects": [
       {
         "cat": "20/Oct/2021 @ 18:52:00 ",
@@ -3380,7 +3357,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Oct/2021 @ 08:00:11 PDT",
+    "last_update": "20/Oct/2021 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -4920,7 +4897,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Oct/2021 @ 08:00:17 PDT",
+    "last_update": "20/Oct/2021 @ 09:00:11 PDT",
     "launches": {
       "future": [
         {
