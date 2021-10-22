@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Oct/2021 @ 23:00:06 PDT",
+    "last_update": "22/Oct/2021 @ 00:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/67p_m1_vdb47_1024.jpg",
     "title": "A Comet and a Crab (22/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "21/Oct/2021 PDT",
+    "date": "22/Oct/2021 PDT",
     "events": [
       {
         "category": [
@@ -463,7 +463,7 @@
         ],
         "eid": "us6000fwih",
         "location": "http://maps.google.com/maps?q=-6.0496,122.5364",
-        "name": "M 4.3 - Flores Sea",
+        "name": "M 4.3 - 123 km S of Katabu, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -507,6 +507,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwj3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fwnw",
+        "location": "http://maps.google.com/maps?q=14.4566,123.3568",
+        "name": "M 4.5 - 53 km NE of Mercedes, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwnw"
       },
       {
         "category": [
@@ -561,24 +579,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwd6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fwcg",
-        "location": "http://maps.google.com/maps?q=27.7052,58.3722",
-        "name": "M 4.9 - 142 km ENE of Mīnāb, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwcg"
       },
       {
         "category": [
@@ -891,11 +891,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "21/Oct/2021 @ 23:00:07 PDT",
+    "last_update": "22/Oct/2021 @ 00:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.4566,123.3568\"><b>M 4.5 - 53 km NE of Mercedes, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwnw\">USGS</a>",
+          14.4566,
+          123.3568
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.2293,110.3822\"><b>M 4.6 - 141 km S of Pundong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwmw\">USGS</a>",
           -9.2293,
@@ -917,7 +922,7 @@
           -93.7357
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.0496,122.5364\"><b>M 4.3 - Flores Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwih\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-6.0496,122.5364\"><b>M 4.3 - 123 km S of Katabu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwih\">USGS</a>",
           -6.0496,
           122.5364
         ],
@@ -960,11 +965,6 @@
           "<a href=\"http://maps.google.com/maps?q=-25.2396,179.644\"><b>M 6.0 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwd5\">USGS</a>",
           -25.2396,
           179.644
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.7052,58.3722\"><b>M 4.9 - 142 km ENE of Mīnāb, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwcg\">USGS</a>",
-          27.7052,
-          58.3722
         ]
       ],
       "Floods": [],
@@ -3277,13 +3277,13 @@
         ]
       ]
     },
-    "title": "48 events (21/Oct/2021 PDT)"
+    "title": "48 events (22/Oct/2021 PDT)"
   },
-  "last_update": "21/Oct/2021 @ 23:00:37 PDT",
-  "last_update_epoch": 1634882437.486394,
+  "last_update": "22/Oct/2021 @ 00:00:09 PDT",
+  "last_update_epoch": 1634886009.178473,
   "neo": {
     "date": "22/Oct/2021 PDT",
-    "last_update": "21/Oct/2021 @ 23:00:09 PDT",
+    "last_update": "22/Oct/2021 @ 00:00:08 PDT",
     "objects": [
       {
         "cat": "22/Oct/2021 @ 21:27:00 ",
@@ -3518,7 +3518,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Oct/2021 @ 23:00:09 PDT",
+    "last_update": "22/Oct/2021 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3571,7 +3571,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhai+Zhigang"
       }
     ],
-    "title": "10 people in space (21/Oct/2021 PDT)"
+    "title": "10 people in space (22/Oct/2021 PDT)"
   },
   "spacex": {
     "capsules": [
