@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Oct/2021 @ 13:00:13 PDT",
+    "last_update": "22/Oct/2021 @ 14:00:12 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/67p_m1_vdb47_1024.jpg",
     "title": "A Comet and a Crab (22/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -497,24 +497,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fwj3",
-        "location": "http://maps.google.com/maps?q=16.1762,-93.7357",
-        "name": "M 4.4 - Chiapas, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwj3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fwnw",
         "location": "http://maps.google.com/maps?q=14.4566,123.3568",
         "name": "M 4.5 - 53 km NE of Mercedes, Philippines",
@@ -855,7 +837,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "22/Oct/2021 @ 13:00:18 PDT",
+    "last_update": "22/Oct/2021 @ 14:00:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -914,11 +896,6 @@
           "<a href=\"http://maps.google.com/maps?q=-39.0609,174.9544\"><b>M 5.6 - 62 km E of Waitara, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwke\">USGS</a>",
           -39.0609,
           174.9544
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.1762,-93.7357\"><b>M 4.4 - Chiapas, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwj3\">USGS</a>",
-          16.1762,
-          -93.7357
         ]
       ],
       "Floods": [],
@@ -3231,13 +3208,13 @@
         ]
       ]
     },
-    "title": "46 events (22/Oct/2021 PDT)"
+    "title": "45 events (22/Oct/2021 PDT)"
   },
-  "last_update": "22/Oct/2021 @ 13:01:36 PDT",
-  "last_update_epoch": 1634932896.89845,
+  "last_update": "22/Oct/2021 @ 14:01:22 PDT",
+  "last_update_epoch": 1634936482.095723,
   "neo": {
     "date": "22/Oct/2021 PDT",
-    "last_update": "22/Oct/2021 @ 13:00:20 PDT",
+    "last_update": "22/Oct/2021 @ 14:00:18 PDT",
     "objects": [
       {
         "cat": "22/Oct/2021 @ 21:27:00 ",
@@ -3472,7 +3449,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Oct/2021 @ 13:00:21 PDT",
+    "last_update": "22/Oct/2021 @ 14:00:19 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5012,7 +4989,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Oct/2021 @ 13:00:41 PDT",
+    "last_update": "22/Oct/2021 @ 14:00:38 PDT",
     "launches": {
       "future": [
         {
