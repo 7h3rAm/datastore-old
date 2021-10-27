@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Oct/2021 @ 23:00:06 PDT",
+    "last_update": "27/Oct/2021 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/Bat6995_Trottier_960.jpg",
     "title": "NGC 6995: The Bat Nebula (27/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "26/Oct/2021 PDT",
+    "date": "27/Oct/2021 PDT",
     "events": [
       {
         "category": [
@@ -487,24 +487,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000fxky",
-        "location": "http://maps.google.com/maps?q=-7.6443,119.8714",
-        "name": "M 4.3 - 94 km N of Labuan Bajo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000fxlm",
         "location": "http://maps.google.com/maps?q=-45.2564,166.5169",
         "name": "M 4.3 - 95 km W of Te Anau, New Zealand",
@@ -515,6 +497,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxlm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000fxky",
+        "location": "http://maps.google.com/maps?q=-7.6443,119.8714",
+        "name": "M 4.3 - Flores Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky"
       },
       {
         "category": [
@@ -631,6 +631,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fp4c",
+        "location": "http://maps.google.com/maps?q=-9.5795,124.9639",
+        "name": "M 4.9 - 43 km SW of Suai, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp4c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fp0w",
         "location": "http://maps.google.com/maps?q=-28.6253,-177.4196",
         "name": "M 4.9 - Kermadec Islands region",
@@ -641,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp0w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fp4i",
+        "location": "http://maps.google.com/maps?q=-33.1894,-179.2345",
+        "name": "M 4.9 - south of the Kermadec Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp4i"
       },
       {
         "category": [
@@ -899,11 +935,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "26/Oct/2021 @ 23:00:08 PDT",
+    "last_update": "27/Oct/2021 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-33.1894,-179.2345\"><b>M 4.9 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp4i\">USGS</a>",
+          -33.1894,
+          -179.2345
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-9.5795,124.9639\"><b>M 4.9 - 43 km SW of Suai, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp4c\">USGS</a>",
+          -9.5795,
+          124.9639
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.0297,110.9002\"><b>M 4.3 - 129 km S of Jatiroto, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp3z\">USGS</a>",
           -9.0297,
@@ -955,7 +1001,7 @@
           159.179
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-7.6443,119.8714\"><b>M 4.3 - 94 km N of Labuan Bajo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-7.6443,119.8714\"><b>M 4.3 - Flores Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky\">USGS</a>",
           -7.6443,
           119.8714
         ],
@@ -3290,13 +3336,13 @@
         ]
       ]
     },
-    "title": "48 events (26/Oct/2021 PDT)"
+    "title": "50 events (27/Oct/2021 PDT)"
   },
-  "last_update": "26/Oct/2021 @ 23:01:09 PDT",
-  "last_update_epoch": 1635314469.667032,
+  "last_update": "27/Oct/2021 @ 00:01:03 PDT",
+  "last_update_epoch": 1635318063.066939,
   "neo": {
     "date": "27/Oct/2021 PDT",
-    "last_update": "26/Oct/2021 @ 23:00:09 PDT",
+    "last_update": "27/Oct/2021 @ 00:00:05 PDT",
     "objects": [
       {
         "cat": "27/Oct/2021 @ 03:47:00 ",
@@ -3437,7 +3483,7 @@
     "title": "15 objects making close approach (27/Oct/2021 PDT)"
   },
   "satview": {
-    "date": "26/Oct/2021 PDT",
+    "date": "27/Oct/2021 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 24/Oct/2021 @ 13:48:14 PDT.",
@@ -3504,7 +3550,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Oct/2021 @ 23:00:09 PDT",
+    "last_update": "27/Oct/2021 @ 00:00:05 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3557,7 +3603,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhai+Zhigang"
       }
     ],
-    "title": "10 people in space (26/Oct/2021 PDT)"
+    "title": "10 people in space (27/Oct/2021 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5044,7 +5090,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Oct/2021 @ 23:00:16 PDT",
+    "last_update": "27/Oct/2021 @ 00:00:12 PDT",
     "launches": {
       "future": [
         {
