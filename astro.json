@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Oct/2021 @ 21:00:07 PDT",
-    "source": "https://www.youtube.com/embed/QSXgDiS2H_A?rel=0",
-    "title": "Jupiter Rotates (26/Oct/2021 PDT)",
+    "last_update": "26/Oct/2021 @ 22:00:05 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2110/Bat6995_Trottier_960.jpg",
+    "title": "NGC 6995: The Bat Nebula (27/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -469,6 +469,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fp3z",
+        "location": "http://maps.google.com/maps?q=-9.0297,110.9002",
+        "name": "M 4.3 - 129 km S of Jatiroto, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp3z"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fp04",
         "location": "http://maps.google.com/maps?q=-3.3536,101.684",
         "name": "M 4.3 - 81 km NW of Bengkulu, Indonesia",
@@ -487,6 +505,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000fxky",
+        "location": "http://maps.google.com/maps?q=-7.6443,119.8714",
+        "name": "M 4.3 - 94 km N of Labuan Bajo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000fxlm",
         "location": "http://maps.google.com/maps?q=-45.2564,166.5169",
         "name": "M 4.3 - 95 km W of Te Anau, New Zealand",
@@ -497,24 +533,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxlm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000fxky",
-        "location": "http://maps.google.com/maps?q=-7.6443,119.8714",
-        "name": "M 4.3 - Flores Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky"
       },
       {
         "category": [
@@ -935,11 +953,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "26/Oct/2021 @ 21:00:09 PDT",
+    "last_update": "26/Oct/2021 @ 22:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-9.0297,110.9002\"><b>M 4.3 - 129 km S of Jatiroto, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp3z\">USGS</a>",
+          -9.0297,
+          110.9002
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=57.9531,153.0819\"><b>M 5.4 - 208 km SSE of Ola, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fp3l\">USGS</a>",
           57.9531,
@@ -986,7 +1009,7 @@
           159.179
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-7.6443,119.8714\"><b>M 4.3 - Flores Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-7.6443,119.8714\"><b>M 4.3 - 94 km N of Labuan Bajo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000fxky\">USGS</a>",
           -7.6443,
           119.8714
         ],
@@ -3336,13 +3359,13 @@
         ]
       ]
     },
-    "title": "50 events (26/Oct/2021 PDT)"
+    "title": "51 events (26/Oct/2021 PDT)"
   },
-  "last_update": "26/Oct/2021 @ 21:00:50 PDT",
-  "last_update_epoch": 1635307250.859007,
+  "last_update": "26/Oct/2021 @ 22:00:10 PDT",
+  "last_update_epoch": 1635310810.876241,
   "neo": {
     "date": "27/Oct/2021 PDT",
-    "last_update": "26/Oct/2021 @ 21:00:10 PDT",
+    "last_update": "26/Oct/2021 @ 22:00:10 PDT",
     "objects": [
       {
         "cat": "27/Oct/2021 @ 03:47:00 ",
