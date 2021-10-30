@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Oct/2021 @ 04:00:11 PDT",
+    "last_update": "30/Oct/2021 @ 05:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2110/GS_20210917_Handol_5651_Pan1024.jpg",
     "title": "A Rorschach Aurora (30/Oct/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,24 +595,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fpqn",
-        "location": "http://maps.google.com/maps?q=-9.4799,121.3369",
-        "name": "M 4.4 - 78 km SSW of Ende, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpqn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fq1t",
         "location": "http://maps.google.com/maps?q=44.0246,148.1128",
         "name": "M 4.5 - 114 km ENE of Shikotan, Russia",
@@ -659,24 +641,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpxh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fpqp",
-        "location": "http://maps.google.com/maps?q=21.0783,145.3232",
-        "name": "M 4.6 - Mariana Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpqp"
       },
       {
         "category": [
@@ -803,6 +767,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fq1g"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fq2q",
+        "location": "http://maps.google.com/maps?q=-7.7089,125.4201",
+        "name": "M 5.5 - 95 km N of Dili, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fq2q"
       },
       {
         "category": [
@@ -1043,11 +1025,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5950"
       }
     ],
-    "last_update": "30/Oct/2021 @ 04:00:18 PDT",
+    "last_update": "30/Oct/2021 @ 05:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.7089,125.4201\"><b>M 5.5 - 95 km N of Dili, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fq2q\">USGS</a>",
+          -7.7089,
+          125.4201
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-51.441,139.1069\"><b>M 5.9 - western Indian-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fq21\">USGS</a>",
           -51.441,
@@ -1137,16 +1124,6 @@
           "<a href=\"http://maps.google.com/maps?q=67.618,-65.9352\"><b>M 4.7 - 164 km N of Pangnirtung, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpr4\">USGS</a>",
           67.618,
           -65.9352
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=21.0783,145.3232\"><b>M 4.6 - Mariana Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpqp\">USGS</a>",
-          21.0783,
-          145.3232
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.4799,121.3369\"><b>M 4.4 - 78 km SSW of Ende, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fpqn\">USGS</a>",
-          -9.4799,
-          121.3369
         ]
       ],
       "Floods": [],
@@ -3534,13 +3511,13 @@
         ]
       ]
     },
-    "title": "56 events (30/Oct/2021 PDT)"
+    "title": "55 events (30/Oct/2021 PDT)"
   },
-  "last_update": "30/Oct/2021 @ 04:02:07 PDT",
-  "last_update_epoch": 1635591727.011059,
+  "last_update": "30/Oct/2021 @ 05:00:43 PDT",
+  "last_update_epoch": 1635595243.171446,
   "neo": {
     "date": "30/Oct/2021 PDT",
-    "last_update": "30/Oct/2021 @ 04:00:21 PDT",
+    "last_update": "30/Oct/2021 @ 05:00:08 PDT",
     "objects": [
       {
         "cat": "30/Oct/2021 @ 21:07:00 ",
@@ -3739,7 +3716,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Oct/2021 @ 04:00:23 PDT",
+    "last_update": "30/Oct/2021 @ 05:00:08 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5289,7 +5266,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Oct/2021 @ 04:00:55 PDT",
+    "last_update": "30/Oct/2021 @ 05:00:14 PDT",
     "launches": {
       "future": [
         {
