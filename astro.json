@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Nov/2021 @ 10:00:05 PDT",
+    "last_update": "01/Nov/2021 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/MilkyWayWaterfall_XieJie_960.jpg",
     "title": "A Waterfall and the Milky Way (01/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -551,24 +551,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fqax",
-        "location": "http://maps.google.com/maps?q=-18.8649,169.5519",
-        "name": "M 4.4 - 80 km NNE of Isangel, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqax"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fqca",
         "location": "http://maps.google.com/maps?q=-25.3736,179.1491",
         "name": "M 4.4 - south of the Fiji Islands",
@@ -642,8 +624,8 @@
           }
         ],
         "eid": "us7000fqis",
-        "location": "http://maps.google.com/maps?q=-17.6381,-174.483",
-        "name": "M 4.6 - 123 km NNW of Neiafu, Tonga",
+        "location": "http://maps.google.com/maps?q=-17.637,-174.4929",
+        "name": "M 4.6 - 124 km NNW of Neiafu, Tonga",
         "source": [
           {
             "sid": "USGS",
@@ -749,6 +731,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fqez",
+        "location": "http://maps.google.com/maps?q=12.8719,-88.6286",
+        "name": "M 5.0 - 46 km S of Puerto El Triunfo, El Salvador",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqez"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fqcf",
         "location": "http://maps.google.com/maps?q=-21.4885,168.7516",
         "name": "M 5.0 - 90 km E of Tadine, New Caledonia",
@@ -785,24 +785,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fqez",
-        "location": "http://maps.google.com/maps?q=12.8719,-88.6286",
-        "name": "M 5.0 - off the coast of Central America",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqez"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fqbt",
         "location": "http://maps.google.com/maps?q=36.4757,140.6036",
         "name": "M 5.1 - 3 km ENE of Funaishikawa, Japan",
@@ -831,6 +813,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqbj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fqjc",
+        "location": "http://maps.google.com/maps?q=0.2218,96.748",
+        "name": "M 6.0 - 253 km S of Sinabang, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqjc"
       },
       {
         "category": [
@@ -1075,15 +1075,20 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5945"
       }
     ],
-    "last_update": "01/Nov/2021 @ 10:00:07 PDT",
+    "last_update": "01/Nov/2021 @ 11:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.6381,-174.483\"><b>M 4.6 - 123 km NNW of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqis\">USGS</a>",
-          -17.6381,
-          -174.483
+          "<a href=\"http://maps.google.com/maps?q=0.2218,96.748\"><b>M 6.0 - 253 km S of Sinabang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqjc\">USGS</a>",
+          0.2218,
+          96.748
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.637,-174.4929\"><b>M 4.6 - 124 km NNW of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqis\">USGS</a>",
+          -17.637,
+          -174.4929
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.0468,-179.829\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqi4\">USGS</a>",
@@ -1131,7 +1136,7 @@
           -104.9956
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.8719,-88.6286\"><b>M 5.0 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqez\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.8719,-88.6286\"><b>M 5.0 - 46 km S of Puerto El Triunfo, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqez\">USGS</a>",
           12.8719,
           -88.6286
         ],
@@ -1184,11 +1189,6 @@
           "<a href=\"http://maps.google.com/maps?q=46.2133,143.9095\"><b>M 4.1 - 98 km ESE of Korsakov, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqbe\">USGS</a>",
           46.2133,
           143.9095
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.8649,169.5519\"><b>M 4.4 - 80 km NNE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fqax\">USGS</a>",
-          -18.8649,
-          169.5519
         ]
       ],
       "Floods": [],
@@ -3548,11 +3548,11 @@
     },
     "title": "58 events (01/Nov/2021 PDT)"
   },
-  "last_update": "01/Nov/2021 @ 10:00:34 PDT",
-  "last_update_epoch": 1635786034.849687,
+  "last_update": "01/Nov/2021 @ 11:00:34 PDT",
+  "last_update_epoch": 1635789634.922772,
   "neo": {
     "date": "01/Nov/2021 PDT",
-    "last_update": "01/Nov/2021 @ 10:00:07 PDT",
+    "last_update": "01/Nov/2021 @ 11:00:07 PDT",
     "objects": [
       {
         "cat": "01/Nov/2021 @ 20:19:00 ",
@@ -3751,7 +3751,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Nov/2021 @ 10:00:08 PDT",
+    "last_update": "01/Nov/2021 @ 11:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5301,7 +5301,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Nov/2021 @ 10:00:14 PDT",
+    "last_update": "01/Nov/2021 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
