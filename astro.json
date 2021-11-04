@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 10:00:05 PDT",
+    "last_update": "04/Nov/2021 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg",
     "title": "NGC 147 and NGC 185 (04/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -515,24 +515,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fr76",
-        "location": "http://maps.google.com/maps?q=-24.8823,179.7832",
-        "name": "M 4.4 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr76"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000frds",
         "location": "http://maps.google.com/maps?q=-34.8654,178.9862",
         "name": "M 4.4 - south of the Kermadec Islands",
@@ -909,7 +891,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 10:00:07 PDT",
+    "last_update": "04/Nov/2021 @ 11:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -983,11 +965,6 @@
           "<a href=\"http://maps.google.com/maps?q=29.7451,-113.8536\"><b>M 4.3 - 113 km W of La Libertad, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr9f\">USGS</a>",
           29.7451,
           -113.8536
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.8823,179.7832\"><b>M 4.4 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr76\">USGS</a>",
-          -24.8823,
-          179.7832
         ]
       ],
       "Floods": [],
@@ -3305,10 +3282,10 @@
         ]
       ]
     },
-    "title": "49 events (04/Nov/2021 PDT)"
+    "title": "48 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 10:00:07 PDT",
-  "last_update_epoch": 1636045207.273458,
+  "last_update": "04/Nov/2021 @ 11:00:07 PDT",
+  "last_update_epoch": 1636048807.872695,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
