@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 15:00:07 PDT",
+    "last_update": "04/Nov/2021 @ 16:00:10 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg",
     "title": "NGC 147 and NGC 185 (04/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -479,24 +479,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fr9f",
-        "location": "http://maps.google.com/maps?q=29.7451,-113.8536",
-        "name": "M 4.3 - 113 km W of La Libertad, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr9f"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000frfl",
         "location": "http://maps.google.com/maps?q=19.0289,145.1219",
         "name": "M 4.4 - Maug Islands region, Northern Mariana Islands",
@@ -891,7 +873,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 15:00:09 PDT",
+    "last_update": "04/Nov/2021 @ 16:00:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -960,11 +942,6 @@
           "<a href=\"http://maps.google.com/maps?q=39.8938333,-123.4245\"><b>M 4.1 - 19km NW of Covelo, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73648540\">USGS</a>",
           39.8938333,
           -123.4245
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.7451,-113.8536\"><b>M 4.3 - 113 km W of La Libertad, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr9f\">USGS</a>",
-          29.7451,
-          -113.8536
         ]
       ],
       "Floods": [],
@@ -3282,10 +3259,10 @@
         ]
       ]
     },
-    "title": "48 events (04/Nov/2021 PDT)"
+    "title": "47 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 15:00:09 PDT",
-  "last_update_epoch": 1636063209.563867,
+  "last_update": "04/Nov/2021 @ 16:00:12 PDT",
+  "last_update_epoch": 1636066812.038559,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
