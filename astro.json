@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 09:00:06 PDT",
+    "last_update": "04/Nov/2021 @ 10:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg",
     "title": "NGC 147 and NGC 185 (04/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -497,6 +497,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000frfl",
+        "location": "http://maps.google.com/maps?q=19.0289,145.1219",
+        "name": "M 4.4 - Maug Islands region, Northern Mariana Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfl"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fr76",
         "location": "http://maps.google.com/maps?q=-24.8823,179.7832",
         "name": "M 4.4 - south of the Fiji Islands",
@@ -543,24 +561,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fre5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fr5l",
-        "location": "http://maps.google.com/maps?q=29.9614,-113.6855",
-        "name": "M 4.5 - 96 km W of La Libertad, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr5l"
       },
       {
         "category": [
@@ -651,6 +651,60 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000frfu",
+        "location": "http://maps.google.com/maps?q=-6.7997,147.6059",
+        "name": "M 5.3 - 37 km SW of Finschhafen, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000frem",
+        "location": "http://maps.google.com/maps?q=19.0274,145.0596",
+        "name": "M 5.3 - Maug Islands region, Northern Mariana Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000frfx",
+        "location": "http://maps.google.com/maps?q=-48.2427,165.1956",
+        "name": "M 5.6 - 298 km SW of Bluff, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfx"
       },
       {
         "category": [
@@ -855,11 +909,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 09:00:08 PDT",
+    "last_update": "04/Nov/2021 @ 10:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-48.2427,165.1956\"><b>M 5.6 - 298 km SW of Bluff, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfx\">USGS</a>",
+          -48.2427,
+          165.1956
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.7997,147.6059\"><b>M 5.3 - 37 km SW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu\">USGS</a>",
+          -6.7997,
+          147.6059
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.0274,145.0596\"><b>M 5.3 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem\">USGS</a>",
+          19.0274,
+          145.0596
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.0289,145.1219\"><b>M 4.4 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfl\">USGS</a>",
+          19.0289,
+          145.1219
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=1.2543,126.4056\"><b>M 4.5 - 120 km WNW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fre5\">USGS</a>",
           1.2543,
@@ -914,11 +988,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.8823,179.7832\"><b>M 4.4 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr76\">USGS</a>",
           -24.8823,
           179.7832
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.9614,-113.6855\"><b>M 4.5 - 96 km W of La Libertad, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr5l\">USGS</a>",
-          29.9614,
-          -113.6855
         ]
       ],
       "Floods": [],
@@ -3236,10 +3305,10 @@
         ]
       ]
     },
-    "title": "46 events (04/Nov/2021 PDT)"
+    "title": "49 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 09:00:08 PDT",
-  "last_update_epoch": 1636041608.529094,
+  "last_update": "04/Nov/2021 @ 10:00:07 PDT",
+  "last_update_epoch": 1636045207.273458,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
