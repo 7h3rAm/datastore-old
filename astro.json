@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 08:00:10 PDT",
+    "last_update": "04/Nov/2021 @ 09:00:06 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg",
     "title": "NGC 147 and NGC 185 (04/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -497,24 +497,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fr53",
-        "location": "http://maps.google.com/maps?q=35.4853,23.0381",
-        "name": "M 4.3 - 55 km W of Kíssamos, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr53"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fr76",
         "location": "http://maps.google.com/maps?q=-24.8823,179.7832",
         "name": "M 4.4 - south of the Fiji Islands",
@@ -525,6 +507,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr76"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000frds",
+        "location": "http://maps.google.com/maps?q=-34.8654,178.9862",
+        "name": "M 4.4 - south of the Kermadec Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frds"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fre5",
+        "location": "http://maps.google.com/maps?q=1.2543,126.4056",
+        "name": "M 4.5 - 120 km WNW of Ternate, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fre5"
       },
       {
         "category": [
@@ -561,24 +579,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fr4t",
-        "location": "http://maps.google.com/maps?q=-0.2883,123.9886",
-        "name": "M 4.8 - 137 km SE of Gorontalo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr4t"
       },
       {
         "category": [
@@ -660,8 +660,8 @@
           }
         ],
         "eid": "us7000fraj",
-        "location": "http://maps.google.com/maps?q=-2.9296,129.3494",
-        "name": "M 5.7 - 65 km NE of Amahai, Indonesia",
+        "location": "http://maps.google.com/maps?q=-2.8177,129.3825",
+        "name": "M 5.6 - 77 km NE of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -855,11 +855,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 07:00:08 PDT",
+    "last_update": "04/Nov/2021 @ 09:00:08 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=1.2543,126.4056\"><b>M 4.5 - 120 km WNW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fre5\">USGS</a>",
+          1.2543,
+          126.4056
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-34.8654,178.9862\"><b>M 4.4 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frds\">USGS</a>",
+          -34.8654,
+          178.9862
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=24.2538,68.412\"><b>M 4.9 - 18 km SE of Jati, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frd2\">USGS</a>",
           24.2538,
@@ -886,9 +896,9 @@
           -71.2862
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.9296,129.3494\"><b>M 5.7 - 65 km NE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fraj\">USGS</a>",
-          -2.9296,
-          129.3494
+          "<a href=\"http://maps.google.com/maps?q=-2.8177,129.3825\"><b>M 5.6 - 77 km NE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fraj\">USGS</a>",
+          -2.8177,
+          129.3825
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.8938333,-123.4245\"><b>M 4.1 - 19km NW of Covelo, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73648540\">USGS</a>",
@@ -909,16 +919,6 @@
           "<a href=\"http://maps.google.com/maps?q=29.9614,-113.6855\"><b>M 4.5 - 96 km W of La Libertad, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr5l\">USGS</a>",
           29.9614,
           -113.6855
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.4853,23.0381\"><b>M 4.3 - 55 km W of Kíssamos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr53\">USGS</a>",
-          35.4853,
-          23.0381
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-0.2883,123.9886\"><b>M 4.8 - 137 km SE of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fr4t\">USGS</a>",
-          -0.2883,
-          123.9886
         ]
       ],
       "Floods": [],
@@ -3238,8 +3238,8 @@
     },
     "title": "46 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 08:00:10 PDT",
-  "last_update_epoch": 1636038010.858464,
+  "last_update": "04/Nov/2021 @ 09:00:08 PDT",
+  "last_update_epoch": 1636041608.529094,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
