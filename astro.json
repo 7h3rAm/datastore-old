@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Nov/2021 @ 08:00:14 PDT",
+    "last_update": "05/Nov/2021 @ 09:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg",
     "title": "The Dark Seahorse in Cepheus (05/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -515,24 +515,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000frfl",
-        "location": "http://maps.google.com/maps?q=19.0289,145.1219",
-        "name": "M 4.4 - Maug Islands region, Northern Mariana Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000frpp",
         "location": "http://maps.google.com/maps?q=52.7897,161.0616",
         "name": "M 4.5 - 166 km ESE of Petropavlovsk-Kamchatsky, Russia",
@@ -623,9 +605,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000frq2",
+        "location": "http://maps.google.com/maps?q=-28.6496,-71.4519",
+        "name": "M 4.9 - 68 km W of Vallenar, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frq2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000frlu",
         "location": "http://maps.google.com/maps?q=33.7615,137.4822",
-        "name": "M 4.9 - 99 km SE of Toba, Japan",
+        "name": "M 4.9 - near the south coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -669,24 +669,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000frem",
-        "location": "http://maps.google.com/maps?q=19.0284,145.0334",
-        "name": "M 5.3 - Maug Islands region, Northern Mariana Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem"
       },
       {
         "category": [
@@ -909,11 +891,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "05/Nov/2021 @ 08:00:16 PDT",
+    "last_update": "05/Nov/2021 @ 09:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-28.6496,-71.4519\"><b>M 4.9 - 68 km W of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frq2\">USGS</a>",
+          -28.6496,
+          -71.4519
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=52.7897,161.0616\"><b>M 4.5 - 166 km ESE of Petropavlovsk-Kamchatsky, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frpp\">USGS</a>",
           52.7897,
@@ -940,7 +927,7 @@
           126.5795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - 99 km SE of Toba, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - near the south coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
           33.7615,
           137.4822
         ],
@@ -973,16 +960,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.7899,147.626\"><b>M 5.2 - 35 km SW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu\">USGS</a>",
           -6.7899,
           147.626
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.0284,145.0334\"><b>M 5.3 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frem\">USGS</a>",
-          19.0284,
-          145.0334
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.0289,145.1219\"><b>M 4.4 - Maug Islands region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfl\">USGS</a>",
-          19.0289,
-          145.1219
         ]
       ],
       "Floods": [],
@@ -3325,13 +3302,13 @@
         ]
       ]
     },
-    "title": "49 events (05/Nov/2021 PDT)"
+    "title": "48 events (05/Nov/2021 PDT)"
   },
-  "last_update": "05/Nov/2021 @ 08:00:54 PDT",
-  "last_update_epoch": 1636124454.205291,
+  "last_update": "05/Nov/2021 @ 09:00:47 PDT",
+  "last_update_epoch": 1636128047.815815,
   "neo": {
     "date": "05/Nov/2021 PDT",
-    "last_update": "05/Nov/2021 @ 08:00:19 PDT",
+    "last_update": "05/Nov/2021 @ 09:00:15 PDT",
     "objects": [
       {
         "cat": "05/Nov/2021 @ 15:07:00 ",
@@ -3539,7 +3516,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Nov/2021 @ 08:00:20 PDT",
+    "last_update": "05/Nov/2021 @ 09:00:15 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -3784,7 +3761,7 @@
         "reuse_count": 1,
         "status": "active",
         "status_emoji": "🟢",
-        "water_landings": 1
+        "water_landings": 2
       },
       {
         "land_landings": 0,
@@ -3794,7 +3771,7 @@
         "reuse_count": 1,
         "status": "active",
         "status_emoji": "🟢",
-        "water_landings": 1
+        "water_landings": 2
       },
       {
         "land_landings": 0,
@@ -5089,7 +5066,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Nov/2021 @ 08:00:25 PDT",
+    "last_update": "05/Nov/2021 @ 09:00:20 PDT",
     "launches": {
       "future": [
         {
