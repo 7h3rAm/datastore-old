@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 20:00:05 PDT",
+    "last_update": "04/Nov/2021 @ 21:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC147NGC185satellites1024.jpg",
     "title": "NGC 147 and NGC 185 (04/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -461,6 +461,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000frku",
+        "location": "http://maps.google.com/maps?q=-23.8947,-66.9052",
+        "name": "M 4.2 - 69 km WNW of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frku"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000frfl",
         "location": "http://maps.google.com/maps?q=19.0289,145.1219",
         "name": "M 4.4 - Maug Islands region, Northern Mariana Islands",
@@ -873,11 +891,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 20:00:09 PDT",
+    "last_update": "04/Nov/2021 @ 21:00:14 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.8947,-66.9052\"><b>M 4.2 - 69 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frku\">USGS</a>",
+          -23.8947,
+          -66.9052
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=28.8149,87.4331\"><b>M 5.0 - 113 km NNE of Lobujya, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frkq\">USGS</a>",
           28.8149,
@@ -3259,10 +3282,10 @@
         ]
       ]
     },
-    "title": "47 events (04/Nov/2021 PDT)"
+    "title": "48 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 20:00:09 PDT",
-  "last_update_epoch": 1636081209.068787,
+  "last_update": "04/Nov/2021 @ 21:00:14 PDT",
+  "last_update_epoch": 1636084814.067653,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
