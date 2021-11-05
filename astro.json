@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 22:00:07 PDT",
+    "last_update": "04/Nov/2021 @ 23:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg",
     "title": "The Dark Seahorse in Cepheus (05/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -587,6 +587,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000frlz",
+        "location": "http://maps.google.com/maps?q=9.0592,126.5795",
+        "name": "M 4.7 - 34 km ENE of Bacolod, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000frd2",
         "location": "http://maps.google.com/maps?q=24.2538,68.412",
         "name": "M 4.9 - 18 km SE of Jati, Pakistan",
@@ -615,6 +633,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frct"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000frlu",
+        "location": "http://maps.google.com/maps?q=33.7615,137.4822",
+        "name": "M 4.9 - 99 km SE of Toba, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu"
       },
       {
         "category": [
@@ -891,11 +927,21 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 22:00:10 PDT",
+    "last_update": "04/Nov/2021 @ 23:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.0592,126.5795\"><b>M 4.7 - 34 km ENE of Bacolod, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlz\">USGS</a>",
+          9.0592,
+          126.5795
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - 99 km SE of Toba, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
+          33.7615,
+          137.4822
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=2.1111,-78.963\"><b>M 4.5 - 34 km WNW of Salahonda, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frle\">USGS</a>",
           2.1111,
@@ -3282,10 +3328,10 @@
         ]
       ]
     },
-    "title": "48 events (04/Nov/2021 PDT)"
+    "title": "50 events (04/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 22:00:10 PDT",
-  "last_update_epoch": 1636088410.439691,
+  "last_update": "04/Nov/2021 @ 23:00:07 PDT",
+  "last_update_epoch": 1636092007.683702,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
