@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Nov/2021 @ 23:00:05 PDT",
+    "last_update": "05/Nov/2021 @ 00:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg",
     "title": "The Dark Seahorse in Cepheus (05/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "04/Nov/2021 PDT",
+    "date": "05/Nov/2021 PDT",
     "events": [
       {
         "category": [
@@ -643,7 +643,7 @@
         ],
         "eid": "us7000frlu",
         "location": "http://maps.google.com/maps?q=33.7615,137.4822",
-        "name": "M 4.9 - 99 km SE of Toba, Japan",
+        "name": "M 4.9 - near the south coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -927,7 +927,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "04/Nov/2021 @ 23:00:07 PDT",
+    "last_update": "05/Nov/2021 @ 00:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -938,7 +938,7 @@
           126.5795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - 99 km SE of Toba, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - near the south coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
           33.7615,
           137.4822
         ],
@@ -3328,10 +3328,10 @@
         ]
       ]
     },
-    "title": "50 events (04/Nov/2021 PDT)"
+    "title": "50 events (05/Nov/2021 PDT)"
   },
-  "last_update": "04/Nov/2021 @ 23:00:07 PDT",
-  "last_update_epoch": 1636092007.683702,
+  "last_update": "05/Nov/2021 @ 00:00:07 PDT",
+  "last_update_epoch": 1636095607.829678,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
