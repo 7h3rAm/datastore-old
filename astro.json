@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Nov/2021 @ 00:00:05 PDT",
+    "last_update": "05/Nov/2021 @ 01:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg",
     "title": "The Dark Seahorse in Cepheus (05/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -551,24 +551,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000frcn",
-        "location": "http://maps.google.com/maps?q=-6.8101,129.5299",
-        "name": "M 4.5 - Banda Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000frkj",
         "location": "http://maps.google.com/maps?q=-23.1523,-178.8539",
         "name": "M 4.5 - south of the Fiji Islands",
@@ -927,7 +909,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "05/Nov/2021 @ 00:00:07 PDT",
+    "last_update": "05/Nov/2021 @ 01:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1006,11 +988,6 @@
           "<a href=\"http://maps.google.com/maps?q=-12.2126,167.0594\"><b>M 4.9 - 191 km NNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frct\">USGS</a>",
           -12.2126,
           167.0594
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.8101,129.5299\"><b>M 4.5 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcn\">USGS</a>",
-          -6.8101,
-          129.5299
         ]
       ],
       "Floods": [],
@@ -3328,10 +3305,10 @@
         ]
       ]
     },
-    "title": "50 events (05/Nov/2021 PDT)"
+    "title": "49 events (05/Nov/2021 PDT)"
   },
-  "last_update": "05/Nov/2021 @ 00:00:07 PDT",
-  "last_update_epoch": 1636095607.829678,
+  "last_update": "05/Nov/2021 @ 01:00:07 PDT",
+  "last_update_epoch": 1636099207.580658,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
