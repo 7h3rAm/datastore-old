@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Nov/2021 @ 01:00:05 PDT",
+    "last_update": "05/Nov/2021 @ 02:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/b150_avitabile1092c.jpg",
     "title": "The Dark Seahorse in Cepheus (05/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -605,27 +605,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000frct",
-        "location": "http://maps.google.com/maps?q=-12.2126,167.0594",
-        "name": "M 4.9 - 191 km NNW of Sola, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frct"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000frlu",
         "location": "http://maps.google.com/maps?q=33.7615,137.4822",
-        "name": "M 4.9 - near the south coast of Honshu, Japan",
+        "name": "M 4.9 - 99 km SE of Toba, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -669,24 +651,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frfu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000frcu",
-        "location": "http://maps.google.com/maps?q=52.7003,-167.9814",
-        "name": "M 5.2 - 65 km ESE of Nikolski, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcu"
       },
       {
         "category": [
@@ -909,7 +873,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "05/Nov/2021 @ 01:00:07 PDT",
+    "last_update": "05/Nov/2021 @ 02:02:25 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -920,7 +884,7 @@
           126.5795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - near the south coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.7615,137.4822\"><b>M 4.9 - 99 km SE of Toba, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frlu\">USGS</a>",
           33.7615,
           137.4822
         ],
@@ -978,16 +942,6 @@
           "<a href=\"http://maps.google.com/maps?q=24.2538,68.412\"><b>M 4.9 - 18 km SE of Jati, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frd2\">USGS</a>",
           24.2538,
           68.412
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.7003,-167.9814\"><b>M 5.2 - 65 km ESE of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frcu\">USGS</a>",
-          52.7003,
-          -167.9814
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-12.2126,167.0594\"><b>M 4.9 - 191 km NNW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frct\">USGS</a>",
-          -12.2126,
-          167.0594
         ]
       ],
       "Floods": [],
@@ -3305,10 +3259,10 @@
         ]
       ]
     },
-    "title": "49 events (05/Nov/2021 PDT)"
+    "title": "47 events (05/Nov/2021 PDT)"
   },
-  "last_update": "05/Nov/2021 @ 01:00:07 PDT",
-  "last_update_epoch": 1636099207.580658,
+  "last_update": "05/Nov/2021 @ 02:02:25 PDT",
+  "last_update_epoch": 1636102945.459786,
   "neo": {
     "date": "04/Nov/2021 PDT",
     "last_update": "04/Nov/2021 @ 06:00:09 PDT",
