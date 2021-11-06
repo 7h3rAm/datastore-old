@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Nov/2021 @ 15:00:05 PDT",
+    "last_update": "06/Nov/2021 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2111/panohugoetmoiAPODjpg-standard1024.jpg",
     "title": "The Galaxy Between Two Friends (06/Nov/2021 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -461,27 +461,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak021e7e8guk",
-        "location": "http://maps.google.com/maps?q=64.452,-147.4298",
-        "name": "M 4.0 - 26 km WSW of Salcha, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021e7e8guk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fryc",
         "location": "http://maps.google.com/maps?q=-19.864,-177.4746",
-        "name": "M 4.1 - 275 km WNW of Haveluloto, Tonga",
+        "name": "M 4.1 - Fiji region",
         "source": [
           {
             "sid": "USGS",
@@ -587,6 +569,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fs3t",
+        "location": "http://maps.google.com/maps?q=-34.0585,-179.6003",
+        "name": "M 4.3 - south of the Kermadec Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fs3t"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fryt",
         "location": "http://maps.google.com/maps?q=-16.9959,-174.3935",
         "name": "M 4.4 - 131 km SSW of Hihifo, Tonga",
@@ -643,7 +643,7 @@
         ],
         "eid": "us7000frxq",
         "location": "http://maps.google.com/maps?q=-6.1268,130.1686",
-        "name": "M 4.5 - Banda Sea",
+        "name": "M 4.5 - 291 km W of Tual, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -1053,11 +1053,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "06/Nov/2021 @ 15:00:07 PDT",
+    "last_update": "06/Nov/2021 @ 16:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-34.0585,-179.6003\"><b>M 4.3 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fs3t\">USGS</a>",
+          -34.0585,
+          -179.6003
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.2797,179.9977\"><b>M 4.9 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fs3m\">USGS</a>",
           -24.2797,
@@ -1124,7 +1129,7 @@
           -174.3935
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.864,-177.4746\"><b>M 4.1 - 275 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fryc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.864,-177.4746\"><b>M 4.1 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fryc\">USGS</a>",
           -19.864,
           -177.4746
         ],
@@ -1139,7 +1144,7 @@
           152.617
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.1268,130.1686\"><b>M 4.5 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frxq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-6.1268,130.1686\"><b>M 4.5 - 291 km W of Tual, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frxq\">USGS</a>",
           -6.1268,
           130.1686
         ],
@@ -1162,11 +1167,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.0802,-81.4782\"><b>M 5.2 - 92 km SW of Sechura, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000frvc\">USGS</a>",
           -6.0802,
           -81.4782
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=64.452,-147.4298\"><b>M 4.0 - 26 km WSW of Salcha, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak021e7e8guk\">USGS</a>",
-          64.452,
-          -147.4298
         ]
       ],
       "Floods": [],
@@ -3511,11 +3511,11 @@
     },
     "title": "57 events (06/Nov/2021 PDT)"
   },
-  "last_update": "06/Nov/2021 @ 15:00:45 PDT",
-  "last_update_epoch": 1636236045.56051,
+  "last_update": "06/Nov/2021 @ 16:00:36 PDT",
+  "last_update_epoch": 1636239636.539296,
   "neo": {
     "date": "06/Nov/2021 PDT",
-    "last_update": "06/Nov/2021 @ 15:00:11 PDT",
+    "last_update": "06/Nov/2021 @ 16:00:07 PDT",
     "objects": [
       {
         "cat": "06/Nov/2021 @ 11:34:00 ",
@@ -3777,7 +3777,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Nov/2021 @ 15:00:11 PDT",
+    "last_update": "06/Nov/2021 @ 16:00:07 PDT",
     "people": [
       {
         "name": "Akihiko Hoshide",
@@ -5327,7 +5327,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Nov/2021 @ 15:00:17 PDT",
+    "last_update": "06/Nov/2021 @ 16:00:12 PDT",
     "launches": {
       "future": [
         {
