@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Nov/2021 @ 02:00:06 PST",
+    "last_update": "08/Nov/2021 @ 03:00:08 PST",
     "source": "https://www.youtube.com/embed/7NykS2kv_k8?playlist=7NykS2kv_k8&loop=1;rel=0&autoplay=1",
     "title": "A Filament Leaps from the Sun (08/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -461,6 +461,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fsdc",
+        "location": "http://maps.google.com/maps?q=-35.5042,-71.4017",
+        "name": "M 4.2 - 8 km ENE of San Clemente, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fsdc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fs8w",
         "location": "http://maps.google.com/maps?q=36.2202,140.0225",
         "name": "M 4.4 - 7 km WNW of Tsukuba, Japan",
@@ -909,11 +927,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "08/Nov/2021 @ 02:00:08 PST",
+    "last_update": "08/Nov/2021 @ 03:00:10 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-35.5042,-71.4017\"><b>M 4.2 - 8 km ENE of San Clemente, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fsdc\">USGS</a>",
+          -35.5042,
+          -71.4017
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.133,126.5282\"><b>M 4.2 - 148 km N of Baukau, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fscs\">USGS</a>",
           -7.133,
@@ -2945,13 +2968,13 @@
         ]
       ]
     },
-    "title": "49 events (08/Nov/2021 PST)"
+    "title": "50 events (08/Nov/2021 PST)"
   },
-  "last_update": "08/Nov/2021 @ 02:00:41 PST",
-  "last_update_epoch": 1636365641.11032,
+  "last_update": "08/Nov/2021 @ 03:00:13 PST",
+  "last_update_epoch": 1636369213.745504,
   "neo": {
     "date": "08/Nov/2021 PST",
-    "last_update": "08/Nov/2021 @ 02:00:08 PST",
+    "last_update": "08/Nov/2021 @ 03:00:13 PST",
     "objects": [
       {
         "cat": "08/Nov/2021 @ 15:58:00 ",
@@ -3150,7 +3173,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Nov/2021 @ 02:00:09 PST",
+    "last_update": "08/Nov/2021 @ 03:00:13 PST",
     "people": [
       {
         "name": "Akihiko Hoshide",
