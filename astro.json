@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Nov/2021 @ 17:00:04 PST",
+    "last_update": "08/Nov/2021 @ 18:00:05 PST",
     "source": "https://www.youtube.com/embed/7NykS2kv_k8?playlist=7NykS2kv_k8&loop=1;rel=0&autoplay=1",
     "title": "A Filament Leaps from the Sun (08/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -979,7 +979,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "08/Nov/2021 @ 17:00:06 PST",
+    "last_update": "08/Nov/2021 @ 18:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3097,8 +3097,8 @@
     },
     "title": "52 events (08/Nov/2021 PST)"
   },
-  "last_update": "08/Nov/2021 @ 17:00:36 PST",
-  "last_update_epoch": 1636419636.493986,
+  "last_update": "08/Nov/2021 @ 18:00:09 PST",
+  "last_update_epoch": 1636423209.008372,
   "neo": {
     "date": "09/Nov/2021 PST",
     "last_update": "08/Nov/2021 @ 17:00:09 PST",
