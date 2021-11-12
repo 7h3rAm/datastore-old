@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Nov/2021 @ 13:00:07 PST",
+    "last_update": "12/Nov/2021 @ 14:00:07 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/M33_PS1_CROP_INSIGHT1024.jpg",
     "title": "M33: The Triangulum Galaxy (12/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -623,24 +623,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ftcv",
-        "location": "http://maps.google.com/maps?q=32.2587,49.3673",
-        "name": "M 4.6 - 36 km N of Masjed Soleymān, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftcv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000ftew",
         "location": "http://maps.google.com/maps?q=35.6389,140.215",
         "name": "M 4.6 - 4 km ESE of Yotsukaidō, Japan",
@@ -1069,7 +1051,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "12/Nov/2021 @ 13:00:08 PST",
+    "last_update": "12/Nov/2021 @ 14:00:08 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1173,11 +1155,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.8351,141.9324\"><b>M 4.5 - 207 km SE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftd4\">USGS</a>",
           33.8351,
           141.9324
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=32.2587,49.3673\"><b>M 4.6 - 36 km N of Masjed Soleymān, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftcv\">USGS</a>",
-          32.2587,
-          49.3673
         ]
       ],
       "Floods": [],
@@ -3275,13 +3252,13 @@
         ]
       ]
     },
-    "title": "57 events (12/Nov/2021 PST)"
+    "title": "56 events (12/Nov/2021 PST)"
   },
-  "last_update": "12/Nov/2021 @ 13:00:43 PST",
-  "last_update_epoch": 1636750843.350614,
+  "last_update": "12/Nov/2021 @ 14:00:43 PST",
+  "last_update_epoch": 1636754443.785987,
   "neo": {
     "date": "12/Nov/2021 PST",
-    "last_update": "12/Nov/2021 @ 13:00:11 PST",
+    "last_update": "12/Nov/2021 @ 14:00:09 PST",
     "objects": [
       {
         "cat": "12/Nov/2021 @ 03:00:00 ",
@@ -3507,7 +3484,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Nov/2021 @ 13:00:11 PST",
+    "last_update": "12/Nov/2021 @ 14:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5057,7 +5034,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Nov/2021 @ 13:00:17 PST",
+    "last_update": "12/Nov/2021 @ 14:00:14 PST",
     "launches": {
       "future": [
         {
