@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Nov/2021 @ 04:00:05 PST",
+    "last_update": "13/Nov/2021 @ 05:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/67P_211107_1067.jpg",
     "title": "Rosetta's Comet in Gemini (13/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -479,6 +479,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000ftt0",
+        "location": "http://maps.google.com/maps?q=28.0958,52.2186",
+        "name": "M 4.3 - 88 km NW of Mohr, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fttd",
+        "location": "http://maps.google.com/maps?q=-22.768,-66.5631",
+        "name": "M 4.3 - 89 km W of Abra Pampa, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fttd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ftt6",
         "location": "http://maps.google.com/maps?q=34.1443,140.6781",
         "name": "M 4.4 - 116 km SSE of Katsuura, Japan",
@@ -889,11 +925,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "13/Nov/2021 @ 04:00:07 PST",
+    "last_update": "13/Nov/2021 @ 05:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.768,-66.5631\"><b>M 4.3 - 89 km W of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fttd\">USGS</a>",
+          -22.768,
+          -66.5631
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.1443,140.6781\"><b>M 4.4 - 116 km SSE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt6\">USGS</a>",
           34.1443,
@@ -903,6 +944,11 @@
           "<a href=\"http://maps.google.com/maps?q=16.4964,-95.1613\"><b>M 4.3 - 0 km NW of San Pedro Comitancillo, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt4\">USGS</a>",
           16.4964,
           -95.1613
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=28.0958,52.2186\"><b>M 4.3 - 88 km NW of Mohr, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftt0\">USGS</a>",
+          28.0958,
+          52.2186
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.1062,129.1182\"><b>M 4.5 - 87 km SSE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftry\">USGS</a>",
@@ -3045,13 +3091,13 @@
         ]
       ]
     },
-    "title": "47 events (13/Nov/2021 PST)"
+    "title": "49 events (13/Nov/2021 PST)"
   },
-  "last_update": "13/Nov/2021 @ 04:00:50 PST",
-  "last_update_epoch": 1636804850.451396,
+  "last_update": "13/Nov/2021 @ 05:00:39 PST",
+  "last_update_epoch": 1636808439.225101,
   "neo": {
     "date": "13/Nov/2021 PST",
-    "last_update": "13/Nov/2021 @ 04:00:09 PST",
+    "last_update": "13/Nov/2021 @ 05:00:07 PST",
     "objects": [
       {
         "cat": "13/Nov/2021 @ 00:39:00 ",
@@ -3277,7 +3323,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Nov/2021 @ 04:00:10 PST",
+    "last_update": "13/Nov/2021 @ 05:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -4276,7 +4322,7 @@
       {
         "asds_attempts": 8,
         "asds_landings": 8,
-        "last_update": "Landed on OCISLY as of May 15, 2021 ",
+        "last_update": "Landed on JRTI as of Nov 13, 2021 ",
         "launches": 8,
         "name": "B1058",
         "reuse_count": 7,
@@ -4322,12 +4368,12 @@
         "status_emoji": "⚪"
       },
       {
-        "asds_attempts": 3,
-        "asds_landings": 3,
+        "asds_attempts": 4,
+        "asds_landings": 4,
         "last_update": "landed on JRTI as of Sep 16, 2021. ",
-        "launches": 3,
+        "launches": 4,
         "name": "B1062",
-        "reuse_count": 2,
+        "reuse_count": 3,
         "rtls_attempts": 0,
         "rtls_landings": 0,
         "status": "unknown",
@@ -4737,9 +4783,9 @@
     "landpads": [
       {
         "description": "The fourth ASDS barge was announced to be under construction in February 2018 and it will become the second active east coast-based ASDS. It will be homeported at Port Canaveral. This future simultaneously usable ASDS, along with OCISLY, is called A Shortfall of Gravitas (ASoG) and like the rest of the fleet, its naming is based on names used in the Culture series. The droneship is expected to be operational in mid-2019.",
-        "landing_attempts": 1,
-        "landing_successes": 1,
-        "launches": 1,
+        "landing_attempts": 2,
+        "landing_successes": 2,
+        "launches": 2,
         "location": "Port Canaveral, Florida",
         "location_url": "https://www.google.com/maps/place/28.4104,-80.6188",
         "name": "A Shortfall of Gravitas (ASOG)",
@@ -4827,7 +4873,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Nov/2021 @ 04:00:15 PST",
+    "last_update": "13/Nov/2021 @ 05:00:13 PST",
     "launches": {
       "future": [
         {
@@ -5991,14 +6037,22 @@
           "name": "Crew-3",
           "upcoming": false,
           "url": "https://youtu.be/WZvtrnFItNs"
+        },
+        {
+          "description": null,
+          "flight": 137,
+          "launch": "12/Nov/2021 @ 04:40:00 PST",
+          "name": "Starlink 4-1 (v1.5)",
+          "upcoming": false,
+          "url": "https://youtu.be/AtmtP4vouSY"
         }
       ]
     },
     "launchpads": [
       {
         "description": "SpaceX's primary Falcon 9 pad, where all east coast Falcon 9s launched prior to the AMOS-6 anomaly. Previously used alongside SLC-41 to launch Titan rockets for the US Air Force, the pad was heavily damaged by the AMOS-6 anomaly in September 2016. It returned to flight with CRS-13 on December 15, 2017, boasting an upgraded throwback-style Transporter-Erector modeled after that at LC-39A.",
-        "launch_attempts": 75,
-        "launch_successes": 73,
+        "launch_attempts": 76,
+        "launch_successes": 74,
         "location": "Cape Canaveral, Florida",
         "location_url": "https://www.google.com/maps/place/28.5618571,-80.577366",
         "name": "Cape Canaveral Space Force Station Space Launch Complex 40 (CCSFS SLC 40)",
@@ -15470,9 +15524,18 @@
       {
         "customer": "SpaceX",
         "manufacturer": "SpaceX",
-        "name": "Starlink 3-1 (v1.0)",
+        "name": "Starlink 3-1 (v1.5)",
         "nationality": "United States",
         "orbit": "PO",
+        "type": "Satellite",
+        "type_emoji": "🛰️"
+      },
+      {
+        "customer": "SpaceX",
+        "manufacturer": "SpaceX",
+        "name": "Starlink 4-1 (v1.5)",
+        "nationality": "United States",
+        "orbit": "LEO",
         "type": "Satellite",
         "type_emoji": "🛰️"
       },
@@ -16073,7 +16136,7 @@
     ],
     "ships": [
       {
-        "launches": 1,
+        "launches": 2,
         "mass": "220,000.00 lbs",
         "name": "A Shortfall of Gravitas",
         "port": "Port Canaveral",
@@ -16121,6 +16184,16 @@
         "status_emoji": "🔴",
         "type": "Tug",
         "url": "https://www.marinetraffic.com/en/ais/details/ships/shipid:1190856/mmsi:368000890/imo:7517478/vessel:BETTY_R_GAMBARELLA"
+      },
+      {
+        "launches": 1,
+        "mass": "220,000.00 lbs",
+        "name": "Bob",
+        "port": "Port Canaveral",
+        "roles": "Fairing Recovery, Support Ship",
+        "status_emoji": "🟢",
+        "type": "Cargo",
+        "url": "https://www.marinetraffic.com/en/ais/details/ships/shipid:454731/mmsi:368456000/imo:9529695/vessel:BOB"
       },
       {
         "launches": 2,
