@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Nov/2021 @ 10:00:04 PST",
+    "last_update": "14/Nov/2021 @ 11:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/astronomy101_hk_960.jpg",
     "title": "How to Identify that Light in the Sky (14/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,24 +529,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu2a"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000ftvi",
-        "location": "http://maps.google.com/maps?q=-15.2908,167.8378",
-        "name": "M 4.2 - 76 km ENE of Luganville, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvi"
       },
       {
         "category": [
@@ -1145,7 +1127,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "14/Nov/2021 @ 10:00:06 PST",
+    "last_update": "14/Nov/2021 @ 11:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1264,11 +1246,6 @@
           "<a href=\"http://maps.google.com/maps?q=-57.8385,-23.9263\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvn\">USGS</a>",
           -57.8385,
           -23.9263
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.2908,167.8378\"><b>M 4.2 - 76 km ENE of Luganville, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftvi\">USGS</a>",
-          -15.2908,
-          167.8378
         ]
       ],
       "Floods": [],
@@ -3831,13 +3808,13 @@
         ]
       ]
     },
-    "title": "61 events (14/Nov/2021 PST)"
+    "title": "60 events (14/Nov/2021 PST)"
   },
-  "last_update": "14/Nov/2021 @ 10:00:40 PST",
-  "last_update_epoch": 1636912840.825811,
+  "last_update": "14/Nov/2021 @ 11:00:37 PST",
+  "last_update_epoch": 1636916437.819841,
   "neo": {
     "date": "14/Nov/2021 PST",
-    "last_update": "14/Nov/2021 @ 10:00:08 PST",
+    "last_update": "14/Nov/2021 @ 11:00:07 PST",
     "objects": [
       {
         "cat": "14/Nov/2021 @ 21:36:00 ",
@@ -4018,7 +3995,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Nov/2021 @ 10:00:09 PST",
+    "last_update": "14/Nov/2021 @ 11:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5568,7 +5545,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Nov/2021 @ 10:00:15 PST",
+    "last_update": "14/Nov/2021 @ 11:00:13 PST",
     "launches": {
       "future": [
         {
@@ -16679,12 +16656,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "195,687,031.79 miles",
+      "earth_distance": "196,573,037.24 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "227,165,481.23 miles",
+      "mars_distance": "226,950,233.91 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,466.62 mph",
+      "speed": "5,461.44 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
