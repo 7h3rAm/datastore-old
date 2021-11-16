@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Nov/2021 @ 14:00:08 PST",
+    "last_update": "16/Nov/2021 @ 15:00:06 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/Geminids2020_WangJin_960.jpg",
     "title": "Geminids from Gemini (16/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -555,24 +555,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fufb",
-        "location": "http://maps.google.com/maps?q=-21.9775,-68.849",
-        "name": "M 4.3 - 53 km N of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fufb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fuhb",
         "location": "http://maps.google.com/maps?q=27.6874,56.0051",
         "name": "M 4.3 - 61 km NNW of Bandar Abbas, Iran",
@@ -655,6 +637,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fukw"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000funw",
+        "location": "http://maps.google.com/maps?q=35.4362,139.1646",
+        "name": "M 4.4 - 8 km NW of Hadano, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000funw"
       },
       {
         "category": [
@@ -967,11 +967,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "16/Nov/2021 @ 14:00:09 PST",
+    "last_update": "16/Nov/2021 @ 15:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.4362,139.1646\"><b>M 4.4 - 8 km NW of Hadano, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000funw\">USGS</a>",
+          35.4362,
+          139.1646
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=6.2751,126.7864\"><b>M 4.6 - 68 km E of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fum4\">USGS</a>",
           6.2751,
@@ -1056,11 +1061,6 @@
           "<a href=\"http://maps.google.com/maps?q=39.581,93.4733\"><b>M 4.0 - Xinjiang-Gansu-Qinghai border region, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fufm\">USGS</a>",
           39.581,
           93.4733
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.9775,-68.849\"><b>M 4.3 - 53 km N of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fufb\">USGS</a>",
-          -21.9775,
-          -68.849
         ]
       ],
       "Floods": [],
@@ -3525,11 +3525,11 @@
     },
     "title": "52 events (16/Nov/2021 PST)"
   },
-  "last_update": "16/Nov/2021 @ 14:00:38 PST",
-  "last_update_epoch": 1637100038.273195,
+  "last_update": "16/Nov/2021 @ 15:00:37 PST",
+  "last_update_epoch": 1637103637.531981,
   "neo": {
     "date": "16/Nov/2021 PST",
-    "last_update": "16/Nov/2021 @ 14:00:12 PST",
+    "last_update": "16/Nov/2021 @ 15:00:10 PST",
     "objects": [
       {
         "cat": "16/Nov/2021 @ 09:54:00 ",
@@ -3719,7 +3719,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Nov/2021 @ 14:00:12 PST",
+    "last_update": "16/Nov/2021 @ 15:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5269,7 +5269,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Nov/2021 @ 14:00:18 PST",
+    "last_update": "16/Nov/2021 @ 15:00:15 PST",
     "launches": {
       "future": [
         {
@@ -16380,12 +16380,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "198,186,530.09 miles",
+      "earth_distance": "198,217,886.90 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "226,539,915.36 miles",
+      "mars_distance": "226,531,700.72 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,451.57 mph",
+      "speed": "5,451.37 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
