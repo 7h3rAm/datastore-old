@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Nov/2021 @ 13:00:04 PST",
+    "last_update": "18/Nov/2021 @ 14:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/moonwalk1c1024.jpg",
     "title": "Full Moonlight (18/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -573,6 +573,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fv8i",
+        "location": "http://maps.google.com/maps?q=-7.5657,124.4049",
+        "name": "M 4.5 - 145 km NW of Maubara, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv8i"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fv9p",
+        "location": "http://maps.google.com/maps?q=-19.8113,-177.675",
+        "name": "M 4.5 - 296 km WNW of Haveluloto, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9p"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fv60",
         "location": "http://maps.google.com/maps?q=13.4333,-90.8586",
         "name": "M 4.5 - 54 km S of Puerto San José, Guatemala",
@@ -619,6 +655,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv2m"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000fv8q",
+        "location": "http://maps.google.com/maps?q=-10.9292,123.6803",
+        "name": "M 4.6 - 84 km S of Kupang, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv8q"
       },
       {
         "category": [
@@ -753,6 +807,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fv9x",
+        "location": "http://maps.google.com/maps?q=5.2167,-82.608",
+        "name": "M 5.2 - south of Panama",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9x"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fv3z",
         "location": "http://maps.google.com/maps?q=-4.7224,153.3008",
         "name": "M 5.4 - 121 km ESE of Kokopo, Papua New Guinea",
@@ -763,24 +835,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv3z"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fuxl",
-        "location": "http://maps.google.com/maps?q=-26.3334,-63.3403",
-        "name": "M 5.5 - 56 km WNW of Campo Gallo, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuxl"
       },
       {
         "category": [
@@ -931,11 +985,31 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5972"
       }
     ],
-    "last_update": "18/Nov/2021 @ 13:00:06 PST",
+    "last_update": "18/Nov/2021 @ 14:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=5.2167,-82.608\"><b>M 5.2 - south of Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9x\">USGS</a>",
+          5.2167,
+          -82.608
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.8113,-177.675\"><b>M 4.5 - 296 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9p\">USGS</a>",
+          -19.8113,
+          -177.675
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-10.9292,123.6803\"><b>M 4.6 - 84 km S of Kupang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv8q\">USGS</a>",
+          -10.9292,
+          123.6803
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.5657,124.4049\"><b>M 4.5 - 145 km NW of Maubara, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv8i\">USGS</a>",
+          -7.5657,
+          124.4049
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=26.528,129.9969\"><b>M 5.0 - 200 km E of Nago, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv6a\">USGS</a>",
           26.528,
@@ -1030,11 +1104,6 @@
           "<a href=\"http://maps.google.com/maps?q=42.4233,15.8154\"><b>M 4.1 - 42 km NE of Isole Tremiti, Italy</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuyf\">USGS</a>",
           42.4233,
           15.8154
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-26.3334,-63.3403\"><b>M 5.5 - 56 km WNW of Campo Gallo, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuxl\">USGS</a>",
-          -26.3334,
-          -63.3403
         ]
       ],
       "Floods": [],
@@ -3477,13 +3546,13 @@
         ]
       ]
     },
-    "title": "50 events (18/Nov/2021 PST)"
+    "title": "53 events (18/Nov/2021 PST)"
   },
-  "last_update": "18/Nov/2021 @ 13:00:08 PST",
-  "last_update_epoch": 1637269208.26777,
+  "last_update": "18/Nov/2021 @ 14:00:07 PST",
+  "last_update_epoch": 1637272807.925199,
   "neo": {
     "date": "18/Nov/2021 PST",
-    "last_update": "18/Nov/2021 @ 13:00:08 PST",
+    "last_update": "18/Nov/2021 @ 14:00:07 PST",
     "objects": [
       {
         "cat": "18/Nov/2021 @ 03:54:00 ",
@@ -3610,7 +3679,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Nov/2021 @ 13:00:08 PST",
+    "last_update": "18/Nov/2021 @ 14:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
