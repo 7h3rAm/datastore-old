@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Nov/2021 @ 14:00:04 PST",
+    "last_update": "18/Nov/2021 @ 15:00:07 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/moonwalk1c1024.jpg",
     "title": "Full Moonlight (18/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -555,6 +555,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fv9n",
+        "location": "http://maps.google.com/maps?q=39.5566,20.4954",
+        "name": "M 4.4 - 9 km N of Paramythiá, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9n"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fv1u",
         "location": "http://maps.google.com/maps?q=19.4081,145.4682",
         "name": "M 4.4 - Maug Islands region, Northern Mariana Islands",
@@ -985,7 +1003,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5972"
       }
     ],
-    "last_update": "18/Nov/2021 @ 14:00:06 PST",
+    "last_update": "18/Nov/2021 @ 15:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -994,6 +1012,11 @@
           "<a href=\"http://maps.google.com/maps?q=5.2167,-82.608\"><b>M 5.2 - south of Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9x\">USGS</a>",
           5.2167,
           -82.608
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=39.5566,20.4954\"><b>M 4.4 - 9 km N of Paramythiá, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9n\">USGS</a>",
+          39.5566,
+          20.4954
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-19.8113,-177.675\"><b>M 4.5 - 296 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fv9p\">USGS</a>",
@@ -3546,13 +3569,13 @@
         ]
       ]
     },
-    "title": "53 events (18/Nov/2021 PST)"
+    "title": "54 events (18/Nov/2021 PST)"
   },
-  "last_update": "18/Nov/2021 @ 14:00:07 PST",
-  "last_update_epoch": 1637272807.925199,
+  "last_update": "18/Nov/2021 @ 15:00:10 PST",
+  "last_update_epoch": 1637276410.919656,
   "neo": {
     "date": "18/Nov/2021 PST",
-    "last_update": "18/Nov/2021 @ 14:00:07 PST",
+    "last_update": "18/Nov/2021 @ 15:00:10 PST",
     "objects": [
       {
         "cat": "18/Nov/2021 @ 03:54:00 ",
@@ -3679,7 +3702,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Nov/2021 @ 14:00:07 PST",
+    "last_update": "18/Nov/2021 @ 15:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
