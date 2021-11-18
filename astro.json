@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Nov/2021 @ 16:00:06 PST",
+    "last_update": "17/Nov/2021 @ 16:21:38 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/NGC3314_HubbleOstling_960.jpg",
     "title": "NGC 3314: When Galaxies Overlap (17/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -645,6 +645,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fuyl",
+        "location": "http://maps.google.com/maps?q=-10.6176,165.2378",
+        "name": "M 4.9 - 62 km W of Lata, Solomon Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuyl"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fuqy",
         "location": "http://maps.google.com/maps?q=-3.5813,101.5623",
         "name": "M 4.9 - 81 km WNW of Bengkulu, Indonesia",
@@ -895,11 +913,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954"
       }
     ],
-    "last_update": "17/Nov/2021 @ 16:00:08 PST",
+    "last_update": "17/Nov/2021 @ 16:21:40 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-10.6176,165.2378\"><b>M 4.9 - 62 km W of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuyl\">USGS</a>",
+          -10.6176,
+          165.2378
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=42.4233,15.8154\"><b>M 4.1 - 42 km NE of Isole Tremiti, Italy</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fuyf\">USGS</a>",
           42.4233,
@@ -3431,13 +3454,13 @@
         ]
       ]
     },
-    "title": "48 events (17/Nov/2021 PST)"
+    "title": "49 events (17/Nov/2021 PST)"
   },
-  "last_update": "17/Nov/2021 @ 16:00:36 PST",
-  "last_update_epoch": 1637193636.656754,
+  "last_update": "17/Nov/2021 @ 16:22:07 PST",
+  "last_update_epoch": 1637194927.891111,
   "neo": {
     "date": "18/Nov/2021 PST",
-    "last_update": "17/Nov/2021 @ 16:00:10 PST",
+    "last_update": "17/Nov/2021 @ 16:21:42 PST",
     "objects": [
       {
         "cat": "18/Nov/2021 @ 03:54:00 ",
@@ -3564,7 +3587,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Nov/2021 @ 16:00:10 PST",
+    "last_update": "17/Nov/2021 @ 16:21:42 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5114,7 +5137,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Nov/2021 @ 16:00:15 PST",
+    "last_update": "17/Nov/2021 @ 16:21:47 PST",
     "launches": {
       "future": [
         {
@@ -16225,12 +16248,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "198,998,276.94 miles",
+      "earth_distance": "199,008,636.15 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "226,324,231.80 miles",
+      "mars_distance": "226,321,438.28 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,446.38 mph",
+      "speed": "5,446.31 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
