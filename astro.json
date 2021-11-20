@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Nov/2021 @ 06:00:05 PST",
+    "last_update": "20/Nov/2021 @ 07:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/IMG_8522-1_1024.jpg",
     "title": "An Almost Total Lunar Eclipse (20/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -483,24 +483,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000fvg7",
-        "location": "http://maps.google.com/maps?q=0.1398,122.5731",
-        "name": "M 4.2 - 70 km SW of Gorontalo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvg7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000fvpc",
         "location": "http://maps.google.com/maps?q=29.925,-113.756",
         "name": "M 4.4 - 102 km W of La Libertad, Mexico",
@@ -859,7 +841,7 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5972"
       }
     ],
-    "last_update": "20/Nov/2021 @ 06:00:06 PST",
+    "last_update": "20/Nov/2021 @ 07:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -948,11 +930,6 @@
           "<a href=\"http://maps.google.com/maps?q=-22.7811,171.9026\"><b>M 4.6 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fviz\">USGS</a>",
           -22.7811,
           171.9026
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=0.1398,122.5731\"><b>M 4.2 - 70 km SW of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fvg7\">USGS</a>",
-          0.1398,
-          122.5731
         ]
       ],
       "Floods": [],
@@ -3385,13 +3362,13 @@
         ]
       ]
     },
-    "title": "46 events (20/Nov/2021 PST)"
+    "title": "45 events (20/Nov/2021 PST)"
   },
-  "last_update": "20/Nov/2021 @ 06:00:52 PST",
-  "last_update_epoch": 1637416852.035831,
+  "last_update": "20/Nov/2021 @ 07:00:43 PST",
+  "last_update_epoch": 1637420443.600702,
   "neo": {
     "date": "20/Nov/2021 PST",
-    "last_update": "20/Nov/2021 @ 06:00:07 PST",
+    "last_update": "20/Nov/2021 @ 07:00:08 PST",
     "objects": [
       {
         "cat": "20/Nov/2021 @ 20:37:00 ",
@@ -3590,7 +3567,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Nov/2021 @ 06:00:08 PST",
+    "last_update": "20/Nov/2021 @ 07:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5140,7 +5117,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Nov/2021 @ 06:00:14 PST",
+    "last_update": "20/Nov/2021 @ 07:00:13 PST",
     "launches": {
       "future": [
         {
@@ -16251,12 +16228,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "200,904,084.38 miles",
+      "earth_distance": "200,934,474.74 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "225,792,371.02 miles",
+      "mars_distance": "225,783,591.45 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,433.58 mph",
+      "speed": "5,433.36 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
