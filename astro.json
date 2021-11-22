@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Nov/2021 @ 12:00:06 PST",
+    "last_update": "22/Nov/2021 @ 13:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/LunarEclipseBuilding_Beletsky_960.jpg",
     "title": "Lunar Eclipse over a Skyscraper (22/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -555,6 +555,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fw9e",
+        "location": "http://maps.google.com/maps?q=-18.1416,-177.9907",
+        "name": "M 4.4 - 285 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw9e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fw7m",
         "location": "http://maps.google.com/maps?q=-29.9409,-68.7567",
         "name": "M 4.4 - 33 km N of San José de Jáchal, Argentina",
@@ -645,6 +663,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000fw34",
+        "location": "http://maps.google.com/maps?q=-17.8989,-178.5272",
+        "name": "M 4.6 - 229 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw34"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000fw76",
         "location": "http://maps.google.com/maps?q=24.2461,123.5191",
         "name": "M 4.6 - 58 km ESE of Yonakuni, Japan",
@@ -655,24 +691,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw76"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000fw34",
-        "location": "http://maps.google.com/maps?q=-17.8989,-178.5272",
-        "name": "M 4.6 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw34"
       },
       {
         "category": [
@@ -895,11 +913,16 @@
         "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5973"
       }
     ],
-    "last_update": "22/Nov/2021 @ 12:00:08 PST",
+    "last_update": "22/Nov/2021 @ 13:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.1416,-177.9907\"><b>M 4.4 - 285 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw9e\">USGS</a>",
+          -18.1416,
+          -177.9907
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.1039,-178.3194\"><b>M 4.8 - 250 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw8x\">USGS</a>",
           -18.1039,
@@ -961,7 +984,7 @@
           -151.5191
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.8989,-178.5272\"><b>M 4.6 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw34\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.8989,-178.5272\"><b>M 4.6 - 229 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000fw34\">USGS</a>",
           -17.8989,
           -178.5272
         ],
@@ -3466,13 +3489,13 @@
         ]
       ]
     },
-    "title": "48 events (22/Nov/2021 PST)"
+    "title": "49 events (22/Nov/2021 PST)"
   },
-  "last_update": "22/Nov/2021 @ 12:00:38 PST",
-  "last_update_epoch": 1637611238.982564,
+  "last_update": "22/Nov/2021 @ 13:00:34 PST",
+  "last_update_epoch": 1637614834.340761,
   "neo": {
     "date": "22/Nov/2021 PST",
-    "last_update": "22/Nov/2021 @ 12:00:09 PST",
+    "last_update": "22/Nov/2021 @ 13:00:08 PST",
     "objects": [
       {
         "cat": "22/Nov/2021 @ 16:57:00 ",
@@ -3626,7 +3649,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Nov/2021 @ 12:00:09 PST",
+    "last_update": "22/Nov/2021 @ 13:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5176,7 +5199,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Nov/2021 @ 12:00:15 PST",
+    "last_update": "22/Nov/2021 @ 13:00:13 PST",
     "launches": {
       "future": [
         {
@@ -16287,12 +16310,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "202,524,159.65 miles",
+      "earth_distance": "202,553,944.66 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "225,310,735.90 miles",
+      "mars_distance": "225,301,616.30 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,421.99 mph",
+      "speed": "5,421.77 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
