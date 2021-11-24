@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Nov/2021 @ 05:00:05 PST",
+    "last_update": "24/Nov/2021 @ 06:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/PleiadesB_Cannane_960.jpg",
     "title": "Pleiades: The Seven Sisters Star Cluster (24/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "24/Nov/2021 @ 05:00:05 PST",
-  "last_update_epoch": 1637758805.094168,
+  "last_update": "24/Nov/2021 @ 06:00:05 PST",
+  "last_update_epoch": 1637762405.086136,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
