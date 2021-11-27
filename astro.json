@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Nov/2021 @ 18:00:05 PST",
+    "last_update": "26/Nov/2021 @ 19:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/LH7528_36EclipsePartialWithPlieades_1024x1024.jpg",
     "title": "Great Refractor and Lunar Eclipse (26/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "26/Nov/2021 @ 18:00:05 PST",
-  "last_update_epoch": 1637978405.009964,
+  "last_update": "26/Nov/2021 @ 19:00:04 PST",
+  "last_update_epoch": 1637982004.904811,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
