@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Nov/2021 @ 23:00:06 PST",
+    "last_update": "28/Nov/2021 @ 00:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2111/cometcliffs_RosettaAtkinson_960.jpg",
     "title": "A High Cliff on Comet Churyumov-Gerasimenko (28/Nov/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "27/Nov/2021 @ 23:00:06 PST",
-  "last_update_epoch": 1638082806.447598,
+  "last_update": "28/Nov/2021 @ 00:00:05 PST",
+  "last_update_epoch": 1638086405.712758,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
