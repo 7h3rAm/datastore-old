@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Dec/2021 @ 12:00:04 PST",
+    "last_update": "01/Dec/2021 @ 13:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2112/BlueRedMoon_Yu_960.jpg",
     "title": "A Blue-Banded Blood Moon (01/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "01/Dec/2021 @ 12:00:04 PST",
-  "last_update_epoch": 1638388804.236345,
+  "last_update": "01/Dec/2021 @ 13:00:05 PST",
+  "last_update_epoch": 1638392405.788664,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
