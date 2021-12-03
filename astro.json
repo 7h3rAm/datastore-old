@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Dec/2021 @ 05:00:22 PST",
+    "last_update": "03/Dec/2021 @ 06:00:06 PST",
     "source": "https://apod.nasa.gov/apod/image/2112/ngc4656_4631_A1-LRGB_112421_1024px.jpg",
     "title": "Comet Leonard and the Whale Galaxy (03/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "03/Dec/2021 @ 05:00:22 PST",
-  "last_update_epoch": 1638536422.63665,
+  "last_update": "03/Dec/2021 @ 06:00:06 PST",
+  "last_update_epoch": 1638540006.12787,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
