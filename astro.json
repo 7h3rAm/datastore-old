@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Dec/2021 @ 03:00:06 PST",
+    "last_update": "05/Dec/2021 @ 04:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2112/EclipseAntarctica_Horalek_1080.jpg",
     "title": "Total Solar Eclipse Below the Bottom of the World (05/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "05/Dec/2021 @ 03:00:06 PST",
-  "last_update_epoch": 1638702006.095974,
+  "last_update": "05/Dec/2021 @ 04:00:05 PST",
+  "last_update_epoch": 1638705605.225917,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
