@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Dec/2021 @ 07:00:04 PST",
+    "last_update": "07/Dec/2021 @ 08:00:06 PST",
     "source": "https://apod.nasa.gov/apod/image/2112/GWaveCatalog_LigoVirgo_1080.jpg",
     "title": "Ninety Gravitational Wave Spectrograms and Counting (07/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3606,8 +3606,8 @@
     },
     "title": "54 events (23/Nov/2021 PST)"
   },
-  "last_update": "07/Dec/2021 @ 07:00:04 PST",
-  "last_update_epoch": 1638889204.288408,
+  "last_update": "07/Dec/2021 @ 08:00:06 PST",
+  "last_update_epoch": 1638892806.197415,
   "neo": {
     "date": "23/Nov/2021 PST",
     "last_update": "23/Nov/2021 @ 06:00:07 PST",
