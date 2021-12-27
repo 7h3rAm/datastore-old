@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Dec/2021 @ 16:00:08 PST",
+    "last_update": "26/Dec/2021 @ 17:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2112/JwstLaunch_Arianespace_1080.jpg",
     "title": "James Webb Space Telescope over Earth (26/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -27,24 +27,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1640528220"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000gfbc",
-        "location": "http://maps.google.com/maps?q=18.0142,-81.4289",
-        "name": "M 4.1 - 140 km S of Bodden Town, Cayman Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfbc"
       },
       {
         "category": [
@@ -287,24 +269,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000gfb8",
-        "location": "http://maps.google.com/maps?q=16.0489,119.4586",
-        "name": "M 4.7 - 34 km WNW of Ilioilio, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfb8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000gfcw",
         "location": "http://maps.google.com/maps?q=31.201,142.2293",
         "name": "M 4.8 - Izu Islands, Japan region",
@@ -333,6 +297,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gff5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000gfix",
+        "location": "http://maps.google.com/maps?q=-21.8025,-179.3783",
+        "name": "M 4.9 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfix"
       },
       {
         "category": [
@@ -387,6 +369,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfha"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000gfj3",
+        "location": "http://maps.google.com/maps?q=22.7471,143.227",
+        "name": "M 5.1 - Volcano Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfj3"
       },
       {
         "category": [
@@ -551,11 +551,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "26/Dec/2021 @ 16:00:09 PST",
+    "last_update": "26/Dec/2021 @ 17:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.7471,143.227\"><b>M 5.1 - Volcano Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfj3\">USGS</a>",
+          22.7471,
+          143.227
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.8025,-179.3783\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfix\">USGS</a>",
+          -21.8025,
+          -179.3783
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.9647,142.3674\"><b>M 4.6 - 41 km S of Shizunai-furukawachō, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfhx\">USGS</a>",
           41.9647,
@@ -675,16 +685,6 @@
           "<a href=\"http://maps.google.com/maps?q=2.1285,126.6721\"><b>M 5.4 - 155 km WNW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfbr\">USGS</a>",
           2.1285,
           126.6721
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.0142,-81.4289\"><b>M 4.1 - 140 km S of Bodden Town, Cayman Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfbc\">USGS</a>",
-          18.0142,
-          -81.4289
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.0489,119.4586\"><b>M 4.7 - 34 km WNW of Ilioilio, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfb8\">USGS</a>",
-          16.0489,
-          119.4586
         ]
       ],
       "Floods": [],
@@ -722,11 +722,11 @@
     },
     "title": "30 events (26/Dec/2021 PST)"
   },
-  "last_update": "26/Dec/2021 @ 16:00:40 PST",
-  "last_update_epoch": 1640563240.501701,
+  "last_update": "26/Dec/2021 @ 17:00:59 PST",
+  "last_update_epoch": 1640566859.985658,
   "neo": {
     "date": "27/Dec/2021 PST",
-    "last_update": "26/Dec/2021 @ 16:00:10 PST",
+    "last_update": "26/Dec/2021 @ 17:00:08 PST",
     "objects": [
       {
         "cat": "27/Dec/2021 @ 18:18:00 ",
@@ -898,7 +898,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Dec/2021 @ 16:00:10 PST",
+    "last_update": "26/Dec/2021 @ 17:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2472,7 +2472,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Dec/2021 @ 16:00:21 PST",
+    "last_update": "26/Dec/2021 @ 17:00:15 PST",
     "launches": {
       "future": [
         {
@@ -13626,12 +13626,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "222,693,584.20 miles",
+      "earth_distance": "222,712,592.13 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "215,870,683.41 miles",
+      "mars_distance": "215,856,974.08 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,194.82 mph",
+      "speed": "5,194.49 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
