@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Dec/2021 @ 06:00:06 PST",
+    "last_update": "28/Dec/2021 @ 07:00:05 PST",
     "source": "https://www.youtube.com/embed/2SnbMTQwDKM?rel=0",
     "title": "Sun Halo over Sweden (28/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -35,24 +35,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000gfmj",
-        "location": "http://maps.google.com/maps?q=35.0022,25.1226",
-        "name": "M 4.0 - 2 km W of Pýrgos, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfmj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000gfnp",
         "location": "http://maps.google.com/maps?q=-21.1687,-68.6705",
         "name": "M 4.2 - 144 km N of Calama, Chile",
@@ -63,6 +45,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000gfv9",
+        "location": "http://maps.google.com/maps?q=36.3953,70.6019",
+        "name": "M 4.2 - 56 km SSW of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfv9"
       },
       {
         "category": [
@@ -317,11 +317,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "28/Dec/2021 @ 06:00:07 PST",
+    "last_update": "28/Dec/2021 @ 07:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.3953,70.6019\"><b>M 4.2 - 56 km SSW of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfv9\">USGS</a>",
+          36.3953,
+          70.6019
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.0119,68.1568\"><b>M 4.6 - Carlsberg Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfuh\">USGS</a>",
           -2.0119,
@@ -376,11 +381,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.5976,71.101\"><b>M 4.4 - 38 km SE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfnn\">USGS</a>",
           36.5976,
           71.101
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.0022,25.1226\"><b>M 4.0 - 2 km W of Pýrgos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfmj\">USGS</a>",
-          35.0022,
-          25.1226
         ]
       ],
       "Floods": [],
@@ -423,11 +423,11 @@
     },
     "title": "17 events (28/Dec/2021 PST)"
   },
-  "last_update": "28/Dec/2021 @ 06:00:48 PST",
-  "last_update_epoch": 1640700048.883551,
+  "last_update": "28/Dec/2021 @ 07:00:44 PST",
+  "last_update_epoch": 1640703644.327178,
   "neo": {
     "date": "28/Dec/2021 PST",
-    "last_update": "28/Dec/2021 @ 06:00:10 PST",
+    "last_update": "28/Dec/2021 @ 07:00:10 PST",
     "objects": [
       {
         "cat": "28/Dec/2021 @ 14:39:00 ",
@@ -493,6 +493,33 @@
         "velocity": "32,794.49 mph"
       },
       {
+        "cat": "28/Dec/2021 @ 05:27:00 ",
+        "diameter": "0.00-0.00 miles",
+        "distance": "44,864,259.05 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 DG)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54122969",
+        "velocity": "23,503.81 mph"
+      },
+      {
+        "cat": "28/Dec/2021 @ 10:34:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "30,569,256.15 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 JB)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54142828",
+        "velocity": "25,680.26 mph"
+      },
+      {
+        "cat": "28/Dec/2021 @ 18:19:00 ",
+        "diameter": "0.09-0.21 miles",
+        "distance": "10,034,445.31 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 WY3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54225490",
+        "velocity": "43,177.92 mph"
+      },
+      {
         "cat": "28/Dec/2021 @ 17:56:00 ",
         "diameter": "0.13-0.28 miles",
         "distance": "21,426,913.16 miles",
@@ -511,7 +538,7 @@
         "velocity": "33,203.30 mph"
       }
     ],
-    "title": "9 objects making close approach (28/Dec/2021 PST)"
+    "title": "12 objects making close approach (28/Dec/2021 PST)"
   },
   "satview": {
     "date": "28/Dec/2021 PST",
@@ -581,7 +608,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Dec/2021 @ 06:00:10 PST",
+    "last_update": "28/Dec/2021 @ 07:00:11 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2155,7 +2182,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Dec/2021 @ 06:00:16 PST",
+    "last_update": "28/Dec/2021 @ 07:00:16 PST",
     "launches": {
       "future": [
         {
@@ -13309,12 +13336,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "223,405,798.93 miles",
+      "earth_distance": "223,424,260.61 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "215,346,348.42 miles",
+      "mars_distance": "215,332,456.89 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,182.20 mph",
+      "speed": "5,181.86 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
