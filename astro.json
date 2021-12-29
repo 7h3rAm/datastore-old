@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Dec/2021 @ 16:00:05 PST",
+    "last_update": "28/Dec/2021 @ 17:00:08 PST",
     "source": "https://www.youtube.com/embed/2SnbMTQwDKM?rel=0",
     "title": "Sun Halo over Sweden (28/Dec/2021 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -287,6 +287,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000gfza",
+        "location": "http://maps.google.com/maps?q=9.8262,93.5344",
+        "name": "M 5.0 - 221 km SSE of Port Blair, India",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfza"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000gfwv",
         "location": "http://maps.google.com/maps?q=-13.1586,167.792",
         "name": "M 5.1 - 83 km NNE of Sola, Vanuatu",
@@ -371,11 +389,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "28/Dec/2021 @ 16:00:06 PST",
+    "last_update": "28/Dec/2021 @ 17:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.8262,93.5344\"><b>M 5.0 - 221 km SSE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfza\">USGS</a>",
+          9.8262,
+          93.5344
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.1983,120.8184\"><b>M 4.4 - 17 km NE of Santa Cruz, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfxs\">USGS</a>",
           13.1983,
@@ -490,13 +513,13 @@
         ]
       ]
     },
-    "title": "20 events (28/Dec/2021 PST)"
+    "title": "21 events (28/Dec/2021 PST)"
   },
-  "last_update": "28/Dec/2021 @ 16:00:45 PST",
-  "last_update_epoch": 1640736045.413532,
+  "last_update": "28/Dec/2021 @ 17:00:10 PST",
+  "last_update_epoch": 1640739610.389727,
   "neo": {
     "date": "29/Dec/2021 PST",
-    "last_update": "28/Dec/2021 @ 16:00:10 PST",
+    "last_update": "28/Dec/2021 @ 17:00:10 PST",
     "objects": [
       {
         "cat": "29/Dec/2021 @ 20:26:00 ",
@@ -722,7 +745,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Dec/2021 @ 16:00:10 PST",
+    "last_update": "28/Dec/2021 @ 17:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
