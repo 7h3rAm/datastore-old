@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Jan/2022 @ 07:00:09 PST",
+    "last_update": "03/Jan/2022 @ 08:00:07 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/LeonardTail_Hattenbach_960.jpg",
     "title": "Comet Leonard's Long Tail (03/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -71,6 +71,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g8lr",
+        "location": "http://maps.google.com/maps?q=-24.2773,-67.1502",
+        "name": "M 4.4 - 84 km W of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8lr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g8k7",
         "location": "http://maps.google.com/maps?q=33.9394,88.3486",
         "name": "M 4.4 - western Xizang",
@@ -81,6 +99,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8k7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000g8pn",
+        "location": "http://maps.google.com/maps?q=-18.6808,-177.814",
+        "name": "M 4.5 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8pn"
       },
       {
         "category": [
@@ -269,6 +305,24 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
         ],
+        "eid": "EONET_5990",
+        "location": "https://www.google.com/maps/dir/42.993829605,-0.401425255/@42.993829605,-0.401425255,3z",
+        "name": "Wildfire - SW of Tarbes, Midi-Pyrnes - France",
+        "source": [
+          {
+            "sid": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=135525"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5990"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔥",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
+          }
+        ],
         "eid": "EONET_5983",
         "location": "https://www.google.com/maps/dir/34.396954841,-117.729843629/@34.396954841,-117.729843629,3z",
         "name": "Wildfire - W of Victorville, California - United States",
@@ -281,11 +335,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "03/Jan/2022 @ 07:00:10 PST",
+    "last_update": "03/Jan/2022 @ 08:00:08 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.6808,-177.814\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8pn\">USGS</a>",
+          -18.6808,
+          -177.814
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=53.5017,-165.9069\"><b>M 4.4 - 58 km SE of Unalaska, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8ns\">USGS</a>",
           53.5017,
@@ -300,6 +359,11 @@
           "<a href=\"http://maps.google.com/maps?q=23.9968,122.2352\"><b>M 6.2 - 64 km E of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8n3\">USGS</a>",
           23.9968,
           122.2352
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.2773,-67.1502\"><b>M 4.4 - 84 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8lr\">USGS</a>",
+          -24.2773,
+          -67.1502
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-13.1945,166.8192\"><b>M 6.0 - 109 km NW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8kq\">USGS</a>",
@@ -390,6 +454,11 @@
       "Water Color": [],
       "Wildfires": [
         [
+          "<a href=\"http://maps.google.com/maps?q=42.993829605,-0.401425255\"><b>Wildfire - SW of Tarbes, Midi-Pyrnes - France</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=135525\">PDC</a>",
+          42.993829605,
+          -0.401425255
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=39.95983,-105.19282\"><b>Wildfire - SE of Boulder, Colorado - United States</b></a><br/><b>Category</b>: Wildfires<br/><b>Source</b>: <a href=\"http://emops.pdc.org/emops/?hazard_id=135349\">PDC</a>",
           39.95983,
           -105.19282
@@ -401,13 +470,13 @@
         ]
       ]
     },
-    "title": "15 events (03/Jan/2022 PST)"
+    "title": "18 events (03/Jan/2022 PST)"
   },
-  "last_update": "03/Jan/2022 @ 07:00:46 PST",
-  "last_update_epoch": 1641222046.603009,
+  "last_update": "03/Jan/2022 @ 08:00:46 PST",
+  "last_update_epoch": 1641225646.637939,
   "neo": {
     "date": "03/Jan/2022 PST",
-    "last_update": "03/Jan/2022 @ 07:00:11 PST",
+    "last_update": "03/Jan/2022 @ 08:00:10 PST",
     "objects": [
       {
         "cat": "03/Jan/2022 @ 18:46:00 ",
@@ -534,7 +603,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Jan/2022 @ 07:00:11 PST",
+    "last_update": "03/Jan/2022 @ 08:00:11 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2108,7 +2177,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Jan/2022 @ 07:00:18 PST",
+    "last_update": "03/Jan/2022 @ 08:00:16 PST",
     "launches": {
       "future": [
         {
@@ -13262,12 +13331,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "225,929,564.18 miles",
+      "earth_distance": "225,945,883.70 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "213,283,520.69 miles",
+      "mars_distance": "213,268,962.51 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,132.56 mph",
+      "speed": "5,132.21 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
