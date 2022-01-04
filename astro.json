@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Jan/2022 @ 05:00:04 PST",
+    "last_update": "04/Jan/2022 @ 06:00:06 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/RheaJanus_Cassini_1020.jpg",
     "title": "Moons Beyond Rings at Saturn (04/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -353,7 +353,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "04/Jan/2022 @ 05:02:39 PST",
+    "last_update": "04/Jan/2022 @ 06:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -495,11 +495,11 @@
     },
     "title": "19 events (04/Jan/2022 PST)"
   },
-  "last_update": "04/Jan/2022 @ 05:03:14 PST",
-  "last_update_epoch": 1641301394.505055,
+  "last_update": "04/Jan/2022 @ 06:00:36 PST",
+  "last_update_epoch": 1641304836.951303,
   "neo": {
     "date": "04/Jan/2022 PST",
-    "last_update": "04/Jan/2022 @ 05:02:41 PST",
+    "last_update": "04/Jan/2022 @ 06:00:08 PST",
     "objects": [
       {
         "cat": "04/Jan/2022 @ 08:01:00 ",
@@ -545,18 +545,9 @@
         "name": "Asteroid (2019 FZ)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3840701",
         "velocity": "50,983.63 mph"
-      },
-      {
-        "cat": "04/Jan/2022 @ 06:29:00 ",
-        "diameter": "0.06-0.14 miles",
-        "distance": "19,308,893.58 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 XP2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54099344",
-        "velocity": "19,470.89 mph"
       }
     ],
-    "title": "6 objects making close approach (04/Jan/2022 PST)"
+    "title": "5 objects making close approach (04/Jan/2022 PST)"
   },
   "satview": {
     "date": "04/Jan/2022 PST",
@@ -626,7 +617,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Jan/2022 @ 05:02:41 PST",
+    "last_update": "04/Jan/2022 @ 06:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2200,7 +2191,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Jan/2022 @ 05:02:47 PST",
+    "last_update": "04/Jan/2022 @ 06:00:14 PST",
     "launches": {
       "future": [
         {
@@ -13354,12 +13345,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,285,116.94 miles",
+      "earth_distance": "226,301,105.21 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,962,219.51 miles",
+      "mars_distance": "212,947,564.27 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,124.83 mph",
+      "speed": "5,124.47 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
