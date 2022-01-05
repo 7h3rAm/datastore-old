@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jan/2022 @ 09:00:08 PST",
+    "last_update": "05/Jan/2022 @ 10:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg",
     "title": "A Year of Sunrises (05/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -81,42 +81,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g8yg",
-        "location": "http://maps.google.com/maps?q=33.0584,76.1333",
-        "name": "M 4.3 - 39 km ENE of Bhadarwāh, India",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8yg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g8yl",
-        "location": "http://maps.google.com/maps?q=44.16,82.0909",
-        "name": "M 4.4 - 89 km ENE of Qapqal, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8yl"
       },
       {
         "category": [
@@ -243,6 +207,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g93q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000g9aj",
+        "location": "http://maps.google.com/maps?q=-18.9596,169.6054",
+        "name": "M 5.2 - 72 km NNE of Isangel, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9aj"
       },
       {
         "category": [
@@ -425,11 +407,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "05/Jan/2022 @ 09:00:09 PST",
+    "last_update": "05/Jan/2022 @ 10:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.9596,169.6054\"><b>M 5.2 - 72 km NNE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9aj\">USGS</a>",
+          -18.9596,
+          169.6054
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=23.8974,122.5201\"><b>M 4.9 - 79 km SW of Yonakuni, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g97l\">USGS</a>",
           23.8974,
@@ -499,16 +486,6 @@
           "<a href=\"http://maps.google.com/maps?q=-20.4402,169.7133\"><b>M 5.8 - 109 km SSE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8zf\">USGS</a>",
           -20.4402,
           169.7133
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.16,82.0909\"><b>M 4.4 - 89 km ENE of Qapqal, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8yl\">USGS</a>",
-          44.16,
-          82.0909
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.0584,76.1333\"><b>M 4.3 - 39 km ENE of Bhadarwāh, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8yg\">USGS</a>",
-          33.0584,
-          76.1333
         ]
       ],
       "Floods": [],
@@ -585,13 +562,13 @@
         ]
       ]
     },
-    "title": "23 events (05/Jan/2022 PST)"
+    "title": "22 events (05/Jan/2022 PST)"
   },
-  "last_update": "05/Jan/2022 @ 09:00:47 PST",
-  "last_update_epoch": 1641402047.484334,
+  "last_update": "05/Jan/2022 @ 10:00:41 PST",
+  "last_update_epoch": 1641405641.360916,
   "neo": {
     "date": "05/Jan/2022 PST",
-    "last_update": "05/Jan/2022 @ 09:00:12 PST",
+    "last_update": "05/Jan/2022 @ 10:00:08 PST",
     "objects": [
       {
         "cat": "05/Jan/2022 @ 02:20:00 ",
@@ -754,7 +731,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Jan/2022 @ 09:00:12 PST",
+    "last_update": "05/Jan/2022 @ 10:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2328,7 +2305,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Jan/2022 @ 09:00:18 PST",
+    "last_update": "05/Jan/2022 @ 10:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13482,12 +13459,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,727,086.24 miles",
+      "earth_distance": "226,742,652.02 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,550,222.39 miles",
+      "mars_distance": "212,535,445.22 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,114.91 mph",
+      "speed": "5,114.56 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
