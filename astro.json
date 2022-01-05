@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jan/2022 @ 03:00:05 PST",
+    "last_update": "05/Jan/2022 @ 04:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg",
     "title": "A Year of Sunrises (05/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -53,9 +53,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g979",
+        "location": "http://maps.google.com/maps?q=-32.9496,117.6248",
+        "name": "M 4.2 - 41 km E of Narrogin, Australia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g979"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g943",
         "location": "http://maps.google.com/maps?q=-21.1607,-68.6715",
-        "name": "M 4.2 - Chile-Bolivia border region",
+        "name": "M 4.2 - Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -197,6 +215,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g973",
+        "location": "http://maps.google.com/maps?q=-5.3849,152.2239",
+        "name": "M 4.6 - New Britain region, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "nn00831033",
         "location": "http://maps.google.com/maps?q=38.1677,-117.8238",
         "name": "M 4.8 - 35 km SE of Mina, Nevada",
@@ -271,7 +307,7 @@
         ],
         "eid": "us7000g963",
         "location": "http://maps.google.com/maps?q=56.0555,164.9861",
-        "name": "M 5.4 - 157 km E of Ust’-Kamchatsk Staryy, Russia",
+        "name": "M 5.4 - Komandorskiye Ostrova, Russia region",
         "source": [
           {
             "sid": "USGS",
@@ -425,13 +461,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "05/Jan/2022 @ 03:00:06 PST",
+    "last_update": "05/Jan/2022 @ 04:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=56.0555,164.9861\"><b>M 5.4 - 157 km E of Ust’-Kamchatsk Staryy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g963\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-32.9496,117.6248\"><b>M 4.2 - 41 km E of Narrogin, Australia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g979\">USGS</a>",
+          -32.9496,
+          117.6248
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.3849,152.2239\"><b>M 4.6 - New Britain region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973\">USGS</a>",
+          -5.3849,
+          152.2239
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=56.0555,164.9861\"><b>M 5.4 - Komandorskiye Ostrova, Russia region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g963\">USGS</a>",
           56.0555,
           164.9861
         ],
@@ -456,7 +502,7 @@
           124.5375
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.1607,-68.6715\"><b>M 4.2 - Chile-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.1607,-68.6715\"><b>M 4.2 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943\">USGS</a>",
           -21.1607,
           -68.6715
         ],
@@ -585,13 +631,13 @@
         ]
       ]
     },
-    "title": "23 events (05/Jan/2022 PST)"
+    "title": "25 events (05/Jan/2022 PST)"
   },
-  "last_update": "05/Jan/2022 @ 03:00:47 PST",
-  "last_update_epoch": 1641380447.421324,
+  "last_update": "05/Jan/2022 @ 04:00:50 PST",
+  "last_update_epoch": 1641384050.783857,
   "neo": {
     "date": "05/Jan/2022 PST",
-    "last_update": "05/Jan/2022 @ 03:00:08 PST",
+    "last_update": "05/Jan/2022 @ 04:00:08 PST",
     "objects": [
       {
         "cat": "05/Jan/2022 @ 02:20:00 ",
@@ -754,7 +800,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Jan/2022 @ 03:00:08 PST",
+    "last_update": "05/Jan/2022 @ 04:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2328,7 +2374,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Jan/2022 @ 03:00:15 PST",
+    "last_update": "05/Jan/2022 @ 04:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13482,12 +13528,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,633,374.55 miles",
+      "earth_distance": "226,649,030.91 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,638,794.57 miles",
+      "mars_distance": "212,624,043.37 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,117.04 mph",
+      "speed": "5,116.69 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
