@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Jan/2022 @ 21:00:06 PST",
-    "source": "https://apod.nasa.gov/apod/image/2201/RheaJanus_Cassini_1020.jpg",
-    "title": "Moons Beyond Rings at Saturn (04/Jan/2022 PST)",
+    "last_update": "04/Jan/2022 @ 22:00:07 PST",
+    "source": "https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg",
+    "title": "A Year of Sunrises (05/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -73,7 +73,7 @@
         ],
         "eid": "us7000g943",
         "location": "http://maps.google.com/maps?q=-21.1607,-68.6715",
-        "name": "M 4.2 - Chile-Bolivia border region",
+        "name": "M 4.2 - Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -189,24 +189,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8xq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g8ui",
-        "location": "http://maps.google.com/maps?q=37.7106,141.4988",
-        "name": "M 4.6 - 50 km ENE of Namie, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8ui"
       },
       {
         "category": [
@@ -407,7 +389,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "04/Jan/2022 @ 21:00:08 PST",
+    "last_update": "04/Jan/2022 @ 22:00:08 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -423,7 +405,7 @@
           124.5375
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.1607,-68.6715\"><b>M 4.2 - Chile-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.1607,-68.6715\"><b>M 4.2 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943\">USGS</a>",
           -21.1607,
           -68.6715
         ],
@@ -481,11 +463,6 @@
           "<a href=\"http://maps.google.com/maps?q=-36.2191,-71.714\"><b>M 4.1 - 13 km SE of Parral, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8v0\">USGS</a>",
           -36.2191,
           -71.714
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.7106,141.4988\"><b>M 4.6 - 50 km ENE of Namie, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8ui\">USGS</a>",
-          37.7106,
-          141.4988
         ]
       ],
       "Floods": [],
@@ -562,13 +539,13 @@
         ]
       ]
     },
-    "title": "22 events (04/Jan/2022 PST)"
+    "title": "21 events (04/Jan/2022 PST)"
   },
-  "last_update": "04/Jan/2022 @ 21:00:45 PST",
-  "last_update_epoch": 1641358845.810959,
+  "last_update": "04/Jan/2022 @ 22:00:38 PST",
+  "last_update_epoch": 1641362438.459513,
   "neo": {
     "date": "05/Jan/2022 PST",
-    "last_update": "04/Jan/2022 @ 21:00:10 PST",
+    "last_update": "04/Jan/2022 @ 22:00:09 PST",
     "objects": [
       {
         "cat": "05/Jan/2022 @ 02:20:00 ",
@@ -731,7 +708,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Jan/2022 @ 21:00:10 PST",
+    "last_update": "04/Jan/2022 @ 22:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2305,7 +2282,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Jan/2022 @ 21:00:17 PST",
+    "last_update": "04/Jan/2022 @ 22:00:14 PST",
     "launches": {
       "future": [
         {
@@ -13459,12 +13436,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,539,119.43 miles",
+      "earth_distance": "226,554,866.35 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,727,210.60 miles",
+      "mars_distance": "212,712,485.46 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,119.17 mph",
+      "speed": "5,118.82 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
