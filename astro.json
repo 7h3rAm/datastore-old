@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jan/2022 @ 21:00:06 PST",
-    "source": "https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg",
-    "title": "A Year of Sunrises (05/Jan/2022 PST)",
+    "last_update": "05/Jan/2022 @ 22:00:08 PST",
+    "source": "https://apod.nasa.gov/apod/image/2201/venus_220101_ladanyi_web1024.jpg",
+    "title": "The Last Days of Venus as the Evening Star (06/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -89,16 +89,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000g95j",
-        "location": "http://maps.google.com/maps?q=56.1686,164.701",
-        "name": "M 4.6 - 138 km E of Ust’-Kamchatsk Staryy, Russia",
+        "eid": "us7000g973",
+        "location": "http://maps.google.com/maps?q=-5.3849,152.2239",
+        "name": "M 4.6 - 115 km S of Kokopo, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g95j"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973"
       },
       {
         "category": [
@@ -108,8 +108,8 @@
           }
         ],
         "eid": "nc73674251",
-        "location": "http://maps.google.com/maps?q=40.3838333,-124.8623333",
-        "name": "M 4.6 - 49km W of Petrolia, CA",
+        "location": "http://maps.google.com/maps?q=40.3846667,-124.8643333",
+        "name": "M 4.6 - 50km W of Petrolia, CA",
         "source": [
           {
             "sid": "USGS",
@@ -117,24 +117,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73674251"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g973",
-        "location": "http://maps.google.com/maps?q=-5.3849,152.2239",
-        "name": "M 4.6 - New Britain region, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973"
       },
       {
         "category": [
@@ -289,7 +271,7 @@
         ],
         "eid": "us7000g963",
         "location": "http://maps.google.com/maps?q=56.0555,164.9861",
-        "name": "M 5.4 - Komandorskiye Ostrova, Russia region",
+        "name": "M 5.4 - 157 km E of Ust’-Kamchatsk Staryy, Russia",
         "source": [
           {
             "sid": "USGS",
@@ -425,15 +407,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "05/Jan/2022 @ 21:00:07 PST",
+    "last_update": "05/Jan/2022 @ 22:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=40.3838333,-124.8623333\"><b>M 4.6 - 49km W of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73674251\">USGS</a>",
-          40.3838333,
-          -124.8623333
+          "<a href=\"http://maps.google.com/maps?q=40.3846667,-124.8643333\"><b>M 4.6 - 50km W of Petrolia, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73674251\">USGS</a>",
+          40.3846667,
+          -124.8643333
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.2819,-67.3704\"><b>M 4.2 - 107 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9g4\">USGS</a>",
@@ -491,12 +473,12 @@
           117.6248
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.3849,152.2239\"><b>M 4.6 - New Britain region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.3849,152.2239\"><b>M 4.6 - 115 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g973\">USGS</a>",
           -5.3849,
           152.2239
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.0555,164.9861\"><b>M 5.4 - Komandorskiye Ostrova, Russia region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g963\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.0555,164.9861\"><b>M 5.4 - 157 km E of Ust’-Kamchatsk Staryy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g963\">USGS</a>",
           56.0555,
           164.9861
         ],
@@ -504,11 +486,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.1677,-117.8238\"><b>M 4.8 - 35 km SE of Mina, Nevada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nn00831033\">USGS</a>",
           38.1677,
           -117.8238
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=56.1686,164.701\"><b>M 4.6 - 138 km E of Ust’-Kamchatsk Staryy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g95j\">USGS</a>",
-          56.1686,
-          164.701
         ]
       ],
       "Floods": [],
@@ -585,13 +562,13 @@
         ]
       ]
     },
-    "title": "23 events (05/Jan/2022 PST)"
+    "title": "22 events (05/Jan/2022 PST)"
   },
-  "last_update": "05/Jan/2022 @ 21:00:53 PST",
-  "last_update_epoch": 1641445253.322572,
+  "last_update": "05/Jan/2022 @ 22:00:44 PST",
+  "last_update_epoch": 1641448844.249562,
   "neo": {
     "date": "06/Jan/2022 PST",
-    "last_update": "05/Jan/2022 @ 21:00:11 PST",
+    "last_update": "05/Jan/2022 @ 22:00:10 PST",
     "objects": [
       {
         "cat": "06/Jan/2022 @ 05:22:00 ",
@@ -790,7 +767,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Jan/2022 @ 21:00:16 PST",
+    "last_update": "05/Jan/2022 @ 22:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2364,7 +2341,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Jan/2022 @ 21:00:25 PST",
+    "last_update": "05/Jan/2022 @ 22:00:15 PST",
     "launches": {
       "future": [
         {
@@ -13518,12 +13495,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,912,878.90 miles",
+      "earth_distance": "226,928,263.46 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,372,611.61 miles",
+      "mars_distance": "212,357,782.73 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,110.64 mph",
+      "speed": "5,110.28 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
