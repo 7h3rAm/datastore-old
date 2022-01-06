@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jan/2022 @ 17:00:04 PST",
+    "last_update": "05/Jan/2022 @ 18:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/SunriseYear_Vanzella_960.jpg",
     "title": "A Year of Sunrises (05/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -251,24 +251,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000g93v",
-        "location": "http://maps.google.com/maps?q=-17.8446,168.3554",
-        "name": "M 5.1 - 12 km SSE of Port-Vila, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g93v"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000g94d",
         "location": "http://maps.google.com/maps?q=36.1171,31.2652",
         "name": "M 5.1 - 70 km SSW of Okurcalar, Turkey",
@@ -461,7 +443,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "05/Jan/2022 @ 17:00:06 PST",
+    "last_update": "05/Jan/2022 @ 18:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -550,11 +532,6 @@
           "<a href=\"http://maps.google.com/maps?q=-21.1607,-68.6715\"><b>M 4.2 - Chile-Bolivia border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g943\">USGS</a>",
           -21.1607,
           -68.6715
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.8446,168.3554\"><b>M 5.1 - 12 km SSE of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g93v\">USGS</a>",
-          -17.8446,
-          168.3554
         ]
       ],
       "Floods": [],
@@ -631,13 +608,13 @@
         ]
       ]
     },
-    "title": "25 events (05/Jan/2022 PST)"
+    "title": "24 events (05/Jan/2022 PST)"
   },
-  "last_update": "05/Jan/2022 @ 17:00:39 PST",
-  "last_update_epoch": 1641430839.54196,
+  "last_update": "05/Jan/2022 @ 18:00:40 PST",
+  "last_update_epoch": 1641434440.192073,
   "neo": {
     "date": "06/Jan/2022 PST",
-    "last_update": "05/Jan/2022 @ 17:00:09 PST",
+    "last_update": "05/Jan/2022 @ 18:00:08 PST",
     "objects": [
       {
         "cat": "06/Jan/2022 @ 05:22:00 ",
@@ -836,7 +813,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Jan/2022 @ 17:00:10 PST",
+    "last_update": "05/Jan/2022 @ 18:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2410,7 +2387,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Jan/2022 @ 17:00:16 PST",
+    "last_update": "05/Jan/2022 @ 18:00:14 PST",
     "launches": {
       "future": [
         {
@@ -13564,12 +13541,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,851,189.63 miles",
+      "earth_distance": "226,866,634.60 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,431,884.13 miles",
+      "mars_distance": "212,417,072.45 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,112.06 mph",
+      "speed": "5,111.71 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
