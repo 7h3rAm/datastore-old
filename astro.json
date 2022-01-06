@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jan/2022 @ 11:00:10 PST",
+    "last_update": "06/Jan/2022 @ 12:00:07 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/venus_220101_ladanyi_web1024.jpg",
     "title": "The Last Days of Venus as the Evening Star (06/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -89,6 +89,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g9pj",
+        "location": "http://maps.google.com/maps?q=28.2527,83.2136",
+        "name": "M 4.3 - 36 km W of Bāglung, Nepal",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9pj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "nc73674251",
         "location": "http://maps.google.com/maps?q=40.3846667,-124.8643333",
         "name": "M 4.6 - 50km W of Petrolia, CA",
@@ -99,6 +117,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73674251"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000g9pb",
+        "location": "http://maps.google.com/maps?q=-22.4773,-67.793",
+        "name": "M 4.6 - 63 km NE of San Pedro de Atacama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9pb"
       },
       {
         "category": [
@@ -143,42 +179,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000g9bj",
-        "location": "http://maps.google.com/maps?q=-11.5596,166.4817",
-        "name": "M 4.8 - 118 km SE of Lata, Solomon Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9bj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g9hv",
-        "location": "http://maps.google.com/maps?q=-5.4153,152.3652",
-        "name": "M 4.8 - 119 km S of Kokopo, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000g9jg",
         "location": "http://maps.google.com/maps?q=-2.1422,138.1463",
         "name": "M 4.8 - 253 km ESE of Biak, Indonesia",
@@ -215,6 +215,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g9hv",
+        "location": "http://maps.google.com/maps?q=-5.4153,152.3652",
+        "name": "M 4.8 - New Britain region, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g9hw",
         "location": "http://maps.google.com/maps?q=-5.4618,152.1891",
         "name": "M 5.0 - 124 km S of Kokopo, Papua New Guinea",
@@ -225,24 +243,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g9bl",
-        "location": "http://maps.google.com/maps?q=54.4193,168.8911",
-        "name": "M 5.0 - Komandorskiye Ostrova, Russia region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9bl"
       },
       {
         "category": [
@@ -425,11 +425,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "06/Jan/2022 @ 11:00:11 PST",
+    "last_update": "06/Jan/2022 @ 12:00:08 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=28.2527,83.2136\"><b>M 4.3 - 36 km W of Bāglung, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9pj\">USGS</a>",
+          28.2527,
+          83.2136
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.4773,-67.793\"><b>M 4.6 - 63 km NE of San Pedro de Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9pb\">USGS</a>",
+          -22.4773,
+          -67.793
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=11.9754,-87.1178\"><b>M 6.1 - 56 km S of Corinto, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9nb\">USGS</a>",
           11.9754,
@@ -451,7 +461,7 @@
           -26.317
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.4153,152.3652\"><b>M 4.8 - 119 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.4153,152.3652\"><b>M 4.8 - New Britain region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv\">USGS</a>",
           -5.4153,
           152.3652
         ],
@@ -489,16 +499,6 @@
           "<a href=\"http://maps.google.com/maps?q=-32.2862,-174.853\"><b>M 5.0 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9cf\">USGS</a>",
           -32.2862,
           -174.853
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.4193,168.8911\"><b>M 5.0 - Komandorskiye Ostrova, Russia region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9bl\">USGS</a>",
-          54.4193,
-          168.8911
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-11.5596,166.4817\"><b>M 4.8 - 118 km SE of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9bj\">USGS</a>",
-          -11.5596,
-          166.4817
         ]
       ],
       "Floods": [],
@@ -561,11 +561,11 @@
     },
     "title": "23 events (06/Jan/2022 PST)"
   },
-  "last_update": "06/Jan/2022 @ 11:00:45 PST",
-  "last_update_epoch": 1641495645.589036,
+  "last_update": "06/Jan/2022 @ 12:00:41 PST",
+  "last_update_epoch": 1641499241.804821,
   "neo": {
     "date": "06/Jan/2022 PST",
-    "last_update": "06/Jan/2022 @ 11:00:12 PST",
+    "last_update": "06/Jan/2022 @ 12:00:09 PST",
     "objects": [
       {
         "cat": "06/Jan/2022 @ 02:55:00 ",
@@ -656,7 +656,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jan/2022 @ 11:00:12 PST",
+    "last_update": "06/Jan/2022 @ 12:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2230,7 +2230,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jan/2022 @ 11:00:18 PST",
+    "last_update": "06/Jan/2022 @ 12:00:15 PST",
     "launches": {
       "future": [
         {
@@ -13384,12 +13384,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "227,126,888.44 miles",
+      "earth_distance": "227,142,061.57 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,164,617.51 miles",
+      "mars_distance": "212,149,728.74 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,105.63 mph",
+      "speed": "5,105.27 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
