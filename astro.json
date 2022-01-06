@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jan/2022 @ 04:00:04 PST",
+    "last_update": "06/Jan/2022 @ 05:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/venus_220101_ladanyi_web1024.jpg",
     "title": "The Last Days of Venus as the Evening Star (06/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -10,6 +10,24 @@
   "earthevents": {
     "date": "06/Jan/2022 PST",
     "events": [
+      {
+        "category": [
+          {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_5991",
+        "location": "https://www.google.com/maps/dir/-15.389,167.835/@-15.389,167.835,3z",
+        "name": "Ambae Volcano, Vanuatu",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=257030"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5991"
+      },
       {
         "category": [
           {
@@ -45,24 +63,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9g4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g9dm",
-        "location": "http://maps.google.com/maps?q=36.1008,140.0653",
-        "name": "M 4.4 - 9 km E of Ishige, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9dm"
       },
       {
         "category": [
@@ -135,6 +135,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000g9jg",
+        "location": "http://maps.google.com/maps?q=-2.1422,138.1463",
+        "name": "M 4.8 - 253 km ESE of Biak, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jg"
       },
       {
         "category": [
@@ -251,6 +269,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g9j8",
+        "location": "http://maps.google.com/maps?q=-59.7047,-26.317",
+        "name": "M 5.3 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9j8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g9el",
         "location": "http://maps.google.com/maps?q=-65.3619,-71.5096",
         "name": "M 5.7 - southern Pacific Ocean",
@@ -353,11 +389,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "06/Jan/2022 @ 04:00:05 PST",
+    "last_update": "06/Jan/2022 @ 05:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-2.1422,138.1463\"><b>M 4.8 - 253 km ESE of Biak, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jg\">USGS</a>",
+          -2.1422,
+          138.1463
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.7047,-26.317\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9j8\">USGS</a>",
+          -59.7047,
+          -26.317
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.4153,152.3652\"><b>M 4.8 - 119 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv\">USGS</a>",
           -5.4153,
@@ -417,11 +463,6 @@
           "<a href=\"http://maps.google.com/maps?q=23.8974,122.5201\"><b>M 4.9 - 79 km SW of Yonakuni, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g97l\">USGS</a>",
           23.8974,
           122.5201
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.1008,140.0653\"><b>M 4.4 - 9 km E of Ishige, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9dm\">USGS</a>",
-          36.1008,
-          140.0653
         ]
       ],
       "Floods": [],
@@ -432,6 +473,11 @@
       "Snow": [],
       "Temperature Extremes": [],
       "Volcanoes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.389,167.835\"><b>Ambae Volcano, Vanuatu</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"http://volcano.si.edu/volcano.cfm?vn=257030\">SIVolcano</a>",
+          -15.389,
+          167.835
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.244,55.708\"><b>Piton de la Fournaise Volcano, Réunion (France)</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=233020\">SIVolcano</a>",
           -21.244,
@@ -467,13 +513,13 @@
         ]
       ]
     },
-    "title": "19 events (06/Jan/2022 PST)"
+    "title": "21 events (06/Jan/2022 PST)"
   },
-  "last_update": "06/Jan/2022 @ 04:00:40 PST",
-  "last_update_epoch": 1641470440.337098,
+  "last_update": "06/Jan/2022 @ 05:00:34 PST",
+  "last_update_epoch": 1641474034.147403,
   "neo": {
     "date": "06/Jan/2022 PST",
-    "last_update": "06/Jan/2022 @ 04:00:08 PST",
+    "last_update": "06/Jan/2022 @ 05:00:06 PST",
     "objects": [
       {
         "cat": "06/Jan/2022 @ 05:22:00 ",
@@ -672,7 +718,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jan/2022 @ 04:00:09 PST",
+    "last_update": "06/Jan/2022 @ 05:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2246,7 +2292,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jan/2022 @ 04:00:15 PST",
+    "last_update": "06/Jan/2022 @ 05:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13400,12 +13446,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "227,020,253.68 miles",
+      "earth_distance": "227,035,532.53 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,268,719.40 miles",
+      "mars_distance": "212,253,860.52 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,108.14 mph",
+      "speed": "5,107.78 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
