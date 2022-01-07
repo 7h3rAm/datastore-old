@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jan/2022 @ 22:00:07 PST",
+    "last_update": "06/Jan/2022 @ 23:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/eclipse_EV1024.jpg",
     "title": "Ecstatic Solar Eclipse (07/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -233,6 +233,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g9u1",
+        "location": "http://maps.google.com/maps?q=-17.5207,-69.7758",
+        "name": "M 4.7 - 25 km E of Estique, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9u1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g9jp",
         "location": "http://maps.google.com/maps?q=-24.6768,-176.9406",
         "name": "M 4.7 - south of the Fiji Islands",
@@ -287,6 +305,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000g9hv",
+        "location": "http://maps.google.com/maps?q=-5.4153,152.3652",
+        "name": "M 4.8 - 119 km S of Kokopo, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000g9rx",
         "location": "http://maps.google.com/maps?q=13.1872,50.9982",
         "name": "M 4.8 - 137 km N of Caluula, Somalia",
@@ -315,24 +351,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000g9hv",
-        "location": "http://maps.google.com/maps?q=-5.4153,152.3652",
-        "name": "M 4.8 - New Britain region, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv"
       },
       {
         "category": [
@@ -515,11 +533,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "06/Jan/2022 @ 22:00:08 PST",
+    "last_update": "06/Jan/2022 @ 23:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.5207,-69.7758\"><b>M 4.7 - 25 km E of Estique, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9u1\">USGS</a>",
+          -17.5207,
+          -69.7758
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.2474,-177.5304\"><b>M 5.1 - Kermadec Islands, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9tt\">USGS</a>",
           -30.2474,
@@ -601,7 +624,7 @@
           -26.317
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.4153,152.3652\"><b>M 4.8 - New Britain region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.4153,152.3652\"><b>M 4.8 - 119 km S of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9hv\">USGS</a>",
           -5.4153,
           152.3652
         ],
@@ -674,13 +697,13 @@
         ]
       ]
     },
-    "title": "28 events (06/Jan/2022 PST)"
+    "title": "29 events (06/Jan/2022 PST)"
   },
-  "last_update": "06/Jan/2022 @ 22:00:50 PST",
-  "last_update_epoch": 1641535250.758418,
+  "last_update": "06/Jan/2022 @ 23:00:35 PST",
+  "last_update_epoch": 1641538835.50118,
   "neo": {
     "date": "07/Jan/2022 PST",
-    "last_update": "06/Jan/2022 @ 22:00:09 PST",
+    "last_update": "06/Jan/2022 @ 23:00:06 PST",
     "objects": [
       {
         "cat": "07/Jan/2022 @ 17:32:00 ",
@@ -780,7 +803,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jan/2022 @ 22:00:09 PST",
+    "last_update": "06/Jan/2022 @ 23:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2354,7 +2377,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jan/2022 @ 22:00:16 PST",
+    "last_update": "06/Jan/2022 @ 23:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13508,12 +13531,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "227,292,962.28 miles",
+      "earth_distance": "227,307,969.30 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "212,000,607.11 miles",
+      "mars_distance": "211,985,671.61 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,101.68 mph",
+      "speed": "5,101.33 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
