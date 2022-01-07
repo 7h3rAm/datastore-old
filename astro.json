@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jan/2022 @ 04:00:11 PST",
+    "last_update": "07/Jan/2022 @ 05:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/eclipse_EV1024.jpg",
     "title": "Ecstatic Solar Eclipse (07/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -135,6 +135,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9qn"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000g9vc",
+        "location": "http://maps.google.com/maps?q=11.8311,-87.1833",
+        "name": "M 4.4 - 72 km S of Corinto, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9vc"
       },
       {
         "category": [
@@ -305,24 +323,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000g9jg",
-        "location": "http://maps.google.com/maps?q=-2.1422,138.1463",
-        "name": "M 4.8 - 253 km ESE of Biak, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000g9u9",
         "location": "http://maps.google.com/maps?q=-30.1831,-177.4908",
         "name": "M 4.9 - Kermadec Islands, New Zealand",
@@ -377,16 +377,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000g9j8",
-        "location": "http://maps.google.com/maps?q=-59.7047,-26.317",
-        "name": "M 5.3 - South Sandwich Islands region",
+        "eid": "us7000g9w9",
+        "location": "http://maps.google.com/maps?q=-33.5869,77.7025",
+        "name": "M 5.3 - Mid-Indian Ridge",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9j8"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9w9"
       },
       {
         "category": [
@@ -515,15 +515,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "07/Jan/2022 @ 04:00:12 PST",
+    "last_update": "07/Jan/2022 @ 05:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=-33.5869,77.7025\"><b>M 5.3 - Mid-Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9w9\">USGS</a>",
+          -33.5869,
+          77.7025
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-11.9108,-76.6329\"><b>M 5.2 - 2 km ENE of Ricardo Palma, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9vi\">USGS</a>",
           -11.9108,
           -76.6329
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.8311,-87.1833\"><b>M 4.4 - 72 km S of Corinto, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9vc\">USGS</a>",
+          11.8311,
+          -87.1833
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.1831,-177.4908\"><b>M 4.9 - Kermadec Islands, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9u9\">USGS</a>",
@@ -604,16 +614,6 @@
           "<a href=\"http://maps.google.com/maps?q=-24.6768,-176.9406\"><b>M 4.7 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jp\">USGS</a>",
           -24.6768,
           -176.9406
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-2.1422,138.1463\"><b>M 4.8 - 253 km ESE of Biak, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9jg\">USGS</a>",
-          -2.1422,
-          138.1463
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.7047,-26.317\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000g9j8\">USGS</a>",
-          -59.7047,
-          -26.317
         ]
       ],
       "Floods": [],
@@ -676,11 +676,11 @@
     },
     "title": "28 events (07/Jan/2022 PST)"
   },
-  "last_update": "07/Jan/2022 @ 04:00:43 PST",
-  "last_update_epoch": 1641556843.592116,
+  "last_update": "07/Jan/2022 @ 05:00:39 PST",
+  "last_update_epoch": 1641560439.868373,
   "neo": {
     "date": "07/Jan/2022 PST",
-    "last_update": "07/Jan/2022 @ 04:00:13 PST",
+    "last_update": "07/Jan/2022 @ 05:00:06 PST",
     "objects": [
       {
         "cat": "07/Jan/2022 @ 17:32:00 ",
@@ -780,7 +780,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jan/2022 @ 04:00:13 PST",
+    "last_update": "07/Jan/2022 @ 05:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2354,7 +2354,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Jan/2022 @ 04:00:20 PST",
+    "last_update": "07/Jan/2022 @ 05:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13508,12 +13508,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "227,382,777.93 miles",
+      "earth_distance": "227,397,694.36 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "211,910,930.61 miles",
+      "mars_distance": "211,895,969.73 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,099.53 mph",
+      "speed": "5,099.17 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
