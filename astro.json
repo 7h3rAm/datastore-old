@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jan/2022 @ 10:00:07 PST",
+    "last_update": "08/Jan/2022 @ 11:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/QuadrantidsnorthernskyRadioTelescopeArray1024.jpg",
     "title": "Quadrantids of the North (08/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -341,24 +341,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ga05",
-        "location": "http://maps.google.com/maps?q=37.7343,101.127",
-        "name": "M 5.1 - 126 km SW of Jinchang, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ga05"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000ga1s",
         "location": "http://maps.google.com/maps?q=-3.4957,68.4567",
         "name": "M 5.1 - Chagos Archipelago region",
@@ -551,7 +533,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "08/Jan/2022 @ 10:00:08 PST",
+    "last_update": "08/Jan/2022 @ 11:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -655,11 +637,6 @@
           "<a href=\"http://maps.google.com/maps?q=11.14,-86.7326\"><b>M 4.3 - 75 km SSW of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ga0m\">USGS</a>",
           11.14,
           -86.7326
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.7343,101.127\"><b>M 5.1 - 126 km SW of Jinchang, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ga05\">USGS</a>",
-          37.7343,
-          101.127
         ]
       ],
       "Floods": [],
@@ -720,13 +697,13 @@
         ]
       ]
     },
-    "title": "30 events (08/Jan/2022 PST)"
+    "title": "29 events (08/Jan/2022 PST)"
   },
-  "last_update": "08/Jan/2022 @ 10:00:47 PST",
-  "last_update_epoch": 1641664847.410458,
+  "last_update": "08/Jan/2022 @ 11:00:53 PST",
+  "last_update_epoch": 1641668453.685536,
   "neo": {
     "date": "08/Jan/2022 PST",
-    "last_update": "08/Jan/2022 @ 10:00:10 PST",
+    "last_update": "08/Jan/2022 @ 11:00:08 PST",
     "objects": [
       {
         "cat": "08/Jan/2022 @ 15:21:00 ",
@@ -835,7 +812,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "08/Jan/2022 @ 10:00:10 PST",
+    "last_update": "08/Jan/2022 @ 11:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2409,7 +2386,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "08/Jan/2022 @ 10:00:16 PST",
+    "last_update": "08/Jan/2022 @ 11:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13563,12 +13540,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "227,823,706.10 miles",
+      "earth_distance": "227,838,169.88 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "211,460,278.04 miles",
+      "mars_distance": "211,445,191.59 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,088.68 mph",
+      "speed": "5,088.32 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
