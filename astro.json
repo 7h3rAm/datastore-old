@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jan/2022 @ 09:00:06 PST",
+    "last_update": "09/Jan/2022 @ 10:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/JupiterOpal_HubbleMasztalerz_960.jpg",
     "title": "Hubble's Jupiter and the Shrinking Great Red Spot (09/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -233,6 +233,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gadx",
+        "location": "http://maps.google.com/maps?q=11.9822,-87.1375",
+        "name": "M 4.9 - 55 km S of Corinto, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gadx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000ga9y",
         "location": "http://maps.google.com/maps?q=-7.1771,152.5799",
         "name": "M 5.9 - New Britain region, Papua New Guinea",
@@ -353,11 +371,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "09/Jan/2022 @ 09:00:18 PST",
+    "last_update": "09/Jan/2022 @ 10:00:12 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.9822,-87.1375\"><b>M 4.9 - 55 km S of Corinto, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gadx\">USGS</a>",
+          11.9822,
+          -87.1375
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.0762,-179.6411\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gadm\">USGS</a>",
           -23.0762,
@@ -467,13 +490,13 @@
         ]
       ]
     },
-    "title": "19 events (09/Jan/2022 PST)"
+    "title": "20 events (09/Jan/2022 PST)"
   },
-  "last_update": "09/Jan/2022 @ 09:00:50 PST",
-  "last_update_epoch": 1641747650.62477,
+  "last_update": "09/Jan/2022 @ 10:00:45 PST",
+  "last_update_epoch": 1641751245.004567,
   "neo": {
     "date": "09/Jan/2022 PST",
-    "last_update": "09/Jan/2022 @ 09:00:22 PST",
+    "last_update": "09/Jan/2022 @ 10:00:13 PST",
     "objects": [
       {
         "cat": "09/Jan/2022 @ 06:30:00 ",
@@ -663,7 +686,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jan/2022 @ 09:00:22 PST",
+    "last_update": "09/Jan/2022 @ 10:00:13 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2237,7 +2260,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Jan/2022 @ 09:00:29 PST",
+    "last_update": "09/Jan/2022 @ 10:00:19 PST",
     "launches": {
       "future": [
         {
@@ -13391,12 +13414,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "228,152,559.73 miles",
+      "earth_distance": "228,166,676.92 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "211,112,244.12 miles",
+      "mars_distance": "211,097,062.85 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,080.31 mph",
+      "speed": "5,079.94 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
