@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Jan/2022 @ 10:00:05 PST",
+    "last_update": "10/Jan/2022 @ 11:00:08 PST",
     "source": "https://www.youtube.com/embed/RtDSxi-D4KA?rel=0",
     "title": "Comet Leonard's Tail Wag (10/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -605,7 +605,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "10/Jan/2022 @ 10:00:11 PST",
+    "last_update": "10/Jan/2022 @ 11:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -791,11 +791,11 @@
     },
     "title": "33 events (10/Jan/2022 PST)"
   },
-  "last_update": "10/Jan/2022 @ 10:00:46 PST",
-  "last_update_epoch": 1641837646.784006,
+  "last_update": "10/Jan/2022 @ 11:00:43 PST",
+  "last_update_epoch": 1641841243.42255,
   "neo": {
     "date": "10/Jan/2022 PST",
-    "last_update": "10/Jan/2022 @ 10:00:12 PST",
+    "last_update": "10/Jan/2022 @ 11:00:10 PST",
     "objects": [
       {
         "cat": "10/Jan/2022 @ 16:51:00 ",
@@ -958,7 +958,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Jan/2022 @ 10:00:12 PST",
+    "last_update": "10/Jan/2022 @ 11:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2532,7 +2532,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Jan/2022 @ 10:00:18 PST",
+    "last_update": "10/Jan/2022 @ 11:00:16 PST",
     "launches": {
       "future": [
         {
@@ -13686,12 +13686,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "228,500,973.81 miles",
+      "earth_distance": "228,514,714.80 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "210,731,489.87 miles",
+      "mars_distance": "210,716,206.99 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,071.14 mph",
+      "speed": "5,070.78 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
