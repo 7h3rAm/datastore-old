@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jan/2022 @ 23:00:05 PST",
+    "last_update": "10/Jan/2022 @ 00:00:03 PST",
     "source": "https://www.youtube.com/embed/RtDSxi-D4KA?rel=0",
     "title": "Comet Leonard's Tail Wag (10/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "09/Jan/2022 PST",
+    "date": "10/Jan/2022 PST",
     "events": [
       {
         "category": [
@@ -243,6 +243,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaci"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gahp",
+        "location": "http://maps.google.com/maps?q=-30.7939,-71.4586",
+        "name": "M 4.9 - 32 km SW of Ovalle, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gahp"
       },
       {
         "category": [
@@ -515,11 +533,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "09/Jan/2022 @ 23:00:06 PST",
+    "last_update": "10/Jan/2022 @ 00:00:04 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-30.7939,-71.4586\"><b>M 4.9 - 32 km SW of Ovalle, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gahp\">USGS</a>",
+          -30.7939,
+          -71.4586
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-33.7624,179.5061\"><b>M 5.3 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gahf\">USGS</a>",
           -33.7624,
@@ -674,13 +697,13 @@
         ]
       ]
     },
-    "title": "28 events (09/Jan/2022 PST)"
+    "title": "29 events (10/Jan/2022 PST)"
   },
-  "last_update": "09/Jan/2022 @ 23:00:39 PST",
-  "last_update_epoch": 1641798039.553213,
+  "last_update": "10/Jan/2022 @ 00:01:02 PST",
+  "last_update_epoch": 1641801662.193087,
   "neo": {
     "date": "10/Jan/2022 PST",
-    "last_update": "09/Jan/2022 @ 23:00:08 PST",
+    "last_update": "10/Jan/2022 @ 00:00:06 PST",
     "objects": [
       {
         "cat": "10/Jan/2022 @ 16:51:00 ",
@@ -776,7 +799,7 @@
     "title": "10 objects making close approach (10/Jan/2022 PST)"
   },
   "satview": {
-    "date": "09/Jan/2022 PST",
+    "date": "10/Jan/2022 PST",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 08/Jan/2022 @ 10:41:30 PST.",
@@ -843,7 +866,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jan/2022 @ 23:00:08 PST",
+    "last_update": "10/Jan/2022 @ 00:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -896,7 +919,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhai+Zhigang"
       }
     ],
-    "title": "10 people in space (09/Jan/2022 PST)"
+    "title": "10 people in space (10/Jan/2022 PST)"
   },
   "spacex": {
     "capsules": [
@@ -2417,7 +2440,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "09/Jan/2022 @ 23:00:14 PST",
+    "last_update": "10/Jan/2022 @ 00:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13571,12 +13594,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "228,348,830.33 miles",
+      "earth_distance": "228,362,736.77 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "210,899,334.69 miles",
+      "mars_distance": "210,884,096.33 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,075.18 mph",
+      "speed": "5,074.82 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
