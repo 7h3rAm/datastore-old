@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jan/2022 @ 03:00:07 PST",
+    "last_update": "11/Jan/2022 @ 04:00:08 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/OrionStarFree3_Harbison_1080.jpg",
     "title": "Orion's Belt Region in Gas and Dust (11/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -215,6 +215,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gatl",
+        "location": "http://maps.google.com/maps?q=18.4687,-73.5518",
+        "name": "M 4.6 - 7 km SW of Petit Trou de Nippes, Haiti",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gatl"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "ak022ia1dkp",
         "location": "http://maps.google.com/maps?q=58.6498,-152.4695",
         "name": "M 4.6 - 70 km NNE of Aleneva, Alaska",
@@ -251,24 +269,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gatl",
-        "location": "http://maps.google.com/maps?q=18.4687,-73.5518",
-        "name": "M 4.6 - Haiti region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gatl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000garh",
         "location": "http://maps.google.com/maps?q=-59.3511,-25.634",
         "name": "M 4.6 - South Sandwich Islands region",
@@ -287,16 +287,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gaiz",
-        "location": "http://maps.google.com/maps?q=-18.1289,-178.1817",
-        "name": "M 4.8 - 264 km E of Levuka, Fiji",
+        "eid": "us7000gava",
+        "location": "http://maps.google.com/maps?q=53.0058,-171.4565",
+        "name": "M 4.8 - 174 km W of Nikolski, Alaska",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaiz"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gava"
       },
       {
         "category": [
@@ -431,24 +431,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gaiu",
-        "location": "http://maps.google.com/maps?q=-24.7796,-176.0645",
-        "name": "M 5.3 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaiu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gani",
         "location": "http://maps.google.com/maps?q=-25.0021,179.8864",
         "name": "M 5.7 - south of the Fiji Islands",
@@ -495,6 +477,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaqu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gavu",
+        "location": "http://maps.google.com/maps?q=52.6563,-167.9169",
+        "name": "M 6.8 - 71 km ESE of Nikolski, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gavu"
       },
       {
         "category": [
@@ -605,11 +605,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "11/Jan/2022 @ 03:00:09 PST",
+    "last_update": "11/Jan/2022 @ 04:00:09 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=52.6563,-167.9169\"><b>M 6.8 - 71 km ESE of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gavu\">USGS</a>",
+          52.6563,
+          -167.9169
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=53.0058,-171.4565\"><b>M 4.8 - 174 km W of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gava\">USGS</a>",
+          53.0058,
+          -171.4565
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=3.7495,-31.5061\"><b>M 4.8 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gavc\">USGS</a>",
           3.7495,
@@ -636,7 +646,7 @@
           -73.553
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=18.4687,-73.5518\"><b>M 4.6 - Haiti region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gatl\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=18.4687,-73.5518\"><b>M 4.6 - 7 km SW of Petit Trou de Nippes, Haiti</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gatl\">USGS</a>",
           18.4687,
           -73.5518
         ],
@@ -719,16 +729,6 @@
           "<a href=\"http://maps.google.com/maps?q=-33.8772,179.8345\"><b>M 4.8 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaju\">USGS</a>",
           -33.8772,
           179.8345
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1289,-178.1817\"><b>M 4.8 - 264 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaiz\">USGS</a>",
-          -18.1289,
-          -178.1817
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.7796,-176.0645\"><b>M 5.3 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaiu\">USGS</a>",
-          -24.7796,
-          -176.0645
         ]
       ],
       "Floods": [],
@@ -791,11 +791,11 @@
     },
     "title": "33 events (11/Jan/2022 PST)"
   },
-  "last_update": "11/Jan/2022 @ 03:00:46 PST",
-  "last_update_epoch": 1641898846.851137,
+  "last_update": "11/Jan/2022 @ 04:00:40 PST",
+  "last_update_epoch": 1641902440.321817,
   "neo": {
     "date": "11/Jan/2022 PST",
-    "last_update": "11/Jan/2022 @ 03:00:10 PST",
+    "last_update": "11/Jan/2022 @ 04:00:10 PST",
     "objects": [
       {
         "cat": "11/Jan/2022 @ 19:19:00 ",
@@ -1003,7 +1003,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jan/2022 @ 03:00:10 PST",
+    "last_update": "11/Jan/2022 @ 04:00:11 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2577,7 +2577,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "11/Jan/2022 @ 03:00:17 PST",
+    "last_update": "11/Jan/2022 @ 04:00:17 PST",
     "launches": {
       "future": [
         {
@@ -13731,12 +13731,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "228,732,526.36 miles",
+      "earth_distance": "228,746,011.87 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "210,471,134.20 miles",
+      "mars_distance": "210,455,783.11 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,064.88 mph",
+      "speed": "5,064.51 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
