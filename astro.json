@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Jan/2022 @ 16:00:09 PST",
+    "last_update": "10/Jan/2022 @ 17:00:05 PST",
     "source": "https://www.youtube.com/embed/RtDSxi-D4KA?rel=0",
     "title": "Comet Leonard's Tail Wag (10/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -109,7 +109,7 @@
         ],
         "eid": "us7000gahm",
         "location": "http://maps.google.com/maps?q=-21.9729,-68.6233",
-        "name": "M 4.1 - Antofagasta, Chile",
+        "name": "M 4.1 - 61 km NNE of Calama, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -323,6 +323,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gaqk",
+        "location": "http://maps.google.com/maps?q=0.1727,96.7244",
+        "name": "M 5.2 - 258 km S of Sinabang, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaqk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gagh",
         "location": "http://maps.google.com/maps?q=-33.897,179.748",
         "name": "M 5.2 - south of the Kermadec Islands",
@@ -333,24 +351,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gagh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gagc",
-        "location": "http://maps.google.com/maps?q=-33.8502,179.6074",
-        "name": "M 5.2 - south of the Kermadec Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gagc"
       },
       {
         "category": [
@@ -441,24 +441,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaq7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gag3",
-        "location": "http://maps.google.com/maps?q=-33.7964,179.5534",
-        "name": "M 6.2 - south of the Kermadec Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gag3"
       },
       {
         "category": [
@@ -569,11 +551,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5983"
       }
     ],
-    "last_update": "10/Jan/2022 @ 16:00:10 PST",
+    "last_update": "10/Jan/2022 @ 17:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=0.1727,96.7244\"><b>M 5.2 - 258 km S of Sinabang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaqk\">USGS</a>",
+          0.1727,
+          96.7244
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=28.4733,-43.6218\"><b>M 5.8 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaq7\">USGS</a>",
           28.4733,
@@ -650,7 +637,7 @@
           -71.4586
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-21.9729,-68.6233\"><b>M 4.1 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gahm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-21.9729,-68.6233\"><b>M 4.1 - 61 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gahm\">USGS</a>",
           -21.9729,
           -68.6233
         ],
@@ -673,16 +660,6 @@
           "<a href=\"http://maps.google.com/maps?q=-33.897,179.748\"><b>M 5.2 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gagh\">USGS</a>",
           -33.897,
           179.748
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.8502,179.6074\"><b>M 5.2 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gagc\">USGS</a>",
-          -33.8502,
-          179.6074
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.7964,179.5534\"><b>M 6.2 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gag3\">USGS</a>",
-          -33.7964,
-          179.5534
         ]
       ],
       "Floods": [],
@@ -743,13 +720,13 @@
         ]
       ]
     },
-    "title": "31 events (10/Jan/2022 PST)"
+    "title": "30 events (10/Jan/2022 PST)"
   },
-  "last_update": "10/Jan/2022 @ 16:01:03 PST",
-  "last_update_epoch": 1641859263.225642,
+  "last_update": "10/Jan/2022 @ 17:00:33 PST",
+  "last_update_epoch": 1641862833.77753,
   "neo": {
     "date": "11/Jan/2022 PST",
-    "last_update": "10/Jan/2022 @ 16:00:12 PST",
+    "last_update": "10/Jan/2022 @ 17:00:07 PST",
     "objects": [
       {
         "cat": "11/Jan/2022 @ 19:19:00 ",
@@ -957,7 +934,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Jan/2022 @ 16:00:13 PST",
+    "last_update": "10/Jan/2022 @ 17:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2531,7 +2508,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Jan/2022 @ 16:00:24 PST",
+    "last_update": "10/Jan/2022 @ 17:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13685,12 +13662,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "228,583,194.21 miles",
+      "earth_distance": "228,596,844.99 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "210,639,732.16 miles",
+      "mars_distance": "210,624,425.13 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,068.94 mph",
+      "speed": "5,068.57 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
