@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jan/2022 @ 12:00:14 PST",
+    "last_update": "15/Jan/2022 @ 13:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/PIA19048europa1024.jpg",
     "title": "Galileo's Europa (15/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -217,7 +217,7 @@
         ],
         "eid": "us7000gc85",
         "location": "http://maps.google.com/maps?q=36.5878,71.462",
-        "name": "M 4.3 - Hindu Kush region, Afghanistan",
+        "name": "M 4.3 - 12 km SSW of Ashkāsham, Afghanistan",
         "source": [
           {
             "sid": "USGS",
@@ -333,24 +333,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc5b"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gc3e",
-        "location": "http://maps.google.com/maps?q=-7.1191,105.2777",
-        "name": "M 4.7 - 102 km SW of Labuan, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc3e"
       },
       {
         "category": [
@@ -595,7 +577,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "15/Jan/2022 @ 12:00:16 PST",
+    "last_update": "15/Jan/2022 @ 13:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -641,7 +623,7 @@
           50.319
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.5878,71.462\"><b>M 4.3 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.5878,71.462\"><b>M 4.3 - 12 km SSW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85\">USGS</a>",
           36.5878,
           71.462
         ],
@@ -704,11 +686,6 @@
           "<a href=\"http://maps.google.com/maps?q=41.9825,20.0848\"><b>M 4.3 - 10 km SSE of Fushë-Arrëz, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc41\">USGS</a>",
           41.9825,
           20.0848
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.1191,105.2777\"><b>M 4.7 - 102 km SW of Labuan, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc3e\">USGS</a>",
-          -7.1191,
-          105.2777
         ]
       ],
       "Floods": [],
@@ -910,13 +887,13 @@
         ]
       ]
     },
-    "title": "32 events (15/Jan/2022 PST)"
+    "title": "31 events (15/Jan/2022 PST)"
   },
-  "last_update": "15/Jan/2022 @ 12:01:07 PST",
-  "last_update_epoch": 1642276867.218135,
+  "last_update": "15/Jan/2022 @ 13:00:55 PST",
+  "last_update_epoch": 1642280455.975825,
   "neo": {
     "date": "15/Jan/2022 PST",
-    "last_update": "15/Jan/2022 @ 12:00:17 PST",
+    "last_update": "15/Jan/2022 @ 13:00:07 PST",
     "objects": [
       {
         "cat": "15/Jan/2022 @ 18:34:00 ",
@@ -1124,7 +1101,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jan/2022 @ 12:00:17 PST",
+    "last_update": "15/Jan/2022 @ 13:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2698,7 +2675,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jan/2022 @ 12:00:23 PST",
+    "last_update": "15/Jan/2022 @ 13:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13886,12 +13863,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "230,068,680.65 miles",
+      "earth_distance": "230,080,592.30 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "208,835,324.84 miles",
+      "mars_distance": "208,819,567.85 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,025.51 mph",
+      "speed": "5,025.13 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
