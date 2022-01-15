@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jan/2022 @ 02:00:36 PST",
+    "last_update": "15/Jan/2022 @ 03:00:10 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/PIA19048europa1024.jpg",
     "title": "Galileo's Europa (15/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -161,24 +161,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gby3",
-        "location": "http://maps.google.com/maps?q=52.2755,-167.9376",
-        "name": "M 4.1 - 96 km SE of Nikolski, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gby3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gc6t",
         "location": "http://maps.google.com/maps?q=36.5059,70.9494",
         "name": "M 4.2 - 41 km SSE of Jurm, Afghanistan",
@@ -243,24 +225,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc59"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gbxq",
-        "location": "http://maps.google.com/maps?q=-7.5142,128.588",
-        "name": "M 4.6 - 207 km ENE of Lospalos, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbxq"
       },
       {
         "category": [
@@ -613,7 +577,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "15/Jan/2022 @ 02:01:17 PST",
+    "last_update": "15/Jan/2022 @ 03:00:15 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -722,16 +686,6 @@
           "<a href=\"http://maps.google.com/maps?q=-23.4146,-70.9115\"><b>M 4.6 - 58 km WNW of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gby7\">USGS</a>",
           -23.4146,
           -70.9115
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.2755,-167.9376\"><b>M 4.1 - 96 km SE of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gby3\">USGS</a>",
-          52.2755,
-          -167.9376
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.5142,128.588\"><b>M 4.6 - 207 km ENE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbxq\">USGS</a>",
-          -7.5142,
-          128.588
         ]
       ],
       "Floods": [],
@@ -933,13 +887,13 @@
         ]
       ]
     },
-    "title": "33 events (15/Jan/2022 PST)"
+    "title": "31 events (15/Jan/2022 PST)"
   },
-  "last_update": "15/Jan/2022 @ 02:06:36 PST",
-  "last_update_epoch": 1642241196.231548,
+  "last_update": "15/Jan/2022 @ 03:02:39 PST",
+  "last_update_epoch": 1642244559.500998,
   "neo": {
     "date": "15/Jan/2022 PST",
-    "last_update": "15/Jan/2022 @ 02:01:25 PST",
+    "last_update": "15/Jan/2022 @ 03:00:16 PST",
     "objects": [
       {
         "cat": "15/Jan/2022 @ 18:34:00 ",
@@ -1147,7 +1101,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jan/2022 @ 02:01:28 PST",
+    "last_update": "15/Jan/2022 @ 03:00:17 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2721,7 +2675,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jan/2022 @ 02:03:59 PST",
+    "last_update": "15/Jan/2022 @ 03:01:03 PST",
     "launches": {
       "future": [
         {
@@ -13909,12 +13863,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "229,946,732.20 miles",
+      "earth_distance": "229,958,795.50 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "208,995,308.86 miles",
+      "mars_distance": "208,979,589.89 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,029.36 mph",
+      "speed": "5,028.99 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
