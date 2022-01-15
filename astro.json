@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Jan/2022 @ 06:00:04 PST",
+    "last_update": "15/Jan/2022 @ 07:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/PIA19048europa1024.jpg",
     "title": "Galileo's Europa (15/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -197,24 +197,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gc85",
-        "location": "http://maps.google.com/maps?q=36.5878,71.462",
-        "name": "M 4.3 - 12 km SSW of Ashkāsham, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gc2k",
         "location": "http://maps.google.com/maps?q=36.4763,70.493",
         "name": "M 4.3 - 52 km SW of Jurm, Afghanistan",
@@ -225,6 +207,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc2k"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gc85",
+        "location": "http://maps.google.com/maps?q=36.5878,71.462",
+        "name": "M 4.3 - Hindu Kush region, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85"
       },
       {
         "category": [
@@ -287,24 +287,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak022ne5zcd",
-        "location": "http://maps.google.com/maps?q=57.4626,-136.4024",
-        "name": "M 4.6 - 56 km S of Pelican, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak022ne5zcd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gc8d",
         "location": "http://maps.google.com/maps?q=12.9789,-89.1586",
         "name": "M 4.6 - 59 km SSW of El Rosario, El Salvador",
@@ -351,6 +333,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc3e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gc8m",
+        "location": "http://maps.google.com/maps?q=30.4033,57.3352",
+        "name": "M 4.7 - 28 km ENE of Kerman, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc8m"
       },
       {
         "category": [
@@ -595,11 +595,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "15/Jan/2022 @ 06:00:05 PST",
+    "last_update": "15/Jan/2022 @ 07:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.4033,57.3352\"><b>M 4.7 - 28 km ENE of Kerman, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc8m\">USGS</a>",
+          30.4033,
+          57.3352
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.957,44.6121\"><b>M 4.2 - 29 km SSW of Salmās, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc8f\">USGS</a>",
           37.957,
@@ -616,7 +621,7 @@
           50.319
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.5878,71.462\"><b>M 4.3 - 12 km SSW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.5878,71.462\"><b>M 4.3 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc85\">USGS</a>",
           36.5878,
           71.462
         ],
@@ -704,11 +709,6 @@
           "<a href=\"http://maps.google.com/maps?q=-28.2815,-176.7216\"><b>M 5.0 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gbyy\">USGS</a>",
           -28.2815,
           -176.7216
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=57.4626,-136.4024\"><b>M 4.6 - 56 km S of Pelican, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak022ne5zcd\">USGS</a>",
-          57.4626,
-          -136.4024
         ]
       ],
       "Floods": [],
@@ -912,11 +912,11 @@
     },
     "title": "32 events (15/Jan/2022 PST)"
   },
-  "last_update": "15/Jan/2022 @ 06:00:40 PST",
-  "last_update_epoch": 1642255240.275801,
+  "last_update": "15/Jan/2022 @ 07:00:45 PST",
+  "last_update_epoch": 1642258845.234295,
   "neo": {
     "date": "15/Jan/2022 PST",
-    "last_update": "15/Jan/2022 @ 06:00:06 PST",
+    "last_update": "15/Jan/2022 @ 07:00:07 PST",
     "objects": [
       {
         "cat": "15/Jan/2022 @ 18:34:00 ",
@@ -1124,7 +1124,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "15/Jan/2022 @ 06:00:06 PST",
+    "last_update": "15/Jan/2022 @ 07:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2698,7 +2698,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "15/Jan/2022 @ 06:00:12 PST",
+    "last_update": "15/Jan/2022 @ 07:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13886,12 +13886,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "229,994,895.90 miles",
+      "earth_distance": "230,006,899.53 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "208,932,410.46 miles",
+      "mars_distance": "208,916,676.50 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,027.85 mph",
+      "speed": "5,027.47 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
