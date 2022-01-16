@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Jan/2022 @ 09:00:04 PST",
+    "last_update": "16/Jan/2022 @ 10:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/thundercloud_dyer_1592.jpg",
     "title": "A Retreating Thunderstorm at Sunset (16/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -197,6 +197,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gchh",
+        "location": "http://maps.google.com/maps?q=-15.1799,-72.3231",
+        "name": "M 4.4 - 9 km NNE of Orcopampa, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gchh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gcak",
         "location": "http://maps.google.com/maps?q=-16.1588,-173.7742",
         "name": "M 4.5 - 22 km S of Hihifo, Tonga",
@@ -333,24 +351,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gccd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gc9f",
-        "location": "http://maps.google.com/maps?q=-58.0492,-23.7713",
-        "name": "M 5.0 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc9f"
       },
       {
         "category": [
@@ -595,11 +595,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "16/Jan/2022 @ 09:00:05 PST",
+    "last_update": "16/Jan/2022 @ 10:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.1799,-72.3231\"><b>M 4.4 - 9 km NNE of Orcopampa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gchh\">USGS</a>",
+          -15.1799,
+          -72.3231
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-17.4266,-174.2131\"><b>M 4.6 - 137 km N of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gchb\">USGS</a>",
           -17.4266,
@@ -704,11 +709,6 @@
           "<a href=\"http://maps.google.com/maps?q=42.2329,138.5293\"><b>M 4.2 - 181 km WNW of Kamiiso, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gca3\">USGS</a>",
           42.2329,
           138.5293
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.0492,-23.7713\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gc9f\">USGS</a>",
-          -58.0492,
-          -23.7713
         ]
       ],
       "Floods": [],
@@ -912,11 +912,11 @@
     },
     "title": "32 events (16/Jan/2022 PST)"
   },
-  "last_update": "16/Jan/2022 @ 09:00:31 PST",
-  "last_update_epoch": 1642352431.598299,
+  "last_update": "16/Jan/2022 @ 10:00:34 PST",
+  "last_update_epoch": 1642356034.692882,
   "neo": {
     "date": "16/Jan/2022 PST",
-    "last_update": "16/Jan/2022 @ 09:00:06 PST",
+    "last_update": "16/Jan/2022 @ 10:00:06 PST",
     "objects": [
       {
         "cat": "16/Jan/2022 @ 05:28:00 ",
@@ -1097,7 +1097,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Jan/2022 @ 09:00:06 PST",
+    "last_update": "16/Jan/2022 @ 10:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2671,7 +2671,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Jan/2022 @ 09:00:12 PST",
+    "last_update": "16/Jan/2022 @ 10:00:11 PST",
     "launches": {
       "future": [
         {
@@ -13859,12 +13859,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "230,313,760.64 miles",
+      "earth_distance": "230,325,361.83 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "208,506,288.44 miles",
+      "mars_distance": "208,490,454.41 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,017.60 mph",
+      "speed": "5,017.21 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
