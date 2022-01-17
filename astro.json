@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jan/2022 @ 03:00:05 PST",
+    "last_update": "17/Jan/2022 @ 04:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/DarkNebulaVd_HmoRuuth_960.jpg",
     "title": "Chamaeleon Dark Nebulas (17/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -395,16 +395,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gcfq",
-        "location": "http://maps.google.com/maps?q=40.0353,24.3694",
-        "name": "M 5.5 - 26 km SSE of Karyes, Greece",
+        "eid": "us7000gclu",
+        "location": "http://maps.google.com/maps?q=34.9479,63.5686",
+        "name": "M 5.6 - 40 km E of Qala i Naw, Afghanistan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcfq"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gclu"
       },
       {
         "category": [
@@ -485,28 +485,6 @@
       {
         "category": [
           {
-            "emoji": "🌀",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
-          }
-        ],
-        "eid": "EONET_5995",
-        "location": "https://www.google.com/maps/dir/-14,146.7/-14.1,145.8/-14.1,144.9/-14.2,144.3/-14.6,143.8/-14.7,142.8/-14.6,141.4/-14.6,140.8/-15.1,139.6/-14.9,138.0/-14.9,136.8/-14.9,135.3/@-14,146.7,3z",
-        "name": "Tropical Cyclone Tiffany",
-        "source": [
-          {
-            "sid": "GDACS",
-            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC"
-          },
-          {
-            "sid": "JTWC",
-            "url": "https://www.metoc.navy.mil/jtwc/products/sh0622.tcw"
-          }
-        ],
-        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5995"
-      },
-      {
-        "category": [
-          {
             "emoji": "🔥",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
@@ -559,11 +537,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "17/Jan/2022 @ 03:00:07 PST",
+    "last_update": "17/Jan/2022 @ 04:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=34.9479,63.5686\"><b>M 5.6 - 40 km E of Qala i Naw, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gclu\">USGS</a>",
+          34.9479,
+          63.5686
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.8854,63.6704\"><b>M 4.9 - 50 km ESE of Qala i Naw, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcle\">USGS</a>",
           34.8854,
@@ -658,11 +641,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.0695,24.3299\"><b>M 4.6 - 22 km SSE of Karyes, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcfr\">USGS</a>",
           40.0695,
           24.3299
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=40.0353,24.3694\"><b>M 5.5 - 26 km SSE of Karyes, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gcfq\">USGS</a>",
-          40.0353,
-          24.3694
         ]
       ],
       "Floods": [],
@@ -754,66 +732,6 @@
           "<a href=\"http://maps.google.com/maps?q=-26.9,177\"><b>Tropical Cyclone Cody</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000856&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0522.tcw\">JTWC</a>",
           -26.9,
           177
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14,146.7\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14,
-          146.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.1,145.8\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.1,
-          145.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.1,144.9\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.1,
-          144.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.2,144.3\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.2,
-          144.3
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.6,143.8\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.6,
-          143.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.7,142.8\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.7,
-          142.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.6,141.4\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.6,
-          141.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.6,140.8\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.6,
-          140.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.1,139.6\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -15.1,
-          139.6
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.9,138.0\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.9,
-          138.0
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.9,136.8\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.9,
-          136.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.9,135.3\"><b>Tropical Cyclone Tiffany</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000857&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0622.tcw\">JTWC</a>",
-          -14.9,
-          135.3
         ]
       ],
       "Snow": [],
@@ -864,13 +782,13 @@
         ]
       ]
     },
-    "title": "30 events (17/Jan/2022 PST)"
+    "title": "29 events (17/Jan/2022 PST)"
   },
-  "last_update": "17/Jan/2022 @ 03:00:42 PST",
-  "last_update_epoch": 1642417242.237857,
+  "last_update": "17/Jan/2022 @ 04:00:39 PST",
+  "last_update_epoch": 1642420839.455111,
   "neo": {
     "date": "17/Jan/2022 PST",
-    "last_update": "17/Jan/2022 @ 03:00:07 PST",
+    "last_update": "17/Jan/2022 @ 04:00:07 PST",
     "objects": [
       {
         "cat": "17/Jan/2022 @ 20:44:00 ",
@@ -1051,7 +969,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jan/2022 @ 03:00:08 PST",
+    "last_update": "17/Jan/2022 @ 04:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2625,7 +2543,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jan/2022 @ 03:00:14 PST",
+    "last_update": "17/Jan/2022 @ 04:00:14 PST",
     "launches": {
       "future": [
         {
@@ -13813,12 +13731,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "230,520,304.19 miles",
+      "earth_distance": "230,531,637.44 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "208,220,716.83 miles",
+      "mars_distance": "208,204,817.17 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "5,010.72 mph",
+      "speed": "5,010.34 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
