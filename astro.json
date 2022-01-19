@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Jan/2022 @ 14:00:12 PST",
+    "last_update": "19/Jan/2022 @ 15:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/M31_HstSubaruGendler_960.jpg",
     "title": "M31: The Andromeda Galaxy (19/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -89,16 +89,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gd0v",
-        "location": "http://maps.google.com/maps?q=36.0958,71.1049",
-        "name": "M 4.4 - 75 km SSW of Ashkāsham, Afghanistan",
+        "eid": "us7000gdc4",
+        "location": "http://maps.google.com/maps?q=-21.5368,-68.4608",
+        "name": "M 4.2 - 112 km NNE of Calama, Chile",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gd0v"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdc4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gdcd",
+        "location": "http://maps.google.com/maps?q=32.3697,105.289",
+        "name": "M 4.4 - Sichuan-Gansu border region, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdcd"
       },
       {
         "category": [
@@ -407,11 +425,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "19/Jan/2022 @ 14:00:21 PST",
+    "last_update": "19/Jan/2022 @ 15:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.5368,-68.4608\"><b>M 4.2 - 112 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdc4\">USGS</a>",
+          -21.5368,
+          -68.4608
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=32.3697,105.289\"><b>M 4.4 - Sichuan-Gansu border region, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdcd\">USGS</a>",
+          32.3697,
+          105.289
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.8366,-64.3845\"><b>M 4.0 - 70 km NE of Cruz Bay, U.S. Virgin Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2022019009\">USGS</a>",
           18.8366,
@@ -476,11 +504,6 @@
           "<a href=\"http://maps.google.com/maps?q=-20.8291,-175.3305\"><b>M 4.8 - 36 km NNW of Nuku‘alofa, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gd26\">USGS</a>",
           -20.8291,
           -175.3305
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.0958,71.1049\"><b>M 4.4 - 75 km SSW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gd0v\">USGS</a>",
-          36.0958,
-          71.1049
         ]
       ],
       "Floods": [],
@@ -536,13 +559,13 @@
         ]
       ]
     },
-    "title": "22 events (19/Jan/2022 PST)"
+    "title": "23 events (19/Jan/2022 PST)"
   },
-  "last_update": "19/Jan/2022 @ 14:03:00 PST",
-  "last_update_epoch": 1642629780.075454,
+  "last_update": "19/Jan/2022 @ 15:00:39 PST",
+  "last_update_epoch": 1642633239.364381,
   "neo": {
     "date": "19/Jan/2022 PST",
-    "last_update": "19/Jan/2022 @ 14:00:26 PST",
+    "last_update": "19/Jan/2022 @ 15:00:07 PST",
     "objects": [
       {
         "cat": "19/Jan/2022 @ 08:53:00 ",
@@ -651,7 +674,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Jan/2022 @ 14:00:29 PST",
+    "last_update": "19/Jan/2022 @ 15:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2225,7 +2248,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Jan/2022 @ 14:01:15 PST",
+    "last_update": "19/Jan/2022 @ 15:00:13 PST",
     "launches": {
       "future": [
         {
@@ -13413,12 +13436,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "231,163,530.60 miles",
+      "earth_distance": "231,173,987.06 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "207,276,526.80 miles",
+      "mars_distance": "207,260,418.03 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,988.00 mph",
+      "speed": "4,987.61 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
