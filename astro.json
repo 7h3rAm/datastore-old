@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jan/2022 @ 11:00:04 PST",
+    "last_update": "20/Jan/2022 @ 12:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/IMG_9447_1024.jpg",
     "title": "NGC 7822 in Cepheus (20/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -676,8 +676,8 @@
     },
     "title": "28 events (20/Jan/2022 PST)"
   },
-  "last_update": "20/Jan/2022 @ 11:00:43 PST",
-  "last_update_epoch": 1642705243.112643,
+  "last_update": "20/Jan/2022 @ 12:00:05 PST",
+  "last_update_epoch": 1642708805.628912,
   "neo": {
     "date": "20/Jan/2022 PST",
     "last_update": "20/Jan/2022 @ 11:00:08 PST",
