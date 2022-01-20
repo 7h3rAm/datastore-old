@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jan/2022 @ 08:00:03 PST",
+    "last_update": "20/Jan/2022 @ 09:00:14 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/IMG_9447_1024.jpg",
     "title": "NGC 7822 in Cepheus (20/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -145,7 +145,7 @@
         ],
         "eid": "us7000gdcd",
         "location": "http://maps.google.com/maps?q=32.3697,105.289",
-        "name": "M 4.4 - Sichuan-Gansu border region, China",
+        "name": "M 4.4 - 50 km W of Guangyuan, China",
         "source": [
           {
             "sid": "USGS",
@@ -515,7 +515,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "20/Jan/2022 @ 08:00:05 PST",
+    "last_update": "20/Jan/2022 @ 09:00:16 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -606,7 +606,7 @@
           -68.4608
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=32.3697,105.289\"><b>M 4.4 - Sichuan-Gansu border region, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdcd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=32.3697,105.289\"><b>M 4.4 - 50 km W of Guangyuan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gdcd\">USGS</a>",
           32.3697,
           105.289
         ],
@@ -676,11 +676,11 @@
     },
     "title": "28 events (20/Jan/2022 PST)"
   },
-  "last_update": "20/Jan/2022 @ 08:00:57 PST",
-  "last_update_epoch": 1642694457.372129,
+  "last_update": "20/Jan/2022 @ 09:00:51 PST",
+  "last_update_epoch": 1642698051.894453,
   "neo": {
     "date": "20/Jan/2022 PST",
-    "last_update": "20/Jan/2022 @ 08:00:06 PST",
+    "last_update": "20/Jan/2022 @ 09:00:16 PST",
     "objects": [
       {
         "cat": "20/Jan/2022 @ 01:41:00 ",
@@ -870,7 +870,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jan/2022 @ 08:00:06 PST",
+    "last_update": "20/Jan/2022 @ 09:00:17 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2444,7 +2444,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jan/2022 @ 08:00:33 PST",
+    "last_update": "20/Jan/2022 @ 09:00:22 PST",
     "launches": {
       "future": [
         {
@@ -13632,12 +13632,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "231,349,475.22 miles",
+      "earth_distance": "231,359,664.43 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "206,986,041.41 miles",
+      "mars_distance": "206,969,870.73 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,981.01 mph",
+      "speed": "4,980.62 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
