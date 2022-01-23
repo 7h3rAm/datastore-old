@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Jan/2022 @ 14:00:04 PST",
+    "last_update": "23/Jan/2022 @ 15:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/TethysRingShadow_cassini_1080.jpg",
     "title": "Saturn, Tethys, Rings, and Shadows (23/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -117,24 +117,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gebs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nn00832186",
-        "location": "http://maps.google.com/maps?q=38.2571,-118.3528",
-        "name": "M 4.3 - 25 km SW of Mina, Nevada",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00832186"
       },
       {
         "category": [
@@ -269,24 +251,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gea5",
-        "location": "http://maps.google.com/maps?q=13.7376,120.8292",
-        "name": "M 4.9 - 6 km WNW of Bagalangit, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gea5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000geca",
         "location": "http://maps.google.com/maps?q=6.9868,127.1204",
         "name": "M 4.9 - 68 km ESE of Manay, Philippines",
@@ -407,7 +371,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "23/Jan/2022 @ 14:00:06 PST",
+    "last_update": "23/Jan/2022 @ 15:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -481,16 +445,6 @@
           "<a href=\"http://maps.google.com/maps?q=34.5616,26.33\"><b>M 4.7 - 70 km S of Palekastro, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000geaw\">USGS</a>",
           34.5616,
           26.33
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.2571,-118.3528\"><b>M 4.3 - 25 km SW of Mina, Nevada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nn00832186\">USGS</a>",
-          38.2571,
-          -118.3528
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.7376,120.8292\"><b>M 4.9 - 6 km WNW of Bagalangit, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gea5\">USGS</a>",
-          13.7376,
-          120.8292
         ]
       ],
       "Floods": [],
@@ -536,13 +490,13 @@
         ]
       ]
     },
-    "title": "22 events (23/Jan/2022 PST)"
+    "title": "20 events (23/Jan/2022 PST)"
   },
-  "last_update": "23/Jan/2022 @ 14:00:42 PST",
-  "last_update_epoch": 1642975242.77432,
+  "last_update": "23/Jan/2022 @ 15:00:39 PST",
+  "last_update_epoch": 1642978839.218509,
   "neo": {
     "date": "23/Jan/2022 PST",
-    "last_update": "23/Jan/2022 @ 14:00:09 PST",
+    "last_update": "23/Jan/2022 @ 15:00:09 PST",
     "objects": [
       {
         "cat": "23/Jan/2022 @ 07:41:00 ",
@@ -732,7 +686,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Jan/2022 @ 14:00:10 PST",
+    "last_update": "23/Jan/2022 @ 15:00:10 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2306,7 +2260,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Jan/2022 @ 14:00:16 PST",
+    "last_update": "23/Jan/2022 @ 15:00:15 PST",
     "launches": {
       "future": [
         {
@@ -13494,12 +13448,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "232,099,624.60 miles",
+      "earth_distance": "232,108,654.56 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "205,714,687.80 miles",
+      "mars_distance": "205,698,259.20 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,950.42 mph",
+      "speed": "4,950.02 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
