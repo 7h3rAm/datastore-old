@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Jan/2022 @ 10:00:13 PST",
+    "last_update": "24/Jan/2022 @ 11:00:09 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/RigelWitchHead_Mtanous_960.jpg",
     "title": "Rigel and the Witch Head Nebula (24/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -81,6 +81,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gelq",
+        "location": "http://maps.google.com/maps?q=-16.2272,-72.7455",
+        "name": "M 4.3 - 41 km N of El Cardo, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelq"
       },
       {
         "category": [
@@ -215,24 +233,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gees",
-        "location": "http://maps.google.com/maps?q=-21.0414,-68.6035",
-        "name": "M 4.5 - 160 km NNE of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gees"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gej8",
         "location": "http://maps.google.com/maps?q=-31.5359,179.9901",
         "name": "M 4.5 - Kermadec Islands region",
@@ -261,6 +261,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gem5",
+        "location": "http://maps.google.com/maps?q=-7.5596,127.5981",
+        "name": "M 4.6 - 125 km NNE of Lospalos, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gem5"
       },
       {
         "category": [
@@ -519,15 +537,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "24/Jan/2022 @ 10:00:14 PST",
+    "last_update": "24/Jan/2022 @ 11:00:10 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=-7.5596,127.5981\"><b>M 4.6 - 125 km NNE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gem5\">USGS</a>",
+          -7.5596,
+          127.5981
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=30.9703,136.0986\"><b>M 4.5 - southeast of Shikoku, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelu\">USGS</a>",
           30.9703,
           136.0986
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.2272,-72.7455\"><b>M 4.3 - 41 km N of El Cardo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelq\">USGS</a>",
+          -16.2272,
+          -72.7455
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=54.9077,164.6628\"><b>M 4.3 - 201 km SE of Ust’-Kamchatsk Staryy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gelp\">USGS</a>",
@@ -618,11 +646,6 @@
           "<a href=\"http://maps.google.com/maps?q=52.978,-166.6151\"><b>M 4.6 - 99 km S of Unalaska, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000geew\">USGS</a>",
           52.978,
           -166.6151
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.0414,-68.6035\"><b>M 4.5 - 160 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gees\">USGS</a>",
-          -21.0414,
-          -68.6035
         ]
       ],
       "Floods": [],
@@ -689,13 +712,13 @@
         ]
       ]
     },
-    "title": "28 events (24/Jan/2022 PST)"
+    "title": "29 events (24/Jan/2022 PST)"
   },
-  "last_update": "24/Jan/2022 @ 10:00:51 PST",
-  "last_update_epoch": 1643047251.084626,
+  "last_update": "24/Jan/2022 @ 11:00:40 PST",
+  "last_update_epoch": 1643050840.302919,
   "neo": {
     "date": "24/Jan/2022 PST",
-    "last_update": "24/Jan/2022 @ 10:00:15 PST",
+    "last_update": "24/Jan/2022 @ 11:00:11 PST",
     "objects": [
       {
         "cat": "24/Jan/2022 @ 02:25:00 ",
@@ -867,7 +890,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Jan/2022 @ 10:00:15 PST",
+    "last_update": "24/Jan/2022 @ 11:00:11 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2441,7 +2464,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Jan/2022 @ 10:00:22 PST",
+    "last_update": "24/Jan/2022 @ 11:00:17 PST",
     "launches": {
       "future": [
         {
@@ -2455,7 +2478,7 @@
         {
           "description": null,
           "flight": 148,
-          "launch": "28/Jan/2022 @ 16:00:00 PST",
+          "launch": "29/Jan/2022 @ 12:00:00 PST",
           "name": "Starlink 4-7 (v1.5)",
           "upcoming": true,
           "url": null
@@ -13629,12 +13652,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "232,277,392.91 miles",
+      "earth_distance": "232,286,124.80 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "205,385,512.08 miles",
+      "mars_distance": "205,369,020.12 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,942.50 mph",
+      "speed": "4,942.10 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
