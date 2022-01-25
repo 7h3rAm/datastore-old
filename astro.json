@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Jan/2022 @ 01:00:03 PST",
+    "last_update": "25/Jan/2022 @ 02:00:03 PST",
     "source": "https://www.youtube.com/embed/s6IpsM_HNcU?rel=0",
     "title": "Video: Comet Leonard over One Hour (25/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -469,7 +469,7 @@
         ],
         "eid": "us7000genk",
         "location": "http://maps.google.com/maps?q=-37.3313,179.8663",
-        "name": "M 5.2 - 219 km NE of Gisborne, New Zealand",
+        "name": "M 5.2 - off the east coast of the North Island of New Zealand",
         "source": [
           {
             "sid": "USGS",
@@ -663,7 +663,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "25/Jan/2022 @ 01:00:04 PST",
+    "last_update": "25/Jan/2022 @ 02:00:04 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -734,7 +734,7 @@
           -175.4886
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-37.3313,179.8663\"><b>M 5.2 - 219 km NE of Gisborne, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000genk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-37.3313,179.8663\"><b>M 5.2 - off the east coast of the North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000genk\">USGS</a>",
           -37.3313,
           179.8663
         ],
@@ -875,11 +875,11 @@
     },
     "title": "36 events (25/Jan/2022 PST)"
   },
-  "last_update": "25/Jan/2022 @ 01:00:33 PST",
-  "last_update_epoch": 1643101233.726687,
+  "last_update": "25/Jan/2022 @ 02:00:28 PST",
+  "last_update_epoch": 1643104828.76381,
   "neo": {
     "date": "25/Jan/2022 PST",
-    "last_update": "25/Jan/2022 @ 01:00:07 PST",
+    "last_update": "25/Jan/2022 @ 02:00:04 PST",
     "objects": [
       {
         "cat": "25/Jan/2022 @ 15:23:00 ",
@@ -1042,7 +1042,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "25/Jan/2022 @ 01:00:07 PST",
+    "last_update": "25/Jan/2022 @ 02:00:05 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2648,7 +2648,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "25/Jan/2022 @ 01:00:13 PST",
+    "last_update": "25/Jan/2022 @ 02:00:10 PST",
     "launches": {
       "future": [
         {
@@ -13870,12 +13870,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "232,406,804.20 miles",
+      "earth_distance": "232,415,312.17 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "205,137,804.60 miles",
+      "mars_distance": "205,121,265.88 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,936.53 mph",
+      "speed": "4,936.14 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
