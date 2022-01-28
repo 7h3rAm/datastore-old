@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Jan/2022 @ 20:00:05 PST",
+    "last_update": "27/Jan/2022 @ 21:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/NGC-1999_1100.jpg",
     "title": "South of Orion (27/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -161,24 +161,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gfgq",
-        "location": "http://maps.google.com/maps?q=60.7498,-44.1483",
-        "name": "M 4.6 - 90 km NE of Nanortalik, Greenland",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfgq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gfj7",
         "location": "http://maps.google.com/maps?q=-6.6866,120.6265",
         "name": "M 4.8 - 177 km SSE of Sinjai, Indonesia",
@@ -189,6 +171,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfj7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gfrj",
+        "location": "http://maps.google.com/maps?q=35.1013,31.9579",
+        "name": "M 4.9 - 43 km W of Pólis, Cyprus",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrj"
       },
       {
         "category": [
@@ -451,11 +451,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "27/Jan/2022 @ 20:00:06 PST",
+    "last_update": "27/Jan/2022 @ 21:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.1013,31.9579\"><b>M 4.9 - 43 km W of Pólis, Cyprus</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrj\">USGS</a>",
+          35.1013,
+          31.9579
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.2417,141.6968\"><b>M 4.5 - 39 km ESE of Ishinomaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfqn\">USGS</a>",
           38.2417,
@@ -510,11 +515,6 @@
           "<a href=\"http://maps.google.com/maps?q=10.0671,-84.2057\"><b>M 4.3 - 1 km SE of Sabanilla, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfh7\">USGS</a>",
           10.0671,
           -84.2057
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=60.7498,-44.1483\"><b>M 4.6 - 90 km NE of Nanortalik, Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfgq\">USGS</a>",
-          60.7498,
-          -44.1483
         ]
       ],
       "Floods": [],
@@ -618,11 +618,11 @@
     },
     "title": "24 events (27/Jan/2022 PST)"
   },
-  "last_update": "27/Jan/2022 @ 20:00:43 PST",
-  "last_update_epoch": 1643342443.286546,
+  "last_update": "27/Jan/2022 @ 21:00:40 PST",
+  "last_update_epoch": 1643346040.403289,
   "neo": {
     "date": "28/Jan/2022 PST",
-    "last_update": "27/Jan/2022 @ 20:00:07 PST",
+    "last_update": "27/Jan/2022 @ 21:00:06 PST",
     "objects": [
       {
         "cat": "28/Jan/2022 @ 05:05:00 ",
@@ -839,7 +839,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Jan/2022 @ 20:00:07 PST",
+    "last_update": "27/Jan/2022 @ 21:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2445,7 +2445,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Jan/2022 @ 20:00:13 PST",
+    "last_update": "27/Jan/2022 @ 21:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13667,12 +13667,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "232,943,722.00 miles",
+      "earth_distance": "232,951,225.04 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "204,023,009.00 miles",
+      "mars_distance": "204,006,269.45 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,909.71 mph",
+      "speed": "4,909.31 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
