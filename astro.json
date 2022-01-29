@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Jan/2022 @ 19:00:04 PST",
+    "last_update": "28/Jan/2022 @ 20:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/Mare_Orientale_Nov_27_2021_TGlenn_1024.jpg",
     "title": "Western Moon, Eastern Sea (28/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -125,24 +125,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gg3j",
-        "location": "http://maps.google.com/maps?q=-5.8666,128.5772",
-        "name": "M 4.3 - 243 km S of Ambon, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gg1g",
         "location": "http://maps.google.com/maps?q=39.2032,142.3888",
         "name": "M 4.3 - 45 km E of Kamaishi, Japan",
@@ -197,16 +179,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gfzl",
-        "location": "http://maps.google.com/maps?q=40.5107,145.0634",
-        "name": "M 4.4 - 279 km SSE of Kushiro, Japan",
+        "eid": "us7000gg3j",
+        "location": "http://maps.google.com/maps?q=-5.8666,128.5772",
+        "name": "M 4.3 - Banda Sea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfzl"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3j"
       },
       {
         "category": [
@@ -217,7 +199,7 @@
         ],
         "eid": "us7000gg0m",
         "location": "http://maps.google.com/maps?q=-6.9239,125.6332",
-        "name": "M 4.4 - Banda Sea",
+        "name": "M 4.4 - 178 km N of Metinaro, Timor Leste",
         "source": [
           {
             "sid": "USGS",
@@ -225,6 +207,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg0m"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gg3v",
+        "location": "http://maps.google.com/maps?q=-18.0402,-178.2962",
+        "name": "M 4.4 - 252 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3v"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gfzl",
+        "location": "http://maps.google.com/maps?q=40.5107,145.0634",
+        "name": "M 4.4 - 279 km SSE of Kushiro, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfzl"
       },
       {
         "category": [
@@ -413,16 +431,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gfrj",
-        "location": "http://maps.google.com/maps?q=35.1013,31.9579",
-        "name": "M 4.9 - 43 km W of Pólis, Cyprus",
+        "eid": "us7000gg47",
+        "location": "http://maps.google.com/maps?q=13.0505,-88.6847",
+        "name": "M 4.9 - 29 km SSW of Puerto El Triunfo, El Salvador",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrj"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg47"
       },
       {
         "category": [
@@ -521,6 +539,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gg43",
+        "location": "http://maps.google.com/maps?q=-29.7553,-176.7022",
+        "name": "M 5.3 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg43"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gg48",
+        "location": "http://maps.google.com/maps?q=-29.6247,-176.759",
+        "name": "M 5.3 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg48"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gfti",
         "location": "http://maps.google.com/maps?q=5.4909,-82.5881",
         "name": "M 6.1 - 282 km SW of Arenas, Panama",
@@ -539,16 +593,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "pt22029000",
-        "location": "http://maps.google.com/maps?q=-29.751,-174.709",
-        "name": "M 6.6 - Kermadec Islands region",
+        "eid": "us7000gg3w",
+        "location": "http://maps.google.com/maps?q=-29.535,-176.729",
+        "name": "M 6.4 - Kermadec Islands region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt22029000"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3w"
       },
       {
         "category": [
@@ -739,18 +793,38 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "28/Jan/2022 @ 19:00:05 PST",
+    "last_update": "28/Jan/2022 @ 20:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-29.751,-174.709\"><b>M 6.6 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pt22029000\">USGS</a>",
-          -29.751,
-          -174.709
+          "<a href=\"http://maps.google.com/maps?q=13.0505,-88.6847\"><b>M 4.9 - 29 km SSW of Puerto El Triunfo, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg47\">USGS</a>",
+          13.0505,
+          -88.6847
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.8666,128.5772\"><b>M 4.3 - 243 km S of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-29.7553,-176.7022\"><b>M 5.3 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg43\">USGS</a>",
+          -29.7553,
+          -176.7022
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.6247,-176.759\"><b>M 5.3 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg48\">USGS</a>",
+          -29.6247,
+          -176.759
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.535,-176.729\"><b>M 6.4 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3w\">USGS</a>",
+          -29.535,
+          -176.729
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.0402,-178.2962\"><b>M 4.4 - 252 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3v\">USGS</a>",
+          -18.0402,
+          -178.2962
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.8666,128.5772\"><b>M 4.3 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg3j\">USGS</a>",
           -5.8666,
           128.5772
         ],
@@ -790,7 +864,7 @@
           142.3999
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.9239,125.6332\"><b>M 4.4 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg0m\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-6.9239,125.6332\"><b>M 4.4 - 178 km N of Metinaro, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg0m\">USGS</a>",
           -6.9239,
           125.6332
         ],
@@ -873,11 +947,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.1416,127.0714\"><b>M 4.7 - 101 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrt\">USGS</a>",
           6.1416,
           127.0714
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.1013,31.9579\"><b>M 4.9 - 43 km W of Pólis, Cyprus</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfrj\">USGS</a>",
-          35.1013,
-          31.9579
         ]
       ],
       "Floods": [],
@@ -984,13 +1053,13 @@
         ]
       ]
     },
-    "title": "40 events (28/Jan/2022 PST)"
+    "title": "43 events (28/Jan/2022 PST)"
   },
-  "last_update": "28/Jan/2022 @ 19:00:45 PST",
-  "last_update_epoch": 1643425245.58863,
+  "last_update": "28/Jan/2022 @ 20:00:37 PST",
+  "last_update_epoch": 1643428837.249804,
   "neo": {
     "date": "29/Jan/2022 PST",
-    "last_update": "28/Jan/2022 @ 19:00:06 PST",
+    "last_update": "28/Jan/2022 @ 20:00:06 PST",
     "objects": [
       {
         "cat": "29/Jan/2022 @ 17:07:00 ",
@@ -1153,7 +1222,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Jan/2022 @ 19:00:06 PST",
+    "last_update": "28/Jan/2022 @ 20:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2759,7 +2828,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Jan/2022 @ 19:00:14 PST",
+    "last_update": "28/Jan/2022 @ 20:00:12 PST",
     "launches": {
       "future": [
         {
@@ -13981,12 +14050,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,112,477.70 miles",
+      "earth_distance": "233,119,633.82 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "203,637,271.77 miles",
+      "mars_distance": "203,620,466.36 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,900.43 mph",
+      "speed": "4,900.02 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
