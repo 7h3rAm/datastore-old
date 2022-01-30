@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Jan/2022 @ 19:15:09 PST",
+    "last_update": "29/Jan/2022 @ 20:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2201/FornaxC1_FB1024.jpg",
     "title": "The Fornax Cluster of Galaxies (29/Jan/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -99,24 +99,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg55"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gg4e",
-        "location": "http://maps.google.com/maps?q=-21.0395,-67.7889",
-        "name": "M 4.4 - 119 km WSW of Uyuni, Bolivia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg4e"
       },
       {
         "category": [
@@ -351,24 +333,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg6w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gg47",
-        "location": "http://maps.google.com/maps?q=13.0505,-88.6847",
-        "name": "M 4.9 - 29 km SSW of Puerto El Triunfo, El Salvador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg47"
       },
       {
         "category": [
@@ -757,7 +721,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "29/Jan/2022 @ 19:15:10 PST",
+    "last_update": "29/Jan/2022 @ 20:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -886,16 +850,6 @@
           "<a href=\"http://maps.google.com/maps?q=-29.7775,-176.6215\"><b>M 5.1 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg4l\">USGS</a>",
           -29.7775,
           -176.6215
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.0395,-67.7889\"><b>M 4.4 - 119 km WSW of Uyuni, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg4e\">USGS</a>",
-          -21.0395,
-          -67.7889
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.0505,-88.6847\"><b>M 4.9 - 29 km SSW of Puerto El Triunfo, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gg47\">USGS</a>",
-          13.0505,
-          -88.6847
         ]
       ],
       "Floods": [],
@@ -1007,13 +961,13 @@
         ]
       ]
     },
-    "title": "41 events (29/Jan/2022 PST)"
+    "title": "39 events (29/Jan/2022 PST)"
   },
-  "last_update": "29/Jan/2022 @ 19:15:39 PST",
-  "last_update_epoch": 1643512539.675209,
+  "last_update": "29/Jan/2022 @ 20:00:49 PST",
+  "last_update_epoch": 1643515249.115729,
   "neo": {
     "date": "30/Jan/2022 PST",
-    "last_update": "29/Jan/2022 @ 19:15:11 PST",
+    "last_update": "29/Jan/2022 @ 20:00:07 PST",
     "objects": [
       {
         "cat": "30/Jan/2022 @ 05:20:00 ",
@@ -1194,7 +1148,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Jan/2022 @ 19:15:11 PST",
+    "last_update": "29/Jan/2022 @ 20:00:07 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2800,7 +2754,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Jan/2022 @ 19:15:17 PST",
+    "last_update": "29/Jan/2022 @ 20:00:13 PST",
     "launches": {
       "future": [
         {
@@ -14022,12 +13976,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,282,318.99 miles",
+      "earth_distance": "233,286,846.12 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "203,227,543.84 miles",
+      "mars_distance": "203,216,295.25 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,890.57 mph",
+      "speed": "4,890.29 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
