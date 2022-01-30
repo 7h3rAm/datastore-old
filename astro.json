@@ -1,7 +1,7 @@
 {
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
-    "last_update": "30/Jan/2022 @ 14:00:12 PST",
+    "last_update": "30/Jan/2022 @ 15:00:09 PST",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -140,16 +140,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000ggar",
-        "location": "http://maps.google.com/maps?q=-7.8531,-74.5185",
-        "name": "M 4.4 - 58 km N of Pucallpa, Peru",
+        "eid": "us7000gggu",
+        "location": "http://maps.google.com/maps?q=16.8092,-86.0896",
+        "name": "M 4.5 - 45 km NNW of Guanaja, Honduras",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggar"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gggu"
       },
       {
         "category": [
@@ -204,6 +204,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggem"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gggs",
+        "location": "http://maps.google.com/maps?q=8.1317,-104.3918",
+        "name": "M 4.5 - northern East Pacific Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gggs"
       },
       {
         "category": [
@@ -552,11 +570,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "30/Jan/2022 @ 14:00:15 PST",
+    "last_update": "30/Jan/2022 @ 15:00:11 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.8092,-86.0896\"><b>M 4.5 - 45 km NNW of Guanaja, Honduras</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gggu\">USGS</a>",
+          16.8092,
+          -86.0896
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=8.1317,-104.3918\"><b>M 4.5 - northern East Pacific Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gggs\">USGS</a>",
+          8.1317,
+          -104.3918
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-10.21,122.3001\"><b>M 4.9 - 143 km W of Kupang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggg6\">USGS</a>",
           -10.21,
@@ -636,11 +664,6 @@
           "<a href=\"http://maps.google.com/maps?q=-2.6715,128.9841\"><b>M 4.6 - 74 km N of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggav\">USGS</a>",
           -2.6715,
           128.9841
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.8531,-74.5185\"><b>M 4.4 - 58 km N of Pucallpa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ggar\">USGS</a>",
-          -7.8531,
-          -74.5185
         ]
       ],
       "Floods": [],
@@ -732,13 +755,13 @@
         ]
       ]
     },
-    "title": "30 events (30/Jan/2022 PST)"
+    "title": "31 events (30/Jan/2022 PST)"
   },
-  "last_update": "30/Jan/2022 @ 14:00:47 PST",
-  "last_update_epoch": 1643580047.894679,
+  "last_update": "30/Jan/2022 @ 15:00:40 PST",
+  "last_update_epoch": 1643583640.68334,
   "neo": {
     "date": "30/Jan/2022 PST",
-    "last_update": "30/Jan/2022 @ 14:00:16 PST",
+    "last_update": "30/Jan/2022 @ 15:00:11 PST",
     "objects": [
       {
         "cat": "30/Jan/2022 @ 05:20:00 ",
@@ -919,7 +942,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Jan/2022 @ 14:00:16 PST",
+    "last_update": "30/Jan/2022 @ 15:00:12 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2525,7 +2548,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Jan/2022 @ 14:00:22 PST",
+    "last_update": "30/Jan/2022 @ 15:00:17 PST",
     "launches": {
       "future": [
         {
@@ -13747,12 +13770,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,406,534.49 miles",
+      "earth_distance": "233,413,039.93 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "202,912,123.61 miles",
+      "mars_distance": "202,895,199.38 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,882.97 mph",
+      "speed": "4,882.57 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
