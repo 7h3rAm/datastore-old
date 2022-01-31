@@ -1,7 +1,7 @@
 {
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
-    "last_update": "31/Jan/2022 @ 05:00:14 PST",
+    "last_update": "31/Jan/2022 @ 06:00:09 PST",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -42,6 +42,24 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5999"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
+        "eid": "EONET_6007",
+        "location": "https://www.google.com/maps/dir/-69.89,2.34/@-69.89,2.34,3z",
+        "name": "Iceberg D31",
+        "source": [
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6007"
       },
       {
         "category": [
@@ -411,7 +429,7 @@
           }
         ],
         "eid": "EONET_6002",
-        "location": "https://www.google.com/maps/dir/-16.4,83.7/-16.9,81.9/-18,79.6/-18.5,77.7/-18.4,76.1/-18.3,73.4/-18.3,72.4/@-16.4,83.7,3z",
+        "location": "https://www.google.com/maps/dir/-16.4,83.7/-16.9,81.9/-18,79.6/-18.5,77.7/-18.4,76.1/-18.3,73.4/-18.3,72.4/-18.2,71.6/-18.1,70.7/-18,69.9/-17.8,69.1/-17.5,68.1/-17.1,67.1/-16.7,66.1/-16.5,65.2/-16.4,64.5/@-16.4,83.7,3z",
         "name": "Tropical Cyclone Batsirai",
         "source": [
           {
@@ -588,7 +606,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "31/Jan/2022 @ 05:00:15 PST",
+    "last_update": "31/Jan/2022 @ 06:00:10 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -697,7 +715,13 @@
       "Floods": [],
       "Landslides": [],
       "Manmade": [],
-      "Sea and Lake Ice": [],
+      "Sea and Lake Ice": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.89,2.34\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.89,
+          2.34
+        ]
+      ],
       "Severe Storms": [
         [
           "<a href=\"http://maps.google.com/maps?q=-16.4,83.7\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
@@ -733,6 +757,51 @@
           "<a href=\"http://maps.google.com/maps?q=-18.3,72.4\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
           -18.3,
           72.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.2,71.6\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -18.2,
+          71.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.1,70.7\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -18.1,
+          70.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18,69.9\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -18,
+          69.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.8,69.1\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -17.8,
+          69.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.5,68.1\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -17.5,
+          68.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.1,67.1\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -17.1,
+          67.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.7,66.1\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -16.7,
+          66.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.5,65.2\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -16.5,
+          65.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.4,64.5\"><b>Tropical Cyclone Batsirai</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh0822.tcw\">JTWC</a>",
+          -16.4,
+          64.5
         ]
       ],
       "Snow": [],
@@ -798,13 +867,13 @@
         ]
       ]
     },
-    "title": "32 events (31/Jan/2022 PST)"
+    "title": "33 events (31/Jan/2022 PST)"
   },
-  "last_update": "31/Jan/2022 @ 05:00:46 PST",
-  "last_update_epoch": 1643634046.702111,
+  "last_update": "31/Jan/2022 @ 06:00:41 PST",
+  "last_update_epoch": 1643637641.091065,
   "neo": {
     "date": "31/Jan/2022 PST",
-    "last_update": "31/Jan/2022 @ 05:00:16 PST",
+    "last_update": "31/Jan/2022 @ 06:00:13 PST",
     "objects": [
       {
         "cat": "31/Jan/2022 @ 05:32:00 ",
@@ -852,15 +921,6 @@
         "velocity": "49,598.31 mph"
       },
       {
-        "cat": "31/Jan/2022 @ 10:31:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "20,817,296.78 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 SP)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54054451",
-        "velocity": "16,549.84 mph"
-      },
-      {
         "cat": "31/Jan/2022 @ 13:50:00 ",
         "diameter": "0.24-0.53 miles",
         "distance": "14,642,445.86 miles",
@@ -890,14 +950,14 @@
       {
         "cat": "31/Jan/2022 @ 13:55:00 ",
         "diameter": "0.36-0.80 miles",
-        "distance": "32,008,698.92 miles",
+        "distance": "32,008,698.90 miles",
         "hazardous": false,
         "name": "Asteroid 86450 (2000 CK33)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2086450",
         "velocity": "27,918.71 mph"
       }
     ],
-    "title": "10 objects making close approach (31/Jan/2022 PST)"
+    "title": "9 objects making close approach (31/Jan/2022 PST)"
   },
   "satview": {
     "date": "31/Jan/2022 PST",
@@ -967,7 +1027,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jan/2022 @ 05:00:16 PST",
+    "last_update": "31/Jan/2022 @ 06:00:14 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2573,7 +2633,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Jan/2022 @ 05:00:22 PST",
+    "last_update": "31/Jan/2022 @ 06:00:19 PST",
     "launches": {
       "future": [
         {
@@ -13795,12 +13855,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,502,524.63 miles",
+      "earth_distance": "233,508,802.71 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "202,657,978.59 miles",
+      "mars_distance": "202,641,014.25 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,876.86 mph",
+      "speed": "4,876.45 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
