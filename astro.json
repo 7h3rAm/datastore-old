@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Jan/2022 @ 23:00:03 PST",
+    "last_update": "01/Feb/2022 @ 00:00:03 PST",
     "source": "https://www.youtube.com/embed/c4Xky6tlFyY?rel=0&VQ=HD720",
     "title": "Moon Phases 2022 (01/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "31/Jan/2022 PST",
+    "date": "01/Feb/2022 PST",
     "events": [
       {
         "category": [
@@ -735,7 +735,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "31/Jan/2022 @ 23:00:05 PST",
+    "last_update": "01/Feb/2022 @ 00:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1031,13 +1031,13 @@
         ]
       ]
     },
-    "title": "40 events (31/Jan/2022 PST)"
+    "title": "40 events (01/Feb/2022 PST)"
   },
-  "last_update": "31/Jan/2022 @ 23:00:42 PST",
-  "last_update_epoch": 1643698842.159918,
+  "last_update": "01/Feb/2022 @ 00:00:32 PST",
+  "last_update_epoch": 1643702432.982509,
   "neo": {
     "date": "01/Feb/2022 PST",
-    "last_update": "31/Jan/2022 @ 23:00:06 PST",
+    "last_update": "01/Feb/2022 @ 00:00:06 PST",
     "objects": [
       {
         "cat": "01/Feb/2022 @ 13:57:00 ",
@@ -1124,7 +1124,7 @@
     "title": "9 objects making close approach (01/Feb/2022 PST)"
   },
   "satview": {
-    "date": "31/Jan/2022 PST",
+    "date": "01/Feb/2022 PST",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 29/Jan/2022 @ 10:41:28 PST.",
@@ -1191,7 +1191,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Jan/2022 @ 23:00:06 PST",
+    "last_update": "01/Feb/2022 @ 00:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -1244,7 +1244,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhai+Zhigang"
       }
     ],
-    "title": "10 people in space (31/Jan/2022 PST)"
+    "title": "10 people in space (01/Feb/2022 PST)"
   },
   "spacex": {
     "capsules": [
@@ -2797,7 +2797,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Jan/2022 @ 23:00:15 PST",
+    "last_update": "01/Feb/2022 @ 00:00:12 PST",
     "launches": {
       "future": [
         {
@@ -14019,12 +14019,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,613,210.80 miles",
+      "earth_distance": "233,619,216.03 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "202,352,217.87 miles",
+      "mars_distance": "202,335,206.34 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,869.50 mph",
+      "speed": "4,869.09 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
