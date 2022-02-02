@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Feb/2022 @ 02:00:04 PST",
+    "last_update": "02/Feb/2022 @ 03:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/MwCenter_MeerKATMunoz_1080.jpg",
     "title": "The Galactic Center in Radio from MeerKAT (02/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -883,8 +883,8 @@
     },
     "title": "32 events (02/Feb/2022 PST)"
   },
-  "last_update": "02/Feb/2022 @ 02:00:38 PST",
-  "last_update_epoch": 1643796038.618366,
+  "last_update": "02/Feb/2022 @ 03:00:04 PST",
+  "last_update_epoch": 1643799604.272248,
   "neo": {
     "date": "02/Feb/2022 PST",
     "last_update": "02/Feb/2022 @ 02:00:06 PST",
