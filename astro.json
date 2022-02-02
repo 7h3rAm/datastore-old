@@ -929,8 +929,8 @@
     },
     "title": "34 events (02/Feb/2022 PST)"
   },
-  "last_update": "02/Feb/2022 @ 06:00:16 PST",
-  "last_update_epoch": 1643810416.884936,
+  "last_update": "02/Feb/2022 @ 06:00:49 PST",
+  "last_update_epoch": 1643810449.830674,
   "neo": {
     "date": "02/Feb/2022 PST",
     "last_update": "02/Feb/2022 @ 06:00:09 PST",
@@ -1095,8 +1095,8 @@
     "date": "02/Feb/2022 PST",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 31/Jan/2022 @ 10:50:51 PST.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/01/31/jpg/epic_1b_20220131185539.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 01/Feb/2022 @ 10:32:08 PST.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/02/01/jpg/epic_1b_20220201183657.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
