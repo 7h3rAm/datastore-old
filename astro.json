@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Feb/2022 @ 12:00:04 PST",
+    "last_update": "04/Feb/2022 @ 13:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/IMG_1869Fedez1024.png",
     "title": "Moons at Twilight (04/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -247,6 +247,24 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gi25",
+        "location": "http://maps.google.com/maps?q=-48.0062,99.5015",
+        "name": "M 6.1 - southeast Indian Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi25"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌀",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
@@ -455,11 +473,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "04/Feb/2022 @ 12:00:06 PST",
+    "last_update": "04/Feb/2022 @ 13:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-48.0062,99.5015\"><b>M 6.1 - southeast Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi25\">USGS</a>",
+          -48.0062,
+          99.5015
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.2529,167.7591\"><b>M 4.9 - 81 km SW of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghzj\">USGS</a>",
           -18.2529,
@@ -811,13 +834,13 @@
         ]
       ]
     },
-    "title": "24 events (04/Feb/2022 PST)"
+    "title": "25 events (04/Feb/2022 PST)"
   },
-  "last_update": "04/Feb/2022 @ 12:01:06 PST",
-  "last_update_epoch": 1644004866.670945,
+  "last_update": "04/Feb/2022 @ 13:00:48 PST",
+  "last_update_epoch": 1644008448.650529,
   "neo": {
     "date": "04/Feb/2022 PST",
-    "last_update": "04/Feb/2022 @ 12:00:07 PST",
+    "last_update": "04/Feb/2022 @ 13:00:06 PST",
     "objects": [
       {
         "cat": "04/Feb/2022 @ 23:22:00 ",
@@ -989,7 +1012,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Feb/2022 @ 12:00:07 PST",
+    "last_update": "04/Feb/2022 @ 13:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2619,7 +2642,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Feb/2022 @ 12:00:13 PST",
+    "last_update": "04/Feb/2022 @ 13:00:11 PST",
     "launches": {
       "future": [
         {
@@ -13901,12 +13924,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,069,679.62 miles",
+      "earth_distance": "234,074,402.02 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "200,897,296.66 miles",
+      "mars_distance": "200,880,076.17 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,834.49 mph",
+      "speed": "4,834.07 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
