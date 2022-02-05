@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Feb/2022 @ 14:00:04 PST",
+    "last_update": "05/Feb/2022 @ 15:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/archives_raquarii.jpg",
     "title": "Symbiotic R Aquarii (05/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -71,6 +71,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000giap",
+        "location": "http://maps.google.com/maps?q=-47.3274,165.3402",
+        "name": "M 4.0 - 231 km WSW of Riverton, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000giap"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "ak0221nmzpzt",
         "location": "http://maps.google.com/maps?q=59.9616,-152.7974",
         "name": "M 4.0 - 57 km WNW of Anchor Point, Alaska",
@@ -107,6 +125,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gia1",
+        "location": "http://maps.google.com/maps?q=37.4546,20.3462",
+        "name": "M 4.3 - 51 km SW of Lithakiá, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gi6t",
         "location": "http://maps.google.com/maps?q=51.5805,16.0763",
         "name": "M 4.3 - 6 km WSW of Grębocice, Poland",
@@ -117,6 +153,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi6t"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gibb",
+        "location": "http://maps.google.com/maps?q=-17.5651,-178.3037",
+        "name": "M 4.4 - 258 km ENE of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibb"
       },
       {
         "category": [
@@ -181,7 +235,7 @@
         ],
         "eid": "us7000gi62",
         "location": "http://maps.google.com/maps?q=-9.0173,124.0338",
-        "name": "M 4.7 - Timor region",
+        "name": "M 4.7 - 43 km WNW of Pante Makasar, Timor Leste",
         "source": [
           {
             "sid": "USGS",
@@ -509,15 +563,30 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "05/Feb/2022 @ 14:00:11 PST",
+    "last_update": "05/Feb/2022 @ 15:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=-17.5651,-178.3037\"><b>M 4.4 - 258 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibb\">USGS</a>",
+          -17.5651,
+          -178.3037
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=52.5661,143.2516\"><b>M 5.2 - 85 km N of Nogliki, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000giav\">USGS</a>",
           52.5661,
           143.2516
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-47.3274,165.3402\"><b>M 4.0 - 231 km WSW of Riverton, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000giap\">USGS</a>",
+          -47.3274,
+          165.3402
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.4546,20.3462\"><b>M 4.3 - 51 km SW of Lithakiá, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia1\">USGS</a>",
+          37.4546,
+          20.3462
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-33.1381,-179.5549\"><b>M 5.1 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi9n\">USGS</a>",
@@ -560,7 +629,7 @@
           71.1166
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-9.0173,124.0338\"><b>M 4.7 - Timor region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi62\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-9.0173,124.0338\"><b>M 4.7 - 43 km WNW of Pante Makasar, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi62\">USGS</a>",
           -9.0173,
           124.0338
         ],
@@ -880,13 +949,13 @@
         ]
       ]
     },
-    "title": "27 events (05/Feb/2022 PST)"
+    "title": "30 events (05/Feb/2022 PST)"
   },
-  "last_update": "05/Feb/2022 @ 14:00:48 PST",
-  "last_update_epoch": 1644098448.076006,
+  "last_update": "05/Feb/2022 @ 15:00:42 PST",
+  "last_update_epoch": 1644102042.848953,
   "neo": {
     "date": "05/Feb/2022 PST",
-    "last_update": "05/Feb/2022 @ 14:00:11 PST",
+    "last_update": "05/Feb/2022 @ 15:00:06 PST",
     "objects": [
       {
         "cat": "05/Feb/2022 @ 12:06:00 ",
@@ -1103,7 +1172,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Feb/2022 @ 14:00:11 PST",
+    "last_update": "05/Feb/2022 @ 15:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2733,7 +2802,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Feb/2022 @ 14:00:17 PST",
+    "last_update": "05/Feb/2022 @ 15:00:11 PST",
     "launches": {
       "future": [
         {
@@ -14015,12 +14084,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,187,596.58 miles",
+      "earth_distance": "234,191,930.11 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "200,448,818.48 miles",
+      "mars_distance": "200,431,538.75 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,823.70 mph",
+      "speed": "4,823.28 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
