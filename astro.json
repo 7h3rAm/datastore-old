@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Feb/2022 @ 15:00:04 PST",
+    "last_update": "05/Feb/2022 @ 16:00:22 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/archives_raquarii.jpg",
     "title": "Symbiotic R Aquarii (05/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -161,6 +161,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gia8",
+        "location": "http://maps.google.com/maps?q=-7.2969,121.2748",
+        "name": "M 4.4 - 170 km NNE of Ruteng, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gibb",
         "location": "http://maps.google.com/maps?q=-17.5651,-178.3037",
         "name": "M 4.4 - 258 km ENE of Levuka, Fiji",
@@ -189,6 +207,60 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi6u"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gibe",
+        "location": "http://maps.google.com/maps?q=41.6117,142.0428",
+        "name": "M 4.5 - 77 km ENE of Mutsu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibe"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gibg",
+        "location": "http://maps.google.com/maps?q=-7.3617,121.3039",
+        "name": "M 4.6 - 166 km NNE of Ruteng, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibg"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gia9",
+        "location": "http://maps.google.com/maps?q=3.6955,126.7518",
+        "name": "M 4.6 - 236 km SE of Sarangani, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia9"
       },
       {
         "category": [
@@ -279,24 +351,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi9n"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gi46",
-        "location": "http://maps.google.com/maps?q=-15.6194,-171.7149",
-        "name": "M 5.2 - 171 km SW of Vailoatai, American Samoa",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi46"
       },
       {
         "category": [
@@ -563,11 +617,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "05/Feb/2022 @ 15:00:05 PST",
+    "last_update": "05/Feb/2022 @ 16:00:32 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.3617,121.3039\"><b>M 4.6 - 166 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibg\">USGS</a>",
+          -7.3617,
+          121.3039
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=41.6117,142.0428\"><b>M 4.5 - 77 km ENE of Mutsu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibe\">USGS</a>",
+          41.6117,
+          142.0428
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-17.5651,-178.3037\"><b>M 4.4 - 258 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gibb\">USGS</a>",
           -17.5651,
@@ -582,6 +646,16 @@
           "<a href=\"http://maps.google.com/maps?q=-47.3274,165.3402\"><b>M 4.0 - 231 km WSW of Riverton, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000giap\">USGS</a>",
           -47.3274,
           165.3402
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=3.6955,126.7518\"><b>M 4.6 - 236 km SE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia9\">USGS</a>",
+          3.6955,
+          126.7518
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.2969,121.2748\"><b>M 4.4 - 170 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia8\">USGS</a>",
+          -7.2969,
+          121.2748
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.4546,20.3462\"><b>M 4.3 - 51 km SW of Lithakiá, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gia1\">USGS</a>",
@@ -642,11 +716,6 @@
           "<a href=\"http://maps.google.com/maps?q=29.806,-42.9099\"><b>M 5.1 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi4s\">USGS</a>",
           29.806,
           -42.9099
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.6194,-171.7149\"><b>M 5.2 - 171 km SW of Vailoatai, American Samoa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi46\">USGS</a>",
-          -15.6194,
-          -171.7149
         ]
       ],
       "Floods": [],
@@ -949,160 +1018,142 @@
         ]
       ]
     },
-    "title": "30 events (05/Feb/2022 PST)"
+    "title": "33 events (05/Feb/2022 PST)"
   },
-  "last_update": "05/Feb/2022 @ 15:00:42 PST",
-  "last_update_epoch": 1644102042.848953,
+  "last_update": "05/Feb/2022 @ 16:00:36 PST",
+  "last_update_epoch": 1644105636.833818,
   "neo": {
-    "date": "05/Feb/2022 PST",
-    "last_update": "05/Feb/2022 @ 15:00:06 PST",
+    "date": "06/Feb/2022 PST",
+    "last_update": "05/Feb/2022 @ 16:00:33 PST",
     "objects": [
       {
-        "cat": "05/Feb/2022 @ 12:06:00 ",
-        "diameter": "0.02-0.06 miles",
-        "distance": "40,044,569.83 miles",
-        "hazardous": false,
-        "name": "Asteroid (2004 XG)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3263232",
-        "velocity": "49,005.89 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 16:37:00 ",
+        "cat": "06/Feb/2022 @ 12:19:00 ",
         "diameter": "0.06-0.13 miles",
-        "distance": "18,741,284.07 miles",
+        "distance": "24,755,390.17 miles",
         "hazardous": false,
-        "name": "Asteroid (2005 YA37)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3309476",
-        "velocity": "22,279.64 mph"
+        "name": "Asteroid (2015 GZ12)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3715703",
+        "velocity": "21,850.39 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 20:32:00 ",
-        "diameter": "0.29-0.64 miles",
-        "distance": "14,594,942.52 miles",
+        "cat": "06/Feb/2022 @ 12:52:00 ",
+        "diameter": "0.23-0.51 miles",
+        "distance": "28,911,947.79 miles",
         "hazardous": false,
-        "name": "Asteroid (2005 YX128)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3310057",
-        "velocity": "39,619.85 mph"
+        "name": "Asteroid (2015 PN307)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3726594",
+        "velocity": "55,099.99 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 03:33:00 ",
-        "diameter": "0.06-0.13 miles",
-        "distance": "30,632,022.51 miles",
+        "cat": "06/Feb/2022 @ 23:04:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "23,116,478.14 miles",
         "hazardous": false,
-        "name": "Asteroid (2007 YM56)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3398648",
-        "velocity": "40,525.71 mph"
+        "name": "Asteroid (2016 CY247)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3744318",
+        "velocity": "16,128.15 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 08:54:00 ",
-        "diameter": "0.17-0.37 miles",
-        "distance": "22,019,116.64 miles",
-        "hazardous": true,
-        "name": "Asteroid (2009 FU23)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3455137",
-        "velocity": "17,316.61 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 00:11:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "42,617,477.95 miles",
-        "hazardous": false,
-        "name": "Asteroid (2015 VJ64)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3733850",
-        "velocity": "12,358.24 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 11:03:00 ",
-        "diameter": "0.30-0.67 miles",
-        "distance": "11,794,015.09 miles",
-        "hazardous": false,
-        "name": "Asteroid (2015 XP378)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3736801",
-        "velocity": "54,825.54 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 15:51:00 ",
-        "diameter": "0.15-0.34 miles",
-        "distance": "29,379,566.69 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 AF165)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3740041",
-        "velocity": "7,495.60 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 17:15:00 ",
+        "cat": "06/Feb/2022 @ 08:04:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "25,425,981.51 miles",
+        "distance": "36,458,031.03 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 BR6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3798979",
-        "velocity": "30,075.22 mph"
+        "name": "Asteroid (2016 KO)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3753595",
+        "velocity": "27,920.99 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 04:42:00 ",
-        "diameter": "0.02-0.03 miles",
-        "distance": "2,335,355.53 miles",
+        "cat": "06/Feb/2022 @ 21:00:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "15,341,245.36 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 CA1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3799253",
-        "velocity": "33,843.04 mph"
+        "name": "Asteroid (2019 TK5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3878618",
+        "velocity": "12,646.73 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 02:05:00 ",
+        "cat": "06/Feb/2022 @ 18:42:00 ",
         "diameter": "0.00-0.01 miles",
-        "distance": "13,099,005.79 miles",
+        "distance": "29,620,615.94 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 BL11)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3989259",
-        "velocity": "12,660.21 mph"
+        "name": "Asteroid (2020 GO1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016473",
+        "velocity": "32,731.95 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 06:46:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "6,136,472.75 miles",
+        "cat": "06/Feb/2022 @ 23:16:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "25,019,084.00 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 GE)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016433",
-        "velocity": "3,956.61 mph"
+        "name": "Asteroid (2020 RT8)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54054404",
+        "velocity": "17,470.67 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 04:55:00 ",
-        "diameter": "0.06-0.13 miles",
-        "distance": "7,728,937.37 miles",
-        "hazardous": false,
-        "name": "Asteroid (2021 XY5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54230027",
-        "velocity": "21,245.45 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 20:29:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "2,133,203.49 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 BR6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54244177",
-        "velocity": "16,770.81 mph"
-      },
-      {
-        "cat": "05/Feb/2022 @ 23:20:00 ",
+        "cat": "06/Feb/2022 @ 02:00:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "6,746,066.94 miles",
+        "distance": "3,919,036.44 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 BS2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54240292",
-        "velocity": "16,981.27 mph"
+        "name": "Asteroid (2022 BL5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54243524",
+        "velocity": "30,757.27 mph"
       },
       {
-        "cat": "05/Feb/2022 @ 23:12:00 ",
-        "diameter": "0.19-0.43 miles",
-        "distance": "34,950,720.03 miles",
+        "cat": "06/Feb/2022 @ 18:47:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "3,385,733.72 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 BS3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54240409",
+        "velocity": "18,461.62 mph"
+      },
+      {
+        "cat": "06/Feb/2022 @ 20:33:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "1,963,719.19 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 CD)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54244187",
+        "velocity": "41,459.13 mph"
+      },
+      {
+        "cat": "06/Feb/2022 @ 00:26:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "10,159,899.25 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 CF)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54244189",
+        "velocity": "23,848.30 mph"
+      },
+      {
+        "cat": "06/Feb/2022 @ 20:09:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "1,758,824.02 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 CN)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54244529",
+        "velocity": "46,525.96 mph"
+      },
+      {
+        "cat": "06/Feb/2022 @ 08:55:00 ",
+        "diameter": "0.27-0.61 miles",
+        "distance": "10,645,784.23 miles",
         "hazardous": true,
-        "name": "Asteroid 445305 (2010 DM56)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2445305",
-        "velocity": "31,285.18 mph"
+        "name": "Asteroid 388188 (2006 DP14)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2388188",
+        "velocity": "53,135.28 mph"
+      },
+      {
+        "cat": "06/Feb/2022 @ 19:49:00 ",
+        "diameter": "0.59-1.33 miles",
+        "distance": "44,214,173.63 miles",
+        "hazardous": false,
+        "name": "Asteroid 523810 (2008 RG98)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2523810",
+        "velocity": "58,072.04 mph"
       }
     ],
-    "title": "16 objects making close approach (05/Feb/2022 PST)"
+    "title": "14 objects making close approach (06/Feb/2022 PST)"
   },
   "satview": {
     "date": "05/Feb/2022 PST",
@@ -1172,7 +1223,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Feb/2022 @ 15:00:06 PST",
+    "last_update": "05/Feb/2022 @ 16:00:36 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
