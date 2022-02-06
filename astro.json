@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Feb/2022 @ 23:00:09 PST",
+    "last_update": "06/Feb/2022 @ 00:00:03 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/bluemarble_apollo17_960.jpg",
     "title": "Blue Marble Earth (06/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "05/Feb/2022 PST",
+    "date": "06/Feb/2022 PST",
     "events": [
       {
         "category": [
@@ -269,6 +269,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gie4",
+        "location": "http://maps.google.com/maps?q=10.5879,-73.198",
+        "name": "M 5.1 - 15 km NNE of Valledupar, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gie4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gibt",
         "location": "http://maps.google.com/maps?q=-21.7695,-176.5393",
         "name": "M 5.1 - 153 km WSW of Haveluloto, Tonga",
@@ -315,6 +333,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi9j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ak0221pb6nv5",
+        "location": "http://maps.google.com/maps?q=62.7433,-148.7115",
+        "name": "M 5.2 - 73 km S of Cantwell, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0221pb6nv5"
       },
       {
         "category": [
@@ -545,11 +581,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "05/Feb/2022 @ 23:00:10 PST",
+    "last_update": "06/Feb/2022 @ 00:00:05 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=62.7433,-148.7115\"><b>M 5.2 - 73 km S of Cantwell, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0221pb6nv5\">USGS</a>",
+          62.7433,
+          -148.7115
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=10.5879,-73.198\"><b>M 5.1 - 15 km NNE of Valledupar, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gie4\">USGS</a>",
+          10.5879,
+          -73.198
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.5326,78.0715\"><b>M 4.2 - 26 km E of Sarāhan, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gidp\">USGS</a>",
           31.5326,
@@ -926,13 +972,13 @@
         ]
       ]
     },
-    "title": "29 events (05/Feb/2022 PST)"
+    "title": "31 events (06/Feb/2022 PST)"
   },
-  "last_update": "05/Feb/2022 @ 23:00:58 PST",
-  "last_update_epoch": 1644130858.687946,
+  "last_update": "06/Feb/2022 @ 00:00:49 PST",
+  "last_update_epoch": 1644134449.025198,
   "neo": {
     "date": "06/Feb/2022 PST",
-    "last_update": "05/Feb/2022 @ 23:00:11 PST",
+    "last_update": "06/Feb/2022 @ 00:00:06 PST",
     "objects": [
       {
         "cat": "06/Feb/2022 @ 12:19:00 ",
@@ -1064,7 +1110,7 @@
     "title": "14 objects making close approach (06/Feb/2022 PST)"
   },
   "satview": {
-    "date": "05/Feb/2022 PST",
+    "date": "06/Feb/2022 PST",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Feb/2022 @ 10:22:46 PST.",
@@ -1131,7 +1177,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Feb/2022 @ 23:00:11 PST",
+    "last_update": "06/Feb/2022 @ 00:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -1184,7 +1230,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhai+Zhigang"
       }
     ],
-    "title": "10 people in space (05/Feb/2022 PST)"
+    "title": "10 people in space (06/Feb/2022 PST)"
   },
   "spacex": {
     "capsules": [
@@ -2761,7 +2807,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Feb/2022 @ 23:00:20 PST",
+    "last_update": "06/Feb/2022 @ 00:00:12 PST",
     "launches": {
       "future": [
         {
@@ -14043,12 +14089,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,226,061.65 miles",
+      "earth_distance": "234,230,261.05 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "200,293,220.77 miles",
+      "mars_distance": "200,275,921.06 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,819.95 mph",
+      "speed": "4,819.54 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
