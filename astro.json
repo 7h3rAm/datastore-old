@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Feb/2022 @ 21:00:04 PST",
-    "source": "https://apod.nasa.gov/apod/image/2202/bluemarble_apollo17_960.jpg",
-    "title": "Blue Marble Earth (06/Feb/2022 PST)",
+    "last_update": "06/Feb/2022 @ 22:00:03 PST",
+    "source": "https://apod.nasa.gov/apod/image/2202/NGC4651_CFHT_960.jpg",
+    "title": "NGC 4651: The Umbrella Galaxy (07/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -99,24 +99,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gig8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gidp",
-        "location": "http://maps.google.com/maps?q=31.5326,78.0715",
-        "name": "M 4.2 - 26 km E of Sarāhan, India",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gidp"
       },
       {
         "category": [
@@ -315,6 +297,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gij9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gigi",
+        "location": "http://maps.google.com/maps?q=-29.6067,-176.5733",
+        "name": "M 4.8 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gigi"
       },
       {
         "category": [
@@ -617,7 +617,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5996"
       }
     ],
-    "last_update": "06/Feb/2022 @ 21:00:05 PST",
+    "last_update": "06/Feb/2022 @ 22:00:04 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -688,6 +688,11 @@
           -176.82
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-29.6067,-176.5733\"><b>M 4.8 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gigi\">USGS</a>",
+          -29.6067,
+          -176.5733
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=40.5313,28.9725\"><b>M 4.1 - 11 km SSW of Kocadere, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gig8\">USGS</a>",
           40.5313,
           28.9725
@@ -711,11 +716,6 @@
           "<a href=\"http://maps.google.com/maps?q=10.5879,-73.198\"><b>M 5.1 - 15 km NNE of Valledupar, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gie4\">USGS</a>",
           10.5879,
           -73.198
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.5326,78.0715\"><b>M 4.2 - 26 km E of Sarāhan, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gidp\">USGS</a>",
-          31.5326,
-          78.0715
         ]
       ],
       "Floods": [],
@@ -1020,11 +1020,11 @@
     },
     "title": "33 events (06/Feb/2022 PST)"
   },
-  "last_update": "06/Feb/2022 @ 21:00:37 PST",
-  "last_update_epoch": 1644210037.507212,
+  "last_update": "06/Feb/2022 @ 22:00:34 PST",
+  "last_update_epoch": 1644213634.66626,
   "neo": {
     "date": "07/Feb/2022 PST",
-    "last_update": "06/Feb/2022 @ 21:00:06 PST",
+    "last_update": "06/Feb/2022 @ 22:00:05 PST",
     "objects": [
       {
         "cat": "07/Feb/2022 @ 15:11:00 ",
@@ -1196,7 +1196,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Feb/2022 @ 21:00:06 PST",
+    "last_update": "06/Feb/2022 @ 22:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -2826,7 +2826,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Feb/2022 @ 21:00:12 PST",
+    "last_update": "06/Feb/2022 @ 22:00:11 PST",
     "launches": {
       "future": [
         {
@@ -14108,12 +14108,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,315,661.85 miles",
+      "earth_distance": "234,319,532.10 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "199,909,232.13 miles",
+      "mars_distance": "199,891,884.36 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,810.71 mph",
+      "speed": "4,810.29 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
