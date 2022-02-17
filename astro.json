@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Feb/2022 @ 09:00:21 PST",
+    "last_update": "17/Feb/2022 @ 10:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Chamaeleon_RobertEder1024.jpg",
     "title": "Chamaeleon I Molecular Cloud (17/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -565,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gld4",
-        "location": "http://maps.google.com/maps?q=38.964,20.5491",
-        "name": "M 4.3 - 17 km W of Préveza, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gld4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gliz",
         "location": "http://maps.google.com/maps?q=38.9399,20.4903",
         "name": "M 4.3 - 22 km WNW of Lefkáda, Greece",
@@ -647,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gleq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gln1",
+        "location": "http://maps.google.com/maps?q=-20.1396,68.1868",
+        "name": "M 4.8 - Mid-Indian Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gln1"
       },
       {
         "category": [
@@ -804,7 +804,7 @@
           }
         ],
         "eid": "EONET_6019",
-        "location": "https://www.google.com/maps/dir/-14.1,68.4/@-14.1,68.4,3z",
+        "location": "https://www.google.com/maps/dir/-14.1,68.4/-14.1,67.4/-14,65.8/-13.9,64.2/@-14.1,68.4,3z",
         "name": "Tropical Cyclone Emnati",
         "source": [
           {
@@ -981,11 +981,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "17/Feb/2022 @ 09:00:23 PST",
+    "last_update": "17/Feb/2022 @ 10:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.1396,68.1868\"><b>M 4.8 - Mid-Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gln1\">USGS</a>",
+          -20.1396,
+          68.1868
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.1776,-175.4697\"><b>M 5.3 - south of Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000glmd\">USGS</a>",
           -24.1776,
@@ -1060,11 +1065,6 @@
           "<a href=\"http://maps.google.com/maps?q=26.9394,126.527\"><b>M 4.1 - 140 km NW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gleb\">USGS</a>",
           26.9394,
           126.527
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.964,20.5491\"><b>M 4.3 - 17 km W of Préveza, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gld4\">USGS</a>",
-          38.964,
-          20.5491
         ]
       ],
       "Floods": [],
@@ -3254,6 +3254,21 @@
           68.4
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-14.1,67.4\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
+          -14.1,
+          67.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14,65.8\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
+          -14,
+          65.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-13.9,64.2\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
+          -13.9,
+          64.2
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-14.9,60.9\"><b>Tropical Cyclone Dumako</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000865&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1222.tcw\">JTWC</a>",
           -14.9,
           60.9
@@ -3384,11 +3399,11 @@
     },
     "title": "53 events (17/Feb/2022 PST)"
   },
-  "last_update": "17/Feb/2022 @ 09:01:40 PST",
-  "last_update_epoch": 1645117300.320192,
+  "last_update": "17/Feb/2022 @ 10:00:13 PST",
+  "last_update_epoch": 1645120813.593997,
   "neo": {
     "date": "17/Feb/2022 PST",
-    "last_update": "17/Feb/2022 @ 09:00:26 PST",
+    "last_update": "17/Feb/2022 @ 10:00:07 PST",
     "objects": [
       {
         "cat": "17/Feb/2022 @ 13:25:00 ",
@@ -3551,7 +3566,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Feb/2022 @ 09:00:31 PST",
+    "last_update": "17/Feb/2022 @ 10:00:08 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5181,7 +5196,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Feb/2022 @ 09:00:44 PST",
+    "last_update": "17/Feb/2022 @ 10:00:13 PST",
     "launches": {
       "future": [
         {
@@ -16463,12 +16478,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,832,163.73 miles",
+      "earth_distance": "234,832,419.81 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "195,482,376.81 miles",
+      "mars_distance": "195,464,603.74 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,704.18 mph",
+      "speed": "4,703.75 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
