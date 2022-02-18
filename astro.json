@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Feb/2022 @ 13:00:14 PST",
+    "last_update": "18/Feb/2022 @ 14:00:14 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/ThreeClustersPuppis1024.jpg",
     "title": "Three Clusters in Puppis (18/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -655,24 +655,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000glt1",
-        "location": "http://maps.google.com/maps?q=38.8449,90.5232",
-        "name": "M 4.6 - Xinjiang-Qinghai border region, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000glt1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000glyf",
         "location": "http://maps.google.com/maps?q=-59.8322,149.2968",
         "name": "M 4.9 - west of Macquarie Island",
@@ -737,24 +719,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000glug"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gltf",
-        "location": "http://maps.google.com/maps?q=-30.3992,-178.595",
-        "name": "M 5.5 - Kermadec Islands, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gltf"
       },
       {
         "category": [
@@ -999,7 +963,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "18/Feb/2022 @ 13:00:21 PST",
+    "last_update": "18/Feb/2022 @ 14:00:18 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1063,16 +1027,6 @@
           "<a href=\"http://maps.google.com/maps?q=12.7876,-88.2957\"><b>M 5.2 - 50 km SSW of Chirilagua, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000glug\">USGS</a>",
           12.7876,
           -88.2957
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.3992,-178.595\"><b>M 5.5 - Kermadec Islands, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gltf\">USGS</a>",
-          -30.3992,
-          -178.595
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.8449,90.5232\"><b>M 4.6 - Xinjiang-Qinghai border region, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000glt1\">USGS</a>",
-          38.8449,
-          90.5232
         ]
       ],
       "Floods": [],
@@ -3440,13 +3394,13 @@
         ]
       ]
     },
-    "title": "54 events (18/Feb/2022 PST)"
+    "title": "52 events (18/Feb/2022 PST)"
   },
-  "last_update": "18/Feb/2022 @ 13:02:34 PST",
-  "last_update_epoch": 1645218154.036612,
+  "last_update": "18/Feb/2022 @ 14:00:24 PST",
+  "last_update_epoch": 1645221624.270678,
   "neo": {
     "date": "18/Feb/2022 PST",
-    "last_update": "18/Feb/2022 @ 13:00:28 PST",
+    "last_update": "18/Feb/2022 @ 14:00:22 PST",
     "objects": [
       {
         "cat": "18/Feb/2022 @ 08:35:00 ",
@@ -3627,7 +3581,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Feb/2022 @ 13:00:31 PST",
+    "last_update": "18/Feb/2022 @ 14:00:24 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
