@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Feb/2022 @ 12:00:04 PST",
+    "last_update": "18/Feb/2022 @ 13:00:14 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/ThreeClustersPuppis1024.jpg",
     "title": "Three Clusters in Puppis (18/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -999,7 +999,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "18/Feb/2022 @ 12:00:07 PST",
+    "last_update": "18/Feb/2022 @ 13:00:21 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3442,11 +3442,11 @@
     },
     "title": "54 events (18/Feb/2022 PST)"
   },
-  "last_update": "18/Feb/2022 @ 12:01:01 PST",
-  "last_update_epoch": 1645214461.996685,
+  "last_update": "18/Feb/2022 @ 13:00:28 PST",
+  "last_update_epoch": 1645218028.456941,
   "neo": {
     "date": "18/Feb/2022 PST",
-    "last_update": "18/Feb/2022 @ 12:00:12 PST",
+    "last_update": "18/Feb/2022 @ 13:00:28 PST",
     "objects": [
       {
         "cat": "18/Feb/2022 @ 08:35:00 ",
