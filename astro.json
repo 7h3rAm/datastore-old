@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Feb/2022 @ 05:00:04 PST",
+    "last_update": "18/Feb/2022 @ 06:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/ThreeClustersPuppis1024.jpg",
     "title": "Three Clusters in Puppis (18/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3432,8 +3432,8 @@
     },
     "title": "54 events (18/Feb/2022 PST)"
   },
-  "last_update": "18/Feb/2022 @ 05:00:51 PST",
-  "last_update_epoch": 1645189251.159622,
+  "last_update": "18/Feb/2022 @ 06:00:04 PST",
+  "last_update_epoch": 1645192804.50613,
   "neo": {
     "date": "18/Feb/2022 PST",
     "last_update": "18/Feb/2022 @ 05:00:06 PST",
