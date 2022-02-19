@@ -3429,8 +3429,8 @@
     },
     "title": "53 events (19/Feb/2022 PST)"
   },
-  "last_update": "19/Feb/2022 @ 00:00:17 PST",
-  "last_update_epoch": 1645257617.202844,
+  "last_update": "19/Feb/2022 @ 00:01:02 PST",
+  "last_update_epoch": 1645257662.458823,
   "neo": {
     "date": "19/Feb/2022 PST",
     "last_update": "19/Feb/2022 @ 00:00:09 PST",
@@ -3592,7 +3592,7 @@
     "title": "17 objects making close approach (19/Feb/2022 PST)"
   },
   "satview": {
-    "date": "18/Feb/2022 PST",
+    "date": "19/Feb/2022 PST",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 17/Feb/2022 @ 11:52:08 PST.",
