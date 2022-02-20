@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Feb/2022 @ 13:00:04 PST",
+    "last_update": "20/Feb/2022 @ 14:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/geyseraurora_howell_960.jpg",
     "title": "Aurora Over White Dome Geyser (20/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -587,9 +587,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmer",
+        "location": "http://maps.google.com/maps?q=36.4763,70.6878",
+        "name": "M 4.3 - 45 km SSW of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmer"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmgp",
         "location": "http://maps.google.com/maps?q=6.8842,-73.0814",
-        "name": "M 4.3 - 11 km SSW of Piedecuesta, Colombia",
+        "name": "M 4.3 - northern Colombia",
         "source": [
           {
             "sid": "USGS",
@@ -605,16 +623,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gmer",
-        "location": "http://maps.google.com/maps?q=36.4763,70.6878",
-        "name": "M 4.3 - 45 km SSW of Jurm, Afghanistan",
+        "eid": "us7000gmhr",
+        "location": "http://maps.google.com/maps?q=40.7722,27.3881",
+        "name": "M 4.4 - 13 km SSW of Kumbağ, Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmer"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhr"
       },
       {
         "category": [
@@ -731,6 +749,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmi1",
+        "location": "http://maps.google.com/maps?q=-38.2937,176.2057",
+        "name": "M 4.5 - North Island of New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmgf",
         "location": "http://maps.google.com/maps?q=-43.0601,173.4077",
         "name": "M 4.6 - 56 km E of Amberley, New Zealand",
@@ -839,6 +875,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmhi",
+        "location": "http://maps.google.com/maps?q=6.0307,126.5857",
+        "name": "M 4.7 - Mindanao, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmgn",
         "location": "http://maps.google.com/maps?q=-4.1426,153.7731",
         "name": "M 4.8 - 168 km E of Kokopo, Papua New Guinea",
@@ -911,6 +965,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmi3",
+        "location": "http://maps.google.com/maps?q=5.9967,126.6264",
+        "name": "M 5.0 - 63 km SE of Pondaguitan, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmez",
         "location": "http://maps.google.com/maps?q=-18.4339,-71.2312",
         "name": "M 5.1 - 88 km S of Pacocha, Peru",
@@ -949,7 +1021,7 @@
         ],
         "eid": "us7000gmgl",
         "location": "http://maps.google.com/maps?q=6.0101,126.6629",
-        "name": "M 5.6 - Mindanao, Philippines",
+        "name": "M 5.6 - 66 km SE of Pondaguitan, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -1183,15 +1255,35 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "20/Feb/2022 @ 13:00:06 PST",
+    "last_update": "20/Feb/2022 @ 14:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=5.9967,126.6264\"><b>M 5.0 - 63 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi3\">USGS</a>",
+          5.9967,
+          126.6264
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.2937,176.2057\"><b>M 4.5 - North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi1\">USGS</a>",
+          -38.2937,
+          176.2057
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=6.0541,126.6686\"><b>M 4.8 - 64 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmht\">USGS</a>",
           6.0541,
           126.6686
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.7722,27.3881\"><b>M 4.4 - 13 km SSW of Kumbağ, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhr\">USGS</a>",
+          40.7722,
+          27.3881
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.0307,126.5857\"><b>M 4.7 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhi\">USGS</a>",
+          6.0307,
+          126.5857
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=5.9912,126.471\"><b>M 4.4 - 52 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmh7\">USGS</a>",
@@ -1199,7 +1291,7 @@
           126.471
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.8842,-73.0814\"><b>M 4.3 - 11 km SSW of Piedecuesta, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.8842,-73.0814\"><b>M 4.3 - northern Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp\">USGS</a>",
           6.8842,
           -73.0814
         ],
@@ -1209,7 +1301,7 @@
           152.5369
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.0101,126.6629\"><b>M 5.6 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgl\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.0101,126.6629\"><b>M 5.6 - 66 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgl\">USGS</a>",
           6.0101,
           126.6629
         ],
@@ -3744,13 +3836,13 @@
         ]
       ]
     },
-    "title": "64 events (20/Feb/2022 PST)"
+    "title": "68 events (20/Feb/2022 PST)"
   },
-  "last_update": "20/Feb/2022 @ 13:00:47 PST",
-  "last_update_epoch": 1645390847.689811,
+  "last_update": "20/Feb/2022 @ 14:00:40 PST",
+  "last_update_epoch": 1645394440.464244,
   "neo": {
     "date": "20/Feb/2022 PST",
-    "last_update": "20/Feb/2022 @ 13:00:11 PST",
+    "last_update": "20/Feb/2022 @ 14:00:06 PST",
     "objects": [
       {
         "cat": "20/Feb/2022 @ 06:42:00 ",
@@ -3967,7 +4059,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Feb/2022 @ 13:00:11 PST",
+    "last_update": "20/Feb/2022 @ 14:00:06 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5597,7 +5689,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Feb/2022 @ 13:00:19 PST",
+    "last_update": "20/Feb/2022 @ 14:00:13 PST",
     "launches": {
       "future": [
         {
@@ -16879,12 +16971,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,812,172.81 miles",
+      "earth_distance": "234,811,379.03 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "194,128,397.41 miles",
+      "mars_distance": "194,110,542.09 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,671.60 mph",
+      "speed": "4,671.17 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
