@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Feb/2022 @ 09:00:12 PST",
+    "last_update": "21/Feb/2022 @ 10:00:08 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Ngc6217_Hubble_960.jpg",
     "title": "Barred Spiral Galaxy NGC 6217 (21/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -587,6 +587,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmlm",
+        "location": "http://maps.google.com/maps?q=56.0653,-149.2269",
+        "name": "M 4.2 - 253 km SE of Chiniak, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmlm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmkg",
         "location": "http://maps.google.com/maps?q=36.7126,71.4353",
         "name": "M 4.2 - 9 km WNW of Ashkāsham, Afghanistan",
@@ -623,42 +641,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gmlm",
-        "location": "http://maps.google.com/maps?q=56.0653,-149.2269",
-        "name": "M 4.2 - Gulf of Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmlm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gmgp",
-        "location": "http://maps.google.com/maps?q=6.8842,-73.0814",
-        "name": "M 4.3 - 11 km SSW of Piedecuesta, Colombia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gmm2",
         "location": "http://maps.google.com/maps?q=-20.7358,-68.8876",
         "name": "M 4.3 - 143 km ESE of Iquique, Chile",
@@ -687,6 +669,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmld"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gmgp",
+        "location": "http://maps.google.com/maps?q=6.8842,-73.0814",
+        "name": "M 4.3 - northern Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp"
       },
       {
         "category": [
@@ -777,6 +777,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gmp3",
+        "location": "http://maps.google.com/maps?q=43.2015,145.3091",
+        "name": "M 4.5 - 25 km WSW of Nemuro, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmp3"
       },
       {
         "category": [
@@ -895,7 +913,7 @@
         ],
         "eid": "us7000gmhi",
         "location": "http://maps.google.com/maps?q=6.0307,126.5857",
-        "name": "M 4.7 - 58 km SE of Pondaguitan, Philippines",
+        "name": "M 4.7 - Mindanao, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -975,6 +993,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmht"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gmns",
+        "location": "http://maps.google.com/maps?q=-8.0817,120.765",
+        "name": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmns"
       },
       {
         "category": [
@@ -1111,7 +1147,7 @@
         ],
         "eid": "us7000gmi3",
         "location": "http://maps.google.com/maps?q=5.9957,126.5786",
-        "name": "M 5.2 - Mindanao, Philippines",
+        "name": "M 5.2 - 60 km SE of Pondaguitan, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -1164,8 +1200,8 @@
           }
         ],
         "eid": "us7000gmnq",
-        "location": "http://maps.google.com/maps?q=-8.0884,120.7922",
-        "name": "M 5.4 - 68 km NNE of Ruteng, Indonesia",
+        "location": "http://maps.google.com/maps?q=-8.1051,120.7754",
+        "name": "M 5.5 - 65 km NNE of Ruteng, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -1183,7 +1219,7 @@
         ],
         "eid": "us7000gmgl",
         "location": "http://maps.google.com/maps?q=6.0101,126.6629",
-        "name": "M 5.6 - Mindanao, Philippines",
+        "name": "M 5.6 - 66 km SE of Pondaguitan, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -1413,20 +1449,30 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "21/Feb/2022 @ 09:00:16 PST",
+    "last_update": "21/Feb/2022 @ 10:00:10 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=43.2015,145.3091\"><b>M 4.5 - 25 km WSW of Nemuro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmp3\">USGS</a>",
+          43.2015,
+          145.3091
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.0817,120.765\"><b>M 4.8 - 67 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmns\">USGS</a>",
+          -8.0817,
+          120.765
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.538,70.8793\"><b>M 4.0 - 36 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnr\">USGS</a>",
           36.538,
           70.8793
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0884,120.7922\"><b>M 5.4 - 68 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnq\">USGS</a>",
-          -8.0884,
-          120.7922
+          "<a href=\"http://maps.google.com/maps?q=-8.1051,120.7754\"><b>M 5.5 - 65 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnq\">USGS</a>",
+          -8.1051,
+          120.7754
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.1117,-177.2846\"><b>M 4.4 - 244 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnf\">USGS</a>",
@@ -1469,7 +1515,7 @@
           144.4828
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.0653,-149.2269\"><b>M 4.2 - Gulf of Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmlm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.0653,-149.2269\"><b>M 4.2 - 253 km SE of Chiniak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmlm\">USGS</a>",
           56.0653,
           -149.2269
         ],
@@ -1554,7 +1600,7 @@
           137.2208
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.9957,126.5786\"><b>M 5.2 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi3\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.9957,126.5786\"><b>M 5.2 - 60 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmi3\">USGS</a>",
           5.9957,
           126.5786
         ],
@@ -1574,7 +1620,7 @@
           27.3881
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.0307,126.5857\"><b>M 4.7 - 58 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhi\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.0307,126.5857\"><b>M 4.7 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmhi\">USGS</a>",
           6.0307,
           126.5857
         ],
@@ -1584,7 +1630,7 @@
           126.471
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.8842,-73.0814\"><b>M 4.3 - 11 km SSW of Piedecuesta, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.8842,-73.0814\"><b>M 4.3 - northern Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgp\">USGS</a>",
           6.8842,
           -73.0814
         ],
@@ -1594,7 +1640,7 @@
           152.5369
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.0101,126.6629\"><b>M 5.6 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgl\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.0101,126.6629\"><b>M 5.6 - 66 km SE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgl\">USGS</a>",
           6.0101,
           126.6629
         ],
@@ -4009,13 +4055,13 @@
         ]
       ]
     },
-    "title": "77 events (21/Feb/2022 PST)"
+    "title": "79 events (21/Feb/2022 PST)"
   },
-  "last_update": "21/Feb/2022 @ 09:01:01 PST",
-  "last_update_epoch": 1645462861.408071,
+  "last_update": "21/Feb/2022 @ 10:00:43 PST",
+  "last_update_epoch": 1645466443.051381,
   "neo": {
     "date": "21/Feb/2022 PST",
-    "last_update": "21/Feb/2022 @ 09:00:18 PST",
+    "last_update": "21/Feb/2022 @ 10:00:11 PST",
     "objects": [
       {
         "cat": "21/Feb/2022 @ 11:46:00 ",
@@ -4169,7 +4215,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Feb/2022 @ 09:00:18 PST",
+    "last_update": "21/Feb/2022 @ 10:00:11 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5799,7 +5845,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Feb/2022 @ 09:00:24 PST",
+    "last_update": "21/Feb/2022 @ 10:00:17 PST",
     "launches": {
       "future": [
         {
@@ -17081,12 +17127,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,793,512.17 miles",
+      "earth_distance": "234,792,441.69 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "193,768,139.63 miles",
+      "mars_distance": "193,750,266.28 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,662.93 mph",
+      "speed": "4,662.50 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
