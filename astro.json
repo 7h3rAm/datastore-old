@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Feb/2022 @ 08:00:09 PST",
+    "last_update": "21/Feb/2022 @ 09:00:12 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Ngc6217_Hubble_960.jpg",
     "title": "Barred Spiral Galaxy NGC 6217 (21/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -569,6 +569,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmnr",
+        "location": "http://maps.google.com/maps?q=36.538,70.8793",
+        "name": "M 4.0 - 36 km S of Jurm, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmkg",
         "location": "http://maps.google.com/maps?q=36.7126,71.4353",
         "name": "M 4.2 - 9 km WNW of Ashkāsham, Afghanistan",
@@ -695,6 +713,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmnf",
+        "location": "http://maps.google.com/maps?q=-20.1117,-177.2846",
+        "name": "M 4.4 - 244 km WNW of Haveluloto, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnf"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmh7",
         "location": "http://maps.google.com/maps?q=5.9912,126.471",
         "name": "M 4.4 - 52 km SE of Pondaguitan, Philippines",
@@ -813,24 +849,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmj0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gmgf",
-        "location": "http://maps.google.com/maps?q=-43.0601,173.4077",
-        "name": "M 4.6 - 56 km E of Amberley, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgf"
       },
       {
         "category": [
@@ -1145,6 +1163,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gmnq",
+        "location": "http://maps.google.com/maps?q=-8.0884,120.7922",
+        "name": "M 5.4 - 68 km NNE of Ruteng, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmgl",
         "location": "http://maps.google.com/maps?q=6.0101,126.6629",
         "name": "M 5.6 - Mindanao, Philippines",
@@ -1377,11 +1413,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "21/Feb/2022 @ 08:00:12 PST",
+    "last_update": "21/Feb/2022 @ 09:00:16 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.538,70.8793\"><b>M 4.0 - 36 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnr\">USGS</a>",
+          36.538,
+          70.8793
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-8.0884,120.7922\"><b>M 5.4 - 68 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnq\">USGS</a>",
+          -8.0884,
+          120.7922
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.1117,-177.2846\"><b>M 4.4 - 244 km WNW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmnf\">USGS</a>",
+          -20.1117,
+          -177.2846
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-8.129,120.7815\"><b>M 4.8 - 63 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmna\">USGS</a>",
           -8.129,
@@ -1551,11 +1602,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.1426,153.7731\"><b>M 4.8 - 168 km E of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgn\">USGS</a>",
           -4.1426,
           153.7731
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-43.0601,173.4077\"><b>M 4.6 - 56 km E of Amberley, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmgf\">USGS</a>",
-          -43.0601,
-          173.4077
         ]
       ],
       "Floods": [],
@@ -3963,13 +4009,13 @@
         ]
       ]
     },
-    "title": "75 events (21/Feb/2022 PST)"
+    "title": "77 events (21/Feb/2022 PST)"
   },
-  "last_update": "21/Feb/2022 @ 08:00:56 PST",
-  "last_update_epoch": 1645459256.666407,
+  "last_update": "21/Feb/2022 @ 09:00:18 PST",
+  "last_update_epoch": 1645462818.525039,
   "neo": {
     "date": "21/Feb/2022 PST",
-    "last_update": "21/Feb/2022 @ 08:00:13 PST",
+    "last_update": "21/Feb/2022 @ 09:00:18 PST",
     "objects": [
       {
         "cat": "21/Feb/2022 @ 11:46:00 ",
@@ -4123,7 +4169,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Feb/2022 @ 08:00:14 PST",
+    "last_update": "21/Feb/2022 @ 09:00:18 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
