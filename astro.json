@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Feb/2022 @ 02:00:03 PST",
+    "last_update": "21/Feb/2022 @ 03:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Ngc6217_Hubble_960.jpg",
     "title": "Barred Spiral Galaxy NGC 6217 (21/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -569,24 +569,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gmee",
-        "location": "http://maps.google.com/maps?q=-21.1738,-68.6072",
-        "name": "M 4.2 - 145 km NNE of Calama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmee"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "ak0222cjwd3a",
         "location": "http://maps.google.com/maps?q=61.7987,-151.7999",
         "name": "M 4.2 - 30 km SW of Skwentna, Alaska",
@@ -597,6 +579,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0222cjwd3a"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gmkg",
+        "location": "http://maps.google.com/maps?q=36.7126,71.4353",
+        "name": "M 4.2 - 9 km WNW of Ashkāsham, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmkg"
       },
       {
         "category": [
@@ -803,24 +803,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000gmek",
-        "location": "http://maps.google.com/maps?q=23.8919,122.5565",
-        "name": "M 4.5 - 77 km SW of Yonakuni, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmek"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000gmj0",
         "location": "http://maps.google.com/maps?q=36.1968,140.9258",
         "name": "M 4.6 - 33 km ESE of Ōarai, Japan",
@@ -993,6 +975,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmht"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000gmln",
+        "location": "http://maps.google.com/maps?q=-5.6728,154.4857",
+        "name": "M 4.9 - 131 km WNW of Panguna, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmln"
       },
       {
         "category": [
@@ -1377,11 +1377,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "21/Feb/2022 @ 02:00:05 PST",
+    "last_update": "21/Feb/2022 @ 03:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.6728,154.4857\"><b>M 4.9 - 131 km WNW of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmln\">USGS</a>",
+          -5.6728,
+          154.4857
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.8255,-177.7554\"><b>M 4.3 - 266 km W of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmld\">USGS</a>",
           -20.8255,
@@ -1401,6 +1406,11 @@
           "<a href=\"http://maps.google.com/maps?q=13.6001,120.8971\"><b>M 5.3 - 7 km SSE of Tingloy, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmkz\">USGS</a>",
           13.6001,
           120.8971
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.7126,71.4353\"><b>M 4.2 - 9 km WNW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmkg\">USGS</a>",
+          36.7126,
+          71.4353
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=59.8892,-152.3052\"><b>M 4.0 - 29 km WNW of Anchor Point, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0222e2294h\">USGS</a>",
@@ -1546,16 +1556,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.4763,70.6878\"><b>M 4.3 - 45 km SSW of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmer\">USGS</a>",
           36.4763,
           70.6878
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23.8919,122.5565\"><b>M 4.5 - 77 km SW of Yonakuni, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmek\">USGS</a>",
-          23.8919,
-          122.5565
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.1738,-68.6072\"><b>M 4.2 - 145 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmee\">USGS</a>",
-          -21.1738,
-          -68.6072
         ]
       ],
       "Floods": [],
@@ -3955,11 +3955,11 @@
     },
     "title": "75 events (21/Feb/2022 PST)"
   },
-  "last_update": "21/Feb/2022 @ 02:00:42 PST",
-  "last_update_epoch": 1645437642.779769,
+  "last_update": "21/Feb/2022 @ 03:00:16 PST",
+  "last_update_epoch": 1645441216.565376,
   "neo": {
     "date": "21/Feb/2022 PST",
-    "last_update": "21/Feb/2022 @ 02:00:08 PST",
+    "last_update": "21/Feb/2022 @ 03:00:08 PST",
     "objects": [
       {
         "cat": "21/Feb/2022 @ 11:46:00 ",
@@ -4113,7 +4113,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Feb/2022 @ 02:00:08 PST",
+    "last_update": "21/Feb/2022 @ 03:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5743,7 +5743,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Feb/2022 @ 02:00:15 PST",
+    "last_update": "21/Feb/2022 @ 03:00:16 PST",
     "launches": {
       "future": [
         {
@@ -17025,12 +17025,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,800,621.67 miles",
+      "earth_distance": "234,799,647.16 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "193,893,228.90 miles",
+      "mars_distance": "193,875,361.62 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,665.94 mph",
+      "speed": "4,665.51 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
