@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Feb/2022 @ 17:00:05 PST",
+    "last_update": "21/Feb/2022 @ 18:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Ngc6217_Hubble_960.jpg",
     "title": "Barred Spiral Galaxy NGC 6217 (21/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3942,8 +3942,8 @@
     },
     "title": "74 events (21/Feb/2022 PST)"
   },
-  "last_update": "21/Feb/2022 @ 17:00:05 PST",
-  "last_update_epoch": 1645491605.458305,
+  "last_update": "21/Feb/2022 @ 18:00:05 PST",
+  "last_update_epoch": 1645495205.244732,
   "neo": {
     "date": "21/Feb/2022 PST",
     "last_update": "21/Feb/2022 @ 13:00:09 PST",
