@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Feb/2022 @ 10:00:04 PST",
+    "last_update": "22/Feb/2022 @ 11:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Quasar_EsoKormesser_1080.jpg",
     "title": "Illustration: An Early Quasar (22/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3942,8 +3942,8 @@
     },
     "title": "74 events (21/Feb/2022 PST)"
   },
-  "last_update": "22/Feb/2022 @ 10:00:04 PST",
-  "last_update_epoch": 1645552804.795499,
+  "last_update": "22/Feb/2022 @ 11:00:05 PST",
+  "last_update_epoch": 1645556405.382243,
   "neo": {
     "date": "21/Feb/2022 PST",
     "last_update": "21/Feb/2022 @ 13:00:09 PST",
