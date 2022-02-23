@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Feb/2022 @ 15:00:04 PST",
+    "last_update": "22/Feb/2022 @ 16:00:20 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/Quasar_EsoKormesser_1080.jpg",
     "title": "Illustration: An Early Quasar (22/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -767,6 +767,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000gn2w",
+        "location": "http://maps.google.com/maps?q=14.6034,54.7638",
+        "name": "M 4.7 - 230 km NNE of Hadibu, Yemen",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gn2w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000gmw7",
         "location": "http://maps.google.com/maps?q=-8.105,120.6904",
         "name": "M 4.7 - 61 km NNE of Ruteng, Indonesia",
@@ -853,24 +871,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000gmtt",
-        "location": "http://maps.google.com/maps?q=-69.7601,165.4321",
-        "name": "M 6.3 - Balleny Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmtt"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -912,7 +912,7 @@
           }
         ],
         "eid": "EONET_6019",
-        "location": "https://www.google.com/maps/dir/-14.1,68.4/-14.1,67.4/-14,65.8/-13.9,64.2/-13.7,63.7/-13.4,63/-14,62.1/-14.4,61.3/-15.4,60.4/-16,59.5/-16,58.8/-16.4,58.1/-16.9,57.1/-17.1,56.6/-17.2,55.9/-17.6,55.2/-17.6,54.6/-17.6,54/-17.9,53.5/-18.2,52.7/-18.5,52.1/-19.1,51.2/-19.8,50.3/@-14.1,68.4,3z",
+        "location": "https://www.google.com/maps/dir/-14.1,68.4/-14.1,67.4/-14,65.8/-13.9,64.2/-13.7,63.7/-13.4,63/-14,62.1/-14.4,61.3/-15.4,60.4/-16,59.5/-16,58.8/-16.4,58.1/-16.9,57.1/-17.1,56.6/-17.2,55.9/-17.6,55.2/-17.6,54.6/-17.6,54/-17.9,53.5/-18.2,52.7/-18.5,52.1/-19.1,51.2/-19.8,50.3/-20.8,49.5/-21.6,48.8/@-14.1,68.4,3z",
         "name": "Tropical Cyclone Emnati",
         "source": [
           {
@@ -1071,11 +1071,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001"
       }
     ],
-    "last_update": "22/Feb/2022 @ 15:00:09 PST",
+    "last_update": "22/Feb/2022 @ 16:00:22 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.6034,54.7638\"><b>M 4.7 - 230 km NNE of Hadibu, Yemen</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gn2w\">USGS</a>",
+          14.6034,
+          54.7638
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-25.8571,-70.3994\"><b>M 4.5 - 50 km S of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gn1x\">USGS</a>",
           -25.8571,
@@ -1160,11 +1165,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.4023,-80.6624\"><b>M 4.4 - 73 km WNW of Mórrope, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmuw\">USGS</a>",
           -6.4023,
           -80.6624
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-69.7601,165.4321\"><b>M 6.3 - Balleny Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmtt\">USGS</a>",
-          -69.7601,
-          165.4321
         ]
       ],
       "Floods": [],
@@ -3507,6 +3507,16 @@
           "<a href=\"http://maps.google.com/maps?q=-19.8,50.3\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
           -19.8,
           50.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.8,49.5\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
+          -20.8,
+          49.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.6,48.8\"><b>Tropical Cyclone Emnati</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1322.tcw\">JTWC</a>",
+          -21.6,
+          48.8
         ]
       ],
       "Snow": [],
@@ -3594,8 +3604,8 @@
     },
     "title": "58 events (22/Feb/2022 PST)"
   },
-  "last_update": "22/Feb/2022 @ 15:00:40 PST",
-  "last_update_epoch": 1645570840.05619,
+  "last_update": "22/Feb/2022 @ 16:00:22 PST",
+  "last_update_epoch": 1645574422.968977,
   "neo": {
     "date": "22/Feb/2022 PST",
     "last_update": "22/Feb/2022 @ 15:00:12 PST",
