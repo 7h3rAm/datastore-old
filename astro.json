@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Feb/2022 @ 15:00:04 PST",
+    "last_update": "24/Feb/2022 @ 16:00:31 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg",
     "title": "Beautiful Albireo AB (24/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3473,8 +3473,8 @@
     },
     "title": "51 events (24/Feb/2022 PST)"
   },
-  "last_update": "24/Feb/2022 @ 15:00:45 PST",
-  "last_update_epoch": 1645743645.025629,
+  "last_update": "24/Feb/2022 @ 16:00:31 PST",
+  "last_update_epoch": 1645747231.235732,
   "neo": {
     "date": "24/Feb/2022 PST",
     "last_update": "24/Feb/2022 @ 15:00:07 PST",
