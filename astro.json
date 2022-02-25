@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Feb/2022 @ 16:00:31 PST",
+    "last_update": "24/Feb/2022 @ 17:00:05 PST",
     "source": "https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg",
     "title": "Beautiful Albireo AB (24/Feb/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -587,6 +587,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000gzxm",
+        "location": "http://maps.google.com/maps?q=38.1917,140.5113",
+        "name": "M 4.4 - 13 km ESE of Yamagata, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzxm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000gzva",
         "location": "http://maps.google.com/maps?q=-7.3192,28.1306",
         "name": "M 4.4 - Democratic Republic of the Congo",
@@ -633,6 +651,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gztx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000gzxs",
+        "location": "http://maps.google.com/maps?q=36.4759,70.3699",
+        "name": "M 4.6 - 47 km ESE of Farkhār, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzxs"
       },
       {
         "category": [
@@ -981,11 +1017,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6006"
       }
     ],
-    "last_update": "24/Feb/2022 @ 16:01:00 PST",
+    "last_update": "24/Feb/2022 @ 17:00:07 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.4759,70.3699\"><b>M 4.6 - 47 km ESE of Farkhār, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzxs\">USGS</a>",
+          36.4759,
+          70.3699
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.1917,140.5113\"><b>M 4.4 - 13 km ESE of Yamagata, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzxm\">USGS</a>",
+          38.1917,
+          140.5113
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.712,22.1232\"><b>M 4.1 - 10 km NE of Grizáno, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000gzxa\">USGS</a>",
           39.712,
@@ -3527,13 +3573,13 @@
         ]
       ]
     },
-    "title": "53 events (24/Feb/2022 PST)"
+    "title": "55 events (24/Feb/2022 PST)"
   },
-  "last_update": "24/Feb/2022 @ 16:03:20 PST",
-  "last_update_epoch": 1645747400.972331,
+  "last_update": "24/Feb/2022 @ 17:00:17 PST",
+  "last_update_epoch": 1645750817.069206,
   "neo": {
     "date": "25/Feb/2022 PST",
-    "last_update": "24/Feb/2022 @ 16:01:03 PST",
+    "last_update": "24/Feb/2022 @ 17:00:09 PST",
     "objects": [
       {
         "cat": "25/Feb/2022 @ 19:51:00 ",
@@ -3705,7 +3751,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Feb/2022 @ 16:01:03 PST",
+    "last_update": "24/Feb/2022 @ 17:00:09 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5335,7 +5381,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Feb/2022 @ 16:01:25 PST",
+    "last_update": "24/Feb/2022 @ 17:00:17 PST",
     "launches": {
       "future": [
         {
@@ -16617,12 +16663,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "234,666,803.20 miles",
+      "earth_distance": "234,665,012.44 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "192,353,837.00 miles",
+      "mars_distance": "192,338,896.83 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,628.90 mph",
+      "speed": "4,628.54 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
